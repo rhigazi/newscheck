@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>332 · Steve Nison - The Man Who Introduced Candlestick Charting to the West</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.7;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #222;
+            background-color: #f4f6f8;
+        }
+        header {
+            position: sticky;
+            top: 10px;
+            background: #ffffff;
+            padding: 15px 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            margin-bottom: 25px;
+            z-index: 1000;
+        }
+        h1 {
+            font-size: 1.3rem;
+            margin: 0 0 12px 0;
+            color: #0088cc;
+            word-wrap: break-word;
+        }
+        .controls {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        button {
+            background-color: #0088cc;
+            color: white;
+            border: none;
+            padding: 10px 16px;
+            font-size: 0.95rem;
+            font-weight: bold;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        button:hover {
+            background-color: #006699;
+        }
+        button.stop {
+            background-color: #d9534f;
+        }
+        button.stop:hover {
+            background-color: #c9302c;
+        }
+        main {
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        article p {
+            margin-bottom: 1.2em;
+            font-size: 1.05rem;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>🎙️ 332 · Steve Nison - The Man Who Introduced Candlestick Charting to the West</h1>
+        <div class="controls" aria-label="Audio-Steuerung">
+            <button onclick="playAudio()">▶️ Vorlesen</button>
+            <button onclick="pauseAudio()">⏸️ Pause</button>
+            <button class="stop" onclick="stopAudio()">⏹️ Stopp</button>
+        </div>
+    </header>
+
+    <main>
+        <article id="transcript-content">
+        <p>What would your trading look like if capital wasn&#x27;t the constraint?</p>
+        <p>That&#x27;s the reality for most traders.</p>
+        <p>It&#x27;s not skill holding them back, it&#x27;s size.</p>
+        <p>Trade the Pool changes that.</p>
+        <p>Step into the U.S. equity markets with up to $200,000 in buying power without committing your own capital.</p>
+        <p>Full access to stocks and ETFs, long or short.</p>
+        <p>Executed with the precision and freedom serious traders expect.</p>
+        <p>Your performance is measured by one standard.</p>
+        <p>Disciplined risk management and consistent execution.</p>
+        <p>Meet that standard and you operate at scale.</p>
+        <p>No subscriptions, no ongoing obligations, just a clear path forward.</p>
+        <p>For those ready to trade beyond limitations, this is the next level.</p>
+        <p>Trading in the financial markets involves a risk of loss.</p>
+        <p>Podcast episodes and other content produced by Chat with Traders are for informational or educational purposes only</p>
+        <p>and do not constitute trading or investment recommendations or advice.</p>
+        <p>This episode is brought to you by PayPal.</p>
+        <p>You know how a mom&#x27;s bag has everything?</p>
+        <p>Dating?</p>
+        <p>Sunscreen?</p>
+        <p>Snacks?</p>
+        <p>A stapler?</p>
+        <p>The new PayPal app is like that, but for your money.</p>
+        <p>Shop, pay, manage your account, and earn rewards all in one place.</p>
+        <p>And with purchase protection on eligible items, biometric security, and pass keys, you&#x27;re protected at every step.</p>
+        <p>Download the new PayPal app to get started.</p>
+        <p>See paypal.com slash protection terms.</p>
+        <p>I was at one of the firms and it was a Japanese broker.</p>
+        <p>And, you know, we would exchange ideas.</p>
+        <p>And she had a chart book on her desk and they were all in candlesticks.</p>
+        <p>And obviously I never saw those before.</p>
+        <p>So I said, what&#x27;s this?</p>
+        <p>And she said, oh, this traditional form of charting, candlestick, candlestick analysis.</p>
+        <p>We&#x27;ve been using in Japan before 1900.</p>
+        <p>I said, you&#x27;re kidding me.</p>
+        <p>And back then the only charting service that had candlesticks was Bloomberg.</p>
+        <p>And the reason for that was because of their Japanese clients.</p>
+        <p>When I understood the candlesticks a little bit more is I would make the recommendations basically based on candles.</p>
+        <p>But I didn&#x27;t tell them that.</p>
+        <p>You didn&#x27;t tell them.</p>
+        <p>It was a secret.</p>
+        <p>And I read you had the highest performing track record, right?</p>
+        <p>Right.</p>
+        <p>Utilizing the candlesticks.</p>
+        <p>Yeah.</p>
+        <p>So that gave me the financial incentive to continue spending the money on it and the drive, you know, without appearing too big an ego.</p>
+        <p>But I&#x27;m thinking maybe my technical analysis book is probably the most important one in the world.</p>
+        <p>Only because of the universality of everybody&#x27;s using candlesticks.</p>
+        <p>Some people use moving averages.</p>
+        <p>Some people use trend lines.</p>
+        <p>Some people use Bollinger bands.</p>
+        <p>But everybody uses, you know, candlestick charts.</p>
+        <p>When you open a chart today and you see the candlesticks, I mean, what goes through your mind?</p>
+        <p>I think it&#x27;s pretty cool.</p>
+        <p>I mean, I was at a car service and the guy was trading.</p>
+        <p>And I said, you know those charts?</p>
+        <p>You know, he said, yeah.</p>
+        <p>I said, I&#x27;m the reason for that.</p>
+        <p>He said, whoa.</p>
+        <p>Markets, speculation and risk.</p>
+        <p>This is the Chat with Traders podcast.</p>
+        <p>Welcome to another exciting episode of Chat with Traders.</p>
+        <p>I&#x27;m very excited about this episode.</p>
+        <p>We have a guest that&#x27;s going down in the history books, and his name is Steve Nissen.</p>
+        <p>Now, Steve is widely recognized as the person who introduced Japanese candlestick charting to the Western financial world.</p>
+        <p>In the late 1980s, while working as a technical analyst, Steve discovered an obscure Japanese charting methodology that had remained largely unknown outside of Japan.</p>
+        <p>What followed was years of research, tracking down rare books, locating translators, corresponding with Japanese analysts, and piecing together centuries of market knowledge that few Western traders had ever seen.</p>
+        <p>In early 1990, Steve published a short educational piece on candlestick charting.</p>
+        <p>At the time, it was among the only readily available resource on the subject in the United States.</p>
+        <p>Within just a few months, Merrill Lynch received more than 10,000 requests for copies.</p>
+        <p>His landmark book, Japanese Candlestick Charting Techniques, would go on to fundamentally change how traders analyze markets.</p>
+        <p>Today, candlestick charts have become the default charting method used across virtually every single trading platform in the world.</p>
+        <p>Over the course of his career, Steve has authored multiple books on candlestick charting, translated into numerous languages, advised major institutional firms, spoken before organizations including the World Bank and Federal Reserve, and helped educate generations of traders on market psychology and technical analysis.</p>
+        <p>With more than three decades of real-world experience studying markets through the lens of candlesticks, Steve&#x27;s work has become the foundation upon which virtually all Western candlestick education has been built.</p>
+        <p>In this conversation, we&#x27;re going to explore how candlesticks first arrived in the West, the centuries of history behind them, the skepticism Steve encountered, the psychology hidden within the price action, and why understanding human behavior may be far more important than understanding any individual chart pattern.</p>
+        <p>So, traders, please enjoy my conversation with Steve Nissen.</p>
+        <p>Steve, welcome to Chat with Traders.</p>
+        <p>Great, great. Thank you. Thank you, Kevin.</p>
+        <p>You know, your son actually reached out to us, Evan, and I&#x27;m so glad he did.</p>
+        <p>And you know what&#x27;s funny? When I was reading your book, Japanese Candlestick Charting Techniques, that was when he was a newborn, and you were considering calling Evan, you were considering naming him Candlestick Nissen.</p>
+        <p>Yeah, that was just a joke.</p>
+        <p>Yeah.</p>
+        <p>Actually, I have a picture of him.</p>
+        <p>I have a picture of him looking at my book.</p>
+        <p>I think he was like two years old looking at my book, so the text I put under this is that my son was the proofreader.</p>
+        <p>So if there&#x27;s any mistake, you can blame him.</p>
+        <p>Yeah.</p>
+        <p>Yeah, so take us back to the beginning of Steve.</p>
+        <p>You know, what was your exposure like to the markets early on?</p>
+        <p>What was your relationship with money?</p>
+        <p>Where did you grow up?</p>
+        <p>Okay, my first, interesting, my first job was in the early 70s.</p>
+        <p>I worked for a company called the Industrial Commodity Corporation.</p>
+        <p>Essentially what they did was they would give timing advice on, they had major companies.</p>
+        <p>Back then, Arrow Shirts.</p>
+        <p>They wanted to know when to buy cotton.</p>
+        <p>With the old days of print film, I think we had Kodak, when to buy silver, because that&#x27;s what you needed for it.</p>
+        <p>And so we had big companies like that.</p>
+        <p>And they would make these big reports about production numbers and everything from all the countries.</p>
+        <p>And so the president, it was a small company, the president would call the companies like Arrow, you know, the shirt companies and the film companies and the sugar companies when to buy, like Coca-Cola for sugar and when to buy them.</p>
+        <p>So we would send out these big reports.</p>
+        <p>What was really interesting, unbeknownst to the companies, whenever he called them and made a recommendation, he had a chart book in front of him.</p>
+        <p>So essentially, he was making his recommendations based on technical analysis.</p>
+        <p>But this was back in the 70s.</p>
+        <p>And, you know, that was very looked down upon then.</p>
+        <p>So I don&#x27;t know if they used the fundamentals for any reasons or, you know, at least at a minimum, they were able to justify their prices, what they charge them by these big reports, which I helped write.</p>
+        <p>So back then, I wasn&#x27;t doing technicals.</p>
+        <p>I was helping write reports.</p>
+        <p>But then I went to EF Hutton and became a junior technical analyst there in their financial futures department.</p>
+        <p>And back then in the early 80s, T-bill futures were important.</p>
+        <p>Ginny May, for your old time, were out there.</p>
+        <p>Time was out there.</p>
+        <p>Ginny May futures were important.</p>
+        <p>So that&#x27;s when I got involved in technical analysis.</p>
+        <p>Step forward, just, you know, going through the years very quickly.</p>
+        <p>I wound up at Merrill Lynch.</p>
+        <p>Merrill needed a technical analyst slash option specialist.</p>
+        <p>They they they their technical analyst left and they wanted to get an option specialist also.</p>
+        <p>So they thought they can get somebody one person to be, you know, one person to two for one salary.</p>
+        <p>So I&#x27;m always a big believer in teaching myself after work.</p>
+        <p>And by the way, my jobs at Merrill is giving trade recommendations to the brokers throughout the system.</p>
+        <p>Merrill and EF Hutton.</p>
+        <p>So back then we had something called the hoot and holler pre pre pre Internet where you pick up a phone and all the offices would have speakers.</p>
+        <p>In their office and we&#x27;d say when it&#x27;s good to buy these financial futures and then they would go to their clients.</p>
+        <p>So anyway, so Merrill, I was doing that also.</p>
+        <p>But I always was a big believer beside my full time job to have always a backup plan.</p>
+        <p>So I was a tax preparer.</p>
+        <p>I taught myself taxes after work.</p>
+        <p>I did taxes.</p>
+        <p>One of the things I taught myself is because you never know what&#x27;s going to be good options.</p>
+        <p>So that&#x27;s how I was able to get that job.</p>
+        <p>I was a certified financial planner.</p>
+        <p>And the reason I bring that up is because after Hutton went bankrupt, Shearson took him over.</p>
+        <p>And I don&#x27;t know if it was that Merrill, like the years kind of meld together.</p>
+        <p>But I was at one of the firms and it was a Japanese broker.</p>
+        <p>And, you know, we would exchange ideas.</p>
+        <p>And she had a chart book on her desk and they were all in candlesticks.</p>
+        <p>And obviously I never saw those before.</p>
+        <p>So I said, what&#x27;s this?</p>
+        <p>And she said, oh, this traditional form of charting, candlestick analysis we&#x27;ve been using in Japan before 1900.</p>
+        <p>I said, you&#x27;re kidding me.</p>
+        <p>And back then the only charting service that had candlesticks was Bloomberg.</p>
+        <p>And the reason for that was because of their Japanese clients.</p>
+        <p>So that sparked my interest.</p>
+        <p>Like I mentioned, I like doing something extra at the end.</p>
+        <p>So that was my next project, learning candlesticks.</p>
+        <p>And, you know, as you mentioned, Kevin, like, you know, I had books translated.</p>
+        <p>I found I was really lucky.</p>
+        <p>I did a two page article for Futures magazine.</p>
+        <p>And that sparked a lot of interest.</p>
+        <p>And one of the readers happened to be an American who was a trader who spoke Japanese.</p>
+        <p>And he was going to Japan speaking about propitious timing.</p>
+        <p>And so I said, buy every book he could on candlesticks.</p>
+        <p>And I paid him to translate them all.</p>
+        <p>That took about a year.</p>
+        <p>How many books?</p>
+        <p>What&#x27;s that?</p>
+        <p>How many books?</p>
+        <p>13 or 14.</p>
+        <p>Wow.</p>
+        <p>And then because I was a member of the Market Technicians Association, there&#x27;s a worldwide organization called the International Federation of Technical Analysts.</p>
+        <p>And here in the U.S. it&#x27;s called MTA, the Market Technicians Association.</p>
+        <p>And pretty much all professional technical analysts are members.</p>
+        <p>And I was a member.</p>
+        <p>And so in Japan, they had a sister organization called the Nippon Technical Analysts Association.</p>
+        <p>So because of my membership here in the States, the Japanese were very eager to help me.</p>
+        <p>And this was, you know, during fax days.</p>
+        <p>So I had faxing pages from the books, asking what they think also.</p>
+        <p>They get back to me.</p>
+        <p>And one of my major finds, you know, small world, is when I was, I think it was Merrill, that a Japanese bond trader was using candlesticks.</p>
+        <p>And he told me his grandfather was using candles.</p>
+        <p>So I took him to lots of lunches and we had great conversations.</p>
+        <p>And so interesting, a couple of weeks ago, you mentioned my son.</p>
+        <p>He&#x27;s really into AI.</p>
+        <p>That&#x27;s what he got.</p>
+        <p>He got you.</p>
+        <p>He used it to filter, you know, potential interviews.</p>
+        <p>Anyway, so I told him, you know, I showed him these are some of the Japanese books I had translated.</p>
+        <p>He said, let me show you something.</p>
+        <p>And I should have realized this before.</p>
+        <p>I can&#x27;t tell you how much I spent on the translations.</p>
+        <p>He took a picture of one of the pages.</p>
+        <p>Boom.</p>
+        <p>It was translated.</p>
+        <p>And I compared it to what the translator has done.</p>
+        <p>So, you know.</p>
+        <p>Incredible.</p>
+        <p>Wow.</p>
+        <p>So anyway.</p>
+        <p>So just very quickly, and I know it&#x27;s long-winded, but one of the reasons I kept, spent more and more time is because, as I mentioned, I gave trading recommendations to the brokerage.</p>
+        <p>Now, what I started to do when I understood the candlesticks a little bit more is I would make the recommendations basically based on candles, but I didn&#x27;t tell them that.</p>
+        <p>You didn&#x27;t tell them.</p>
+        <p>It was a secret.</p>
+        <p>Yeah.</p>
+        <p>And I read you had the highest performing track record, right?</p>
+        <p>Right.</p>
+        <p>Utilizing the candlesticks.</p>
+        <p>Yeah.</p>
+        <p>So that gave me the financial incentive to continue spending the money on it and the drive.</p>
+        <p>So, yeah.</p>
+        <p>You know, what was it about the candlesticks that you found this obsession?</p>
+        <p>And then when you had the highest performing track record, what do you think it was in that information in the candlesticks that led to that?</p>
+        <p>The timing.</p>
+        <p>You know, real world, a lot is luck also.</p>
+        <p>You know, you have to, you know, who knows if the fundamentals are going to change.</p>
+        <p>But this was pretty consistent.</p>
+        <p>The timing advantages.</p>
+        <p>The advantages of candlesticks were so many.</p>
+        <p>There was no disadvantage at all except for the time and effort it took me to do it.</p>
+        <p>And maybe that&#x27;s why nobody else did it.</p>
+        <p>But you use the same data as a bar chart.</p>
+        <p>Right.</p>
+        <p>So I&#x27;d have to say use this instead of a bar chart.</p>
+        <p>I didn&#x27;t say use this instead of traditional Western technicals.</p>
+        <p>Because for when I started my career for many years, I didn&#x27;t know about candlesticks.</p>
+        <p>So I use traditional Western technicals.</p>
+        <p>Head and shoulders, moving averages, trend lines.</p>
+        <p>So I suggested using your favorite Western technical techniques in combination with the candlesticks.</p>
+        <p>And they work in all markets.</p>
+        <p>As long as you have an open, high, long, close.</p>
+        <p>They work in all markets in all time frames.</p>
+        <p>Yeah.</p>
+        <p>One thing that I found fascinating is that, you know, you mentioned the bar charts.</p>
+        <p>But candlesticks actually are older, you know, than bar charts.</p>
+        <p>Right.</p>
+        <p>When did candlestick charting first originate in Japan?</p>
+        <p>Give us a little history.</p>
+        <p>Yeah.</p>
+        <p>It&#x27;s very hard.</p>
+        <p>You know, I talk about the rice market in the 1600s.</p>
+        <p>But they didn&#x27;t have – I don&#x27;t think they had high lows back then.</p>
+        <p>It was opening and closing prices.</p>
+        <p>But they were very early on using technical analysis in the rice market.</p>
+        <p>They had the first futures market, the rice futures markets.</p>
+        <p>I think it was in the 1600s.</p>
+        <p>It&#x27;s been a long time since I – and that was another reason I loved doing the book.</p>
+        <p>What were you going to say?</p>
+        <p>Oh, well, it was the Dojima Rice Exchange, right?</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>And another reason I really enjoyed the book and doing the research is I love history.</p>
+        <p>Yeah.</p>
+        <p>And I love organizing.</p>
+        <p>And I tried to make it really enjoyable.</p>
+        <p>In fact, the media picked up first on the quotes I had at the beginning of each chapter, Japanese quotes.</p>
+        <p>You know, like for stops, I would say the Japanese proverb is even monkeys fall from trees.</p>
+        <p>You know, nothing&#x27;s 100%.</p>
+        <p>And that&#x27;s what they picked up on.</p>
+        <p>And here again, you know, right now you go to the internet, yes, for Japanese proverbs.</p>
+        <p>But there I had to get – in Manhattan, there was a Japanese bookstore.</p>
+        <p>And they had books in Japanese, obviously.</p>
+        <p>And I asked them for books in Japanese proverbs.</p>
+        <p>So I had my translator translate those also because I wanted to make the book really interesting beside Informer.</p>
+        <p>Well, let me ask you this.</p>
+        <p>You know, why do you think – you know, originated with Munahisa Homa nearly 300 years ago.</p>
+        <p>Well, why did it take hundreds of years to get to the West?</p>
+        <p>That is a big – you know, that&#x27;s one of the most popular questions.</p>
+        <p>When my book came out, they said, why were you the first?</p>
+        <p>Again, maybe I always had the incentive to do it.</p>
+        <p>It literally took years to do after, you know, after work.</p>
+        <p>To me, it was a project that would help me theoretically improve my trading recommendations.</p>
+        <p>Like I said, I really enjoy research.</p>
+        <p>I&#x27;m still – I&#x27;m the family researcher.</p>
+        <p>Somebody&#x27;s going to buy a product or needs information.</p>
+        <p>You know, they come to me.</p>
+        <p>And, you know, I was really, really, in a sense, lucky.</p>
+        <p>A couple of things because up until maybe 10 years ago, I didn&#x27;t realize how easy I had to get the book published.</p>
+        <p>I sent it to about three publishers.</p>
+        <p>They all wanted it.</p>
+        <p>I gave them a two-page overview.</p>
+        <p>And only recently did I find out traditionally when you want to book published, you have to give a synopsis of the book.</p>
+        <p>You have to give all the – they wanted it right away.</p>
+        <p>So I guess they saw the potential in it.</p>
+        <p>So, yeah.</p>
+        <p>That&#x27;s incredible.</p>
+        <p>Well, I know you said you like history.</p>
+        <p>And, you know, one thing that stood out to me is how much military language is used throughout the Japanese candlestick terminology.</p>
+        <p>How much did Japan&#x27;s military history, you think, influence the candlestick analysis?</p>
+        <p>Yeah, that was one of the challenges.</p>
+        <p>By the way, I really want to compliment you on the preparation for this interview.</p>
+        <p>I don&#x27;t know anybody who&#x27;s gone in death like you did.</p>
+        <p>So I should have reread my book.</p>
+        <p>I appreciate that.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>So – but anyway, the – you know, I&#x27;m thinking maybe one of the challenges – and it&#x27;s so funny.</p>
+        <p>I didn&#x27;t think of this until you brought it up – is maybe why I was the first is because unlike in the West where you talk about technical analysis and that&#x27;s it, the Japanese couched everything in military and cultural history.</p>
+        <p>So, you know, they would have, you know, an expression like a three-monkey record of money.</p>
+        <p>What the heck did that mean?</p>
+        <p>And that literally took me, you know, a long time before I found out about the, you know, see no evil, hear no evil, speak no evil.</p>
+        <p>Like, you know, when you&#x27;re trading, don&#x27;t tell any people about it.</p>
+        <p>Don&#x27;t listen to other people.</p>
+        <p>Yeah.</p>
+        <p>So there was a lot, a lot like that.</p>
+        <p>Were you scratching your head in these translations at times?</p>
+        <p>Yes, yes.</p>
+        <p>And even my translator, although he could translate what the words meant, he didn&#x27;t understand what the context meant.</p>
+        <p>So I would put those on the side like that one and then I would come across when I was reading about his military history or the cultural history.</p>
+        <p>On the Buddhist temples, they were the first to have those three monkeys, you know, on a Buddhist – on one of their temples.</p>
+        <p>And then it kind of dawned on me, the reference, there was a lot of – and there was a lot of subjectivity like with the windows, what we in the West call a gap.</p>
+        <p>Yeah.</p>
+        <p>They have windows, obviously.</p>
+        <p>It&#x27;s very, you know, common now.</p>
+        <p>But when I did it, I had to explain what the windows meant.</p>
+        <p>And they would have things like, oh, the market might momentarily go through the window.</p>
+        <p>What did that mean?</p>
+        <p>What did that – so, you know, after looking at lots of charts and actually doing some real world for, you know, trading with – for my –</p>
+        <p>I wasn&#x27;t allowed to trade because I was giving trade recommendations, but doing my recommendations to me momentarily means not closing under the window or above the window.</p>
+        <p>Or the hammer.</p>
+        <p>I&#x27;m assuming maybe most of the – the hammer is a very long lower shadow, a small real body at the top.</p>
+        <p>And they had a picture of that shape.</p>
+        <p>And they said in a downtrend – in a down market, it&#x27;s bullish.</p>
+        <p>In an up market, it&#x27;s potentially bearish.</p>
+        <p>What did that mean?</p>
+        <p>And then I realized it&#x27;s a hanging man and an uptrend to hangman line and a downtrend to hammer.</p>
+        <p>So there was a – so it wasn&#x27;t as cut and dry as just doing the translations.</p>
+        <p>It&#x27;s the military and the culture.</p>
+        <p>And the Japanese are very steeped in the summer, you know, the military history.</p>
+        <p>Yeah.</p>
+        <p>And maybe that&#x27;s where the 13 books kind of helped when you could compare, right?</p>
+        <p>And there were some other examples of the military influence for the advancing three soldiers, the counterattack lines, morning attack, night attack.</p>
+        <p>The gravestone, which was one of my favorites.</p>
+        <p>Yeah.</p>
+        <p>The problem with that is it sounds so ominous.</p>
+        <p>People think they – I don&#x27;t know if that&#x27;s – I try to – it sounds really ominous.</p>
+        <p>It&#x27;s just a potential reversal.</p>
+        <p>It&#x27;s not – it doesn&#x27;t mean the market is going to go from 100 to zero.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>It&#x27;s bulls dying protecting their land, I think is what you said.</p>
+        <p>It&#x27;s like essentially they would say let him climb the roof and then remove – take the – yeah, exactly.</p>
+        <p>What we would say is stairs up, elevator down.</p>
+        <p>Right.</p>
+        <p>Or false breakout.</p>
+        <p>Or false breakout.</p>
+        <p>Right.</p>
+        <p>Yeah.</p>
+        <p>So what was your favorite?</p>
+        <p>Ever watch a stock rip and think, I could have nailed that if I had real capital?</p>
+        <p>The truth is many capable traders never reach their potential, not due to lack of skill, but lack of scale.</p>
+        <p>Trade the Pool was built to solve exactly that.</p>
+        <p>A firm designed for serious individuals who want access to the U.S. equity markets with meaningful buying power, up to $200,000 without committing their own capital.</p>
+        <p>Get access to virtually every stock and ETF.</p>
+        <p>Go long or short freely with the flexibility professional traders expect.</p>
+        <p>You&#x27;re evaluated on one thing, your ability to manage risk and execute with consistency.</p>
+        <p>Meet the standard and you trade at scale.</p>
+        <p>No subscriptions, no ongoing commitments.</p>
+        <p>Whether you&#x27;re still refining your strategy, a trader with experience who hasn&#x27;t yet broken through, or a seasoned professional simply looking for more capital,</p>
+        <p>Trade the Pool is built to meet you where you are and take you that next step further.</p>
+        <p>The markets have evolved.</p>
+        <p>Access has evolved.</p>
+        <p>Now, so has the way traders operate within them.</p>
+        <p>Trade the Pool.</p>
+        <p>This episode is brought to you by PayPal.</p>
+        <p>You know how a mom&#x27;s bag has everything?</p>
+        <p>Sunscreen.</p>
+        <p>Snacks.</p>
+        <p>A stapler?</p>
+        <p>The new PayPal app is like that, but for your money.</p>
+        <p>Shop, pay, manage your account, and earn rewards all in one place.</p>
+        <p>And with purchase protection on eligible items, biometric security, and pass keys, you&#x27;re protected at every step.</p>
+        <p>Download the new PayPal app to get started.</p>
+        <p>See paypal.com slash protection terms.</p>
+        <p>When you need to build up your team to handle the growing chaos at work, use Indeed Sponsored Jobs.</p>
+        <p>It gives your job post the boost it needs to be seen and helps reach people with the right skills, certifications, and more.</p>
+        <p>Spend less time searching and more time actually interviewing candidates who check all your boxes.</p>
+        <p>Listeners of this show will get a $75 sponsored job credit at Indeed.com slash podcast.</p>
+        <p>That&#x27;s Indeed.com slash podcast.</p>
+        <p>Terms and conditions apply.</p>
+        <p>Need a hiring hero?</p>
+        <p>This is a job for Indeed Sponsored Jobs.</p>
+        <p>My favorite, probably as far as the name, was the, I don&#x27;t know about the hanging man line.</p>
+        <p>Probably the gravestone.</p>
+        <p>It sounds really cool.</p>
+        <p>Yeah.</p>
+        <p>It looks like a tombstone.</p>
+        <p>So.</p>
+        <p>Yeah.</p>
+        <p>So let&#x27;s talk about the window story with, I think the Japanese broker had mentioned that, right?</p>
+        <p>Like, look, a window.</p>
+        <p>We have a window here.</p>
+        <p>Yeah.</p>
+        <p>She had a chart book.</p>
+        <p>So, you know, she had a, we have a window, huh?</p>
+        <p>Yeah.</p>
+        <p>And that&#x27;s when you were, that&#x27;s when you want to dive deeper into that too.</p>
+        <p>Right.</p>
+        <p>Yeah.</p>
+        <p>Tell us about that.</p>
+        <p>Well, yeah, that was the Japanese broker and she opened the chart book, you know, trying</p>
+        <p>to explain to me, she said, oh, look, we have a window over here.</p>
+        <p>I said, what are you talking about?</p>
+        <p>You know?</p>
+        <p>So she, she explained it&#x27;s a gap here and all that.</p>
+        <p>And also I should mention, uh, speaking of the MTA, cause they deserve a lot of credit.</p>
+        <p>They help coordinate, uh, me, you know, speaking to the right people in Japan.</p>
+        <p>There was a, in 1989, I still have the book in 1989, uh, the, uh, Japanese technical association</p>
+        <p>wrote a book in English about all their charting techniques and plus Western charting techniques.</p>
+        <p>And there was like three or four pages on candlesticks in there.</p>
+        <p>So, you know, that also was a great spur for me to at least have a baseline on, you know,</p>
+        <p>what I&#x27;d be looking for.</p>
+        <p>So.</p>
+        <p>The Japanese chart of charts.</p>
+        <p>Uh, yes.</p>
+        <p>Okay.</p>
+        <p>Yeah.</p>
+        <p>That one had a.</p>
+        <p>No, no, no, no.</p>
+        <p>The Japanese chart of charts, it was, uh, that was written by a Japanese translated by</p>
+        <p>the American Shimuzu maybe.</p>
+        <p>Uh, yes.</p>
+        <p>See, again, it&#x27;s been, it&#x27;s been so long.</p>
+        <p>So they, he had a couple of pages of candlesticks in there and I wrote to them, uh, or faxed</p>
+        <p>them.</p>
+        <p>And it was so nice.</p>
+        <p>The translator, uh, you know, um, the author got in contact with me, with me, the one who</p>
+        <p>wrote that book, he got in contact with me through the translator.</p>
+        <p>So we were coordinating.</p>
+        <p>Okay.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>Now, how difficult was it to find this translator?</p>
+        <p>Well, not only to find a translator from the Japanese to English, but then also one that</p>
+        <p>understands trading.</p>
+        <p>Again, uh, and I tell this to my kids, luck is such an important part of life.</p>
+        <p>Good luck and bad luck.</p>
+        <p>You know, it&#x27;s, it&#x27;s, it&#x27;s, you know, it&#x27;s, it&#x27;s funny how like somebody who&#x27;s really successful,</p>
+        <p>you know, will say, oh, it&#x27;s my skills and this and that.</p>
+        <p>And somebody who&#x27;s not, you know, they say, oh, I&#x27;ve had bad luck.</p>
+        <p>You know, a lot of, uh, a lot of success is based on luck.</p>
+        <p>You have to have the skills, obviously take advantage of it.</p>
+        <p>But the reason I bring that up is because, uh, after I wrote that two page article, you</p>
+        <p>know, as I mentioned before, he got in contact with me.</p>
+        <p>He said, I&#x27;m a trader and I&#x27;m going to Japan and I speak Japanese.</p>
+        <p>Can I help you?</p>
+        <p>So it was easy.</p>
+        <p>Wow.</p>
+        <p>Well, you&#x27;re, you&#x27;re very humble.</p>
+        <p>I mean, for someone in your shoes, because I mean, every chart you look at out there</p>
+        <p>that somebody, I mean, there&#x27;s millions of people, they&#x27;re all using this because of</p>
+        <p>you.</p>
+        <p>Yeah.</p>
+        <p>You know, I&#x27;m thinking about this, uh, uh, I, uh, you know, without appearing too, uh,</p>
+        <p>too big an ego, but I&#x27;m thinking I want, I&#x27;m thinking maybe my technical analysis book</p>
+        <p>is probably the most important one in the world only because of the universality of everybody&#x27;s</p>
+        <p>using candlesticks.</p>
+        <p>Some people move, use moving averages.</p>
+        <p>Some people use trend lines.</p>
+        <p>Some people use Bollinger bands, but everybody uses, you know, candlestick charts.</p>
+        <p>I mean, you know, now there&#x27;s other books and other, you know, free information, but as</p>
+        <p>far as, far as widely used, uh, technical analysis.</p>
+        <p>Yeah.</p>
+        <p>I might, uh, I still, you know, um, the book&#x27;s been translated to 21 languages.</p>
+        <p>The royalties are still unbelievably, that&#x27;s still good for 30 years.</p>
+        <p>And again, really lucky because people like me might spend years on the book and they sell</p>
+        <p>four copies.</p>
+        <p>So I just, you know, hit a good niche.</p>
+        <p>Uh, but I knew it would be pretty, pretty popular.</p>
+        <p>What I did also is one of the charting services beside Bloomberg after my, the article, uh,</p>
+        <p>came out in futures magazine with CQG.</p>
+        <p>I don&#x27;t know if they&#x27;re still around really nice people there.</p>
+        <p>Uh, they, they had candlestick charts, but nobody else did.</p>
+        <p>So I started to, cause I was really good at marketing.</p>
+        <p>I started to write to other companies, letting them know that, Hey, this company has a candlestick</p>
+        <p>charts.</p>
+        <p>Maybe you should think about doing it.</p>
+        <p>And that&#x27;s when my book was coming out.</p>
+        <p>So I figured the only source of information at that time would be my, my book.</p>
+        <p>So, yeah.</p>
+        <p>You know, you made a bold prediction in your book too, and you stated candlestick charting</p>
+        <p>is going to take over it.</p>
+        <p>I mean, bar charts will essentially be no more.</p>
+        <p>Right, right.</p>
+        <p>Like you, like you had mentioned astutely before that the Japanese used to use bar charts and</p>
+        <p>they just made them into a candlestick chart that, you know, uses the same data.</p>
+        <p>So, uh, yeah, there&#x27;s no, there&#x27;s absolutely no downside to using a candlestick chart, maybe</p>
+        <p>a little bit of education and all that.</p>
+        <p>So, uh, yeah.</p>
+        <p>So, so you wrote a reference guide, you know, Merrill Lynch, they received 10,000 requests,</p>
+        <p>you know, at that time, did you realize how the gravity of this and with that response?</p>
+        <p>Uh, yes.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>That, again, that gave me another incentive to write the book.</p>
+        <p>So I, and one of the, again, one of the, I just actually finished my autobiography.</p>
+        <p>And the reason I bring that up is going to have a section there called life lessons, you</p>
+        <p>know, cause when I&#x27;m around and not around anymore, one of our regrets is we don&#x27;t speak</p>
+        <p>to our relatives about their history.</p>
+        <p>So I, uh, so I did it.</p>
+        <p>And one of the things I mentioned is that sometimes somebody will say something, a sentence or two</p>
+        <p>that will change the trajectory of your life.</p>
+        <p>And so I was on, um, uh, on the subway in New York and I was speaking to one of my friends and I</p>
+        <p>said, I&#x27;m thinking about writing a book, but, uh, it&#x27;s going to take a lot of money.</p>
+        <p>It&#x27;s going to take a lot of time.</p>
+        <p>And he says, if you don&#x27;t do it, somebody else will.</p>
+        <p>And that, that, that, that finalized my choice.</p>
+        <p>You know, I, maybe I would have done it.</p>
+        <p>Maybe not.</p>
+        <p>But, uh, you know, it&#x27;s interesting.</p>
+        <p>Somebody says something and that&#x27;s constructive criticism.</p>
+        <p>I&#x27;m a big believer in constructive criticism.</p>
+        <p>Somebody says something to help, uh, you know, change that one of my early, uh, this related</p>
+        <p>to the candlesticks when I started my company in 96, cause I was still working at, uh, um,</p>
+        <p>Shearson and, uh, Merrill, uh, when I started my company in 96, when I, I went out on my</p>
+        <p>own, uh, yeah, back in 96.</p>
+        <p>And, uh, so, uh, I got in back then there were 30, 30 specialists.</p>
+        <p>Uh, I don&#x27;t know if that&#x27;s still our specialists on the NYSE, but they&#x27;re the one, the market</p>
+        <p>makers.</p>
+        <p>They were like 30, 36.</p>
+        <p>So I knew somebody there.</p>
+        <p>She got me into, uh, do two seminars for them.</p>
+        <p>And back then up until 2000, I only dealt with institutional clients.</p>
+        <p>So I&#x27;m starting from zero in 96.</p>
+        <p>And, uh, so she got me into two sessions, half, half the specialist in one, and then a</p>
+        <p>week later, half the specialist in the other one.</p>
+        <p>So the first session I do, I&#x27;m talking about how great candlesticks are for the timing and</p>
+        <p>all that, uh, you know, for their, um, for the stocks they were running, each specialist</p>
+        <p>has stocks they run.</p>
+        <p>Uh, but maybe I got one client.</p>
+        <p>So the secretary, very nice lady, Barbara, I don&#x27;t remember her last name, but anyway,</p>
+        <p>she&#x27;s, she said, can I give you some constructive criticism?</p>
+        <p>I said, definitely.</p>
+        <p>She says, these people have huge egos and you don&#x27;t tell them what to do.</p>
+        <p>You make them, they&#x27;re the experts.</p>
+        <p>So what I did was at the next session, that&#x27;s exactly what I did.</p>
+        <p>I said, do you guys know more about these markets?</p>
+        <p>You know, you&#x27;re, these are stocks you&#x27;re running, but you know, this could be another</p>
+        <p>little addition to help you with the timing a little bit.</p>
+        <p>And I, I probably got like 10 clients from that.</p>
+        <p>So that&#x27;s why I&#x27;m real big, you know, as long as the criticism, uh, is not done out of</p>
+        <p>anger or anything that&#x27;s trying to help you.</p>
+        <p>So anyway, uh, so yeah, 96 to 2000, it was institutional clients.</p>
+        <p>Uh, you know, I do seminars for them.</p>
+        <p>I do, I would do a consulting, uh, they would tell me which markets they want me to follow.</p>
+        <p>And, uh, uh, I would, uh, fax them, you know, trot to my comments.</p>
+        <p>Hmm.</p>
+        <p>Yeah.</p>
+        <p>They became more receptive, you know, with that.</p>
+        <p>The words are powerful is what I&#x27;m hearing.</p>
+        <p>So you started as the, you know, technical analyst, you found the candlesticks and paired</p>
+        <p>those two together.</p>
+        <p>You&#x27;ve never really argued that candlesticks replace technical analysis.</p>
+        <p>It&#x27;s just the confluence of those, right?</p>
+        <p>You are, you argue like they add just another.</p>
+        <p>Right.</p>
+        <p>So Western technicals.</p>
+        <p>Right.</p>
+        <p>Right.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>Speaking of one funny story I tell is when I had the, one of my clients, I sent, I sent</p>
+        <p>them the wrong chart.</p>
+        <p>And so I, I, uh, emailed them and I said, I hope this chart, you know, I hope this mistake</p>
+        <p>doesn&#x27;t cause you any convenience.</p>
+        <p>I did not check the email and spell check kick in.</p>
+        <p>And it says, I hope this, uh, this mistake didn&#x27;t cause you any incontinence.</p>
+        <p>We got, we got, we got, we got, we got a really big laugh out of that one.</p>
+        <p>Now after that, I read everything.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>That&#x27;s great.</p>
+        <p>All right.</p>
+        <p>Okay.</p>
+        <p>So for some reason, the number three is big in Japan.</p>
+        <p>And we got the lucky number three, where they have the three Buddha top, the three black</p>
+        <p>crows, the three rivers, the three white soldiers.</p>
+        <p>And then four, number four is associated with death.</p>
+        <p>Yeah.</p>
+        <p>Why?</p>
+        <p>Yeah.</p>
+        <p>Why?</p>
+        <p>I think if I remember correctly, again, it&#x27;s been a long time.</p>
+        <p>I think the way it pronounced the number four made it sound like death.</p>
+        <p>Again, I don&#x27;t remember offhand, but it&#x27;s something by the way it&#x27;s, it&#x27;s either a spell</p>
+        <p>and that&#x27;s, you know, the, the, the pictogram, but it&#x27;s something very close to either how</p>
+        <p>they write death or how these, uh, how death sounds.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>And I know the three Buddha top, for example, is that&#x27;s just the Western head and shoulders,</p>
+        <p>right?</p>
+        <p>Right.</p>
+        <p>Right.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>And what, so like the three black crows, what is in the three rivers?</p>
+        <p>Do you remember what those are?</p>
+        <p>Can you?</p>
+        <p>The three black crows.</p>
+        <p>I remember the three black crows is just three down, uh, back then, you know, we didn&#x27;t</p>
+        <p>have, uh, the candles weren&#x27;t in color.</p>
+        <p>They were black candles, you know, right now mainly the green and red, but back then it was</p>
+        <p>empty or white and black.</p>
+        <p>So just three consecutive.</p>
+        <p>It was a downtrend, long black real buck.</p>
+        <p>Okay.</p>
+        <p>And similar to your wording, ominous, kind of like they&#x27;re just ominously kind of looking</p>
+        <p>down.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>So you&#x27;ve talked about to this trend changes and trend reversals with the doji.</p>
+        <p>Uh, I think there may be some, I really liked in your book, by the way, you talking about</p>
+        <p>the doji stars and how a lot of people take that as like a reversal, but you prefer pattern</p>
+        <p>change.</p>
+        <p>And I really liked the analogy you use with the cars break is cars breaking and it doesn&#x27;t</p>
+        <p>mean it&#x27;s going to just start reversing.</p>
+        <p>It just means that pattern&#x27;s kind of breaking is something new is about to happen.</p>
+        <p>Uh, so I wanted to, I really liked that from the book.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>And I&#x27;m glad you brought that up because, you know, it&#x27;s always such a, a common and easy</p>
+        <p>thing to see and pick out.</p>
+        <p>But yeah, it&#x27;s, it turns a trend from up to neutral and, and, and I don&#x27;t know if I brought</p>
+        <p>this up in my books, but I definitely did bring it up in my seminars.</p>
+        <p>And in fact, if you have a strong advance and you have a series of small wheel bodies</p>
+        <p>or doji, that actually, although it turns a trend from up to neutral, it can make the</p>
+        <p>market a little healthier because there&#x27;s a strong rally, uh, say a market goes from</p>
+        <p>10 to 20, you know, very quickly.</p>
+        <p>Uh, people will be nervous about buying it if they, you know, because it went up so quickly,</p>
+        <p>but if it starts stabilizing in that area, like in the 19, 20 area, people will start</p>
+        <p>getting comfortable with that saying, okay, you know, maybe it&#x27;ll hold up here.</p>
+        <p>So it takes what here again, Western technicals, it relieves an overbought condition.</p>
+        <p>So, uh, and I use doji a lot as potential resistance areas, by the way.</p>
+        <p>So if it gets above that on a close, that could be a potential breakout.</p>
+        <p>Interesting.</p>
+        <p>Yeah.</p>
+        <p>So what do you think with the, like, for example, dojis or any other patterns or candlesticks</p>
+        <p>you recognize?</p>
+        <p>What, are there any things that traders misunderstand or misinterpret from candlesticks or, or the</p>
+        <p>patterns?</p>
+        <p>Uh, well, that&#x27;s why I have a company, you know, uh, you know, that&#x27;s why the website,</p>
+        <p>and I guess you&#x27;ll, you put it on there later, but, uh, it&#x27;s not what, what we say is, uh,</p>
+        <p>when we, and the, you know, the company is it&#x27;s not hard to recognize a candlestick signal,</p>
+        <p>but what you do with it, you know, for example, there&#x27;s a, uh, you know, say there&#x27;s a bullish</p>
+        <p>engulfing pattern where a green real body wraps around a red real body.</p>
+        <p>Okay.</p>
+        <p>Do you buy it?</p>
+        <p>Um, do you wait, you know, do you wait?</p>
+        <p>And there are so many other factors.</p>
+        <p>For example, for me, I&#x27;d like a candlestick signal because we&#x27;re trying with candles.</p>
+        <p>A lot of times you&#x27;re trying to pick tops and bottoms, very high risk to begin with.</p>
+        <p>You want the odds on your side.</p>
+        <p>So, uh, that&#x27;s one of the reasons I suggest using your favorite Western signals.</p>
+        <p>I like just base the cars on support and resistance, you know, the old kiss principle, keep it simple, stupid.</p>
+        <p>So if I see a bullish engulfing pattern, confirm a support area.</p>
+        <p>Okay.</p>
+        <p>That&#x27;s one step to thinking about potentially buying it.</p>
+        <p>And then the third step we have, we call our trading triad.</p>
+        <p>Try to let more for three, three things, candles.</p>
+        <p>Second, uh, the first one is candles.</p>
+        <p>Second one is Western technicals.</p>
+        <p>And third is risk management.</p>
+        <p>Uh, and the, the, so the first is you see a candlestick signal.</p>
+        <p>Then you see if it&#x27;s confirming a Western signal.</p>
+        <p>Again, you, you, everybody has their favorite Western signals.</p>
+        <p>It could be the top of the bottom of a Bollinger band.</p>
+        <p>It could be an RSI divergence.</p>
+        <p>And the third one, think about risk reward.</p>
+        <p>You know, you have a beautifully defined bullish engulfing pattern with a really big green real body.</p>
+        <p>Uh, you know, but if you&#x27;re only a few ticks away from a major resistance area, you don&#x27;t buy it.</p>
+        <p>You know, you may want to wait for a pullback if it happens to the law of the bullish engulfing pattern.</p>
+        <p>So there&#x27;s a lot of other components, but if I had to break it down to three critical ones,</p>
+        <p>candle signal is a confirming Western signal or vice versa.</p>
+        <p>The Western signal confirmed by candlestick signal and risk reward.</p>
+        <p>This is Kevin.</p>
+        <p>We hope you&#x27;re enjoying this episode so far.</p>
+        <p>If you are, take a second to leave a comment.</p>
+        <p>We read them all and truly care about what you think.</p>
+        <p>And if you haven&#x27;t yet subscribed to our email list, visit chatwithtraders.com and click subscribe.</p>
+        <p>So we can keep you posted on information that matters.</p>
+        <p>Now back to the chat with our guest.</p>
+        <p>Now in Japan, would they utilize a similar kind of triad approach too?</p>
+        <p>I have no idea.</p>
+        <p>I just was asking because I wasn&#x27;t sure if they utilized Western signals as well.</p>
+        <p>Yeah, in fact, sorry to interrupt, but yeah, a lot of the books I had translated, the covers have Western signals on them.</p>
+        <p>They have like a moving average with a candlestick chart.</p>
+        <p>So all the candlestick books I had had a quarter or more on Western technicals.</p>
+        <p>When a moving average is, they were just not pure candlesticks.</p>
+        <p>But I haven&#x27;t come across things where they talk about risk reward or anything like that.</p>
+        <p>So they&#x27;re trying to try it.</p>
+        <p>That&#x27;s why I copyrighted it, by the way.</p>
+        <p>I don&#x27;t think they have anything similar to that.</p>
+        <p>Yeah.</p>
+        <p>So they&#x27;re borrowing a little bit from us where we borrowed some from them.</p>
+        <p>Well, that&#x27;s what that was one of my big points.</p>
+        <p>You know, they&#x27;ve been using our stuff for, you know, 50, 100 years.</p>
+        <p>Now, what do we learn from them?</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>So the risk part of the triad, I want to circle back to when you were given trade recommendations.</p>
+        <p>I remember reading that you actually had more losers than winners and had the best, highest performance track record.</p>
+        <p>So how important is it to have proper risk management?</p>
+        <p>Well, to me, it&#x27;s vital.</p>
+        <p>Whenever I do a trade or recommend, give a trade recommendation, I would always put a stop in when I did the trade.</p>
+        <p>You know, a lot of people think that they could, you know, have a stop.</p>
+        <p>If the market goes against them, they&#x27;ll get out of the market.</p>
+        <p>It doesn&#x27;t work that way.</p>
+        <p>You know, we all have big egos.</p>
+        <p>And I hear all the time, oh, if I get out now, you know, it&#x27;s going to reverse and I&#x27;m going to feel bad.</p>
+        <p>The best time to put in a protective stop is when you do the trade.</p>
+        <p>And then after trade goes in your direction, you move up the stop.</p>
+        <p>The only person when I used to work at Hutton, I&#x27;ll forget this.</p>
+        <p>There was a trader there and he traded for his own account.</p>
+        <p>And he you couldn&#x27;t tell if he was making or losing money.</p>
+        <p>And he he was able to put in a mental stop.</p>
+        <p>In other words, he would be in the trade and he would be able to, you know, get out if it worked against.</p>
+        <p>And you couldn&#x27;t even tell.</p>
+        <p>But that is so rare.</p>
+        <p>So, yeah, risk management is, you know, the old saying is limit your losses and let your profits run.</p>
+        <p>Easier said than done.</p>
+        <p>But I love that.</p>
+        <p>Yeah.</p>
+        <p>The triad.</p>
+        <p>Yeah.</p>
+        <p>Friend, Michael Noss.</p>
+        <p>I love this quote.</p>
+        <p>Like you said, people say things that sticks with you.</p>
+        <p>He said you never get smarter after you enter the trade.</p>
+        <p>And then that&#x27;s where you come in, Steve, and you&#x27;re saying place the stop.</p>
+        <p>I mean, you still do that to this day.</p>
+        <p>You&#x27;ll take the trade and immediately place the stop right after.</p>
+        <p>Perfect.</p>
+        <p>All right.</p>
+        <p>Let&#x27;s talk about psychology, too, and how that weighs in to this triad.</p>
+        <p>And you said there&#x27;s a quote, an ounce of emotion can be worth a pound of facts.</p>
+        <p>What do you mean by that?</p>
+        <p>And do markets move based on information or more on psychology, how people react to the information?</p>
+        <p>Yes.</p>
+        <p>I mean, yes.</p>
+        <p>They work.</p>
+        <p>They&#x27;re based on facts.</p>
+        <p>But I mean, recently I&#x27;ve been telling people and I tell them what I used to say in my seminars is you could be 100 percent right on predicting some fundamental news and 100 percent wrong on how new it is.</p>
+        <p>I said just recently, think about what&#x27;s going on.</p>
+        <p>If you said that, you know, crude is going to $100, that, you know, they couldn&#x27;t get oil through, you know, this I don&#x27;t know if you want to say war, but in the Mideast and up until, you know, the market&#x27;s making record highs.</p>
+        <p>You know, so you could have been completely right on your prediction, been completely wrong on what&#x27;s going to happen to the market.</p>
+        <p>And so I said one of the things I like doing is rather than trying to predict the news, see how the market reacts to it.</p>
+        <p>If it&#x27;s not reacting negatively on bad news, that&#x27;s telling you something and vice versa.</p>
+        <p>You know, if it&#x27;s reacting negatively on potentially good news, that&#x27;s telling you something also.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>Just wait for the reaction.</p>
+        <p>Don&#x27;t predict.</p>
+        <p>Don&#x27;t predict it.</p>
+        <p>Yeah.</p>
+        <p>You know, Jack Schwager, he we had one of the podcasts recently and he said even as well, risk is more easily tied to technicals versus fundamentals, because like let&#x27;s say what you&#x27;re saying with fundamentally this company should be at 100.</p>
+        <p>So I&#x27;m just going to scale into it, into oblivion, essentially all the way down to zero.</p>
+        <p>There has to be like your triad.</p>
+        <p>There has to be the risk applied.</p>
+        <p>And you&#x27;re saying most importantly, prior to entering the trade, know where that is in place to stop right there.</p>
+        <p>Yeah.</p>
+        <p>Speaking of zero, one of the things I used to do at the seminar, I say there&#x27;s a rule that works 100% of the time.</p>
+        <p>No questions asked.</p>
+        <p>So I wait a few seconds and the audience is going.</p>
+        <p>I say there&#x27;s excellent support at zero.</p>
+        <p>Yeah.</p>
+        <p>Emotion.</p>
+        <p>This was a quote, too.</p>
+        <p>You said that I loved.</p>
+        <p>Emotion essentially is in the driver&#x27;s seat.</p>
+        <p>You say as soon as you have money in the market, emotionalism is in the driver&#x27;s seat and rationale and objectivity are merely passengers.</p>
+        <p>Right.</p>
+        <p>I love that.</p>
+        <p>You had some.</p>
+        <p>And that&#x27;s why I think people should put in stops.</p>
+        <p>See, when you&#x27;re placing a trade, you&#x27;re in control.</p>
+        <p>But once you&#x27;re in the market, the market&#x27;s in control.</p>
+        <p>Two very different emotional states.</p>
+        <p>So, Steve, when you were carrying around that Japanese chart of charts, the one that had such an impact on you, writing your book, taking notes, drawing charts by hand, everything that Evan could just take a picture of and do in a second.</p>
+        <p>Yeah.</p>
+        <p>You know, when you look back at that time period, did you ever imagine, like, candlesticks being the standard, the global standard?</p>
+        <p>No, I never really looked that forward.</p>
+        <p>I knew they&#x27;d be popular, but I just never extrapolated, you know, how I knew in the U.S. they would be.</p>
+        <p>I didn&#x27;t realize, like, Europe and all that.</p>
+        <p>When you open a chart today and you see the candlesticks, I mean, what goes through your mind?</p>
+        <p>I think it&#x27;s pretty cool.</p>
+        <p>I mean, I was at a car service and the guy was trading and I said, you know those charts?</p>
+        <p>You know, I said, yeah.</p>
+        <p>I said, I&#x27;m the reason for that.</p>
+        <p>He said, whoa.</p>
+        <p>In fact, I was like, I was, you know, not many people recognize me now because it&#x27;s been so long.</p>
+        <p>I used to be on TV and, you know, the older, the younger generation just doesn&#x27;t, you know, understand or, you know, know my face.</p>
+        <p>I used to be on CNBC and all that stuff.</p>
+        <p>But anyway, so I was at, yeah.</p>
+        <p>I forgot where I was, but there was a lady.</p>
+        <p>Oh, I know what it was.</p>
+        <p>It was my brother-in-law.</p>
+        <p>We were looking for maybe apartments for him.</p>
+        <p>And so the lady asked my email address.</p>
+        <p>I said, nissen at candlecharts.com.</p>
+        <p>She said, do you trade?</p>
+        <p>And I gave her my name.</p>
+        <p>She says, I don&#x27;t get that reaction.</p>
+        <p>I used to get that a lot.</p>
+        <p>So she called a boyfriend.</p>
+        <p>She took a picture with me.</p>
+        <p>So, you know, it was a nice ego thing.</p>
+        <p>But, yeah, many years ago, you know, when I go to trade shows, people ask me for photographs, but people don&#x27;t know.</p>
+        <p>But, yeah, it&#x27;s pretty cool.</p>
+        <p>It is.</p>
+        <p>It&#x27;s pretty cool, you know.</p>
+        <p>I mean, looking back on it all, like what are you most proud of when you look back?</p>
+        <p>Well, as far as this is concerned, I mean, there are, you know, other things I&#x27;m concerned, you know, like my family and all that.</p>
+        <p>What am I most proud of?</p>
+        <p>Yeah, I think having the incentive to do the book.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>You know, it&#x27;s cool to say those charts are because of me.</p>
+        <p>Yeah, you said this too.</p>
+        <p>You said perhaps my perseverance and serendipity were the unique combination needed that others did not have.</p>
+        <p>Yeah.</p>
+        <p>And actually, you know, I forgot about the serendipity because as a member of the Market Technicians Association, they got me into the Japanese Technical Association.</p>
+        <p>That&#x27;s another thing.</p>
+        <p>So it&#x27;s probably a plethora of factors that as well as, you know, having the tenacity to understand the military and the culture.</p>
+        <p>I had to read all about that stuff.</p>
+        <p>So, yeah, it&#x27;s probably a lot of factors.</p>
+        <p>Yeah.</p>
+        <p>Yeah.</p>
+        <p>That&#x27;s very cool.</p>
+        <p>Steve, I would give you this opportunity.</p>
+        <p>If you&#x27;d like to share any story or any advice to the younger traders, just now pull it up their candlestick charts.</p>
+        <p>Any piece of wisdom?</p>
+        <p>Yeah, I would say education is what it&#x27;s all about.</p>
+        <p>You know, be careful about just getting stuff on the Internet.</p>
+        <p>You know, you&#x27;ll see what a hammer shooting star is or a bullshitting golfing pattern.</p>
+        <p>You&#x27;ll see it and you may trade or invest in it.</p>
+        <p>But without having the correct knowledge, what else to incorporate, it could be a really dangerous game.</p>
+        <p>So, you know, look at our site.</p>
+        <p>We have lots of free information to make sure they start going down the candlestick trading path.</p>
+        <p>And again, if they were doing any technical analysis, this is just an additional complement to potentially enhance their confidence and trading, whether trade or invest, anywhere in the world.</p>
+        <p>I mean, we have students in 85 countries.</p>
+        <p>Yeah.</p>
+        <p>Where&#x27;s the website?</p>
+        <p>Where can they learn more about you?</p>
+        <p>www.candlecharts.com</p>
+        <p>And traders, if you have listened and made it to the end of this video, first of all, love the dedication.</p>
+        <p>Secondly, comment candle charts in the comments below so we know you made it till the end.</p>
+        <p>I mean, Steve&#x27;s got such a fascinating journey.</p>
+        <p>We have so much to be thankful for, for introducing to us the candlestick charting to the Western world.</p>
+        <p>I mean, millions of traders use this concept that trace directly back to what you&#x27;ve done, Steve.</p>
+        <p>And I appreciate you taking the time to talk with us today.</p>
+        <p>And traders, go to candlecharts.com to learn more about Steve.</p>
+        <p>Thank you so much.</p>
+        <p>Thank you.</p>
+        <p>Time you took to get all this background stuff.</p>
+        <p>Again, very, very impressive.</p>
+        <p>Thank you, Steve.</p>
+        <p>Okay, thank you.</p>
+        <p>Okay, thank you.</p>
+        <p>You&#x27;ve reached the end of this episode of Chat with Traders.</p>
+        <p>But rest assured, there are more episodes loaded with real market insight and zero hype on the way soon.</p>
+        <p>So to stay updated with each great new release, subscribe to the podcast and we&#x27;d love it if you&#x27;d leave a rating and review.</p>
+        <p>We&#x27;ll catch you next time on Chat with Traders.</p>
+        <p>Chat with Traders.</p>
+        <p>Chat with Traders.</p>
+        <p>Chat with Traders.</p>
+        <p>Close your eyes.</p>
+        <p>Exhale.</p>
+        <p>Feel your body relax.</p>
+        <p>And let go of whatever you&#x27;re carrying today.</p>
+        <p>Well, I&#x27;m letting go of the worry that I wouldn&#x27;t get my new contacts in time for this class.</p>
+        <p>I got them delivered free from 1-800-CONTACTS.</p>
+        <p>Oh my gosh, they&#x27;re so fast.</p>
+        <p>And breathe.</p>
+        <p>Oh, sorry.</p>
+        <p>I almost couldn&#x27;t breathe when I saw the discount they gave me on my first order.</p>
+        <p>Oh, sorry.</p>
+        <p>Namaste.</p>
+        <p>Visit 1-800-CONTACTS.com today to save on your first order.</p>
+        <p>1-800-CONTACTS.</p>
+        </article>
+    </main>
+
+    <script>
+        let synth = window.speechSynthesis;
+        let utterance = null;
+
+        function playAudio() {
+            if (synth.paused) {
+                synth.resume();
+                return;
+            }
+
+            if (synth.speaking) {
+                synth.cancel();
+            }
+
+            const text = document.getElementById('transcript-content').innerText;
+            utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'de-DE';
+            utterance.rate = 1.0;
+
+            synth.speak(utterance);
+        }
+
+        function pauseAudio() {
+            if (synth.speaking && !synth.paused) {
+                synth.pause();
+            }
+        }
+
+        function stopAudio() {
+            if (synth.speaking) {
+                synth.cancel();
+            }
+        }
+    </script>
+
+</body>
+</html>
