@@ -1,3 +1,523 @@
+# Nachricht - Börse Stuttgart
+
+28.09.2026 / 07:49:51
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+US-Präsident Trump hat den Vorschlag des Iran für einen siebentägigen Waffenstillstand abgelehnt. Er habe Beratern erklärt, dass er nach den Zwischenwahlen im November mit einer Wiederaufnahme der Bombardierungen des Iran rechne, sagten US-Beamte. Mit Teherans Vorschlag wären im Gegenzug für die Aufhebung der amerikanischen Blockade iranischer Häfen, die Straße von Hormus wieder geöffnet und die Atomgespräche wieder aufgenommen worden.
+
++++++ TAGESTHEMA II +++++
+
+Die USA und China haben nach eigenen Angaben vereinbart, die Zölle auf weniger sensible Handelsgüter im Wert von 30 Milliarden US-Dollar in beide Richtungen zu senken. Beide Seiten teilten zudem mit, man habe sich auf die Aufnahme eines bilateralen Dialogs über Künstliche Intelligenz geeinigt, der bis November beginnen soll.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+Keine wichtigen Unternehmenstermine angekündigt.
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+Keine wichtigen Termine angekündigt.
+
++++++ ÜBERSICHT INDIZES +++++
+
+                              zuletzt  +/- % 
+E-Mini-Future S&P-500        7.772,50   -0,4 
+E-Mini-Future Nasdaq-100    30.644,25   -0,8 
+S&P/ASX 200 (Sydney)         8.676,30   +0,1 
+Topix-500 (Tokio)            4.124,48   -0,1 
+Kospi (Seoul)                6.907,74   -2,5 
+Shanghai-Composite           3.813,48   -1,9 
+Hang-Seng-Index (Hongkong)  24.667,71   +0,6
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Uneinheitlich - Unter Druck stehen Chipaktien und andere Aktien mit KI-Fantasie, weil wieder Sorgen über eine zu schnelle und unkontrollierbare Entwicklung von Künstlicher Intelligenz umgehen. Hintergrund sind neue Meldungen über Vorfälle mit KI-Agenten von OpenA, die selbstständig außergewöhnliche Mittel ergriffen haben sollen, um an Daten zu gelangen. Der ChatGPT-Entwickler hat darauf vorläufig das Training der neuesten Modelle gestoppt. Das wirft generell wieder Fragen über die Nachhaltigkeit und Wirtschaftlichkeit der hohen KI-Investitionen vieler Unternehmen auf. Daneben bremst der wieder deutlich gestiegene Ölpreise angesichts ausbleibender Fortschritte im Hinblick auf eine Wiederöffnung der Straße von Hormus und einer Absage von US-Präsient an einen Waffenstillstandsvorschlag des Iran. In Seoul verlieren die beiden Schwergewichte SK Hynix und Samsung Electronics verlieren je rund 4,5 Prozent. Hanmi Semiconductor geben um 2,3 Prozent nach. In Tokio büßen Kioxia 2,6 und Lasertec 1,1 Prozent ein. Advantest, Tokyo Electron oder Softbank Group liegen dagegen moderat im Plus. In Hongkong verlieren SMIC 3,6 und Hua Hong Grace dagegen 4,8 Prozent. Für Alibaba geht es um 1,5 Prozent nach unten. Das Unternehmen hatte jüngst mit Meldungen über den leistungsstärksten KI-Agenten Asiens aufgewartet. Unter weiteren Einzelwerten brechen Nidec in Tokio um über 17 Prozent ein. Berichten zufolge muss der Zulieferer der Autoindustrie eine Abschreibung im Umfang von umgerechnet 6,3 Milliarden Dollar vornehmen und wird sich auch von seinem Präsidenten trennen. - als Folge eines der größten Bilanzskandale Japans.
+
+WALL STREET
+
+Dow-Jones         51.828,62  +0,9 
+S&P-500            7.743,41  +0,5 
+Nasdaq Composite  27.068,72  +0,5 
+ 
+                     Freitag    Donnerstag 
+Umsatz NYSE (Aktien) k.A.       1,18 Mrd 
+Gewinner             k.A.         949 
+Verlierer            k.A.       1.810 
+Unverändert          k.A.          80
+
+Etwas fester - Etwas Unterstützung kam vom Ölpreis, der nach dem kräftigen Anstieg vom Vortag nachgab. Medienberichten zufolge soll es neue diplomatische Bemühungen um einen neuen neuen Plan zur Wiederöffnung der Straße von Hormus geben. Für leichten Auftrieb sorgte daneben, dass die Anleiherenditen im Handelsverlauf von den Hochs wieder etwas zurückkamen. Das Gipfeltreffen zwischen den Präsidenten Donald Trump und Xi Jinping brachte derweil aus Marktsicht keine neuen Erkenntnisse und damit auch keine positiven Impulse. Unter den Einzelwerten verteuerten sich Akamai um 3,2 Prozent. Treiber war die Nachricht, dass Anthropic Akamai über einen Zeitraum von sieben Jahren hinweg 11,6 Milliarden Dollar für Cloud-Services zahlen wird. Microsoft stiegen um 3,7 Prozent. Das Unternehmen hatte neue Funktionen für seine Copilot-App angeküdnigt, was Teil seiner Bemühungen ist, seine Künstliche Intelligenz zu monetarisieren. Costco Wholesale stiegen um 2,9 Prozent. Die auf Mitgliedschaften basierende Großhandelskette hatte mit Umsatz und Gewinn im vierten Geschäftsquartal die Erwartungen übertroffen. Die Aktie der Großbank Morgan Stanley zeigte sich unbeeindruckt von einem Medienbericht, wonach die schweizerische UBS sich mit der US-Bank zusammenschließen könnte, um sich den geplanten strengeren Eigenkapitalanforderungen in der Schweiz zu entziehen. Tesla fielen um 1,5 Prozent. Eine Veranstaltung zur Markteinführung des autonom fahrenden Lkw Semi habe enttäuscht, hieß es.
+
+US-ANLEIHEN
+
+              Rendite    +/- 
+2 Jahre          4,86  +0,01 
+10 Jahre         5,18  +0,02
+
+Die Anleiherenditen zogen zeitweise deutlicher an, nachdem Konjunkturdaten erneut solide ausgefallen waren. Mit dem Rückgang des Ölpreises ließen Inflationssorgen im Handelsverlauf aber nach und die Renditen kamen von den Tageshochs wieder merklich zurück.
+
+DEVISEN
+
+               zuletzt  +/- %      00:00       Fr, 08:59  % YTD 
+EUR/USD         1,1383   -0,1     1,1391          1,1384   -3,1 
+EUR/JPY         179,57   +0,3     179,13          179,94   -2,4 
+EUR/GBP         0,8595   -0,1     0,8599          0,8607   -1,4 
+USD/JPY         157,75   +0,3     157,26          158,02   +0,7 
+USD/KRW       1.361,70   +0,6   1.353,68        1.356,88   -5,5 
+USD/CNY         6,7118   -0,0     6,7128          6,7128   -4,0 
+USD/CNH         6,7146   -0,1     6,7227          6,7180   -3,7 
+USD/HKD         7,8434   -0,0     7,8438          7,8432   +0,8 
+AUD/USD         0,7019   -0,1     0,7023          0,7024   +5,2 
+NZD/USD         0,5665   +0,2     0,5655          0,5666   -1,6 
+BTC/USD      83.058,36   -1,8  84.548,70       84.019,85   -5,3
+
+Der Dollar kam nach seinem jüngsten Anstieg ganz leicht zurück, parallel zu den im Handelsverlauf sinkenden Anleiherenditen. Der Euro kostete im US-Handel zuletzt knapp 1,14 Dollar. Der Yen wertete zum Dollar auf. US-Präsident Trump hat nach Angaben der japanischen Finanzministerin Satsuki Katayama bei seinem jüngsten Treffen mit der japanischen Premierministerin Sanae Takaichi Bedenken hinsichtlich der Schwäche des Yen geäußert. Das nährte Spekulationen über mögliche gemeinsame Stützungsmaßnahmen zugunsten des Yen.
+
+++++ ROHSTOFFE +++++
+
+METALLE
+
+          zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold     4.182,29   -2,4    -103,96        4.286,25 
+Silber      61,64   -4,1      -2,64           64,28 
+Platin   1.728,88   -2,8     -49,28        1.778,16
+
+Der Goldpreis erholte sich leicht, er stieg um 0,2 Prozent auf 4.286 Dollar.
+
+ÖL
+
+             zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex      94,65   +2,4       2,24           92,41 
+Brent/ICE     107,62   +3,2       3,30          104,32
+
+Unbestätigte Berichte, wonach Unterhändler der USA und des Iran an einer Vereinbarung zur Wiedereröffnung der Straße von Hormus arbeiten, sorgten für Druck auf den Ölpreis, .Das Barrel Brent verbilligte sich um 2,1 Prozent auf 104,32 Dollar. Im asiatisch dominierten Handel am Montag ziehen die Ölpreise wieder deutlicher an. Beobachter verweisen darauf, dass US-Präsident Donald Trump hat den jüngsten iranischen Vorschlag für einen Waffenstillstand abgelehnt habe.
+
++++++ MELDUNGEN SEIT FREITAG 20.00 UHR +++++
+
+CHINA - Unternehmensgewinne
+
+Das Gewinnwachstum der chinesischen Industrie hat sich im August deutlich abgeschwächt. Für die ersten acht Monate des Jahres wurde jedoch weiterhin eine zweistellige Wachstumsrate verzeichnet. Die Industriegewinne stiegen im August um 4,2 Prozent im Vergleich zum Vorjahr. Damit verlangsamte sich das Wachstum aufgrund eines hohen Basiseffekts nach einem Anstieg von 11,2 Prozent im Juli. In den ersten acht Monaten stiegen sie um 15,7 Prozent im Vergleich zum Vorjahr zu. Das war etwas weniger als der Anstieg von 17,6 Prozent, der für den Zeitraum von Januar bis Juli verzeichnet wurde.
+
+NIO / GEELY
+
+Der chinesische Elektroautohersteller Nio reduziert die Beteiligung an seiner Batteriewechsel-Sparte. Nio verkauft 30 Prozent an den Autokonzern Geely. In dem Deal wird die Sparte mit rund 2,4 Milliarden Dollar bewertet. Nio wird 3,6 Prozent an Nio Power behalten, Geely wird 30 Prozent halten. Ein bestehender Investor hält die verbleibenden 64,4 Prozent.
+
+SK HYNIX
+
+könnte seine US-Tochter Solidigm einem Agenturbericht zufolge an die Börse bringen. Das Unternehmen erwäge einen Börsengang, der im kommenden Jahr erfolgen und rund 15 Milliarden US-Dollar einbringen könnte, berichtet Reuters. Solidigm, das auf Flash-Datenspeicher-Hardware spezialisiert ist, könnte demnach mit bis zu 150 Milliarden Dollar bewertet werden.
+
+WALMART
+
+hat sich zur umstrittenen Praxis der dynamischen Preisgestaltung geäußert und erklärt, dass die Verbraucher von den zukünftigen Taktiken des Unternehmens nichts zu befürchten hätten. Der Einzelhändler teilte mit, keine persönlichen Informationen wie Einkommen, Kaufhistorie oder Bedürftigkeit zur Preisfestsetzung zu nutzen und werde dies auch in Zukunft nicht tun.
+
+\===
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+September 28, 2026 01:49 ET (05:49 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+-   [
+    
+    ![1 MILLION Euro in 30 Jahren? Warum das NICHT reicht!](https://i.ytimg.com/vi/yUvNO9g42Cw/hqdefault.jpg)
+    
+    Videos**1 MILLION Euro in 30 Jahren? Warum das NICHT reicht!**
+    
+    07/09/2026 19:00
+    
+    https://i.ytimg.com/vi/yUvNO9g42Cw/hqdefault.jpg 1 MILLION Euro in 30 Jahren? Warum das NICHT reicht! 21:00 https://i.ytimg.com/vi/yUvNO9g42Cw/maxresdefault.jpg Reichen 5.000 Euro Netto im Monat wirklich aus, um reicher zu werden? Und warum führt mehr Gehal...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/7/1-million-euro-in-30-jahren-warum-das-nicht-reicht/)
+-   [
+    
+    ![Kryptoupdate: Bitcoin vor dem Ausbruch? Warum Krypto trotz Krise lebt](https://i.ytimg.com/vi/9dQ3cHUn-Aw/hqdefault.jpg)
+    
+    Videos**Kryptoupdate: Bitcoin vor dem Ausbruch? Warum Krypto trotz Krise lebt**
+    
+    03/09/2026 18:00
+    
+    https://i.ytimg.com/vi/9dQ3cHUn-Aw/hqdefault.jpg Kryptoupdate: Bitcoin vor dem Ausbruch? Warum Krypto trotz Krise lebt 14:03 https://i.ytimg.com/vi/9dQ3cHUn-Aw/maxresdefault.jpg Droht durch die europäische MiCA-Regulierung eine Welle von Kontosperrungen für...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/3/kryptoupdate-bitcoin-vor-dem-ausbruch-warum-krypto-trotz-krise-lebt/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+28.09.2026 / 07:49:51
+
+# MORNING BRIEFING - USA/Asien -2-
+
+(Dow Jones Newswires)
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/cln/gos
+
+(END) Dow Jones Newswires
+
+September 28, 2026 01:49 ET (05:49 GMT)
+
+## Weitere relevante Nachrichten
+
+Montag, 28.09.2026
+
+-   [
+    
+    08:30
+    
+    EUREX/DAX-Futures im Verlauf etwas fester
+    
+    Dow Jones Newswires
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=6584371581763083296)
+-   [
+    
+    08:19
+    
+    Aktien Frankfurt Ausblick: Dax vor solidem Auftakt - Tech in Asien unter Druck
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=2763401419824406713)
+-   [
+    
+    07:49
+    
+    MORNING BRIEFING - USA/Asien
+    
+    Dow Jones Newswires
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=8609650596916664061)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+-   [
+    
+    ![1 MILLION Euro in 30 Jahren? Warum das NICHT reicht!](https://i.ytimg.com/vi/yUvNO9g42Cw/hqdefault.jpg)
+    
+    Videos**1 MILLION Euro in 30 Jahren? Warum das NICHT reicht!**
+    
+    07/09/2026 19:00
+    
+    https://i.ytimg.com/vi/yUvNO9g42Cw/hqdefault.jpg 1 MILLION Euro in 30 Jahren? Warum das NICHT reicht! 21:00 https://i.ytimg.com/vi/yUvNO9g42Cw/maxresdefault.jpg Reichen 5.000 Euro Netto im Monat wirklich aus, um reicher zu werden? Und warum führt mehr Gehal...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/7/1-million-euro-in-30-jahren-warum-das-nicht-reicht/)
+-   [
+    
+    ![Kryptoupdate: Bitcoin vor dem Ausbruch? Warum Krypto trotz Krise lebt](https://i.ytimg.com/vi/9dQ3cHUn-Aw/hqdefault.jpg)
+    
+    Videos**Kryptoupdate: Bitcoin vor dem Ausbruch? Warum Krypto trotz Krise lebt**
+    
+    03/09/2026 18:00
+    
+    https://i.ytimg.com/vi/9dQ3cHUn-Aw/hqdefault.jpg Kryptoupdate: Bitcoin vor dem Ausbruch? Warum Krypto trotz Krise lebt 14:03 https://i.ytimg.com/vi/9dQ3cHUn-Aw/maxresdefault.jpg Droht durch die europäische MiCA-Regulierung eine Welle von Kontosperrungen für...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/3/kryptoupdate-bitcoin-vor-dem-ausbruch-warum-krypto-trotz-krise-lebt/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+28.09.2026 / 07:32:27
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+US-Präsident Donald Trump hat den Vorschlag des Iran für einen siebentägigen Waffenstillstand abgelehnt. Er habe Beratern erklärt, dass er nach den Zwischenwahlen im November mit einer Wiederaufnahme der Bombardierungen des Iran rechne, sagten US-Beamte. Mit Teherans Vorschlag wären im Gegenzug für die Aufhebung der amerikanischen Blockade iranischer Häfen, die der Wirtschaft des Landes schweren Schaden zufügt, die Straße von Hormus wieder geöffnet und die Atomgespräche wieder aufgenommen worden.
+
+Öffentlich behauptete Trump, Teheran flehe förmlich um eine Einigung nach den Zwischenwahlen, die zur Abwicklung des iranischen Atomprogramms führen würde. Intern zeigt er sich jedoch skeptisch, dass der Iran seinen Forderungen nachkommen wird. Nach Angaben von Regierungsvertretern erklärte er seinem Stab bereits, dass er eine neuerliche Welle von Luftangriffen für wahrscheinlich halte.
+
+Trumps derzeitige Haltung deutet darauf hin, dass sich der Konflikt, der sich aktuell in einer Grauzone zwischen Krieg und Frieden befindet, wieder in Richtung offener Feindseligkeiten verlagern dürfte. Doch der Präsident, der bereits seit den ersten Tagen der nunmehr sieben Monate andauernden Auseinandersetzung den Sieg für sich reklamiert, schwankt kontinuierlich zwischen Diplomatie, der Anordnung von Luftschlägen und der Verschärfung von Sanktionen. Seine heutigen Ansichten könnten sich im Zuge des weiteren Kriegsverlaufs in den kommenden Wochen verändern und auch vom Ausgang der Zwischenwahlen beeinflusst werden, hieß es aus Beamtenkreisen.
+
+Welcher Umfang an Luftschlägen Trump genau vorschwebt, blieb unklar. Er zögere, wieder umfassende Kampfeinsätze zu starten, hieß es - unter anderem, weil die USA ihre schwindenden Munitionsbestände für andere mögliche Krisenfälle aufsparen wollen. Dennoch hat Trump wiederholt massive Angriffe angedroht, um diplomatische Blockaden in den Verhandlungen zu durchbrechen. Teilweise ließ er diesen Drohungen Taten folgen, schreckte am Ende jedoch stets vor seinen extremsten Ankündigungen zurück - etwa der vollständigen Auslöschung der iranischen Zivilisation.
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+07:30 DE/Symrise AG, Pre-Close Aide-Mémoire 3Q
+
+11:00 DE/Borussia Dortmund GmbH & Co KGaA, Jahresergebnis
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+Keine wichtigen Konjunkturdaten angekündigt.
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Index                       zuletzt  +/- % 
+DAX Futures               25.617,00   +0,2 
+E-Mini-Future S&P-500      7.775,00   -0,4 
+E-Mini-Future Nasdaq-100  30.668,00   -0,7 
+Topix (Tokio)              4.126,40   -0,1 
+Hang-Seng (Hongk.)        24.694,09   +0,8 
+Shanghai-Comp.             3.826,42   -1,6 
+ 
+ 
+Vortag: 
+INDEX               Schluss  +/- % 
+DAX               25.408,64   +0,6 
+DAX-Future        25.708,00   +1,1 
+MDAX              31.031,35   +0,8 
+TecDAX             3.975,48   +0,5 
+SDAX              18.124,50   +0,3 
+Euro-Stoxx-50      6.302,82   +0,5 
+Stoxx-50           5.353,40   +0,2 
+XDAX              25.555,09   +0,6 
+Dow-Jones         51.828,62   +0,9 
+S&P-500            7.743,41   +0,5 
+Nasdaq Composite  27.068,72   +0,5
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Die europäischen Börsen dürften wenig verändert in die neue Woche starten. Auf der Stimmung lasten ausbleibende Fortschritte bei den Bemühungen um eine Beendigung des Kriegs gegen den Iran. US-Präsident Donald Trump hat den jüngsten iranischen Vorschlag für einen Waffenstillstand abgelehnt. Daraufhin ziehen die Ölpreise, die am Freitag etwas gesunken waren, am Montag wieder deutlicher an. Der höhere Ölpreis nährt Inflationssorgen, was wiederum die US-Anleiherenditen nach oben treibt. Wichtige Konjunkturdaten stehen am Montag nicht auf der Agenda. Auch Unternehmensnachrichten sind rar.
+
+Rückblick: Etwas fester - Etwas Unterstützung erhielt der Markt durch Medien-Berichte über neue diplomatische Bemühungen um eine Lösung des Konflikts im Nahen Osten und einen leichten Rückgang des Ölpreises. Weiter steigende US-Anleiherenditen dämpften die Kauflaune jedoch. Mit den hohen Renditen waren Banken gefragt. Im DAX ging es für Deutsche Bank und die Commerzbank um je 2,7 Prozent nach oben. In Resteuropa legten Unicredit um 2,2 Prozent zu, BNP Paribas um 0,9 Prozent oder Societe Generale um 3,5 Prozent. Aktien des Öl- und Gassektors folgten dem Ölpreis nach unten. Hier verloren BP 2,3 und Totalenergies 1,3 Prozent, trotz einer Kaufempfehlung von HSBC für beide Aktien. Die Aktien der UBS stiegen um 3,5 Prozent. Die Titel waren an den Tagen zuvor von der Abstimmung des Ständerats für strengere Eigenkapitalvorschriften belastet worden. Nun verwiesen Marktteilnehmer auf einen Bericht von Semafor Business, wonach die UBS sich den geplanten strengeren schweizerischen Regularien durch einen Zusammenschluss mit der US-Bank Morgan Stanley entziehen könnte. Morgan Stanley sei schon lange an der UBS und ihrem Vermögensverwaltungsgeschäft interessiert, so Semafor. Die Nachrichten- und Medienplattform verwies darauf, dass UBS-Verwaltungsratschef Colm Kelleher früher für die US-Bank gearbeitet hat.
+
+DAX/MDAX/SDAX/TECDAX
+
+Freundlich - Der Kurs der BASF gab um 3,6 Prozent nach. Der Ludwigshafener Chemiekonzern hat eine Übernahmeofferte für Evonik vorgelegt, wie das Essener Unternehmen bestätigte. Wie Evonik weiter mitteilte, finden derzeit keine Gespräche mit der BASF statt. Die Evonik-Aktie legte um 7,2 Prozent zu. Ein Reuters-Bericht über Qualitätsprobleme beim A321neo belastete die Airbus-Aktie, die um 1 Prozent fiel. Das Problem habe allerdings keine Auswirkungen auf die Sicherheit, hieß es. Nach einer Gewinnwarnung brachen Hellofresh um 9,8 Prozent ein. Der Kochboxenversender hatte seine Jahresprognose gesenkt, nachdem das vorläufige Ergebnis im dritten Quartal hinter den Erwartungen zurückgeblieben war.
+
+USA - AKTIEN
+
+Etwas fester - Etwas Unterstützung kam vom Ölpreis, der nach dem kräftigen Anstieg vom Vortag nachgab. Medienberichten zufolge gibt es neue diplomatische Bemühungen um eine Lösung im Nahostkonflikt. Demnach hat der iranische Außenminister Abbas Araghtschi gesagt, dass sein Land dem Weißen Haus einen neuen Plan zur Wiederöffnung der Straße von Hormus innerhalb einer Woche vorgelegt habe. Das Gipfeltreffen zwischen den Präsidenten Donald Trump und Xi Jinping hat aus Marktsicht keine neuen Erkenntnisse gebracht. An Konjunkturdaten wurde der Auftragseingang langlebiger Wirtschaftsgüter aus dem August veröffentlicht. Er stagnierte, während Volkswirte im Konsens einen Rückgang um 0,3 Prozent zum Vormonat vorhergesagt hatten. Der Index der Verbraucherstimmung der Universität Michigan ging im Vergleich zum August zwar zurück, übertraf aber die Schätzung von Ökonomen. Unter den Einzelwerten verteuerten sich Akamai um 3,2Prozent. Anthropic wird Akamai über einen Zeitraum von sieben Jahren hinweg 11,6 Milliarden Dollar für Cloud-Services zahlen. Costco Wholesale stiegen um 2,9Prozent. Die auf Mitgliedschaften basierende Großhandelskette hat mit Umsatz und Gewinn ihres vierten Geschäftsquartals die Erwartungen übertroffen. Die Aktien der Großbank Morgan Stanley schlossen kaum verändert. Marktteilnehmer verwiesen auf einen Medienbericht, wonach die schweizerische UBS sich mit der US-Bank zusammenschließen könnte, um sich den geplanten strengeren Eigenkapitalanforderungen in der Schweiz zu entziehen. Tesla fielen um 1,5Prozent. Der Veranstaltung zur Markteinführung des autonom fahrenden Lkw Semi habe enttäuscht, hieß es.
+
+USA - ANLEIHEN
+
+US-Treasuries            Rendite    +/-  Tageshoch       Tagestief 
+2 Jahre                     4,86  +0,01       4,91            4,85 
+10 Jahre                    5,18  +0,02       5,23            5,15
+
+Die Anleiherenditen zogen zeitweise deutlicher an, nachdem die Konjunkturdaten des Tages solide ausgefallen waren. Mit dem Rückgang des Ölpreises kamen sie von ihren Tageshochs zurück. Die Zehnjahresrendite stieg um2 Basispunkte auf 5,18 Prozent.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN        zuletzt  +/- %   +/- abs.  Schluss Vortag  Fr, 17:20 Uhr 
+EUR/USD         1,1386   -0,0    -0,0005          1,1391         1,1395 
+EUR/JPY         179,59   +0,3     0,4600        179,1300       179,3600 
+EUR/CHF         0,9448   +0,1     0,0013          0,9435         0,9443 
+EUR/GBP         0,8595   -0,1    -0,0004          0,8599         0,8609 
+USD/JPY         157,71   +0,3     0,4500        157,2600       157,3900 
+GBP/USD         1,3243   -0,1    -0,0006          1,3249         1,3234 
+USD/CNY         6,7128    0,0     0,0000          6,7128         6,7128 
+USD/CNH          6,715   -0,1    -0,0077          6,7227         6,7246 
+AUS/USD         0,7024   +0,0     0,0001          0,7023         0,7021 
+Bitcoin/USD  83.116,93   -1,7  -1.431,77       84.548,70      83.784,44
+
+Der Dollar kam nach seinem jüngsten Anstieg zurück; der Dollarindex tendierte knapp behauptet. Der Yen wertete zum Dollar auf. US-Präsident Trump hat nach Angaben der japanischen Finanzministerin Satsuki Katayama bei seinem jüngsten Treffen mit der japanischen Premierministerin Sanae Takaichi Bedenken hinsichtlich der Schwäche des Yen geäußert. Das nährte neue Spekulationen über mögliche Interventionen am Markt.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle        zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold          4.189,69   -2,3     -96,56        4.286,25 
+Silber           61,75   -3,9      -2,53           64,28 
+Platin        1.724,25   -3,0     -53,91        1.778,16
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+September 28, 2026 01:32 ET (05:32 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+-   [
+    
+    ![1 MILLION Euro in 30 Jahren? Warum das NICHT reicht!](https://i.ytimg.com/vi/yUvNO9g42Cw/hqdefault.jpg)
+    
+    Videos**1 MILLION Euro in 30 Jahren? Warum das NICHT reicht!**
+    
+    07/09/2026 19:00
+    
+    https://i.ytimg.com/vi/yUvNO9g42Cw/hqdefault.jpg 1 MILLION Euro in 30 Jahren? Warum das NICHT reicht! 21:00 https://i.ytimg.com/vi/yUvNO9g42Cw/maxresdefault.jpg Reichen 5.000 Euro Netto im Monat wirklich aus, um reicher zu werden? Und warum führt mehr Gehal...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/7/1-million-euro-in-30-jahren-warum-das-nicht-reicht/)
+-   [
+    
+    ![Kryptoupdate: Bitcoin vor dem Ausbruch? Warum Krypto trotz Krise lebt](https://i.ytimg.com/vi/9dQ3cHUn-Aw/hqdefault.jpg)
+    
+    Videos**Kryptoupdate: Bitcoin vor dem Ausbruch? Warum Krypto trotz Krise lebt**
+    
+    03/09/2026 18:00
+    
+    https://i.ytimg.com/vi/9dQ3cHUn-Aw/hqdefault.jpg Kryptoupdate: Bitcoin vor dem Ausbruch? Warum Krypto trotz Krise lebt 14:03 https://i.ytimg.com/vi/9dQ3cHUn-Aw/maxresdefault.jpg Droht durch die europäische MiCA-Regulierung eine Welle von Kontosperrungen für...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/3/kryptoupdate-bitcoin-vor-dem-ausbruch-warum-krypto-trotz-krise-lebt/)
+
+Weitere Treffer anzeigen
+# Nachricht - Börse Stuttgart
+
+28.09.2026 / 07:32:27
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
+Der Goldpreis erholte sich leicht dank des etwas leichteren Dollar. Die auf hohem Niveau verharrenden Marktzinsen verinderten aber eine deutlichere Erholung. Der Preis für die Feinunze stieg um 0,2 Prozent auf 4.286 Dollar.
+
+ÖL
+
+ROHOEL         zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex        94,26   +2,0       1,85           92,41 
+Brent/ICE        107,4   +3,0       3,08          104,32
+
+Berichte über neue diplomatische Bemühungen um ein Ende des Nahostkonflikts ließen den am Freitag Ölpreis nachgeben. Das Barrel Brent verbilligte sich um 2,1 Prozent auf 104,32 Dollar.
+
+Am Montag ziehen die Ölpreise wieder deutlicher an. Beobachter verweisen auf den andauernden Iran-Krieg, dessen Ausgang immer schwieriger vorherzusehen sei. US-Präsident Donald Trump hat den jüngsten iranischen Vorschlag für einen Waffenstillstand abgelehnt.
+
++++++ MELDUNGEN SEIT VORTAG 17.30 UHR +++++
+
+ZOLLSTREIT USA / CHINA
+
+ie USA und China haben nach eigenen Angaben vereinbart, die Zölle auf weniger sensible Handelsgüter im Wert von 30 Milliarden US-Dollar in beide Richtungen zu senken. Dies ist ein greifbares Ergebnis des kürzlich abgeschlossenen Gipfeltreffens zwischen dem chinesischen Staatschef Xi Jinping und US-Präsident Donald Trump in Washington. Beide Seiten teilten zudem mit, man habe sich auf die Aufnahme eines bilateralen Dialogs über Künstliche Intelligenz geeinigt, der bis November beginnen soll.
+
+DÜRR
+
+hat ein Schuldscheindarlehen mit einem Volumen von 200 Millionen Euro begeben. Die Nachfrage der Investoren nach dem Schuldscheindarlehen sei "sehr hoch" gewesen, sodass man mit dem Erlös von 200 Millionen Euro das obere Ende des angestrebten Platzierungsvolumens erreichen konnte, hieß es. Der Betrag verteilt sich auf unterschiedliche Tranchen mit Laufzeiten von vier, sechs, sieben und acht Jahren sowie fester und variabler Verzinsung.
+
+ERSTE GROUP
+
+will ihre Beteiligung an der Erste Bank Polska S.A. aufstocken. Wie das Finanzinstitut am Freitagabend mitteilte, soll den Aktionären der polnischen Tochtergesellschaft ein freiwilliges Übernahmeangebot gegen eine reine Barabfindung unterbreitet werden. Ziel ist es, den bisherigen Anteil von 49 Prozent um bis zu 26 Prozentpunkte zu erhöhen. Der Angebotspreis wird voraussichtlich bei rund 713 Zloty pro Aktie liegen.
+
+ING
+
+Die niederländische Großbank ING will bei großen, grenzüberschreitenden Bankenfusionen als Käufer auftreten. "Grundsätzlich gibt es aus meiner Sicht in Europa nur eine Handvoll Optionen für derartige Transaktionen", sagte ING-Chef Steven van Rijswijk dem Handelsblatt. "Wenn es irgendwann dazu kommt, wollen wir der Käufer sein, und nicht das Übernahmeziel. Ich will Herr über mein eigenes Schicksal sein."
+
+SK HYNIX
+
+könnte seine US-Tochter Solidigm einem Agenturbericht zufolge an die Börse bringen. Das Unternehmen erwäge ein IPO, das kommendes Jahr erfolgen und rund 15 Milliarden US-Dollar einbringen könnte, berichtet Reuters. Solidigm, das auf Flash-Datenspeicher-Hardware spezialisiert ist, könnte mit bis zu 150 Milliarden Dollar bewertet werden.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/cln
+
+(END) Dow Jones Newswires
+
+September 28, 2026 01:32 ET (05:32 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+-   [
+    
+    ![1 MILLION Euro in 30 Jahren? Warum das NICHT reicht!](https://i.ytimg.com/vi/yUvNO9g42Cw/hqdefault.jpg)
+    
+    Videos**1 MILLION Euro in 30 Jahren? Warum das NICHT reicht!**
+    
+    07/09/2026 19:00
+    
+    https://i.ytimg.com/vi/yUvNO9g42Cw/hqdefault.jpg 1 MILLION Euro in 30 Jahren? Warum das NICHT reicht! 21:00 https://i.ytimg.com/vi/yUvNO9g42Cw/maxresdefault.jpg Reichen 5.000 Euro Netto im Monat wirklich aus, um reicher zu werden? Und warum führt mehr Gehal...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/7/1-million-euro-in-30-jahren-warum-das-nicht-reicht/)
+-   [
+    
+    ![Kryptoupdate: Bitcoin vor dem Ausbruch? Warum Krypto trotz Krise lebt](https://i.ytimg.com/vi/9dQ3cHUn-Aw/hqdefault.jpg)
+    
+    Videos**Kryptoupdate: Bitcoin vor dem Ausbruch? Warum Krypto trotz Krise lebt**
+    
+    03/09/2026 18:00
+    
+    https://i.ytimg.com/vi/9dQ3cHUn-Aw/hqdefault.jpg Kryptoupdate: Bitcoin vor dem Ausbruch? Warum Krypto trotz Krise lebt 14:03 https://i.ytimg.com/vi/9dQ3cHUn-Aw/maxresdefault.jpg Droht durch die europäische MiCA-Regulierung eine Welle von Kontosperrungen für...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/3/kryptoupdate-bitcoin-vor-dem-ausbruch-warum-krypto-trotz-krise-lebt/)
+
+Weitere Treffer anzeigen
+
 Hier sind die gemeldeten Ergebnisse für die Wirtschaftsdaten vom Freitag, 25. September 2026:
 DE/NIM-Konsumklimaindikator Oktober:
 Ergebnis: -30,6 Punkte
