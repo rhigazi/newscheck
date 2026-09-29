@@ -1,4 +1,537 @@
 
+# Nachricht - Börse Stuttgart
+
+29.09.2026 / 07:34:05
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+Die Reederei Hapag-Lloyd AG hat wegen andauernd starker Nachfrage und hoher Spotfrachtraten ihre Gewinnprognose für das Gesamtjahr 2026 erneut nach oben korrigiert. Wie der MDax-Konzern mitteilte, wird das Konzern-EBITDA nun in der Bandbreite von 3,9 bis 4,4 Milliarden US-Dollar (vorher: 2,7 bis 3,7 Milliarden Dollar) und das Konzern-EBIT in einer Bandbreite von 1,25 bis 1,75 Milliarden Dollar (vorher: 0,1 bis 1,1 Milliarden Dollar) erwartet.
+
+In Euro entspricht dies einem Konzern-EBITDA von 3,4 bis 3,8 Milliarden Euro (vorher: 2,3 bis 3,2 Milliarden Euro) und einem Konzern-EBIT von 1,1 bis 1,5 Milliarden Euro (vorher: 0,1 bis 1,0 Milliarden Euro).
+
+Aufgrund volatiler Frachtraten und anhaltender geopolitischer Herausforderungen bleibe der Ausblick jedoch mit hoher Unsicherheit behaftet, hieß es weiter.
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+07:00 DE/Hornbach Holding AG & Co KGaA, Ergebnis 1H
+
+Außerdem im Tagesverlauf:
+
+\- GB/British American Tobacco plc (BAT), Kapitalmarkttag
+
+\- DE/BMW AG, Kapitalmarkttag
+
+\- DE/Medios AG, Kapitalmarkttag
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\-ES 
+    09:00 HVPI und Verbraucherpreise (vorläufig) September 
+          HVPI 
+          PROGNOSE: +5,1% gg Vj 
+          zuvor:    +4,6% gg Vj 
+ 
+-EU 
+    11:00 Index Wirtschaftsstimmung September 
+          Wirtschaftsstimmung Eurozone 
+          PROGNOSE: 98,9 
+          zuvor:    98,4 
+          Industrievertrauen Eurozone 
+          PROGNOSE: -4,9 
+          zuvor:    -5,3 
+          Verbrauchervertrauen Eurozone 
+          PROGNOSE:       -16,5 
+          Vorabschätzung: -16,5 
+          zuvor:          -15,5 
+ 
+-US 
+    16:00 Index des Verbrauchervertrauens September 
+          PROGNOSE: 89,0 
+          zuvor:    98,4 
+ 
+    16:00 Job Openings and Labor Turnover Survey, August
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+Index                       zuletzt  +/- % 
+DAX Futures               25.573,00   -0,0 
+E-Mini-Future S&P-500      7.723,25   -0,3 
+E-Mini-Future Nasdaq-100  30.413,25   -0,5 
+Topix (Tokio)              4.032,50   -1,9 
+Hang-Seng (Hongk.)        24.484,83   -0,6 
+Shanghai-Comp.             3.821,72   -0,1 
+ 
+ 
+Montag: 
+INDEX               Schluss  +/- % 
+DAX               25.374,42   -0,1 
+DAX-Future        25.684,00   +0,4 
+MDAX              30.895,59   -0,4 
+TecDAX             3.969,15   -0,2 
+SDAX              18.248,52   +0,7 
+Euro-Stoxx-50      6.301,28   -0,0 
+Stoxx-50           5.357,91   +0,1 
+XDAX              25.512,30   +0,5 
+Dow-Jones         51.481,51   -0,7 
+S&P-500            7.683,69   -0,8 
+Nasdaq Composite  26.820,38   -0,9
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Mit einem wenig veränderten Start in den Dienstag rechnen Händler an Europas Börsen. Im Fokus stehen weiter die festgefahrenen Waffenstillstandsverhandlungen zwischen den USA und Iran. Der Brent-Ölpreis notiert wieder über der Marke von 107 Dollar. Der Anstieg des Ölpreises nährt Inflationssorgen, was an den Anleihemärkten die Renditen nach oben treibt. Das wiederum setzt die Aktienmärkte unter Druck. Wichtige Konjunkturdaten stehen am Dienstag nicht an. Aus der Eurozone werden einige Stimmungsindikatoren veröffentlicht. Aus den USA kommen die Jolts-Daten zum Arbeitsmarkt und das Verbrauchervertrauen. Letzeres könnte am Nachmittag für Bewegung sorgen, falls sich die Zeichen für einen Einbruch des US-Konsums wegen steigender Kraftstoffpreise mehren.
+
+Rückblick: Wenig verändert - Die europäischen Aktienmärkte haben praktisch unverändert geschlossen. Und das trotz eines kräftigen Anstiegs des Ölpreises und weiter anziehender Renditen. Im Handel wurde die Widerstandsfähigkeit der Börsen als bemerkenswert beschrieben. Hintergrund seien die zuletzt starken Wirtschaftsdaten trotz des Energiepreisschocks. Konjunkturseitig haben die Akteure mit Blick auf die Inflation bereits der Preisindex der Persönlichen Konsumausgaben in den USA im Blick, der am Mittwoch veröffentlicht wird. Das zweite Highlight folgt am Freitag mit dem US-Arbeitsmarktbericht. Gesucht waren Ölwerte. Der Subindex legte um 0,8 Prozent zu. BP gewannen 0,9 Prozent und Repsol 1,8 Prozent. Die hohen Energiepreise machten Stahlaktien zu schaffen: Salzgitter verloren 1,7 Prozent oder Arcelormittal 0,8 Prozent. Thyssenkrupp büßten 1,1 Prozent ein. Kurssprünge verzeichneten die Aktien britischer Bauunternehmen, die auf die Errichtung von Eigenheimen spezialisiert sind. nachdem die britische Regierung das Förderprogramm "Help to Buy" wiederaufgelegt hat. Im Sektor sprangen Persimmon und Taylor Wimpey um bis zu 14,6 Prozent nach oben.
+
+DAX/MDAX/SDAX/TECDAX
+
+Knapp behauptet - Im Blick standen Aktien von Medizintechnikherstellern. Möglicherweise profitierte der Sektor von einem erhöhten Anlegerinteresse anlässlich der zwischen dem 26. und dem 28. September stattfindenden Astro-Krebskonferenz in Boston. JP Morgan wies darauf hin, dass auf dieser Siemens Healthineers ihre neue Strahlentherapie-Plattform auf den Markt bringen wird. Siemens Healthineers gewannen 2,3 Prozent. In dem Umfeld ging es auch für Sartorius 0,2 Prozent nach oben. Merck KGaA stellten den Tagesgewinner im DAX mit plus 2,6 Prozent. Südzucker hat das Ergebnis im zweiten Quartal des Geschäftsjahres 2026/27 deutlich gesteigert. Wegen der guten Entwicklung im zweiten Quartal konkretisierte Südzucker die Prognosen für das Geschäftsjahr 2026/27. Der Konzernumsatz wird nun in einer Bandbreite zwischen 8,3 bis 8,7 Milliarden Euro gesehen und das operative Konzern-EBITDA zwischen 540 bis 680 (bisher: 480 bis 680) Millionen Euro. Südzucker gewannen 3,1 Prozent. Um 12,7 Prozent nach oben schossen Redcare nach Anhebung der Prognose für das Gesamtjahr.
+
+XETRA-NACHBÖRSE
+
+Hapag-Lloyd wurden 5 Prozent höher getaxt, nachdem der Reedereikonzern abermals die Jahresprognose erhöht hatte.
+
+USA - AKTIEN
+
+Schwach - Weiter steigende Ölpreise und erneut zulegende Renditen haben zu Wochenbeginn die Wall Street belastet. Im Iran-Krieg stehen die Zeichen weiter auf Konfrontation. So hat US-Präsident Trump den Vorschlag des Irans für einen siebentägigen Waffenstillstand abgelehnt. Friedensvermittler drängten derweil den Iran zu einem Zugeständnis in seinem Atomprogramm, um die Waffenstillstandsgespräche mit den USA wiederzubeleben. Konjunkturdaten standen zu Wochenbeginn nicht auf der Agenda. Mit Blick auf die Inflation wartet der Markt auf den Preisindex der Persönlichen Konsumausgaben in den USA, der am Mittwoch veröffentlicht wird. Daneben steht zum Wochenausklang noch der US-Arbeitsmarktbericht für September an. Chip-Werte zeigten sich mit Abgaben. So verloren Intel 5,7 Prozent, Marvell 3,8 Prozent und Sandisk 3,7 Prozent. Erneut gab es Befürchtungen in Bezug auf eine zu rasche und nicht kontrollierbare Entwicklung von KI. Nvidia legten dagegen um 1,7 Prozent zu. Der Konzern hat sein bestehendes Aktienrückkaufprogramm um 150 Milliarden US-Dollar auf 235 Milliarden US-Dollar aufgestockt - der größte Rückkauf in der Geschichte. Boeing fielen um 6,9 Prozent, nachdem das Wall Street Journal berichtet hatte, dass der Flugzeughersteller einen Softwarefehler identifiziert habe, der eine automatische Landefunktion stören könnte. "Unsere Ingenieure arbeiten an einem Software-Update, um das Problem dauerhaft zu beheben", teilte Boeing Barron's mit.
+
+USA - ANLEIHEN
+
+US-Treasuries  Rendite    +/- 
+2 Jahre           4,92  +0,06 
+10 Jahre          5,24  +0,06
+
+Der Anstieg des Ölpreises nährte Inflationssorgen, was die Renditen am Anleihemarkt wegen der damit verbundenen Spekulationen um weitere Zinserhöhungen nach oben trieb. Im Zehnjahresbereich ging es um 6 Basispunkte auf 5,24 Prozent aufwärts.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN            zuletzt  +/- %  +/- abs.  Schluss Vortag   Mo, 17:04 Uhr 
+EUR/USD             1,1359   -0,1   -0,0011          1,1370          1,1361 
+EUR/JPY             178,86   -0,0   -0,0700        178,9300        179,0200 
+EUR/CHF             0,9468   +0,1    0,0009          0,9459          0,9454 
+EUR/GBP             0,8579   +0,0    0,0003          0,8576          0,8574 
+USD/JPY             157,44   +0,1    0,0900        157,3500        157,5600 
+GBP/USD             1,3236   -0,1   -0,0016          1,3252          1,3245 
+USD/CNY             6,7052   -0,1   -0,0051          6,7103          6,7103 
+USD/CNH             6,7068   -0,1   -0,0058          6,7126          6,7135 
+AUS/USD             0,7017   +0,0    0,0003          0,7014          0,7017 
+Bitcoin/USD      83.256,49   -0,3   -252,71       83.509,20       83.056,63
+
+Der "sichere Hafen" Dollar stieg, da die Hoffnungen auf eine diplomatische Lösung im Iran-Krieg weiter schwinden. Der Dollar-Index verbesserte sich um 0,3 Prozent.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle            zuletzt  +/- %  +/- abs.  Schluss Vortag 
+Gold              4.127,55   +0,3     13,28        4.114,27 
+Silber               60,39   -0,9     -0,58           60,97 
+Platin            1.690,57   -1,5    -26,46        1.717,03
+
+Der Goldpreis fiel deutlich zurück, da steigende Ölpreise die Erwartung verstärkten, dass die US-Notenbank die Zinsen im Oktober weiter anheben könnte, hieß es. Ein solcher Schritt würde das zinslose Edelmetall unter Druck setzen. Die Feinunze gab um 3,8 Prozent auf 4.125 Dollar nach.
+
+ÖL
+
+ROHOEL             zuletzt  +/- %  +/- abs.  Schluss Vortag 
+WTI/Nymex            94,35   +1,9      1,75            92,6 
+Brent/ICE           107,45   +2,1      2,17          105,28
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+September 29, 2026 01:34 ET (05:34 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
+# Nachricht - Börse Stuttgart
+
+29.09.2026 / 07:34:05
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
+Die Ölpreise stiegen erneut. Für Brent ging es um 0,9 Prozent nach oben auf 105,28 Dollar das Fass. Damit notierte der Preis zuletzt deutlich unter Tageshoch. Der Grund hierfür dürfte gewesen sein, dass wieder signifikante Ölmengen durch die zuletzt beschädigte East-West-Pipeline fließen. Laut Angaben von Bloomberg sollen wieder rund 3,5 Millionen Barrel durch die Pipeline fließen, also etwas die Hälfte der Gesamtkapazität.
+
++++++ MELDUNGEN SEIT VORTAG 17.30 UHR +++++
+
+DEUTSCHE BANK
+
+hat ihr am 25. August 2026 gestartetes Aktienrückkaufprogramm planmäßig am 25. September 2026 abgeschlossen. Wie die Bank mitteilte, wurden im genannten Zeitraum insgesamt 15.063.631 eigene Aktien über die Börse zurückgekauft. Dies entspricht rund 0,8 Prozent des Grundkapitals der Gesellschaft. Der volumengewichtete Durchschnittskurs je Aktie lag bei 33,19 Euro. Daraus ergibt sich ein Gesamtkaufpreis von rund 500 Millionen Euro.
+
+THYSSENKRUPP STEEL
+
+strebt nach eigenen Angaben mittelfristig eine höhere Profitabilität an, während das Unternehmen Restrukturierungsmaßnahmen vorantreibt und seine Wettbewerbsfähigkeit stärken will. Die Sparte Stahl des deutschen Konzerns teilte mit, dass sie mittelfristig ein bereinigtes Ergebnis vor Zinsen, Steuern und Abschreibungen (EBITDA) von mindestens 1,2 Milliarden Euro bei einer Marge von mindestens 11 Prozent prognostiziert. Zudem erwartet das Unternehmen einen positiven freien Cashflow.
+
+BORUSSIA DORTMUND
+
+hat wichtige Personalentscheidungen getroffen. Wie die Borussia Dortmund GmbH & Co. KGaA mitteilte, wurde Carsten Cramer mit sofortiger Wirkung vom Sprecher zum Vorsitzenden der Geschäftsführung ernannt und sein Vertrag vorzeitig um vier Jahre bis zum 30. Juni 2031 verlängert. Auch der Kontrakt von Sport-Geschäftsführer Lars Ricken wurde vorzeitig verlängert; er unterschrieb bis zum 30. Juni 2030.
+
+ASTRAZENECA
+
+investiert im Rahmen einer erweiterten Partnerschaft 2 Milliarden US-Dollar in das US-Unternehmen Summit Therapeutics. Summit teilte mit, dass Astrazeneca wandelbare Vorzugsaktien im Wert von 2 Milliarden Dollar erwerben werde. Dies entspreche einem Stammaktienpreis von 18,36 Dollar je Aktie, was einen Aufschlag von 10 Prozent auf den volumengewichteten Fünf-Tage-Durchschnittskurs der Aktien darstelle.
+
+BOEING
+
+Die US-Luftfahrtbehörde Federal Aviation Administration wird die Zertifizierung des neuesten 737-MAX-Modells von Boeing verschieben. Wie der Chef der Behörde mitteilte, prüfen die Flugsicherheitsbehörden ein neues Software-Problem. Einige Branchenvertreter befürchten, dass dies ein potenzielles Sicherheitsrisiko bei der Landung darstellen könnte. Boeing bemüht sich seit geraumer Zeit um die Genehmigung der FAA für die MAX 10, die längste Version der 737-Variante.
+
+OPENAI
+
+hat nach eigenen Angaben die Veröffentlichung seines KI-Modells der nächsten Generation aufgrund von Sicherheitsbedenken verworfen. Forscher hatten diese während interner Tests geäußert. Dies ist eines der bisher deutlichsten Anzeichen dafür, dass Fehlverhalten von Agenten den rasanten Fortschritt der Branche bremsen könnte.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/ros/cln
+
+(END) Dow Jones Newswires
+
+September 29, 2026 01:34 ET (05:34 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
+# Nachricht - Börse Stuttgart
+
+29.09.2026 / 08:01:11
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+OpenAI hat die Veröffentlichung seines KI-Modells der nächsten Generation aufgrund von Sicherheitsbedenken verworfen. Forscher hatten diese während interner Tests geäußert. Dies ist eines der bisher deutlichsten Anzeichen dafür, dass Fehlverhalten von Agenten den rasanten Fortschritt der Branche bremsen könnte. Der Schritt folgt auf einen Sommer, der von Berichten über außer Kontrolle geratene Systeme Künstlicher Intelligenz in der gesamten Branche geprägt war. Es ist ein seltener Fall, das ein großer KI-Entwickler eine neue Version wegen Sicherheitsbedenken aufgibt. Das Unternehmen hatte geplant, das als GPT-6.1 Astra bekannte Modell in den kommenden Tagen oder Wochen auf den Markt zu bringen, wobei ein Debüt im Oktober angestrebt wurde. Das Modell war leistungsfähiger als die früheren Modelle des Unternehmens beim Lösen anspruchsvoller Aufgaben von Anfang bis Ende ohne menschliche Hilfe sowie beim Schreiben. Stattdessen wird sich das Unternehmen nun darauf konzentrieren, die Sicherheit künftiger Modelle zu verbessern. Von diesen erwartet OpenAI eine noch höhere Leistungsfähigkeit.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+Es stehen keine wichtigen Termine auf der Agenda.
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\-US 
+    16:00 Index des Verbrauchervertrauens September 
+          PROGNOSE: 89,0 
+          zuvor:    98,4 
+ 
+    16:00 Job Openings and Labor Turnover Survey, August
+
++++++ ÜBERSICHT INDIZES +++++
+
+                              zuletzt  +/- % 
+E-Mini-Future S&P-500        7.727,25   -0,3 
+E-Mini-Future Nasdaq-100    30.424,50   -0,5 
+S&P/ASX 200 (Sydney)         8.695,30   +0,2 
+Topix-500 (Tokio)            4.029,63   -2,0 
+Kospi (Seoul)                6.825,65   -0,9 
+Shanghai-Composite           3.828,29   +0,1 
+Hang-Seng-Index (Hongkong)  24.453,87   -0,8
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Leichter - Die Aktienmärkte folgen der Vorgabe der Wall Street. Der fortgesetzte Anstieg der Renditen lähmt die Kaufbereitschaft. Treiber der Marktzinsen auf immer neue 19-Jahreshochs ist der Ölpreis. Er steigt, nachdem zuletzt die USA ein Angebot des Irans zurückgewiesen hatten, die Straße von Hormus bei bestimmten Gegenleistungen der USA wieder zu öffnen. Dass die Notenbank in Australien die Zinsen erhöht hat, bewegt nicht. Der Schritt war allgemein erwartet worden. Überwiegend gemieden werden erneut Technologieaktien. Für Gegenwind sorgt zum einen das erhöhte Zinsniveau, belastend wirken daneben die sich mehrenden Anzeichen für eine langsamere Entwicklung der künstlichen Intelligenz angesichts von Sicherheitsbedenken. OpenAI hat laut dem Wall Street Journal die Veröffentlichung seines nächsten KI-Modells gestrichen, nachdem dieses interne Sicherheitskontrollen nicht bestanden hatte. In Hongkong knicken Shein um gut 10 Prozent auf ein Rekordtief ein, nachdem der Fast-Fashion-Händler einen starken Rückgang des Gewinns im zweiten Quartal gemeldet hat. Auf breiter Front aufwärts geht es in Hongkong für Immobilienaktien. Laut Marktbeobachtern hat der chinesische Staatsrat angekündigt, die antizyklische wirtschaftspolitische Unterstützung zu verstärken und insbesondere Maßnahmen zur Stabilisierung des Immobilienmarktes auszurollen. Einen Satz um gut 20 Prozent machen Codan in Sydney. Die Aktie des Kommunikationstechnologieunternehmens liegt damit auf einem Rekordhoch, nachdem Codan aufgrund der starken Nachfrage von Drohnenherstellern seine Gewinnprognose deutlich angehoben hat.
+
+WALL STREET
+
+Dow-Jones         51.481,51  -0,7 
+S&P-500            7.683,69  -0,8 
+Nasdaq Composite  26.820,38  -0,9 
+ 
+                     Montag     Freitag 
+Umsatz NYSE (Aktien) 1,22 Mrd   1,05 Mrd 
+Gewinner               678      k.A. 
+Verlierer            2.084      k.A. 
+Unverändert             69      k.A.
+
+Schwach - Weiter steigende Ölpreise und vor diesem Hintergrund weiter steigende Marktzinsen lasteten auf der Stimmung für Aktien, auch dass im Iran-Krieg die Zeichen weiter auf Konfrontation stehen. Chipwerte zeigten sich mit Abgaben, belastet von Befürchtungen einer zu schnellen und nicht kontrollierbaren KI-Entwicklung. Experten von Meta und Microsoft schlossen sich OpenAI und Anthropic an und fordern eine Untersuchung von Systemen künstlicher Intelligenz, die in der Lage sind, sich autonom selbst zu verbessern. Intel verloren 5,7 Prozent, Marvell 3,8 Prozent und Sandisk 3,7 Prozent. Nvidia legten dagegen um 1,7 Prozent zu, gestützt von einem aufgestockten Aktienrückkaufprogramm - das größte in der Geschichte überhaupt. Boeing fielen um 6,9 Prozent, nachdem das Wall Street Journal berichtet hatte, dass der Flugzeughersteller einen Softwarefehler identifiziert habe, der eine automatische Landefunktion stören könnte. MongoDB fielen um 18 Prozent, nachdem das Datenbankunternehmen den Wechsels seines CEO zu Meta mitgeteilt hatte.
+
+US-ANLEIHEN
+
+US-Treasuries  Rendite    +/- 
+2 Jahre           4,92  +0,06 
+10 Jahre          5,24  +0,06
+
+Der Anstieg des Ölpreises nährte Inflationssorgen, was die Renditen am Anleihemarkt wegen der damit verbundenen Spekulationen um weitere Zinserhöhungen erneut nach oben trieb auf neue 19-Jahreshochs.
+
+DEVISEN
+
+               zuletzt  +/- %      00:00       Mo, 09:05  % YTD 
+EUR/USD         1,1355   -0,1     1,1370          1,1372   -3,3 
+EUR/JPY         178,68   -0,1     178,93          179,16   -2,9 
+EUR/GBP         0,8580   +0,1     0,8576          0,8590   -1,6 
+USD/JPY         157,34   -0,0     157,35          157,53   +0,4 
+USD/KRW       1.356,60   -0,2   1.359,51        1.363,24   -5,8 
+USD/CNY         6,7062   -0,1     6,7103          6,7149   -4,1 
+USD/CNH         6,7087   -0,1     6,7126          6,7164   -3,8 
+USD/HKD         7,8446   -0,0     7,8450          7,8438   +0,8 
+AUD/USD         0,6986   -0,4     0,7014          0,7013   +4,7 
+NZD/USD         0,5655   -0,2     0,5664          0,5662   -1,8 
+BTC/USD      83.404,41   -0,1  83.509,20       83.247,88   -4,9
+
+Der Dollar legte mit den US-Renditen etwas zu. Der Euro kostete zuletzt im US-Handel 1,1367 Dollar.
+
+++++ ROHSTOFFE +++++
+
+METALLE
+
+          zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold     4.140,84   +0,6      26,57        4.114,27 
+Silber      60,74   -0,4      -0,23           60,97 
+Platin   1.687,21   -1,7     -29,82        1.717,03
+
+Die Edelmetallpreise standen stark unter Druck. Weiter steigende Ölpreise verstärkten die Erwartung, dass die US-Notenbank die Zinsen im Oktober weiter anheben dürfte, hieß es zur Begründung. Denn dadurch verliere das zinslose Gold als Anlage an Attraktivität. Für Gegenwind sorgte zugleich der weiter feste Dollar, wodurch sich die Edelmetallpreise für Käufer aus Nichtdollarländern verteuern. Die Feinunze gab um 3,8 Prozent auf 4.125 Dollar nach.
+
+ÖL
+
+             zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex      94,05   +1,6       1,45           92,60 
+Brent/ICE     107,28   +1,9       2,00          105,28
+
+Die Ölpreise stiegen erneut, angetrieben von einer ausbleibenden Annäherung zwischen den USA und dem Iran bei Verhandlungen über die Öffnung der Straße von Hormus. Für Brent ging es um 1,6 Prozent nach oben auf 106,18 Dollar im späten US-Handel. Im Tageshoch waren aber auch schon über 108 Dollar fällig gewesen. Für etwas Entspannung sorgte, dass offenbar wieder signifikante Ölmengen durch die zuletzt beschädigte East-West-Pipeline Saudi-Arabien fließen.
+
++++++ MELDUNGEN SEIT MONTAG 20.00 UHR +++++
+
+AUSTRALIEN - Geldpolitik
+
+Die australische Zentralbank hat wie erwartet die Zinsen zum vierten Mal in diesem Jahr angehoben. Damit steigen sie auf ein 15-Jahres-Hoch. Die Reserve Bank of Australia stimmte einstimmig dafür, den Leitzins um 25 Basispunkte auf 4,60 Prozent anzuheben. Als Grund nannte sie den anhaltenden Druck auf die Energiepreise infolge des Konflikts im Nahen Osten. "Seit der letzten Sitzung materialisieren sich einige der Aufwärtsrisiken für die Inflation", sagte das neunköpfige, für die Geldpolitik zuständige Board.
+
+AUSTRALIEN - Konjunktur
+
+Die Ausgaben der australischen Haushalte sind im August gegenüber Juli stagniert. Sie lagen 6,8 Prozent über dem Niveau des Vorjahreszeitraums. Das schwache Ergebnis für August fällt in eine Zeit der Spekulation, dass die australische Zentralbank die Zinsen vor Jahresende noch zwei weitere Male anheben könnte.
+
+AAR
+
+Der Luftfahrtdienstleister hat sich auf den Kauf einer Mehrheitsbeteiligung am nicht börsennotierten Flugzeugwartungsunternehmen MRO Holdings für 1,8 Milliarden US-Dollar geeinigt, wie mit der Angelegenheit vertraute Personen berichten.
+
+AMD
+
+will das auf künstliche Intelligenz spezialisierte Forschungsunternehmen World Labs in einem reinen Aktiendeal mit einem Volumen von etwa 8,2 Milliarden US-Dollar übernehmen.
+
+ASTRAZENECA / SUMMIT THERAPEUTICS
+
+Astrazeneca investiert im Rahmen einer erweiterten Partnerschaft 2 Milliarden US-Dollar in das US-Unternehmen Summit Therapeutics.
+
+GOLDMAN SACHS
+
+Das Board hat einen Plan erörtert, wonach David Solomon bereits im nächsten Jahr als CEO zurücktreten und durch COO John Waldron ersetzt werden soll, wie mit der Angelegenheit vertraute Personen berichten.
+
+JEFFERIES
+
+hat im dritten Quartal einen Gewinn von 260,6 (Vorjahr: 224) Millionen Dollar oder 1,08 (1,01) Dollar je Aktie erzielt. Analysten hatten nur 1 Dollar je Aktie erwartet. Der Umsatz stieg auf 2,22 (Vorjahr: 2,05) Milliarden Dollar und übertraf die Analystenschätzungen von 2,2 Milliarden Dollar. Haupttreiber war das Investmentbanking mit einem Umsatz von 1,33 (Vorjahr: 1,14) Milliarden Dollar.
+
+SHEIN
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+September 29, 2026 02:01 ET (06:01 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
+# Nachricht - Börse Stuttgart
+
+29.09.2026 / 08:01:11
+
+# MORNING BRIEFING - USA/Asien -2-
+
+(Dow Jones Newswires)
+
+Der Fast-Fashion-Anbieter hat im zweiten Quartal einen geringeren Gewinn bei bescheidenem Umsatzwachstum gemeldet, weil der regulatorische Gegenwind in den USA und Europa das Geschäft weiterhin belastete. Der Umsatz im zweiten Quartal stieg im Vergleich zum Vorjahr um 0,9 Prozent auf 11,08 Milliarden US-Dollar, verglichen mit einem Wachstum von 1,1 Prozent im ersten Quartal und einem Jahreswachstum von 8,0 Prozent für 2025. Der bereinigte Nettogewinn sank in den drei Monaten bis Ende Juni auf 228,0 Millionen Dollar, nach 683,0 Millionen Dollar im Vorjahr.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/ros/cln/gos
+
+(END) Dow Jones Newswires
+
+September 29, 2026 02:01 ET (06:01 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
 
 
 # Nachricht - Börse Stuttgart
