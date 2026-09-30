@@ -1,5 +1,861 @@
 # Nachricht - Börse Stuttgart
 
+30.09.2026 / 07:46:25
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+DONNERSTAG: In Shanghai und Hongkong bleiben die Börsen wegen des Nationalfeiertages geschlossen.
+
++++++ TAGESTHEMA I +++++
+
+Die US-Notenbank kann sich mit ihrer nächsten Zinserhöhung laut dem New Yorker Fed-Präsidenten John Williams noch etwas Zeit lassen. "Angesichts der geldpolitischen Maßnahmen, die wir auf unserer September-Sitzung ergriffen haben, besteht keine Dringlichkeit", sagte Williams. Die Äußerungen von Williams haben besonderes Gewicht, da er als stellvertretender Vorsitzender des zinssetzenden Ausschusses der Fed in der Regel bestrebt ist, die Mehrheitsmeinung des Ausschusses widerzuspiegeln, anstatt eine eigene Position zu beziehen.
+
++++++ TAGESTHEMA II +++++
+
+US-Präsident Donald Trump hat sein Versprechen bekräftigt, die KI-Branche nicht mit Vorschriften zu behindern - trotz wachsender Forderungen aus dem Silicon Valley und der Öffentlichkeit nach neuen Leitplanken. "Ich werde niemals das Wachstum einer Technologie ersticken, die größer sein wird als die industrielle Revolution", sagte er.Das US-Justizministerium, das Federal Bureau of Investigation und die bestehenden Behörden seien ausreichend, um böswillige Akteure, die KI für schändliche Zwecke nutzen, zur Rechenschaft zu ziehen, sagte er. Zuvor hatte er sich mit rund zwei Dutzend CEOs und Branchenführern getroffen. Trump sagte, dass "Selbstregulierung sehr wichtig" sei, während er von Nvidia-Chef Jensen Huang und SpaceX-CEO Elon Musk flankiert wurde. Trump und der Sprecher des US-Repräsentantenhauses, Mike Johnson (R., La.), der an dem Mittagessen teilnahm, sagten, die CEOs hätten eine Erklärung unterzeichnet, in der sie sich verpflichten, die KI-Technologie sicher zu halten. Das Dokument enthält freiwillige Grundsätze wie interne Kontrollen zur Überwachung der Modellentwicklung, externe Modellprüfungen und Benachrichtigungen an das Board of Directors über diese Sicherheitsbemühungen. Trump nannte es eine "Verfassung", die er für "moralisch bindend" halte.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+22:00 US/Micron Technology Inc, Ergebnis 4Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\-US 
+    14:15 ADP-Arbeitsmarktbericht September 
+          Beschäftigung privater Sektor 
+          PROGNOSE: +68.000 Stellen 
+          zuvor:    +38.000 Stellen 
+ 
+    14:30 BIP (3. Veröffentlichung) 2Q 
+          annualisiert 
+          PROGNOSE:   +1,5% gg Vq 
+          2. Veröff.: +1,5% gg Vq 
+          1. Quartal: +2,1% gg Vq 
+          BIP-Deflator 
+          (annualisiert) 
+          PROGNOSE:   +6,4% gg Vq 
+          2. Veröff.: +6,4% gg Vq 
+          1. Quartal: +3,6% gg Vq 
+ 
+    14:30 Persönliche Ausgaben und Einkommen August 
+          Ausgaben / Einkommen 
+          PROGNOSE: +0,8% gg Vm/+0,4% gg Vm 
+          zuvor:    +0,2% gg Vm/+0,4% gg Vm 
+          PCE-Preisindex / Gesamtrate 
+          PROGNOSE: +0,3% gg Vm/+3,7 gg Vj 
+          zuvor:    +0,2% gg Vm/+3,7% gg Vj 
+          PCE-Preisindex / Kernrate 
+          PROGNOSE: +0,3% gg Vm/+3,3% gg Vj 
+          zuvor:    +0,2% gg Vm/+3,3% gg Vj 
+ 
+    15:45 Index Einkaufsmanager Chicago September 
+          PROGNOSE: 52,0 
+          zuvor:    47,1
+
++++++ ÜBERSICHT INDIZES +++++
+
+                              zuletzt  +/- % 
+E-Mini-Future S&P-500        7.745,25   +0,2 
+E-Mini-Future Nasdaq-100    30.613,50    0,0 
+S&P/ASX 200 (Sydney)         8.804,20   +1,1 
+Topix-500 (Tokio)            4.116,38   +1,9 
+Kospi (Seoul)                6.850,79   -0,3 
+Shanghai-Composite           3.846,85   +0,4 
+Hang-Seng-Index (Hongkong)  24.521,05   -0,0
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Uneinheitlich - In Tokio wird das deutliche Vortagesminus wieder wettgemacht. Für Rückenwind sorgt der schwächere Yen. Er dürfte unter einer unerwartet gesunkenen japanischen Industrieproduktion im August leiden, was tendenziell gegen weitere Zinserhöhungen spricht. Daneben fiel auch der Zuwachs des Einzelhandelsumsatzes schwächer aus als erwartet. In Shanghai geht es leicht nach oben, nachdem neue Einkaufsmanagerdaten eine Verbesserung der konjunkturellen Lage zeigen. In Sydney stützt, dass die australischen Verbraucherpreise im August nicht ganz so stark gestiegen sind wie befürchtet. Der Preisanstieg unterstreiche zugleich dennoch die Richtigkeit der Entscheidung der Reserve Bank of Australia vom Dienstag, die Zinsen auf ein 15-Jahres-Hoch anzuheben und weitere Zinserhöhungen ins Auge zu fassen. Tendenziell stützend wirkt übergeodnet, dass der Ölpreis wieder deutlich gesunken ist. Für Zurückhaltung könnte wiederum sorgen, dass später am Tag aus den USA wichtige Inflationszahlen berichtet werden. Sie haben das Potenzial, die Zinserwartungen deutlicher zu bewegen. Aktuell wird mit einer gut 70-prozentigen Wahrscheinlichkeit im Oktober eine weitere Zinserhöhung in den USA erwartet. Unter den Einzelwerten geht es in Sydney für Droneshield um 6,8 Prozent nach oben. Der Drohnenproduzent konnte sich einen US-Auftrag im Umfang von 500 Millionen US-Dollar sichern.
+
+WALL STREET
+
+Dow-Jones         51.349,92  -0,3 
+S&P-500            7.670,84  -0,2 
+Nasdaq Composite  26.797,54  -0,9 
+Tabelle einfügen 
+ 
+                     Dienstag   Montag 
+Umsatz NYSE (Aktien)  1,17 Mrd   1,22 Mrd 
+Gewinner             1.149        678 
+Verlierer            1.601      2.084 
+Unverändert             79         69
+
+Schwächer - Die auf Mehrjahreshoch liegenden und weiter anziehende Renditen drückten auf die Stimmung. Konjunkturseitig enttäuschte der Index des Verbrauchervertrauens für September mit einer deutlichen Abschwächung. Tendenziell stützend wirkten dafür Aussagen des Präsidenten der New Yorker Fed-Filiale, John Williams, wonach sich die US-Notenbank nach der jüngsten Zinserhöhung in diesem Jahr nicht mit weiteren Zinserhöhungen beeilen müsse. Im Fokus stand der Sektor Künstliche Intelligenz (KI) mit dem von Anthropic für den geplanten Börsengang vorgelegten Börsenprospekt. Zwar steigert das Unternehmen den Umsatz rasch, verzeichnet jedoch gleichzeitig sich ausweitende Verluste, wie die Nachrichtenagentur Reuters nach Einsicht in den Prospekt berichtete. Dazu plant Anthropic in den kommenden Jahren Investitionen von 518 Milliarden Dollar. Derweil verwarf OpenAI die Veröffentlichung seines KI-Modells der nächsten Generation aufgrund von Sicherheitsbedenken. Keine konkreten Ergebnisse brachte das von Unternehmenschefs initiierte Gespräch mit US-Präsident Trump zur Regulierung der KI-Entwicklung, um die von KI ausgehenden Gefahren zu kontrollieren. Bei den Einzelwerten ging es für Nvidia um 0,7 Prozent nach unten, AMD und Intel bewegten sich kaum. Marvell verbesserten sich dagegen um 4,5 Prozent. Carnival sprangen um 13 Prozent nach oben, nachdem der Kreuzfahrtanbieter Rekordumsätze gemeldet hatte.
+
+US-ANLEIHEN
+
+            Rendite    +/- 
+2 Jahre        4,89  -0,04 
+10 Jahre       5,26  +0,02
+
+Die Renditen am langen Ende des Anleihemarkts legten erneut zu, am kurzen Ende sanken die Renditen aber, nachdem der Präsident der New Yorker Fed-Filiale John Williams gesagt hatte, die US-Notenbank müsse sich mit weiteren Zinserhöhungen im laufenden Jahr nicht beeilen. Darauf sackte am Zinsterminmarkt die Wahrscheinlichkeit einer Zinserhöhung im Oktobar stark ab auf 47 Prozent von zuvor rund 70 Prozent.
+
+DEVISEN
+
+                zuletzt  +/- %          00:00       Di, 09:01  % YTD 
+EUR/USD          1,1336   -0,0         1,1340          1,1360   -3,5 
+EUR/JPY          178,00   -0,2         178,35          178,95   -3,3 
+EUR/GBP          0,8563   -0,1         0,8569          0,8580   -1,7 
+USD/JPY          157,02   -0,2         157,28          157,50   +0,2 
+USD/KRW        1.355,40   +0,3       1.351,66        1.357,58   -5,9 
+USD/CNY          6,7040   +0,0         6,7030          6,7043   -4,1 
+USD/CNH          6,7058   -0,0         6,7080          6,7061   -3,9 
+USD/HKD          7,8460   -0,0         7,8464          7,8452   +0,8 
+AUD/USD          0,6972   -0,2         0,6983          0,6990   +4,5 
+NZD/USD          0,5644   +0,1         0,5639          0,5652   -2,0 
+BTC/USD       83.454,67   -0,2      83.599,88       83.872,10   -4,8
+
+Der Dollar wertete erneut leicht auf und liegt nun im Bereich eines 18-Monatshochs. Der Euro kostete zuletzt in den USA knapp 1,1340 Dollar.
+
+++++ ROHSTOFFE +++++
+
+METALLE
+
+          zuletzt  +/- %       +/- abs.  Schluss Vortag 
+Gold     4.175,29   -0,1          -5,50        4.180,79 
+Silber      61,05   -0,7          -0,40           61,45 
+Platin   1.703,16   -0,2          -2,59        1.705,75
+
+Der Goldpreis erholte sich von den jüngsten Verlusten um 1,4 Prozent auf 4.184 Dollar. Der Anstieg dürfte begrenzt sein, solange sich die US-Notenbank "im Inflationsbekämpfungsmodus befindet", so Carsten Menke von Julius Bär.
+
+ÖL
+
+            zuletzt  +/- %       +/- abs.  Schluss Vortag 
+WTI/Nymex     89,52   +0,2           0,14           89,38 
+Brent/ICE    103,43   +0,8           0,84          102,59
+
+Die Ölpreise gaben mit Anzeichen für eine Erholung der Rohölexporte aus wichtigen Förderländern im Nahen Osten nach, nachdem sie im frühen europäischen Handel noch gestiegen waren. Der Preis für ein Barrel der Sorte Brent fiel um 2.6 Prozent auf 102,59 Dollar. Im September erreichten die Rohölexporte aus der Golfregion laut Daten von Kpler 80 Prozent des Vorkriegsniveaus. Dazu nahm Saudi-Arabien nach einer Reparatur den Ölexport durch die Ost-West-Pipeline wieder auf. "Dass die Ölpreise so hoch bleiben, dürfte an der Skepsis der Marktteilnehmer liegen, dass angesichts der angespannten Atmosphäre zwischen den Konfliktparteien dieses hohe Marktangebot nachhaltig sein wird", sagt Barbara Lambrecht, Rohstoffanalystin bei der Commerzbank.
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+September 30, 2026 01:46 ET (05:46 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+30.09.2026 / 07:46:25
+
+# MORNING BRIEFING - USA/Asien -2-
+
+(Dow Jones Newswires)
+
++++++ MELDUNGEN SEIT DIENSTAG 20.00 UHR +++++
+
+AUSTRALIEN - Inflation
+
+Die australischen Verbraucherpreise sind im August im Vergleich zum Vorjahreszeitraum um 4,0 Prozent gestiegen, nach einem Anstieg von 3,5 Prozent im Juli. Ökonomen hatten mit 4,1 Prozent noch etwas mehr erwartet.
+
+CHINA - Konjunktur
+
+Chinas wirtschaftliche Aktivität hat im September Anzeichen einer Verbesserung gezeigt. Der offizielle Einkaufsmanagerindex für das verarbeitende Gewerbe stieg auf 50,1 von 49,8 im August. Das entspricht der Prognose. Damit wurde eine zweimonatige Schrumpfungsphase beendet, in der der Index unter der Schwelle von 50 Punkten geblieben war. Der von S&P Global erstellte RatingDog-PMI - ein privater, stärker exportorientierter Index - stieg von 51,5 auf 52,1. Dies war der höchste Stand seit fünf Monaten und der zehnte Monat in Folge über der neutralen Schwelle. Der Index für den Dienstleistungssektor, der auch die Bautätigkeit abdeckt, stieg auf 50,2 von 49,0. Der RatingDog-Index für den Dienstleistungssektor wies in die gleiche Richtung.
+
+JAPAN - Konjunktur
+
+Die japanische Industrieproduktion ist im August gegenüber dem Vormonat um 1,7 Prozent gesunken, nachdem sie bereits im Juli um 0,2 Prozent zurückgegangen war. Ökonomen hatten dagegen einen Anstieg um 1,7 Prozent prognostiziert. Die Einzelhandelsumsätze stiegen unterdessen um 2,7 Prozent zum Vorjahr.
+
+BOEING
+
+hat sich einen Navy-Auftrag über mehr als 20 Milliarden Dollar gesichert.
+
+OPENAI
+
+hat mit Dot seinen neuesten Konkurrenten im Rennen um KI-Assistenten vorgestellt. Der Always-On-Agent arbeitet im Hintergrund, um Aufgaben im Namen der Nutzer zu erledigen. Dot soll mit vielbeachteten neuen Produkten wie Metas Muse und Instinct konkurrieren.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/ros/gos
+
+(END) Dow Jones Newswires
+
+September 30, 2026 01:46 ET (05:46 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+30.09.2026 / 07:00:02
+
+# PRESSESPIEGEL/Unternehmen
+
+(Dow Jones Newswires)
+
+Die wirtschaftsrelevanten Themen aus den Medien, zusammengestellt von Dow Jones Newswires.
+
+BASF - BASF arbeitet auch nach der Absage von Evonik weiter an einer Übernahme des Essener Chemieunternehmens. Ein neues, erweitertes Angebot sei an die Gesprächsbereitschaft Evoniks geknüpft, erfuhr das Handelsblatt von Managern, die mit dem Projekt vertraut sind. Darin könnten die Modalitäten einer Fusion sowie Argumente für einen höheren Kaufpreis erörtert werden. Der Evonik-Vorstand habe am Montag eine erste Offerte über 22,15 Euro pro Aktie abgelehnt, was einem gesamten Kaufpreis von 10,3 Milliarden Euro entspricht. Für BASF sei die Übernahme ein "längerfristiges und gut vorbereitetes Projekt und kein Schnellschuss", hieß es in den Kreisen weiter. Der interne Zeitplan sehe einen vollständigen Abschluss einer Transaktion frühestens 2028 vor. Auch die Finanzierung der Übernahme sei detailliert geplant und soll nicht auf Kosten der Dividende und der Ziele von BASF beim Schuldenabbau gehen. (Handelsblatt)
+
+COMMERZBANK - Unicredit bringt ihre Kandidaten für die bei der Commerzbank neu zu besetzenden Schlüsselpositionen bei den Bankaufsehern in Stellung. Diesbezüglich liefen derzeit Gespräche mit der Finanzaufsicht Bafin, erfuhr die Börsen-Zeitung von Personen, die mit der Angelegenheit vertraut sind. Unicredit will die gesamte Kapitalseite des Commerzbank-Aufsichtsrats, also alle zehn Kapitalvertreter, neu wählen. Diese neuen Kontrolleure sowie die künftigen Vorstände müssen eine umfangreiche Eignungsprüfung ("fit and proper") durch die Bankenaufseher durchlaufen. Die Bafin ist daran beteiligt, die Entscheidungen treffen die Bankenaufseher der Europäischen Zentralbank (EZB). Unicredit, Commerzbank und Bafin lehnten einen Kommentar hierzu ab. (Börsen-Zeitung)
+
+PORSCHE - Der Porsche-Chef hat sich gegen Bedenken gewehrt, dass der Sportwagenhersteller seine Elektrostrategie überkorrigieren könnte. Michael Leiters sagte, es sei "unfair", ihn als EV-Skeptiker zu bezeichnen. Seit er im Januar die Leitung von Porsche übernommen hat, hat Leiters den Konzern verschlankt, um sich auf die Entwicklung neuer Benzinmodelle zu konzentrieren und die durch den überambitionierten Umstieg auf Elektroautos geschmälerten Gewinne wiederzubeleben. Um die einbrechenden Verkaufszahlen in China auszugleichen, will Leiters die Gewinne von Porsche mit einer neuen Verbrennungsmotor-Version seines Bestsellers Macan im Jahr 2028 wiederbeleben. Mit Blick auf den neuen Luxus-SUV K1 sagte Leiters, das Unternehmen habe noch nicht entschieden, welche Motoren es wählen werde, fügte aber hinzu, dass es in den oberen Segmenten "immer noch mehr Appetit auf Benziner" gebe. (Financial Times)
+
+COMMERZBANK - Die Gewerkschaft Verdi reagiert empört auf die Pläne von Unicredit-Chef Andrea Orcel zum schnellen Radikalumbau der Commerzbank. "Andrea Orcel zeigt erneut, warum Vertrauen in sein Vorgehen schwerfällt", sagte Gewerkschaftssekretär Kevin Voß, der auch im Aufsichtsrat der Commerzbank sitzt, dem Handelsblatt. "Statt den angekündigten konstruktiven Dialog zu suchen, setzt er weiter auf Druck und Konfrontation. Das ist ein schlechtes Signal für den Bankenstandort Deutschland und Europa - vor allem aber für die Beschäftigten beider Häuser." (Handelsblatt)
+
+SIEMENS - Siemens plant eine starke Steigerung der Produktivität. Sie solle innerhalb von drei Geschäftsjahren um insgesamt 20 Prozent erhöht werden, sagte Finanzvorständin Veronika Bienert im Interview mit der Börsen-Zeitung. Mit Blick auf die höhere Dynamik als bisher fügte sie hinzu: "Die zusätzliche Produktivität wollen wir durch den Einsatz von Künstlicher Intelligenz und Digitalisierung sowie weiterem Wachstum erreichen." Bisher hatte Siemens eine Basisproduktivität von 3 bis 4 Prozent pro Jahr angepeilt. Auf die Frage, was die erhöhte Dynamik in den Jahren 2025/2026 bis 2027/2028 (30. September) für die Zahl der Beschäftigten bedeute, erklärte Bienert, Siemens werde in dem einen oder anderen Bereich sicherlich weiter einstellen: "Es hängt letztlich davon ab, wie schnell wir in unseren Kerngeschäften wachsen." (Börsen-Zeitung)
+
+AGILE ROBOTS - Deutschlands größtes Roboter-Startup rechnet mit rasant steigenden Finanzergebnissen. "Sehr bald" wolle er die Umsatzmilliarde knacken, sagte Zhaopeng Chen, Chef von Agile Robots aus München, dem Spiegel. Im vergangenen Jahr kam Agile auf mehr als 300 Millionen Euro Umsatz. In diesem Jahr soll sich die Zahl verdoppeln. In gut zwei Jahren möchte das Unternehmen Gewinne schreiben. Chen sieht den Markt für KI-gesteuerte humanoide Roboter kurz vor dem Durchbruch, sagte er. Die Technik sei da, jetzt müssten Firmen wie Agile nur noch die Teile zusammenfügen. "Es ist nur eine Frage der Zeit." Er erwarte, dass das Geschäft mit humanoiden Robotern eines Tages die größte Industrie der Welt werde, "zehnmal größer als die Autoindustrie". (Spiegel)
+
+BRITE - Brite Payments kommt mit ihrem "Pay by Bank"-Angebot auf den britischen Markt, nachdem der schwedische Zahlungsdienstleister von der Finanzaufsicht die Zulassung als E-Geld-Institut erhalten hat. Kunden zahlen dabei direkt über ihr Bankkonto und bestätigen die Transaktion mit den vertrauten Verfahren ihres Online-Bankings. "Das Vereinigte Königreich ist einer der drei größten E-Commerce-Märkte im erweiterten Europa und hat in unserem Portfolio schlicht gefehlt", sagte Lena Hackelöer, Gründerin und CEO von Brite, im Gespräch mit der Börsen-Zeitung. "Viele große Händler benötigen eine Abdeckung in sämtlichen großen Volkswirtschaften. Deshalb war es für uns sehr wichtig, nun auch Großbritannien hinzuzunehmen." (Börsen-Zeitung)
+
+ZILCH - Das britische Fintech-Unternehmen Zilch bringt Investmentbanken für einen Börsengang bereits im nächsten Jahr in Stellung und gibt damit der Londoner Börse, die von einer Reihe von Übernahmen vom britischen Markt betroffen ist, einen potenziellen Schub. Zilch, das günstige Verbraucherkredite anbietet, habe diesen Monat Banken eingeladen, sich für eine Rolle bei seinem geplanten Börsengang zu bewerben, so mit der Angelegenheit vertraute Personen. Diese Personen warnten, dass sich die Gespräche noch in einem frühen Stadium befänden und sich die Pläne noch ändern könnten. Zilch wurde in einer Finanzierungsrunde 2021, als der Fintech-Markt noch lebhafter war, mit 2 Milliarden US-Dollar bewertet. Laut unternehmensnahen Personen hat das Unternehmen diese Bewertung in nachfolgenden Finanzierungsrunden beibehalten. (Financial Times)
+
+\- Alle Angaben ohne Gewähr.
+
+Kontakt zur Redaktion: unternehmen.de@dowjones.com
+
+DJG/cbr/brb/uxd
+
+(END) Dow Jones Newswires
+
+September 30, 2026 01:00 ET (05:00 GMT)
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Siemens
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 723610
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/723610-siemens/)
+    
+-   [
+    
+    ### BASF
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN BASF11
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/basf11-basf/)
+    
+-   [
+    
+    ### Commerzbank
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN CBK100
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/cbk100-commerzbank/)
+    
+-   [
+    
+    ### Evonik
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN EVNK01
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/evnk01-evonik/)
+    
+-   [
+    
+    ### UniCredit
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN A2DJV6
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a2djv6-unicredit/)
+    
+-   [
+    
+    ### BASF ADR
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 936785
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/936785-basf-adr/)
+    
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+30.09.2026 / 07:09:32
+
+# PRESSESPIEGEL/Zinsen, Konjunktur, Kapitalmärkte, Branchen
+
+(Dow Jones Newswires)
+
+Die wirtschaftsrelevanten Themen aus den Medien, zusammengestellt von Dow Jones Newswires.
+
+GASEINSPEICHERUNG - Wirtschaftsministerin Katherina Reiche (CDU) hat das bundeseigene Energieunternehmen Sefe angewiesen, vermehrt Erdgas einzuspeichern. Das erfuhr das Handelsblatt aus Ministeriumskreisen. Der Schritt erfolgte am späten Dienstagabend und war mit Bundeskanzler Friedrich Merz (CDU) abgestimmt. Damit geht Reiche den nächsten Schritt, um die deutsche Gasversorgung stärker abzusichern. Bereits Mitte September hatte die Ministerin den bundeseigenen Gasimporteur angehalten, Gas zur Befüllung der Speicher einzukaufen. Damals handelte es sich aber explizit um keine Anweisung an Sefe. (Handelsblatt)
+
+BERLIN - Die Finanzsituation des Landes Berlin soll dramatischer als bisher bekannt sein. Demnach soll Finanzsenator Stefan Evers (CDU) in der Senatssitzung am Dienstag mitgeteilt haben, dass im Etat für das Haushaltsjahr 2028 noch eine Lücke von 4,28 Milliarden Euro klaffe, schreibt Bild unter Berufung auf Senatskreise. Die Zahlen stammten aus Berechnungen des Stabilitätsrates, und demnach fehlten für 2029 weitere 4,99 Milliarden Euro im Etat. Für das Jahr 2030 taxierten die Experten die Haushaltslücke auf 4,89 Milliarden Euro. (Bild)
+
+BÜROKRATIEABBAU - Ein umfassender Bürokratieabbau könnte Deutschlands reale Wirtschaftsleistung binnen fünf Jahren um 42 Milliarden Euro erhöhen. Zu diesem Ergebnis kommen die Ökonomen Claus Michelsen und Simon Junker vom Verband Forschender Arzneimittelhersteller sowie Ferdinand Fichtner von der Hochschule für Technik und Wirtschaft Berlin in einer Studie, die dem Handelsblatt vorliegt. Bei einem um ein Viertel geringeren Bürokratieaufwand würden demnach 250 Millionen Arbeitsstunden frei. Die Beschäftigten könnten dadurch produktiver eingesetzt werden, sagte Michelsen. (Handelsblatt)
+
+RENTENREFORM - Kurz vor der entscheidenden Kabinettssitzung am Mittwoch warnen 46 führende deutsche Ökonominnen und Ökonomen die Bundesregierung eindringlich davor, die Empfehlungen der Rentenkommission wieder aufzuschnüren. In einem dem Handelsblatt vorliegenden Aufruf wenden sich die Wissenschaftlerinnen und Wissenschaftler insbesondere gegen Überlegungen, das geplante Auslaufen der abschlagsfreien Rente mit 63 erneut zu revidieren. Zu den Unterzeichnern gehören die Co-Vorsitzende der Rentenkommission, Constanze Janda, und die Vorsitzende des Sachverständigenrats zur Begutachtung der gesamtwirtschaftlichen Entwicklung, Monika Schnitzer. (Handelsblatt)
+
+ÜBERNAHMEN - Drei Jahre nach dem Gezerre um den Einstieg von Cosco beim Hamburger Hafen alarmiert die chinesische Staatsreederei erneut die Politik in Berlin. Die Bundesregierung soll den Verkauf des deutschen Logistikunternehmens Zippel an Cosco verhindern wollen, wie aus einem als "Verschlusssache"- nur für den Dienstgebrauch" eingestuften Vermerk aus der Bundesregierung hervorgeht, der dem Handelsblatt vorliegt. In dem Dokument ist von "erheblichen Sicherheitsbedenken" die Rede. Es bestehe die Gefahr strategischer Abhängigkeiten, die "im Zuge politischer Verwerfungen als Druckmittel genutzt werden könnten", heißt es weiter. Das Bundeswirtschaftsministerium wollte nicht Stellung nehmen. Zippel ließ eine Anfrage unbeantwortet. (Handelsblatt)
+
+SCHUFA - Die Schufa hat vor einigen Jahren eine "Transparenzoffensive" ausgerufen und als bisherigen Höhepunkt im März 2026 einen neuen Schufa-Score veröffentlicht. Das Versprechen der Auskunftei: Anders als bei vorherigen Scores können Verbraucher alle Kriterien und ihre Gewichtung sehen und dann mit richtigem Verhalten dazu beitragen, dass ihr Score sich verbessert und die Verbraucher dadurch bessere Chancen auf beispielsweise einen Kredit bei einer Bank oder einen Mobilfunkvertrag haben.  Im Rahmen dieser Transparenz-Offensive ist über Monate hinweg der Eindruck erweckt worden, dass es künftig nur noch einen Schufa-Score geben wird. Das ist aber nicht der Fall, wie Recherchen von Süddeutscher Zeitung und NDR zeigen. Internen Unterlagen zufolge bietet die Schufa den Banken und Unternehmenskunden schon seit Sommer 2025 mit dem Hypothekenscore mindestens einen weiteren Score an. Dieser kommt offenbar bei langfristigen Hypotheken-Geschäften zum Einsatz und wird anders berechnet als der neue Schufa-Score. In der App sehen die Verbraucherinnen und Verbraucher diesen Score aber nicht. (Süddeutsche Zeitung)
+
+DIESEL - US-Präsident Donald Trump hat mit Beratern Krisengespräche darüber geführt, ob ein Dieselexportverbot verhängt oder andere Maßnahmen ergriffen werden sollen. Mitarbeiter hätten Trump Optionen vorgelegt, die auch Beschränkungen für den internationalen Dieselverkauf beinhalten, sagten mit den Gesprächen vertraute Personen, und Regierungsvertreter hätten ausländische Verbündete, einschließlich Großbritannien, über mögliche Störungen ihrer Lieferungen informiert. Ein Vertreter des Weißen Hauses sagte, Trump prüfe "alle auf dem Tisch liegenden Optionen", um die inländischen Kraftstoffpreise zu senken. Es sei noch keine Entscheidung gefallen, ob die Exporte ausgesetzt werden sollen. (Financial Times)
+
+\- Alle Angaben ohne Gewähr.
+
+Kontakt zur Redaktion: konjunktur.de@dowjones.com
+
+DJG/cbr/brb/uxd
+
+(END) Dow Jones Newswires
+
+September 30, 2026 01:09 ET (05:09 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+30.09.2026 / 07:30:50
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+DONNERSTAG: In Shanghai und Hongkong bleiben die Börsen wegen des Nationalfeiertages geschlossen.
+
++++++ TAGESTHEMA +++++
+
+Der Inflationsdruck in Deutschland dürfte im September zugenommen haben. Von Dow Jones Newswires befragte Volkswirte erwarten, dass der Harmonisierte Verbraucherpreisindex (HVPI) gegenüber dem Vormonat um 0,6 Prozent gestiegen ist und um 3,3 (August: 2,9) Prozent über dem Niveau des Vorjahresmonats lag. Das Statistische Bundesamt (Destatis) veröffentlicht die Zahlen am Mittwoch um 14.00 Uhr.
+
+Auslöser der höheren Inflation dürften die stark gestiegenen Energiepreise infolge des Nahost-Konflikts gewesen sein. Rückschlüsse auf die Kernteuerung dürften die bereits um 10.00 Uhr anstehenden Verbraucherpreisdaten aus sechs Bundesländern erlauben, die allerdings auf dem nationalen Verbraucherpreisindex beruhen. Für diesen erwarten die befragten Volkswirte Raten von 0,6 und 3,2 (2,9) Prozent.
+
+Die deutschen Daten sind entscheidend für die Inflationsentwicklung auf europäischer Ebene. Ebenfalls am Mittwoch kommen Verbraucherpreisdaten aus Frankreich (8.45 Uhr) und Italien (11.00 Uhr). Die für den Euroraum folgen am Freitag (11.00 Uhr).
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+07:30 DE/Gerresheimer AG, Ergebnis 2Q (15:00 Analystenkonferenz)
+
+15:00 DE/BMW AG, Fortsetzung Kapitalmarkttag
+
+22:00 US/Micron Technology Inc, Ergebnis 4Q
+
+Im Tagesverlauf:
+
+\- GB/British American Tobacco plc (BAT), Fortsetzung Kapitalmarkttag
+
+DIVIDENDENABSCHLAG
+
+(bei deutschen Aktien und Aktien aus dem Stoxx- bzw. Euro-Stoxx-50-Index)
+
+Totalenergies            0,90 EUR
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\-DE 
+    08:00 Einzelhandelsumsatz August 
+          saisonbereinigt real 
+          PROGNOSE: +1,0% gg Vm 
+          zuvor:    -3,4% gg Vm 
+ 
+    08:00 Import-/Exportpreise August 
+          Importpreise 
+          PROGNOSE: k.A. 
+          zuvor:    +0,2% gg Vm/+6,8% gg Vj 
+ 
+    09:55 Arbeitsmarktdaten September 
+          Arbeitslosenzahl saisonbereinigt 
+          PROGNOSE: +5.500 gg Vm 
+          zuvor:    +4.000 gg Vm 
+          Arbeitslosenquote saisonbereinigt 
+          PROGNOSE: 6,4% 
+          zuvor:    6,4% 
+ 
+    14:00 Verbraucherpreise (vorläufig) September 
+          PROGNOSE: +0,6% gg Vm/+3,2% gg Vj 
+          zuvor:    +0,2% gg Vm/+2,9% gg Vj 
+          HVPI 
+          PROGNOSE: +0,6% gg Vm/+3,3% gg Vj 
+          zuvor:    +0,2% gg Vm/+2,9% gg Vj 
+ 
+-FR 
+    08:45 Verbraucherpreise (vorläufig) September 
+          PROGNOSE: +2,9% gg Vj 
+          zuvor:    +2,4% gg Vj 
+          HVPI 
+          PROGNOSE: +3,1% gg Vj 
+          zuvor:    +2,6% gg Vj 
+ 
+-IT 
+    11:00 Verbraucherpreise (vorläufig) September 
+          PROGNOSE: +3,8% gg Vj 
+          zuvor:    +3,3% gg Vj 
+ 
+-US 
+    14:15 ADP-Arbeitsmarktbericht September 
+          Beschäftigung privater Sektor 
+          PROGNOSE: +68.000 Stellen 
+          zuvor:    +38.000 Stellen 
+ 
+    14:30 BIP (3. Veröffentlichung) 2Q 
+          annualisiert 
+          PROGNOSE:   +1,5% gg Vq 
+          2. Veröff.: +1,5% gg Vq 
+          1. Quartal: +2,1% gg Vq 
+          BIP-Deflator 
+          (annualisiert) 
+          PROGNOSE:   +6,4% gg Vq 
+          2. Veröff.: +6,4% gg Vq 
+          1. Quartal: +3,6% gg Vq 
+ 
+    14:30 Persönliche Ausgaben und Einkommen August 
+          Ausgaben / Einkommen 
+          PROGNOSE: +0,8% gg Vm/+0,4% gg Vm 
+          zuvor:    +0,2% gg Vm/+0,4% gg Vm 
+          PCE-Preisindex / Gesamtrate 
+          PROGNOSE: +0,3% gg Vm/+3,7 gg Vj 
+          zuvor:    +0,2% gg Vm/+3,7% gg Vj 
+          PCE-Preisindex / Kernrate 
+          PROGNOSE: +0,3% gg Vm/+3,3% gg Vj 
+          zuvor:    +0,2% gg Vm/+3,3% gg Vj 
+ 
+    15:45 Index Einkaufsmanager Chicago September 
+          PROGNOSE: 52,0 
+          zuvor:    47,1 
+ 
+    16:30 Rohöllagerbestandsdaten (Woche) der staatlichen Energy 
+          Information Administration (EIA)
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+Index                       zuletzt  +/- % 
+DAX Futures               25.706,00   +0,7 
+E-Mini-Future S&P-500      7.744,75   +0,2 
+E-Mini-Future Nasdaq-100  30.604,75   -0,0 
+Topix (Tokio)              4.110,65   +1,7 
+Hang-Seng (Hongk.)        24.544,10   +0,1 
+Shanghai-Comp.             3.840,42   +0,3 
+ 
+ 
+Dienstag: 
+INDEX               Schluss  +/- % 
+DAX               25.399,21   +0,1 
+DAX-Future        25.524,00   -0,2 
+MDAX              30.883,19   -0,0 
+TecDAX             4.003,10   +0,9 
+SDAX              18.379,10   +0,7 
+Euro-Stoxx-50      6.320,26   +0,3 
+Stoxx-50           5.359,46   +0,0 
+XDAX              25.439,91   +0,2 
+Dow-Jones         51.349,92   -0,3 
+S&P-500            7.670,84   -0,2 
+Nasdaq Composite  26.797,54   -0,9
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Nach taubenhaften Kommentaren von John Williams, Präsident der Federal Reserve Bank in New York, dürften Europas Börsen mit kräftigen Aufschlägen in den Handel am Mittwoch starten. Die US-Notenbank habe nach der ersten Zinserhöhung seit drei Jahren in der vergangenen Woche keinen Grund zur Eile, die Zinsen weiter anzuheben. Die an den Märkten eingepreiste Wahrscheinlichkeit einer Zinserhöhung im Oktober brach daraufhin auf unter 50 Prozent ein nach zuvor über 70 Prozent. Die Inflation sei zwar weiterhin zu hoch, und eine weitere Zinserhöhung "später in diesem Jahr" könnte angemessen sein, um die steigenden Preise einzudämmen, so Williams weiter. Für den Moment könne sich die Fed jedoch wahrscheinlich Zeit nehmen, um weitere Daten auszuwerten, bevor sie die Geldpolitik weiter verschärfe. Die am Berichtstag anstehenden Verbraucherpreise auf Frankreich und Deutschland könnten derweil weitere Hinweise liefern, wie es mit der Geldpolitik im Euroraum weitergeht. In beiden Ländern werden harmonisierte Preissteigerungen für September von mehr als 3 Prozent gegenüber dem Vorjahr erwartet, was weit über dem EZB-Ziel von 2 Prozent liegen würde. Zuletzt wurde an den Märkten die Wahrscheinlichkeit einer EZB-Zinserhöhung für Oktober auf unter 50 Prozent taxiert.
+
+Rückblick: Etwas fester - Im Fokus standen weiterhin die festgefahrenen Waffenstillstandsverhandlungen zwischen den USA und dem Iran. US-Präsident Trump hatte bereits einen Verhandlungsvorschlag aus dem Iran abgelehnt. Presseberichten zufolge nehmen die Transporte durch die Straße von Hormus aber wieder zu. Wieder anziehende Renditen an den Anleihemärkten am Nachmittag drückten dann aber auf das Sentiment. Gesucht waren Technologiewerte. Infineon gewannen 4,8 Prozent, Siemens Energy 3,5 Prozent oder Aixtron 5,1 Prozent. ASML stiegen um 4,2 Prozent. Der Prospekt zum Börsengang von Anthropic sorgte für Zuversicht. "Das hebt die Vorsicht nach dem Zurückrudern von OpenAI wieder auf", sagte ein Händler. Laut den Strategen der Helaba trieben vor allem "exorbitante" Ausgabepläne von Anthropic für die KI-Infrastruktur von bis zu 518 Milliarden US-Dollar. Lindt & Sprüngli hat in diesem Jahr schon zum zweiten Mal die Prognose gesenkt. Die Aktie verlor 8,4 Prozent. Im Sog ging es für Barry Callebaut um 1,5 Prozent abwärts. Dagegen stiegen Julius Bär um 7,2 Prozent. Das Unternehmen plant den Start eines Aktienrückkaufs, nachdem die Schweizer Finanzmarktaufsicht eine Untersuchung des Kreditrisikomanagements und der Geldwäschebekämpfungsverfahren der Bank eingestellt hat.
+
+DAX/MDAX/SDAX/TECDAX
+
+Gut behauptet - Fresenius fielen um 4,9 Prozent zurück und stellten den Hauptverlierer im DAX. Im Handel wurde auf eine FDA-Warnung verwiesen. In dieser werde der Sparte Kabi die Nicht-Einhaltung von Herstellungsstandards in der Produktion vorgeworfen. Die FDA behalte sich vor, Anträge für neue Medikamente so lange zurückzuhalten, bis das Problem gelöst sei. Fresenius erklärte gegenüber Dow Jones, das Unternehmen ergreife die notwendigen Maßnahmen, um die beanstandeten Mängel abzustellen. Für Bayer ging es 3,8 Prozent nach unten. Belastend dürfte eine Studie der Deutschen Bank gewirkt haben. In dem Ausblick auf das dritte Quartal schreiben die Analysten, dass sie von einem EBITDA-Rückgang von 10 Prozent gegenüber dem Vorjahr ausgehen, was deutlich mehr sei als im Konsens erwartet. Hauptgrund für die pessimistische Einschätzung sei die Sparte Crop Science. Hapag-Lloyd legten um 9,7 Prozent zu. Der Reedereikonzern hatte wie erhofft erneut die Prognose für 2026 erhöht. Hornbach Holding stiegen um 4,1 Prozent. Hornbach zeigt sich laut Metzler in einem schwierigen Branchenumfeld - das zuletzt durch die Insolvenz des Konkurrenten Hellweg unterstrichen wurde - weiterhin widerstandsfähig.
+
+USA - AKTIEN
+
+Schwächer - Wieder anziehende Renditen haben am Dienstag auf die Stimmung an der Wall Street gedrückt. Die Ölpreise gaben zwar nach, lagen aber über ihren Tagestiefs. Konjunkturseitig hatten die Akteure mit Blick auf die Inflation bereits den Preisindex der Persönlichen Konsumausgaben in den USA im Blick, der am Mittwoch veröffentlicht wird. Dazu kommt am Freitag der US-Arbeitsmarktbericht für September. Der nach der Startglocke veröffentlichte Index des Verbrauchervertrauens für den September hat sich entgegen der Prognose einer leichten Erhöhung deutlicher abgeschwächt. Das Tempo bei Neueinstellungen, Entlassungen, Kündigungen und offenen Stellen hat sich im August dagegen kaum verändert. Etwas stützend wirkten Aussagen des Präsidenten der New Yorker Fed-Filiale, John Williams, der sagte, die Zentralbank müsse sich nach der Zinserhöhung um einen Viertelpunkt vor einigen Wochen in diesem Jahr nicht mit weiteren Zinserhöhungen beeilen. Stattdessen solle sie sich Zeit nehmen, um zusätzliche Daten zu prüfen. Im Fokus stand der Sektor Künstliche
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+September 30, 2026 01:30 ET (05:30 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+30.09.2026 / 07:30:50
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
+Intelligenz (KI) mit dem geplanten Börsengang von Anthropic. Das Unternehmen hat seinen Umsatz zwar rasch gesteigert, verzeichnet jedoch gleichzeitig sich ausweitende Verluste, wie die Nachrichtenagentur Reuters nach Einsicht in eine Kopie des Börsenprospekts von Anthropic berichtete. Anthropic plant laut dem Bericht, in den kommenden Jahren 518 Milliarden Dollar für seinen Bedarf an Cloud-, Rechen- und Infrastrukturleistungen auszugeben. Dagegen hat OpenAI nach eigenen Angaben die Veröffentlichung seines KI-Modells der nächsten Generation aufgrund von Sicherheitsbedenken verworfen. Bei den Einzelwerten ging es für die Nvidia-Aktie um 0,7 Prozent nach unten. Die Aufstockung des Aktienrückkaufs um weitere 150 Milliarden Dollar stützte nicht nachhaltig. Intel sanken um 0,1 Prozent, Marvell verbesserten sich dagegen um 4,5 Prozent.
+
+USA - ANLEIHEN
+
+US-Treasuries  Rendite    +/- 
+2 Jahre           4,89  -0,04 
+10 Jahre          5,26  +0,02
+
+Die Renditen am langen Ende des Anleihemarkts legten erneut zu. Die Renditen der 10-jährigen Treasuries stiegen um 2 Basispunkte und erreichten erneut den höchsten Stand seit 19 Jahren. Für die Rendite der 30-jährigen Titel ging es auf das höchste Niveau seit 2002.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN        zuletzt  +/- %  +/- abs.  Schluss Vortag  Di, 17:08 Uhr 
+EUR/USD         1,1334   -0,1   -0,0006          1,1340         1,1344 
+EUR/JPY         177,97   -0,2   -0,3800        178,3500       178,5000 
+EUR/CHF         0,9456   +0,0    0,0001          0,9455         0,9458 
+EUR/GBP         0,8564   -0,1   -0,0005          0,8569         0,8576 
+USD/JPY         157,02   -0,2   -0,2600        157,2800       157,3300 
+GBP/USD         1,3231   +0,0    0,0002          1,3229         1,3224 
+USD/CNY         6,7039   +0,0    0,0009          6,7030         6,7030 
+USD/CNH         6,7056   -0,0   -0,0024          6,7080         6,7069 
+AUS/USD         0,6972   -0,2   -0,0011          0,6983         0,6989 
+Bitcoin/USD  83.329,76   -0,3   -270,12       83.599,88      83.953,76
+
+Der Dollar baute seine Gewinne aus und stieg auf ein Zweimonatshoch. Der Dollar-Index gewann 0,3 Prozent. Grund waren die Erwartungen weiterer Zinserhöhungen in den USA bereits im nächsten Monat. Laut LSEG preist der Markt eine Wahrscheinlichkeit von 73 Prozent für eine weitere Zinserhöhung der US-Notenbank um 25 Basispunkte im Oktober ein.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle        zuletzt  +/- %  +/- abs.  Schluss Vortag 
+Gold          4.169,96   -0,3    -10,83        4.180,79 
+Silber           60,94   -0,8     -0,51           61,45 
+Platin        1.700,19   -0,3     -5,56        1.705,75
+
+Der Goldpreis holte einen Teil seiner Vortagesverluste wieder auf. Die Feinunze erhöhte sich um 1,4 Prozent auf 4.184 Dollar. Ein kurzfristiger Anstieg bei Gold dürfte begrenzt sein, solange sich die US-Notenbank "im Inflationsbekämpfungsmodus befindet", so Carsten Menke von Julius Bär. Der Rückgang der Edelmetalle könnte sich jedoch in Grenzen halten, da er erwarte, dass die US-Notenbank die Zinsen seltener anheben werde, als derzeit an den Geldmärkten eingepreist sei.
+
+ÖL
+
+ROHOEL         zuletzt  +/- %  +/- abs.  Schluss Vortag 
+WTI/Nymex        89,69   +0,4      0,31           89,38 
+Brent/ICE       103,42   +0,8      0,83          102,59
+
+Die Ölpreise gaben aufgrund von Anzeichen für eine Erholung der Rohölexporte aus wichtigen Förderländern im Nahen Osten nach. Der Preis für ein Barrel der Sorte Brent fiel um 2.6 Prozent auf 102,59 Dollar. Im September erreichten die Rohölexporte aus der Golfregion laut Daten von Kpler 80 Prozent des Vorkriegsniveaus. Unterdessen hat Saudi-Arabien nach einer Reparatur den Ölexport durch die Ost-West-Pipeline wieder aufgenommen, was auf eine sich verbessernde Versorgungslage hindeutet. "Dass die Ölpreise so hoch bleiben, dürfte an der Skepsis der Marktteilnehmer liegen, dass angesichts der angespannten Atmosphäre zwischen den Konfliktparteien dieses hohe Marktangebot nachhaltig sein wird", sagt Barbara Lambrecht, Rohstoffanalystin bei der Commerzbank.
+
++++++ MELDUNGEN SEIT VORTAG 17.30 UHR +++++
+
+AUTOMOBILPRODUKTION GROSSBRITANNIEN
+
+Die britische Automobilproduktion hat im August den stärksten Zuwachs seit Dezember verzeichnet. Treiber war ein Plus von 26 Prozent bei der Fertigung für den heimischen Markt, wie der Verband der Automobilhersteller und -händler SMMT mitteilte. Danach liefen im August 39.328 Autos von den Produktionsbändern, verglichen mit 37.056 im gleichen Monat des Vorjahres. Die Gesamtzahl der produzierten Fahrzeuge für die ersten acht Monate des Jahres belief sich auf 472.851, verglichen mit 491.993 Autos im entsprechenden Zeitraum 2025.
+
+CHINA / EINKAUFSMANAGERINDIZES
+
+Der offizielle Einkaufsmanagerindex für das verarbeitende Gewerbe kehrte im September auf den Wachstumspfad zurück und beendete damit eine zweimonatige Phase der Schrumpfung. Der Hauptindex stieg von 49,8 im August auf 50,1 und entsprach damit den Prognosen von Ökonomen in einer Umfrage des Wall Street Journal. Der von S&P Global erstellte RatingDog-PMI - ein privater, stärker exportorientierter Index - stieg von 51,5 auf 52,1. Dies war der höchste Stand seit fünf Monaten und der zehnte Monat in Folge über der neutralen Schwelle.
+
+JAPAN / INDUSTRIEPRODUKTION
+
+Die Industrieproduktion sank im August gegenüber dem Vormonat um 1,7 Prozent, nachdem sie bereits im Juli um 0,2 Prozent zurückgegangen war, wie aus am Mittwoch veröffentlichten Regierungsdaten hervorging. Damit wurde der von Ökonomen in einer Umfrage des Datenanbieters Quick erwartete Anstieg von 1,7 Prozent verfehlt. Den Daten zufolge erwarten die japanischen Unternehmen für September einen Anstieg der Industrieproduktion um 3,2 Prozent und für Oktober eine Zunahme um 3,1 Prozent.
+
+USA / KÜNSTLICHE INTELLIGENZ (KI)
+
+US-Präsident Donald Trump hat sein Versprechen bekräftigt, die KI-Branche nicht mit Vorschriften zu behindern - dies trotz wachsender Forderungen aus dem Silicon Valley und der Öffentlichkeit nach neuen Richtlinien. "Ich werde niemals das Wachstum einer Technologie ersticken, die größer sein wird als die industrielle Revolution", sagte er bei einer Veranstaltung zur Vorstellung einer neuen Website namens America.gov. Diese wurde mit KI erstellt, um Bürgerinnen und Bürgern den Zugang zu Dienstleistungen der US-Regierung zu erleichtern. Das US-Justizministerium, das Federal Bureau of Investigation und die bestehenden Behörden seien ausreichend, um böswillige Akteure, die KI für schändliche Zwecke nutzen, zur Rechenschaft zu ziehen, sagte er.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/ros/cln
+
+(END) Dow Jones Newswires
+
+September 30, 2026 01:30 ET (05:30 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
 29.09.2026 / 22:32:29
 
 # ROUNDUP/Aktien New York Schluss: Wenig Bewegung - Ölpreisrückgang hilft kaum
