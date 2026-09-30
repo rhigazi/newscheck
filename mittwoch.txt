@@ -1,3 +1,487 @@
+# Nachricht - Börse Stuttgart
+
+29.09.2026 / 22:32:29
+
+# ROUNDUP/Aktien New York Schluss: Wenig Bewegung - Ölpreisrückgang hilft kaum
+
+(dpa-AFX) NEW YORK (dpa-AFX) - Nach dem trüben Wochenauftakt haben die Anleger an den US-Börsen am Dienstag vorsichtig agiert. Vor dem Arbeitsmarktbericht am Freitag und mangels konkreter Verhandlungsfortschritte im Nahost-Krieg bewegten sich die wichtigsten Indizes nur wenig. Ein Rückgang der Ölpreise trug kaum dazu bei, die Befürchtungen der Anleger zu zerstreuen, dass die nach wie vor hohen Energiekosten die Inflation anheizen und die Notenbank zu Zinserhöhungen veranlassen könnten. Diese Sorgen ließen die Rendite 30-jähriger US-Staatsanleihen auf den höchsten Stand seit 2002 steigen.
+
+NEW YORK (dpa-AFX) - Nach dem trüben Wochenauftakt haben die Anleger an den US-Börsen am Dienstag vorsichtig agiert. Vor dem Arbeitsmarktbericht am Freitag und mangels konkreter Verhandlungsfortschritte im Nahost-Krieg bewegten sich die wichtigsten Indizes nur wenig. Ein Rückgang der Ölpreise trug kaum dazu bei, die Befürchtungen der Anleger zu zerstreuen, dass die nach wie vor hohen Energiekosten die Inflation anheizen und die Notenbank zu Zinserhöhungen veranlassen könnten. Diese Sorgen ließen die Rendite 30-jähriger US-Staatsanleihen auf den höchsten Stand seit 2002 steigen.
+
+Der Dow sank um 0,26 Prozent auf 51.349,92 Punkte. Der marktbreite S&P 500 gab um 0,17 Prozent auf 7.670,84 Zähler nach. Für den Nasdaq 100 ging es um 0,21 Prozent auf 30.339,33 Punkte aufwärts.
+
+Die Verhandlungen mit den USA über die Straße von Hormus gehen nach Worten des iranischen Außenministers weiter. In dem festgefahrenen Konflikt versuche aktuell der Golfstaat Katar eine Lösung zu finden, sagte Abbas Araghtschi laut seinem Ministerium in New York. Die Öllieferungen durch die umkämpfte Meeresstraße nehmen zu. Immer wieder gibt es aber auch Berichte über den Beschuss von Schiffen.
+
+Im Fokus stand neben dem Nahen Osten einmal mehr das Boom-Thema Künstliche Intelligenz (KI). Präsident Donald Trump lehnte neue Bundesvorschriften zur KI ab, nachdem er sich im Weißen Haus mit führenden Vertretern der Branche getroffen hatte - und dies vor dem Hintergrund wachsender weltweiter Bedenken hinsichtlich der von dieser Technologie ausgehenden Gefahren. Nach einem Mittagessen mit fast zwei Dutzend Führungskräften aus dem Silicon Valley, darunter den Firmenchefs von Anthropic und Nvidia , sagte Trump, die bestehenden Gesetze reichten aus, um die Amerikaner vor den potenziellen Risiken der Künstlichen Intelligenz zu schützen.
+
+Anthropic sorgte außerdem für Neuigkeiten in puncto Börsengang, der zuletzt in der Schwebe war. Berichten zufolge strebt das Unternehmen eine Bewertung von über zwei Billionen US-Dollar an, was den bisherigen Rekordhalter SpaceX überbieten würde. Laut der Landesbank Baden-Württemberg sind aber besonders die für die kommenden Jahre geplanten KI-Infrastrukturausgaben mit 518 Milliarden Dollar "exorbitant" hoch.
+
+Die Anteilscheine von Nvidia büßten anfängliche Gewinne ein und fielen letztlich um 0,7 Prozent. Die Papiere hatten sich am Montag nach der angekündigten, massiven Aufstockung von Aktienrückkäufen gegen die Gewinnmitnahmen im Sektor gestemmt.
+
+"Trotz der zuletzt aufgekommenen Zweifel an Wachstum, Investitionen und Bewertungen bleibt die KI-Story für viele Investoren attraktiv", schrieb Andreas Lipkow, Chef-Marktanalyst beim Handelshaus CMC Markets. "Die ersten Risse sind sichtbar, aber die Story ist noch lange nicht gebrochen. Solange die Anleger an die langfristigen Wachstumsperspektiven glauben, werden Rücksetzer bei den entsprechenden Aktien weiterhin auch als Kaufgelegenheiten gesehen."
+
+Die Anteilscheine von AMD gaben geringfügig nach. Der Chipkonzern gibt im Wettstreit mit Branchenführer Nvidia mehr als acht Milliarden Dollar für das Start-up einer KI-Pionierin aus.
+
+Beim Chipkonzern Micron verteilten die Anleger schon Vorschuss-Lorbeeren für die am Mittwoch nachbörslich anstehenden Quartalszahlen: Die Aktien legten um 1,1 Prozent zu.
+
+An der Spitze des S&P 500 zogen die Anteilscheine von Carnival nach einer Prognoseerhöhung um 13,4 Prozent an. Die Nachfrage nach Kreuzfahrten habe im Laufe des Quartals einen historischen Höchststand erreicht, hieß es. Im Kielwasser gewannen die Papiere von Royal Caribbean Cruises 7,5 Prozent./la/he
+
+\--- Von Lutz Alexander, dpa-AFX ---
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### NVIDIA
+    
+    #### \-0,42 %
+    
+    G 200,3B 200,35
+    
+    WKN 918422
+    
+    282 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/918422-nvidia/)
+    
+-   [
+    
+    ### SpaceX
+    
+    #### +2,84 %
+    
+    G 131,58B 131,66
+    
+    WKN A42D4F
+    
+    98 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a42d4f-spacex/)
+    
+-   [
+    
+    ### AMD
+    
+    #### +0,09 %
+    
+    G 535,5B 535,9
+    
+    WKN 863186
+    
+    84 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/863186-amd/)
+    
+-   [
+    
+    ### Micron Technology
+    
+    #### +1,44 %
+    
+    G 939B 939,2
+    
+    WKN 869020
+    
+    94 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/869020-micron-technology/)
+    
+-   [
+    
+    ### Royal Caribbean Cruises
+    
+    #### +8,03 %
+    
+    G 229,8B 230,1
+    
+    WKN 886286
+    
+    60 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/886286-royal-caribbean-cruises/)
+    
+
+## Weitere relevante Nachrichten
+
+Dienstag, 29.09.2026
+
+-   [
+    
+    22:18
+    
+    Aktien New York Schluss: Wenig Bewegung - Renditen steigen trotz Ölpreisrückgang
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=2614440381317575962)
+-   [
+    
+    21:24
+    
+    ROUNDUP 5: OpenAI streicht neues Modell - und setzt auf KI-Agenten
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=8081941086322187850)
+-   [
+    
+    20:11
+    
+    Aktien New York: Dow gibt weiter nach - Renditeanstieg belastet
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=4890910044152548955)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+29.09.2026 / 17:34:59
+
+# WOCHENVORSCHAU: Termine bis 13. Oktober 2026
+
+(dpa-AFX) FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine bis Dienstag, den 13. Oktober
+
+FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine bis Dienstag, den 13. Oktober
+
+   
+
+---------------------------------------------------------------------------------------
+MITTWOCH, DEN 30. SEPTEMBER
+
+TERMINE UNTERNEHMEN
+17:30 USA: Hewlett Packard Enterprise (HPE), Investor Day
+22:00 USA: Micron, Q4-Zahlen
+DEU: Gerresheimer, vorläufige Q2-Zahlen
+DEU: BMW, Kapitalmarkttag (zweiter Tag)
+FRA: Air Liquide, Hauptversammlung 
+FRA: L' Oréal, außerordentliche Hauptversammlung
+FRA: Totalenergies, Hauptversammlung
+GBR: British American Tobacco, Kapitalmarkttag (zweiter Tag)
+USA: Factset Research Systems, Q4-Zahlen
+
+TERMINE KONJUNKTUR
+01:50 JPN: Einzelhandelsumsatz 8/26
+01:50 JPN: Industrieproduktion 8/26
+03:30 CHN: staatlicher Einkaufsmangerindex Dienste und Industrie 9/26
+03:45 CHN: RatingDog-Einkaufsmanager Dienste und Industrie 9/26
+08:45 FRA: Erzeugerpreise 9/26
+08:45 FRA: Konsumausgaben 8/26
+08:45 FRA: Verbraucherpreise 9/26
+09:55 DEU: Arbeitslosenzahlen 9/26
+10:00 DEU: Verbraucherpreise Baden-Württemberg, Bayern, Brandenburg, Hessen, Nordrhein-Westfalen, Sachsen 9/26
+10:00 ITA: Verbrauchervertrauen 9/26
+11:00 ITA: Verbraucherpreise 9/26
+13:00 USA: MBA Hypothekenanträge
+14:00 DEU: Verbraucherpreise 9/26
+14:15 USA: ADP-Arbeitsmarktbericht
+14:30 USA: BIP Q2/26 (3. Schätzung)
+14:30 USA: Handelsbilanz 8/26
+14:30 USA: Konsumausgaben 8/26
+14:30 USA: Lagerbestände Einzel- und Großhandel 8/26
+14:30 USA: Private Einkommen 8/26
+15:45 USA: MNI Chicago PMI
+
+SONSTIGE TERMINE
+DEU: Ostdeutsches Energieforum unter dem Thema «Sicherheit in unsicheren Zeiten» (bis 01.10.)
+
+DEU: Letzter Tag der Start-up-Messe «Bits & Pretzels»
+
+---------------------------------------------------------------------------------------
+DONNERSTAG, DEN 1. OKTOBER
+
+TERMINE UNTERNEHMEN
+10:15 DEU: Produktionsbeginn im BMW-Batteriewerk Irlbach-Straßkirchen
+22:00 USA: Nike, Q1-Zahlen
+CHE: Sika AG, Investor Day
+DEU: Vierte Verhandlungsrunde zwischen Verdi und Bundesverband Druck und Medien (BVDM)
+GBR: Accenture, Q4-Zahlen
+SWE: SKF, außerordentliche Hauptversammlung
+
+TERMINE KONJUNKTUR
+01:50 JPN: Tankan-Bericht
+02:30 JPN: Einkaufsmanagerindex Verarbeitendes Gewerbe 9/26 (2. Veröffentlichung)
+09:15 SPA: Einkaufsmanagerindex Verarbeitendes Gewerbe 9/26
+09:45 ITA: Einkaufsmanagerindex Verarbeitendes Gewerbe 9/26
+09:50 FRA: Einkaufsmanagerindex Verarbeitendes Gewerbe 9/26 (2. Veröffentlichung)
+09:55 DEU: Einkaufsmanagerindex Verarbeitendes Gewerbe 9/26 (2. Veröffentlichung)
+10:00 EUR: Einkaufsmanagerindex Verarbeitendes Gewerbe 9/26 (2. Veröffentlichung)
+10:00 ITA: Arbeitslosenquote 8/26
+10:30 GBR: Einkaufsmanagerindex Verarbeitendes Gewerbe 9/26 (2. Veröffentlichung)
+11:00 EUR: Arbeitslosenquote 8/26
+14:30 USA: Erstanträge Arbeitslosenhilfe
+15:45 USA: Einkaufsmanagerindex Verarbeitendes Gewerbe 9/26 (2. Veröffentlichung)
+16:00 USA: Bauinvestitionen 8/26
+16:00 USA: ISM-Index 9/26
+
+SONSTIGE TERMINE
+10:00 DEU: Bundesgerichtshof verhandelt zu Preisanpassungsklausel vom Amazon Prime
+
+---------------------------------------------------------------------------------------
+FREITAG, DEN 2. OKTOBER
+
+TERMINE UNTERNEHMEN
+EUR: EU-Kommission, Ende der Frist für die genaue Prüfung der Übernahme von MediaMarktSaturn-Mutter Ceconomy durch JD.com 
+
+TERMINE KONJUNKTUR
+01:30 JPN: Arbeitsmarktdaten 8/26
+01:30 JPN: Verbraucherpreise Großraum Tokio 9/26
+09:00 SPA: Arbeitsmarktdaten 9/26
+10:00 ITA: Einzelhandelsumsatz 8/26
+11:00 EUR: Verbraucherpreise 9/26
+14:30 USA: Arbeitsmarktbericht
+16:00 USA: Auftragseingang Industrie 8/26
+16:00 USA: Auftragseingang langlebige Güter 8/26 (2. Veröffentlichung)
+
+SONSTIGE TERMINE
+--
+
+---------------------------------------------------------------------------------------
+MONTAG, DEN 5. OKTOBER
+
+TERMINE UNTERNEHMEN
+10:00 DEU: VDMA, Auftragseingang 8/26
+AUT: Andritz, Kapitalmarkttag
+DEU: Deutsche Telekom, KI-Investorentag
+DEU: Kraftfahrtbundesamt (KBA), Neuzulassungszahlen 8/26
+FRA: Air Liquide, Kapitalmarkttag
+
+TERMINE KONJUNKTUR
+02:30 JPN: Einkaufsmanagerindex Dienstleistungen 9/26 (2. Veröffentlichung)
+09:15 SPA: Einkaufsmanagerindex Dienstleistungen 9/26
+09:45 ITA: Einkaufsmanagerindex Dienstleistungen 9/26
+09:50 FRA: Einkaufsmanagerindex Dienstleistungen 9/26 (2. Veröffentlichung)
+09:55 DEU: Einkaufsmanagerindex Dienstleistungen 9/26 (2. Veröffentlichung)
+10:00 EUR: Einkaufsmanagerindex Dienstleistungen 9/26 (2. Veröffentlichung)
+10:30 EUR: Sentix-Investorenvertrauen 10/26
+10:30 GBR: Einkaufsmanagerindex Dienstleistungen 9/26 (2. Veröffentlichung)
+11:00 EUR: Erzeugerpreise 8/26
+15:45 USA: Einkaufsmanagerindex Dienstleistungen 9/26 (2. Veröffentlichung)
+16:00 USA: ISM-Index
+
+SONSTIGE TERMINE
+12:00 DEU: Tagung ASPO Deutschland, Wuppertal-Institut und Vereinigung Deutscher Wissenschaftler zu Energiesouveränität
+
+---------------------------------------------------------------------------------------
+DIENSTAG, DEN 6. OKTOBER
+
+TERMINE UNTERNEHMEN
+USA: Marvell, Investor Day
+
+TERMINE KONJUNKTUR
+08:00 DEU: Auftragseingang Industrie 8/26
+08:45 FRA: Industrieproduktion 8/26
+09:00 SPA: Industrieproduktion 8/26
+09:30 DEU: Einkaufsmanagerindex Baugewerbe 9/26
+10:30 GBR: Einkaufsmanagerindex Baugewerbe 9/26
+11:00 EUR: Einzelhandelsumsatz 8/26
+14:15 USA: ADP-Arbeitsmarktbericht
+14.30 USA: Handelsbilanz 8/26
+
+SONSTIGE TERMINE
+12:00 DEU: Tagung Bundesverband Deutscher Omnibusunternehmen (bdo) e.V. zu Bustourismus
+
+19:00 DEU: Parlamentarischer Abend Bundesverband Deutscher Omnibusunternehmen (bdo) e.V. zu Buswirtschaft
+
+DEU: Handelsblatt Konferenz Energiespeicher 2026 (auch digital) (bis 07.10.)
+
+DEU: Internationale Zuliefererbörse 2026 (bis 08.10.)
+
+---------------------------------------------------------------------------------------
+MITTWOCH, DEN 7. OKTOBER
+
+TERMINE UNTERNEHMEN
+DEU: SFC Energy, Kapitalmarkttag
+DEU: Volkswagen-Tochter Porsche AG, Kapitalmarkttag
+NLD: Adyen, außerordentliche Hauptversammlung
+
+TERMINE KONJUNKTUR
+08:00 DEU: Industrieproduktion 8/26
+08:45 FRA: Handels- und Leistungsbilanz 8/26
+13:00 USA: MBY Hypothkenanträge
+20:00 USA: Fed-Sitzungsprotokoll
+21:00 USA: Verbraucherkredite 8/26
+
+SONSTIGE TERMINE
+16:30 DEU: Diskussionsveranstaltung EnergieMittelstand e. V. zu wirtschafts- und steuerpolitischen Rahmenbedingungen für den Mittelstand
+
+---------------------------------------------------------------------------------------
+DONNERSTAG, DEN 8. OKTOBER
+
+TERMINE UNTERNEHMEN
+12:00 USA: PepsiCo, Q3-Zahlen
+TWN: TSMC, Umsatz 9/26
+
+TERMINE KONJUNKTUR
+01:50 JPN: Handels- und Leistungsbilanz 8/26
+08:00 DEU: Handelsbilanz 8/26
+14:30 USA: Erstanträge Arbeitslosenhilfe
+16:00 USA: Großhandel, Lagerbestände 8/26 (2. Veröffentlichtung)
+16:00 USA: Großhandel, Umsatz 
+
+SONSTIGE TERMINE
+09:00 DEU: Bundesgerichtshof prüft Haftung von Drittanbietern für Cookie-Speicherung
+
+13:00 DEU: Tag der Markenwirtschaft
+
+EUR: Treffen der Euro-Gruppe
+
+---------------------------------------------------------------------------------------
+FREITAG, DEN 9. OKTOBER
+
+TERMINE UNTERNEHMEN
+USA: Delta Air Lines, Q3/26
+
+TERMINE KONJUNKTUR
+10:00 ITA: Industrieproduktion 8/26
+16:00 USA: Universität of Michigan Index 10/26
+
+SONSTIGE TERMINE
+EUR: Treffen der EU-Finanzminister
+
+---------------------------------------------------------------------------------------
+MONTAG, DEN 12. OKTOBER
+
+TERMINE UNTERNEHMEN
+DEU: Volkswagen-Tochter Porsche AG, Pre-Close-Call Q3
+FRA: L'Loreal, außerordentliche Hauptversammlung
+
+TERMINE KONJUNKTUR
+06:30 NLD: Handelsbilanz 8/26
+07:00 SPA: Handelsbilanz 8/26
+
+SONSTIGE TERMINE
+10:00 DEU: OLG Hamm verkündet Urteil zu Musterfeststellungsklage zu Preiserhöhungen bei Fernwärme durch Eon
+
+11:45 SWE: Bekanntgabe des Preises für Wirtschaftswissenschaften in Andenken an Alfred Nobel. 
+
+14:00 DEU: Pressetermin und Baustellenbegehung Bauprojekt «Neubausprint RR43» mit Bundesbauministerin Verena Hubertz (SPD)
+
+---------------------------------------------------------------------------------------
+DIENSTAG, DEN 13. OKTOBER
+
+TERMINE UNTERNEHMEN
+07:00 CHE: Givaudan, Q3-Umsatz
+07:00 DEU: Fraport, Verkehrszahlen, 9/26
+10:00 NLD: Ahold, außerordentliche Hauptversammlung
+12:00 USA: UnitedHealth, Q3-Zahlen
+12:20 USA: Johnson & Johnson, Q3-Zahlen
+12:45 USA: JPMorgan, Q3-Zahlen
+13:00 USA: Wells Fargo, Q3-Zahlen
+13:25 USA: Goldman Sachs, Q3-Zahlen
+15:00 USA: Procter & Gamble, Hauptversammlung
+23:30 GBR: Rio Tinto, Q3-Produktionsbericht
+CHE: Lonza, Kapitalmarkttag
+USA: Applied Materials, Investorentag
+USA: Workday, Investorentag
+
+TERMINE KONJUNKTUR
+01:50 JPN: Erzeugerpreise 9/26
+01:50 JPN: Kreditvergabe 9/26
+08:00 DEU: Verbraucherpreise 9/26 (2. Schätzung)
+14:15 USA: ADP-Arbeitsmarktbericht
+16:00 USA: Wiederverkäufe Häuser 9/26
+
+SONSTIGE TERMINE
+09:00 DEU: BGH verhandelt zu Ausschlussklausel für Kraftfahrzeugrennen in der Unfallversicherung
+
+---------------------------------------------------------------------------------------
+
+Alle Angaben wurden mit größter Sorgfalt recherchiert. Dennoch übernimmt die dpa-AFX Wirtschaftsnachrichten GmbH keine Haftung für die Richtigkeit. Alle Zeitangaben erfolgen in MESZ./bwi
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+-   [
+    
+    ![Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart](https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg)
+    
+    Videos**Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart**
+    
+    08/09/2026 15:00
+    
+    https://i.ytimg.com/vi/fHyNydZlZ6Q/hqdefault.jpg Renditen auf Zehnjahreshochs: Droht jetzt der Börsen-Knall? | Börse Stuttgart 08:33 https://i.ytimg.com/vi/fHyNydZlZ6Q/maxresdefault.jpg 5 % Rendite bei Anleihen: Platzten jetzt die Aktienmärkte oder bleibt d...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/8/renditen-auf-zehnjahreshochs-droht-jetzt-der-boersen-knall-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
+
 Hier sind ausgewählte wichtige Ergebnisse der Wirtschafts- und Konjunkturtermine vom 29. September 2026:
 Unternehmensdaten
 Hornbach Holding (ETR:HBH): Die Gruppe verzeichnete im zweiten Quartal 2026/27 ein starkes Umsatzwachstum von 7,3 % auf 1,81 Milliarden Euro.
