@@ -1,1 +1,110 @@
-Mittwoch leer
+Hier sind ausgewählte wichtige Ergebnisse der Wirtschafts- und Konjunkturtermine vom 29. September 2026:
+Unternehmensdaten
+Hornbach Holding (ETR:HBH): Die Gruppe verzeichnete im zweiten Quartal 2026/27 ein starkes Umsatzwachstum von 7,3 % auf 1,81 Milliarden Euro.
+ Das bereinigte operative Ergebnis (EBIT) stieg im selben Zeitraum deutlich um 12,8 % auf 124,6 Millionen Euro.
+Carnival (NYSE:CCL): Das Kreuzfahrtunternehmen übertraf mit seinen Q3-Zahlen die Markterwartungen.
+ Der Umsatz legte um 3,5 % auf den Rekordwert von 8,44 Milliarden US-Dollar zu, und das bereinigte Ergebnis je Aktie kletterte auf 1,43 US-Dollar (erwartet waren 1,35 US-Dollar).
+Konjunkturdaten
+Spanien Verbraucherpreise (September): Die Inflation in Spanien zog weiter spürbar an. Die harmonisierten Verbraucherpreise (HVPI) stiegen im Jahresvergleich um 5,0 %, getrieben vor allem durch höhere Energiepreise im Zuge des geopolitischen Konflikts.
+USA Verbrauchervertrauen (September): Das vom Conference Board gemessene US-Verbrauchervertrauen brach überraschend ein und markierte mit 81,9 Punkten (nach 88,6 im Vormonat) den tiefsten Stand seit zwölf Jahren.
+Eurozone Industrievertrauen (September): Der übergeordnete wirtschaftliche Stimmungsindikator (ESI) für die Eurozone trübte sich unerwartet um 0,5 Punkte auf 97,9 Zähler ein.
+
+
+Der unerwartet starke Einbruch des US-Verbrauchervertrauens im September 2026 auf den tiefsten Stand seit zwölf Jahren (81,9 Punkte)
+ wurde laut dem Marktforschungsinstitut Conference Board im Wesentlichen durch folgende Faktoren verursacht:
+Hohe Energie- und Lebenshaltungskosten: Ein drastischer Anstieg der Kraftstoffpreise (insbesondere für Öl und Gas) sowie anhaltend hohe Kosten für allgemeine Waren und Dienstleistungen haben die Haushaltsbudgets massiv belastet.
+Sorgen um den Arbeitsmarkt: Die Einschätzung der aktuellen Beschäftigungslage hat sich spürbar verschlechtert.
+ Verbraucher äußerten zunehmend Angst vor einer Abschwächung des Arbeitsmarktes und schwächeren Neueinstellungen in den kommenden sechs Monaten.
+Steigende Zinsen: Eine erneute Erhöhung des Leitzinses (Federal Funds Rate) im September führte zu höheren Kredit- und Finanzierungskosten für die Haushalte.
+Geopolitische Spannungen und Handelskonflikte: Anhaltende internationale Krisen (wie der Nahost-Konflikt) und wieder aufflammende Handelsstreitigkeiten verunsicherten die Verbraucher zusätzlich und schürten Rezessionsängste.
+Insgesamt führten diese Faktoren dazu, dass in der Umfrage zum ersten Mal seit vier Jahren mehr US-Haushalte ihre eigene finanzielle Situation als „schlecht“ statt als „gut“ bewerteten.
+
+Die US-Aktienmärkte reagierten am Dienstag, den 29. September 2026, mit moderaten Verlusten auf den deutlichen Einbruch des Verbrauchervertrauens.
+Die wichtigsten Indizes verzeichneten den zweiten Verlusttag in Folge, konnten sich bis zum Handelsschluss jedoch von ihren Tagestiefs erholen.
+ Die Erholung wurde teilweise durch beruhigende Aussagen von New York Fed-Präsident John Williams gestützt, der betonte, dass die Zentralbank Zinserhöhungen nicht überstürzen müsse.
+Die Schlussstände der wichtigsten US-Indizes am 29. September 2026:
+INDEXDJX:.DJI (Dow Jones Industrial Average): Fiel um 131,59 Punkte oder 0,26 % auf einen Schlussstand von 51.349,92 Zählern.
+INDEXSP:.INX (S&P 500): Gab um 12,85 Punkte bzw. 0,17 % nach und schloss bei 7.670,84 Punkten.
+INDEXNASDAQ:.IXIC (Nasdaq Composite): Sank leicht um 22,84 Punkte bzw. 0,09 % auf 26.797,54 Zähler.
+Zusätzlicher Druck durch den Anleihemarkt:
+Neben den schwachen Konjunkturdaten belastete vor allem der anhaltende Zinsanstieg am US-Anleihemarkt die Aktienkurse.
+ Die Rendite der 10-jährigen US-Staatsanleihe stieg im Tagesverlauf auf bis zu 5,29 %, während die Rendite der 30-jährigen Anleihe mit über 5,6 % den höchsten Stand seit Juni 2002 erreichte.
+ Höhere Renditen machen Anleihen gegenüber Aktien attraktiver und verteuern die Kreditaufnahme für Unternehmen.
+
+Die Renditen von US-Staatsanleihen sind im September 2026 auf Mehrjahreshöchs gestiegen – die 10-jährige Anleihe kletterte auf über 5,29 % (Höchststand seit 2007) und die 30-jährige Anleihe erreichte über 5,62 % (Höchststand seit 2002).
+Für den anhaltenden Ausverkauf am Anleihemarkt, der die Renditen (welche sich invers zu den Kursen bewegen) nach oben treibt, gibt es im Wesentlichen vier Gründe:
+Der neue Energieschock und Inflationsängste: Durch den anhaltenden geopolitischen Konflikt zwischen den USA und dem Iran verharren die Ölpreise auf hohem Niveau (Brent-Öl notiert zeitweise über 100 US-Dollar).
+ Die Märkte realisieren zunehmend, dass die energiegetriebenen Inflationsrisiken kurzfristig nicht verschwinden werden.
+Starke Konjunkturdaten und restriktive Fed: Robustere Wirtschaftsdaten aus der US-Industrie und dem Dienstleistungssektor im September nährten Befürchtungen, dass die Wirtschaft trotz der hohen Zinsen heiß läuft.
+ Zwar zeigten sich Notenbanker wie New-York-Fed-Chef John Williams zuletzt abwartend,
+ doch die Marktteilnehmer preisen die Erwartung ein, dass die US-Notenbank Federal Reserve die Zinsen im Kampf gegen die Inflation länger hoch halten oder im Oktober erneut anheben muss.
+Wachsende Sorgen um die US-Staatsverschuldung: Die US-Regierung fährt weiterhin massive Haushaltsdefizite ein, wodurch das Angebot an neu ausgegebenen Staatsanleihen enorm hoch bleibt.
+ Um diese wachsende Flut an Schulden am Markt unterzubringen, fordern Investoren eine höhere Risikoprämie (Laufzeitprämie bzw. Term Premium), was die langfristigen Renditen zusätzlich nach oben treibt.
+Globale Normalisierung zu höheren Zinsen: Analysten sprechen von einem strukturellen makroökonomischen Wandel, bei dem die Ära des "billigen Geldes" nach der globalen Finanzkrise endgültig vorbei ist.
+ Weltweit steigen die Zinsen, sodass auch deutsche Bunds (auf einem 17-Jahres-Hoch) und japanische Staatsanleihen (auf dem höchsten Stand seit 1996) Rendite-Mehrjahreshöchs verzeichnen und den Druck global hochhalten.
+
+
+In den USA stehen als Nächstes (heute, am Mittwoch, den 30. September 2026 sowie im weiteren Wochenverlauf) folgende wichtige Wirtschaftsdaten an:
+Mittwoch, 30. September 2026
+BIP-Daten (Großbritannien/USA): Veröffentlichung der finalen Wirtschaftsdaten zum Bruttoinlandsprodukt.
+PCE-Preisindex (Konsumausgaben): Die für die US-Notenbank Fed besonders wichtigen Daten zu den persönlichen Konsumausgaben und Kern-Verbraucherpreisen.
+Persönliche Einkommen & Ausgaben (August): Einblick in das Konsumverhalten und die finanzielle Lage der US-Haushalte.
+ADP-Arbeitsmarktbericht: Der Vorläufer für die offiziellen Arbeitsmarktdaten, welcher die Beschäftigungsveränderung im privaten Sektor misst.
+Freitag, 2. Oktober 2026
+Offizieller US-Arbeitsmarktbericht (Non-Farm Payrolls): Der monatliche Bericht zu neu geschaffenen Stellen außerhalb der Landwirtschaft, der Arbeitslosenquote und der Lohnentwicklung für den September.
+
+
+Für den kommenden US-Arbeitsmarktbericht (Employment Situation Report für September), der am Freitag, den 2. Oktober 2026 veröffentlicht wird, erwartet der Markt im Konsens eine Abkühlung beim Beschäftigungswachstum bei gleichzeitig stabiler Lage.
+Die wichtigsten Erwartungen der von Dow Jones, Reuters und Bloomberg befragten Ökonomen im Überblick:
+Neu geschaffene Stellen (Non-Farm Payrolls): Der Markt rechnet mit einem Zuwachs von etwa 90.000 bis 100.000 neuen Stellen.
+ Dies bedeutet eine deutliche Verlangsamung im Vergleich zum starken Vormonat August, in dem überraschend 162.000 Stellen geschaffen wurden.
+Arbeitslosenquote: Hier wird ein stabiler Verlauf erwartet. Die Konsensprognosen gehen davon aus, dass die Quote bei 4,1 % verwehrt oder minimal auf 4,2 % ansteigt.
+Lohnwachstum (Durchschnittliche Stundenlöhne): Ökonomen prognostizieren einen moderaten Anstieg von 0,3 % im Monatsvergleich.
+ Im Jahresvergleich wird mit einem Lohnwachstum von etwa 3,1 % gerechnet.
+Die Marktstimmung
+Da die US-Notenbank Federal Reserve die Zinsen am 16. September bereits angehoben hat und an den Märkten derzeit eine über 60%-ige Wahrscheinlichkeit für eine erneute Zinserhöhung im Oktober eingepreist wird, gilt für diesen Bericht das Motto „Good news is bad news“.
+Sollten die Jobdaten deutlich heißer als erwartet ausfallen (z. B. erneut im sechsstelligen Bereich), dürfte dies die Erwartung weiterer Zinserhöhungen untermauern und frischen Druck auf den Aktien- und Anleihemarkt ausüben.
+ Ein Bericht, der sich im Rahmen der Erwartungen bewegt (um 90.000–100.000 Stellen), würde hingegen als Zeichen für einen sich stabilisierenden, aber nicht überhitzenden Arbeitsmarkt gewertet werden.
+
+
+Der PCE-Preisindex (Personal Consumption Expenditures Index) gilt als das wichtigste Inflationsmaß für die US-Notenbank Federal Reserve und beeinflusst deren Zinsentscheidungen maßgeblich. Wenn die Zentralbank über Leitzinserhöhungen oder -senkungen berät, orientiert sie sich primär an diesem Index und nicht am bekannteren Verbraucherpreisindex (VPI/CPI).
+Hier sind die entscheidenden Punkte, wie und warum der PCE-Index die Fed beeinflusst:
+1. Bevorzugtes Inflationsmaß der Fed
+Die Fed hat ein offizielles, langfristiges Inflationsziel von 2,0 %, das explizit an die jährliche Veränderung des PCE-Gesamtindex gekoppelt ist. Der PCE-Index wird vom US-Handelsministerium erhoben und bildet die tatsächlichen Ausgaben der Konsumenten breiter und dynamischer ab als andere Indizes.
+2. Fokus auf den Kern-PCE-Index (Core PCE)
+Für die konkrete Geldpolitik filtert die Fed die volatilen Preise für Nahrungsmittel und Energie heraus und konzentriert sich auf den Kern-PCE-Preisindex. Da Energie- und Lebensmittelpreise stark durch kurzfristige globale Ereignisse (wie Ernteausfälle oder geopolitische Krisen) schwanken, gibt die Kernrate der Fed ein klareres Bild über den langfristigen, inländischen Inflationstrend.
+3. Der Steuerungsmechanismus für Zinsen
+Die Daten des PCE-Index fließen direkt in das Zinsverhalten der Fed ein:
+PCE-Index steigt (über 2 %): Liegt die Kernrate hartnäckig über dem 2-Prozent-Ziel, deutet dies auf eine Überhitzung der Wirtschaft hin. Um die Nachfrage einzudämmen und die Preise zu stabilisieren, neigt die Fed dazu, die Leitzinsen anzuheben oder länger auf einem hohen Niveau zu belassen (higher for longer).
+PCE-Index sinkt (Richtung oder unter 2 %): Signalisiert der Index eine nachhaltige Abschwächung des Preisdrucks, gewinnt die Fed Vertrauen, dass die Inflation unter Kontrolle ist. Dies öffnet die Tür für Zinssenkungen, um das Wirtschaftswachstum und den Arbeitsmarkt wieder anzukurbeln.
+Warum bevorzugt die Fed den PCE gegenüber dem CPI?
+Substitutionseffekt: Wenn ein Produkt (z. B. Rindfleisch) zu teuer wird, weichen Verbraucher auf ein günstigeres (z. B. Geflügel) aus. Der PCE-Index erfasst diesen Wechsel im Konsumverhalten monatlich, während der CPI-Warenkorb starrer ist.
+Breitere Datenbasis: Der PCE berücksichtigt auch indirekte Ausgaben, wie beispielsweise medizinische Leistungen, die von Arbeitgebern oder staatlichen Krankenversicherungen bezahlt werden.
+
+Obwohl sowohl der PCE-Index (Personal Consumption Expenditures) als auch der CPI (Consumer Price Index / Verbraucherpreisindex) die Inflation in den USA messen, unterscheiden sie sich in ihrer Methodik, Datenbasis und Gewichtung grundlegend. Das ist auch der Grund, warum die US-Notenbank Federal Reserve (Fed) den PCE-Index für ihre Zinsentscheidungen bevorzugt.
+Hier sind die vier Hauptunterschiede im Überblick:
+1. Der Substitutionseffekt (Formel-Unterschied)
+CPI: Basiert auf einem festen, seltener angepassten Warenkorb. Wenn ein bestimmtes Gut (z. B. Rindfleisch) stark teurer wird, geht der CPI davon aus, dass Verbraucher weiterhin dieselbe Menge kaufen.
+PCE: Berücksichtigt das reale Konsumverhalten und erfasst Substitution. Wenn Rindfleisch zu teuer wird und Verbraucher stattdessen vermehrt günstigeres Hühnerfleisch kaufen, spiegelt der PCE-Index diesen Wechsel unmittelbar wider. Daher fällt der PCE-Wert meist etwas niedriger aus als der CPI.
+2. Datenbasis (Wer wird befragt?)
+CPI: Nutzt Umfragen unter privaten Haushalten, um zu ermitteln, was diese direkt aus eigener Tasche bezahlt haben.
+PCE: Basiert auf Geschäftsberichten und Daten von Unternehmen und Händlern. Er misst, welche Waren und Dienstleistungen insgesamt an Konsumenten verkauft wurden.
+3. Umfang der erfassten Ausgaben
+CPI: Erfasst nur Ausgaben, die Verbraucher direkt selbst bezahlen.
+PCE: Erfasst alle Ausgaben für den Konsum von Personen, auch wenn diese von Dritten übernommen werden. Ein gutes Beispiel ist das Gesundheitswesen: Der PCE berücksichtigt auch medizinische Behandlungen, die von Arbeitgebern oder staatlichen Krankenversicherungen (wie Medicare) bezahlt werden. Der CPI erfasst hier nur den Eigenanteil des Patienten.
+4. Gewichtung des Warenkorbs
+Da die Datenquellen unterschiedlich sind, sind die einzelnen Kategorien in den Indizes anders gewichtet. Im CPI haben beispielsweise die Wohnkosten (Mieten und kalkulatorische Eigentümerkosten) mit über 30 % ein deutlich höheres Gewicht als im PCE (dort ca. 15 %). Medizinische Dienstleistungen sind hingegen im PCE stärker gewichtet.
+
+Warum die Fed den PCE bevorzugt
+Die US-Notenbank hat sich im Jahr 2000 offiziell auf den PCE-Index festgelegt, da dieser durch die Berücksichtigung von Konsumverlagerungen (Substitution) und die breitere Erfassung von indirekten Kosten ein realistischeres und dynamischeres Bild der tatsächlichen Teuerungsrate in der Wirtschaft zeichnet.
+
+Das aktuelle Inflationsziel der US-Notenbank Federal Reserve beträgt 2,0 Prozent.
+Dieses Ziel ist an die jährliche Veränderung des Gesamtindex für die persönlichen Konsumausgaben (PCE-Preisindex) gekoppelt. Die Fed verfolgt dabei eine Strategie eines flexiblen durchschnittlichen Inflationsziels (Flexible Average Inflation Targeting), womit sie anstrebt, dass die Inflation über einen längeren Zeitraum betrachtet im Durchschnitt bei 2 % liegt.
+
+Wenn die Inflation das offizielle Ziel von 2,0 % nachhaltig überschreitet, ergreift die US-Notenbank Federal Reserve (Fed) eine restriktive Geldpolitik (auch „hawkish“ oder Straffung der Geldpolitik genannt). Das primäre Ziel ist es, die wirtschaftliche Aktivität zu bremsen und die Gesamtnachfrage zu dämpfen, um den Preisdruck zu senken.
+Folgende Kernmaßnahmen stehen der Fed zur Verfügung:
+Erhöhung des Leitzinses (Federal Funds Rate): Dies ist das wichtigste Werkzeug der Fed. Durch das Anheben des Zinssatzes, zu dem sich Banken über Nacht Geld leihen, steigen die Zinsen für Kredite, Hypotheken und Kreditkarten in der gesamten Wirtschaft. Höhere Zinsen machen das Ausleihen von Geld teurer, was Unternehmen von Investitionen abhält und Verbraucher dazu bringt, weniger zu konsumieren und mehr zu sparen.
+Quantitative Straffung (Quantitative Tightening / QT): Die Fed baut die Wertpapiere (wie Staatsanleihen und hypothekenbesicherte Wertpapiere) in ihrer Bilanz ab, indem sie fällig werdende Anleihen nicht mehr reinvestiert oder diese aktiv am Markt verkauft. Dies entzieht dem Bankensystem Liquidität und treibt die langfristigen Marktzinsen (z. B. für 10-jährige US-Staatsanleihen) zusätzlich nach oben.
+Restriktive Kommunikation (Forward Guidance): Die Notenbank steuert die Erwartungen der Marktteilnehmer durch gezielte Rhetorik. Signalisiert die Fed in ihren Pressekonferenzen oder durch die Projektionen der Mitglieder (Dot Plots), dass die Zinsen für längere Zeit hoch bleiben werden (higher for longer), passen sich die Finanzmärkte (Aktien-, Anleihen- und Devisenmärkte) bereits im Vorfeld an das restriktivere Umfeld an.
+Anhebung der Mindestreserveanforderungen: Obwohl in der Praxis selten genutzt, kann die Fed die Menge an Bargeld erhöhen, die Banken als Reserve halten müssen. Dies schränkt den Spielraum der Banken zur Vergabe von neuen Krediten weiter ein.
+
