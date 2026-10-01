@@ -1,5 +1,997 @@
 # Nachricht - Börse Stuttgart
 
+01.10.2026 / 09:03:33
+
+# MÄRKTE ASIEN/Tokio und Seoul fest - Chipaktien im Rallymodus - Sydney schwach
+
+(Dow Jones Newswires)
+
+Von Steffen Gosenheimer
+
+DOW JONES--Die asiatischen Aktienmärkte haben am Donnerstag überwiegend zugelegt. Für einen positiven Impuls sorgten niedriger als erwartet ausgefallene US-Inflationsdaten vom Vortag, weil sie die Erwartungen an eine weitere Zinserhöhung der US-Notenbank dämpfen. Die Wahrscheinlichkeit für eine Zinserhöhung im Oktober ist weiter gesunken auf rund 38 Prozent.
+
+In Tokio verbesserte sich der breite Topix um 0,6 Prozent, der technologielastigere Nikkei-225 machte aber einen Satz um über 3 Prozent nach oben. Dazu trugen feste Chipaktien bei, nachdem Micron am Vorabend für das erste Quartal einen Umsatz über den Schätzungen der Analysten prognostizierte und damit die Erwartungen bekräftigte, dass die Nachfrage nach Künstlicher Intelligenz den Absatz von Speicherchips weiterhin stützen wird. Der technologielastige Kospi in Seoul legte um 2,0 Prozent zu. Hier stützen auch stark gestiegene Exporte Südkoreas. Dabei erreichten die Halbleiterlieferungen ein Rekordhoch im Zuge der weltweiten Investitionen in KI.
+
+Im Chipsektor ging es in Tokio für Advantest um 9,3 und für Kioxia um 5,4 Prozent nach oben. Tokyo Electron zogen um 6,5 Prozent an, Softbank Group gewannen 4,2 Prozent. In Seoul verteuerten sich SK Hynix um 3,1 und Samsung Electronics um 2,6 Prozent. In Taipeh schlossen TSMC 1,2 Prozent höher.
+
+An den chinesischen Börsen wurde wegen des Nationalfeiertags nicht gehandelt. Die Festlandbörsen bleiben bis einschließlich 7. Oktober geschlossen.
+
+Nach einer dreitägigen Gewinnserie ging es in Sydney zum Auftakt des letzten Quartals des Kalenderjahres um 2,0 Prozent steil nach unten auf das niedrigste Niveau seit vier Monaten. Marktteilnehmer verwiesen als Belastungsfaktor auf die zuletzt bereits zum vierten Mal erhöhten Leitzinsen und die Aussicht noch weiter steigender Zinsen. Am Anleihemarkt stiegen die Renditen entsprechend weiter. Verkauft wurden unter anderem Bankaktien, weil das hohe Zinsniveau die Nachfrage nach Krediten dämpfen könnte.
+
+Die Aktie von Lynas Rare Earths verbilligte sich um 8,6 Prozent, nachdem der Förderer Seltener Erden zugestimmt hat, den brasilianischen Wettbewerber Meteoric Resources in einem reinen Aktientauschgeschäft zu übernehmen. Der Kraftstoffraffinerie- und Einzelhandelskonzern Ampol teilte mit, 225 Millionen australische Dollar für eines der größten Ladenetze für Elektrofahrzeuge des Landes zu zahlen. Der Kurs gab darauf um 1,3 Prozent nach.
+
+Für Suncorp ging es nach kräftigen Vortagsgewinnen um 7,4 Prozent südwärts. Der australische Versicherer hatte Berichte dementiert, vorläufige Übernahmegespräche mit Japans Tokio Marine Holdings geführt zu haben. Das Unternehmen reagierte damit auf einen spekulativen Artikel in The Australian. In Tokio verbilligten sich Tokio Marine um 3,1 Prozent.
+
+Ebenfalls in Tokio brachen Nidec um 10,8 Prozent ein, nachdem sich der Wirtschaftsprüfer des Unternehmens geweigert hat, die Richtigkeit des seit langem überfälligen Jahresberichts zu bestätigen. Der Autozulieferer veröffentlichte am Mittwoch seinen Jahresbericht, in dem ein deutlich höherer operativer Verlust ausgewiesen wurde vor dem Hintergrund massiver Wertminderungsverluste im angeschlagenen Elektromotorengeschäft.
+
+INDEX                       zuletzt  +/- %      % YTD  Handelsschluss 
+S&P/ASX 200 (Sydney)       8.614,40   -2,0       -1,1           08:00 
+Topix 500 (Tokio)          3.226,79   +0,6      +21,3           08:00 
+Kospi (Seoul)              6.971,35   +2,0      +65,4           08:30 
+Hang-Seng (Hongkong)       Feiertag              -4,0 
+Shanghai-Composite         Feiertag              -3,2 
+Straits-Times (Singapur)   5.691,26   +0,3      +22,5           11:00 
+IDX Comp. (Indonesien)     6.024,88   -0,8      -30,3           10:00 
+KLCI (Malaysia)            1.634,34   -1,0       -2,7           10:00 
+ 
+ 
+DEVISEN                     zuletzt  +/- %      00:00       Mi, 09:13  % YTD 
+EUR/USD                      1,1309   -0,2     1,1328          1,1351   -3,7 
+EUR/JPY                      178,89   +0,3     178,32          177,93   -2,8 
+EUR/GBP                      0,8532   -0,1     0,8538          0,8556   -2,1 
+USD/JPY                      158,16   +0,5     157,39          156,74   +1,0 
+USD/KRW                    1.358,92   +0,2   1.356,66        1.352,86   -5,7 
+USD/CNY                      6,7045   +0,0     6,7045          6,7035   -4,1 
+USD/CNH                      6,7152   +0,1     6,7086          6,7050   -3,7 
+USD/HKD                      7,8467    0,0     7,8464          7,8456   +0,8 
+AUD/USD                      0,6948   +0,1     0,6943          0,6976   +4,1 
+NZD/USD                      0,5616   -0,3     0,5631          0,5655   -2,4 
+BTC/USD                   84.142,59   +0,6  83.626,90       82.991,78   -4,1 
+ 
+ 
+ROHOEL                      zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                     90,34   -0,1      -0,08           90,42 
+Brent/ICE                     97,69   -0,4      -0,34           98,03 
+ 
+ 
+Metalle                     zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                       4.184,80   +0,7      28,81        4.155,99 
+Silber                        61,02   +1,0       0,62           60,41 
+Platin                     1.716,27   +0,6      10,02        1.706,25 
+ 
+(Angaben ohne Gewähr)
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/DJN/gos/uxd
+
+(END) Dow Jones Newswires
+
+October 01, 2026 03:03 ET (07:03 GMT)
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Lynas
+    
+    #### \-6,93 %
+    
+    G 7,933B 7,968
+    
+    WKN 871899
+    
+    23 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/871899-lynas/)
+    
+-   [
+    
+    ### SUNCORP-METWAY
+    
+    #### \-7,38 %
+    
+    G 11,3B 11,5
+    
+    WKN 886254
+    
+    4 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/886254-suncorp-metway/)
+    
+-   [
+    
+    ### Caltex Australia Ltd.
+    
+    #### \-1,50 %
+    
+    G 26,2B 26,8
+    
+    WKN A2P41Y
+    
+    17 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a2p41y-caltex-australia-ltd/)
+    
+-   [
+    
+    ### Advantest
+    
+    #### +6,24 %
+    
+    G 205,55B 206,55
+    
+    WKN 868805
+    
+    24 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/868805-advantest/)
+    
+-   [
+    
+    ### KIOXIA HOLDINGS CORP.
+    
+    #### +3,19 %
+    
+    G 104,62B 105,38
+    
+    WKN A2QB8W
+    
+    16 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a2qb8w-kioxia-holdings-corp/)
+    
+-   [
+    
+    ### Softbank
+    
+    #### +3,70 %
+    
+    G 36,71B 36,975
+    
+    WKN 891624
+    
+    18 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/891624-softbank/)
+    
+
+## Weitere relevante Nachrichten
+
+Donnerstag, 01.10.2026
+
+-   [
+    
+    10:15
+    
+    ROUNDUP: Micron überrascht mit Umsatzoptimismus - Aktienkurs legt zu
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=8209657010353355836)
+-   [
+    
+    09:16
+    
+    Aktien Asien: Japanische Aktien legen weiter zu
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=8348194995472053804)
+-   [
+    
+    07:52
+    
+    KORREKTUR/dpa-AFX Börsentag auf einen Blick: Dax ist angeschlagen
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=209292555575437942)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+01.10.2026 / 07:48:34
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+DONNERSTAG: In Shanghai und Hongkong bleiben die Börsen wegen des Nationalfeiertages geschlossen.
+
+FREITAG: In Shanghai findet wegen des Nationalfeiertages kein Handel statt.
+
++++++ TAGESTHEMA +++++
+
+Gewinn und Umsatz von Micron Technology sind im vierten Geschäftsquartal stark in die Höhe geschossen. Die Knappheit an Speicherchips, die das explosive Wachstum des Unternehmens im vergangenen Jahr angetrieben hat, zeigt nach Aussage des Unternehmens keine Anzeichen einer Verlangsamung. "Die Branchennachfrage hat sich seit unserer letzten Telefonkonferenz verstärkt, und wir erwarten, dass die Angebots- und Nachfragebedingungen für Speicherchips in den Geschäftsjahren 2027 und 2028 deutlich angespannter sein werden als 2026", sagte CEO Sanjay Mehrotra. Das Unternehmen prognostiziert für die erste Hälfte des Geschäftsjahres Investitionsausgaben von rund 25 Milliarden Dollar. Das Unternehmen gab zudem bekannt, dass es 26 langfristige Lieferverträge mit Kunden unterzeichnet habe, die sich ihren Anteil an den knappen Speicherchips sichern wollen. Im Juni waren es noch 16 gewesen. Micron meldete für das am 3. September beendete Quartal einen Gewinn von 37,7 (Vorjahr: 3,2) Milliarden Dollar. Auf bereinigter Basis betrug der Gewinn 33,42 Dollar je Aktie. Analysten hatten mit 31,72 Dollar je Aktie gerechnet. Der Umsatz stieg auf 54,23 (11,32) Milliarden Dollar. Analysten hatten von 51,33 Milliarden Dollar erwartet. Für das laufende erste Quartal prognostiziert Micron einen bereinigten Gewinn zwischen 37,15 und 39,15 Dollar je Aktie bei einem Umsatz von 60 bis 63 Milliarden Dollar. Analysten erwarteten zuletzt 35,47 Dollar bzw. 57,4 Milliarden Dollar.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+22:15 US/Nike Inc, Ergebnis 1Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\-US 
+    14:30 Erstanträge Arbeitslosenhilfe (Woche) 
+          PROGNOSE: 200.000 
+          zuvor:    197.000 
+ 
+    15:45 Einkaufsmanagerindex/PMI verarbeitendes Gewerbe 
+          (2. Veröffentlichung) September 
+          PROGNOSE:   57,0 
+          1. Veröff.: 57,0 
+          zuvor:      53,9 
+ 
+    16:00 Bauausgaben August 
+          PROGNOSE: +0,1% gg Vm 
+          zuvor:    -0,5% gg Vm 
+ 
+    16:00 ISM-Index verarbeitendes Gewerbe September 
+          PROGNOSE: 54,9 Punkte 
+          zuvor:    54,6 Punkte
+
++++++ ÜBERSICHT INDIZES +++++
+
+                              zuletzt  +/- % 
+E-Mini-Future S&P-500        7.765,25   +0,6 
+E-Mini-Future Nasdaq-100    31.069,00   +1,2 
+S&P/ASX 200 (Sydney)         8.636,30   -1,7 
+Topix-500 (Tokio)            4.139,19   +0,7 
+Kospi (Seoul)                6.945,78   +1,6 
+Shanghai-Composite           Feiertag 
+Hang-Seng-Index (Hongkong)   Feiertag
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Uneinheitlich - Für einen positiven Impuls sorgen niedriger als erwartet ausgefallene US-Inflationsdaten vom Vortag, weil sie die Erwartungen an eine weitere Zinserhöhung der US-Notenbank dämpfen. Die Wahrscheinlichkeit für eine Zinssenkung im Oktober ist weiter gesunken auf rund 38 Prozent. Gesucht sind Chipaktien bei, nachdem Micron am Vorabend für das erste Quartal einen Umsatz über den Schätzungen der Analysten und prognostizierte und damit die Erwartungen bekräftige, dass die Nachfrage nach künstlicher Intelligenz den Absatz von Speicherchips weiterhin stützen wird. In Tokio geht es für Advantest um 7,7 und für Kioxia um 4,4 Prozent nach oben. Tokyo Electron ziehen um 5,6 Prozent an. Softbank Group gewinnen 3,7 Prozent. In Seoul verteuern sich SK Hynix um 2,1 und Samsung Electronics um 2,2 Prozent. An den chinesischen Börsen wird wegen des Nationalfeiertags nicht gehandelt. Die Festlandbörsen bleiben bis einschließlich 7. Oktober geschlossen. Ausreißer nach unten ist Sydney. Als belastend machen Marktteilnehmer einen überraschend deutlich unter den Erwartungen ausgefallenen Handelsüberschuss aus, nachdem die Importe zuletzt stärker stiegen als die Exporte. Daneben wirkten die Inflationsdaten vom Vortag und die jüngsten Signale der australischen Notenbank nach, die auf weitere Zinserhöhungen hindeuteten. Die Aktie von Lynas Rare Earths verbilligt sich um über 8 Prozent, nachdem der Förderer Seltener Erden zugestimmt hat, den brasilianischen Wettbewerber Meteoric Resources in einem reinen Aktientauschgeschäft zu übernehmen. In Tokio brechen Nidec um 13,2 Prozent ein, nachdem das Wirtschaftsprüfungsunternehmen des Unternehmens sich geweigert hat, die Richtigkeit des seit langem überfälligen Jahresberichts zu bestätigen.
+
+WALL STREET
+
+Dow-Jones         50.906,05  -0,9 
+S&P-500            7.651,54  -0,3 
+Nasdaq Composite  26.861,06  +0,2 
+ 
+                     Mittwoch   Dienstag 
+Umsatz NYSE (Aktien) 1,49 Mrd   1,17 Mrd 
+Gewinner             2.697      1.149 
+Verlierer            1.018      1.601 
+Unverändert             51         79
+
+Uneinheitlich - Die mit Spannung erwarteten Inflationsdaten fielen niedriger als erwartet aus, was die zuletzt bereits gesunkene Erwartung einer Zinserhöhung im Oktober weiter zurückgehen ließ. Am Anleihemarkt stiegen die Renditen am langen Ende dennoch, weil Konjunkturdaten robust ausfielen. So wurde die Schätzung für das US-BIP-Wachstum im zweiten Quartal auf 2,2 von 1,5 Prozent nach oben genommen und der Einkaufsmanagerindex der Region Chicago fiel viel höher aus als gedacht. Bei den Einzelwerten gaben Boeing-anfängliche Gewinne wieder ab und verloren 0,9 Prozent. Der Luft- und Raumfahrtkonzern hatte sich einen Auftrag der US-Marine im Wert von mehr als 20 Milliarden US-Dollar für den Bau seines Kampfjets gesichert. Für das Papier des Konkurrenten Northrop Grumman ging es um 4,2 Prozent nach unten. United Therapeutics errang einen Sieg in seinem Patentstreit gegen den Konkurrenten Liquidia. Die Aktie kletterte um 13 Prozent, während Liquidia um 57 Prozent abstürzten.
+
+US-ANLEIHEN
+
+            Rendite    +/- 
+2 Jahre        4,89  -0,00 
+10 Jahre       5,29  +0,04
+
+Die Renditen am US-Anleihemarkt reagierten nur kurzzeitig mit leichten Abgaben auf neue Inflationsdaten, die die Zinserhöhungserwartungen etwas dämpften. Besonders am langen Ende stiegen sie dann wieder, angetrieben von diversen robusten Konjunkturdaten.
+
+DEVISEN
+
+                zuletzt  +/- %      00:00       Mi, 09:13  % YTD 
+EUR/USD          1,1319   -0,1     1,1328          1,1351   -3,6 
+EUR/JPY          179,22   +0,5     178,32          177,93   -2,6 
+EUR/GBP          0,8542   +0,1     0,8538          0,8556   -2,0 
+USD/JPY          158,32   +0,6     157,39          156,74   +1,1 
+USD/KRW        1.358,60   +0,1   1.356,66        1.352,86   -5,7 
+USD/CNY          6,7045   +0,0     6,7045          6,7035   -4,1 
+USD/CNH          6,7148   +0,1     6,7086          6,7050   -3,7 
+USD/HKD          7,8466    0,0     7,8464          7,8456   +0,8 
+AUD/USD          0,6948   +0,1     0,6943          0,6976   +4,1 
+NZD/USD          0,5622   -0,2     0,5631          0,5655   -2,3 
+BTC/USD       84.267,38   +0,8  83.626,90       82.991,78   -3,9
+
+Die gesunkenen Erwartungen an eine Zinserhöhung der Fed im Oktober belasteten den Dollar nur kurzzeitig. Er holte die Abgaben im Verlauf wieder auf, gestützt von stark ausgefallenen Konjunkturdaten. Der Euro kostet zuletzt im US-Handel 1,1327 Dollar.
+
+++++ ROHSTOFFE +++++
+
+METALLE
+
+           zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold      4.188,69   +0,8      32,70        4.155,99 
+Silber       61,30   +1,5       0,89           60,41 
+Platin    1.724,96   +1,1      18,71        1.706,25
+
+Der Goldpreis baute mit der gesunkenen Erwartung einer weiteren Zinserhöhung im Oktober seine Gewinne im Verlauf leicht aus, gab diese im Anschluss aber wieder ab, zumal die Renditen am Anleihemarkt tendenziell auch weiter stiegen. Für die Feinunze ging es um 0,5 Prozent auf 4.156 Dollar nach unten.
+
+ÖL
+
+             zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex      89,14   -1,4      -1,28           90,42 
+Brent/ICE      96,68   -1,4      -1,35           98,03
+
+Die Ölpreise holten einen Teil ihrer Vortagesabgaben wieder auf. Der Preis für ein Barrel der Sorte Brent zur Lieferung im Dezember kletterte an seinem letzten Handelstag um 0,9 Prozent auf 103,53 Dollar. Die Ölpreise stiegen wieder, weil die Spannungen im Nahen Osten trotz einer jüngsten Zunahme der Exporte, die die Angebotsängste beruhigt hatte, hoch blieben, hieß es.
+
++++++ MELDUNGEN SEIT MITTWOCH 20.00 UHR +++++
+
+INDONESIEN - Außenhandel
+
+Der Handelsüberschuss Indonesiens hat sich im August deutlich ausgeweitet, da stärkere Exporte den Anstieg der Importe mehr als ausglichen. Die größte Volkswirtschaft Südostasiens wies einen Handelsüberschuss von 3,55 Milliarden US-Dollar aus. Im Juli hatte der Überschuss noch bei 121,9 Millionen Dollar gelegen.
+
+INDONESIEN - Inflation
+
+Der indonesische Verbraucherpreisindex ist im September um 3,28 Prozent gegenüber dem Vorjahr gestiegen, nach einem Anstieg von 3,19 Prozent im August. Die Kerninflation lag bei 2,84 Prozent, verglichen mit 2,92 Prozent im August.
+
+JAPAN - Konjunktur
+
+Große japanische Industrieunternehmen sind im dritten Quartal optimistischer mit Blick auf die Geschäftslage geworden, weil die Sorgen vor Energieengpässen nachgelassen haben. Der Index zur Erfassung der Stimmung unter großen Herstellern lag bei plus 24, verglichen mit plus 22 im Juni, wie aus der Tankan-Umfrage der Bank of Japan hervorgeht. Dies entsprach nahezu der Median-Prognose von plus 25.
+
+SÜDKOREA - Außenhandel
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 01, 2026 01:48 ET (05:48 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+01.10.2026 / 07:48:34
+
+# MORNING BRIEFING - USA/Asien -2-
+
+(Dow Jones Newswires)
+
+Die Exporte Südkoreas haben im September erstmals die Marke von 120 Milliarden Dollar überschritten. Angetrieben wurde dieser Anstieg von der scheinbar unstillbaren Nachfrage nach Halbleitern, die für Künstliche Intelligenz (KI) zum Einsatz kommen. Die Exporte stiegen im Vergleich zum Vorjahr um 83,5 Prozent. Das Wachstumstempo beschleunigte sich damit gegenüber dem Anstieg von 68,7 Prozent im August. Der Zuwachs übertraf die Prognose von 65,4 Prozent. Die Importe stiegen um 26,0 Prozent.
+
+USA - Geldpolitik
+
+Der Präsident der Federal Reserve von Minneapolis, Neel Kashkari, hält den Preisdruck nach den jüngsten am Mittwoch veröffentlichten Inflationsdaten weiterhin für zu hoch. Auf einer Veranstaltung sagte Kashkari, die größere Überraschung in den Daten von heute Morgen seien die Revisionen des Wachstums des Bruttoinlandsprodukts gewesen, die auf eine widerstandsfähige Wirtschaft und widerstandsfähige Verbraucher hindeuteten. "Ich fand nicht, dass die heutigen Inflationsdaten diese Geschichte für mich wesentlich geändert haben", so Kashkari.
+
+AMAZON / CONSTELLATION
+
+Constellation Energy und Amazon haben ein Abkommen über 3 Milliarden Dollar unterzeichnet, um in ein Atomkraftwerk in Maryland zu investieren und dieses auszubauen. Die Vereinbarung hat eine Laufzeit von 20 Jahren und umfasst insgesamt 690 Megawatt Leistung.
+
+PARAMOUNT SKYDANCE / WARNER BROS.
+
+Ein US-Bundesrichter hat den Vergleich von Paramount mit zwölf Generalstaatsanwälten der US-Bundesstaaten genehmigt. Dies macht den Weg frei, die hart umkämpfte, 81 Milliarden Dollar schwere Übernahme von Warner Bros. Discovery abzuschließen.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/ros/cln/gos
+
+(END) Dow Jones Newswires
+
+October 01, 2026 01:48 ET (05:48 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+01.10.2026 / 07:32:06
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+DONNERSTAG: In Shanghai und Hongkong bleiben die Börsen wegen des Nationalfeiertages geschlossen.
+
+FREITAG: In Shanghai findet wegen des Nationalfeiertages kein Handel statt.
+
++++++ TAGESTHEMA I +++++
+
+Fresenius kauft die verbleibenden 45 Prozent an der mAbxience Holding von Insud Pharma und Invim Corporativo. Die Gesamtgegenleistung betrage bis zu 750 Millionen Euro einschließlich einer bedingten Zahlung von 50 Millionen Euro nach erfolgreichen Zulassungen von Produktionsstätten, teilte Fresenius mit. Die Transaktion wurde am 30. September 2026 unterzeichnet und vollzogen, behördliche Genehmigungen waren nicht erforderlich.
+
+Bereits im August 2022 erwarb Fresenius eine Mehrheitsbeteiligung von 55 Prozent an mAbxience. Seitdem wurde das Unternehmen als voll konsolidierte Tochtergesellschaft geführt. Mit dem Erwerb der verbleibenden Anteile wird laut Fresenius die Beteiligungsstruktur nun vervollständigt und die Biosimilars-Plattform sei damit komplett im Biopharma-Geschäft von Fresenius Kabi gebündelt. Somit werde die gesamte Wertschöpfungskette von der Entwicklung bis zur Vermarktung abgedeckt.
+
+mAbxience ist ein globales Biopharma-Unternehmen, das drei Mehrprodukt-Produktionsstätten für Wirkstoffe in Spanien und Lateinamerika betreibt und mehr als 1.300 Mitarbeitende beschäftigt. mAbxience entwickelt und produziert biosimilare monoklonale Antikörper und bietet Partnern Dienstleistungen in der Auftragsentwicklung und -herstellung an. Im Jahr 2025 erzielte mAbxience einen Umsatz von mehr als 320 Millionen Euro.
+
++++++ TAGESTHEMA II +++++
+
+Große japanische Industrieunternehmen sind im dritten Quartal optimistischer mit Blick auf die Geschäftslage geworden, weil die Sorgen vor Energieengpässen nachgelassen haben. Der Index zur Erfassung der Stimmung unter großen Herstellern lag bei plus 24, verglichen mit plus 22 im Juni, wie aus der am Donnerstag veröffentlichten Tankan-Umfrage der Bank von Japan (BoJ) hervorgeht. Dies entsprach nahezu der Median-Prognose von plus 25 der befragten Volkswirte durch den Datenanbieter Quick. Der Indikator gilt als wichtiger Gradmesser für die wirtschaftliche Verfassung japanischer Unternehmen. Er ergibt sich aus dem Prozentsatz der Betriebe mit positiver Geschäftseinschätzung abzüglich derer mit negativer Bewertung.
+
+Die Tankan-Umfrage wird aufmerksam beobachtet, um Hinweise auf den Zeitpunkt der nächsten Zinserhöhung der Zentralbank zu erhalten. Nachdem die BoJ-Währungshüter ihren Leitzins im September auf 1,25 Prozent angehoben haben, beobachten sie nun, wie sich Gegenwind - darunter die Unsicherheiten im Nahen Osten und ein schwacher Yen - auf die Wirtschaft und die Preisentwicklung auswirken. Die Daten zeigen auch, dass Großunternehmen planen, ihre Investitionen im laufenden, im März endenden Geschäftsjahr um 11,3 Prozent zu steigern, verglichen mit einem in der Juni-Umfrage geplanten Anstieg von 11,5 Prozent.
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+22:15 US/Nike Inc, Ergebnis 1Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\-IT 
+    09:45 Einkaufsmanagerindex/PMI verarbeitendes Gewerbe September 
+          PROGNOSE: 50,0 
+          zuvor:    49,6 
+ 
+-FR 
+    09:50 Einkaufsmanagerindex/PMI verarbeitendes Gewerbe 
+          (2. Veröffentlichung) September 
+          1. Veröff.: 50,3 
+          zuvor:      51,1 
+ 
+-DE 
+    09:55 Einkaufsmanagerindex/PMI verarbeitendes Gewerbe 
+          (2. Veröffentlichung) September 
+          1. Veröff.: 53,8 
+          zuvor:      54,3 
+ 
+-EU 
+    10:00 Einkaufsmanagerindex/PMI verarbeitendes Gewerbe Eurozone 
+          (2. Veröffentlichung) September 
+          1. Veröff.: 52,7 
+          zuvor:      52,7 
+ 
+    11:00 Arbeitsmarktdaten August 
+          Eurozone Arbeitslosenquote 
+          PROGNOSE: 6,4% 
+          zuvor:    6,4% 
+ 
+-GB 
+    10:30 Einkaufsmanagerindex/PMI verarbeitendes Gewerbe 
+          (2. Veröffentlichung) September 
+          PROGNOSE:   52,0 
+          1. Veröff.: 52,0 
+          zuvor:      51,7 
+ 
+-US 
+    14:30 Erstanträge Arbeitslosenhilfe (Woche) 
+          PROGNOSE: 200.000 
+          zuvor:    197.000 
+ 
+    15:45 Einkaufsmanagerindex/PMI verarbeitendes Gewerbe 
+          (2. Veröffentlichung) September 
+          PROGNOSE:   57,0 
+          1. Veröff.: 57,0 
+          zuvor:      53,9 
+ 
+    16:00 Bauausgaben August 
+          PROGNOSE: +0,1% gg Vm 
+          zuvor:    -0,5% gg Vm 
+ 
+    16:00 ISM-Index verarbeitendes Gewerbe September 
+          PROGNOSE: 54,9 Punkte 
+          zuvor:    54,6 Punkte
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+Index                       zuletzt  +/- % 
+DAX Futures               25.272,00   -0,4 
+E-Mini-Future S&P-500      7.763,25   +0,6 
+E-Mini-Future Nasdaq-100  31.054,00   +1,2 
+Topix (Tokio)              4.134,11   +0,6 
+Hang-Seng (Hongk.)        24.613,27   +0,4 
+Shanghai-Comp.             3.842,19   +0,3 
+ 
+Mittwoch: 
+INDEX               Schluss  +/- % 
+DAX               25.199,19   -0,8 
+DAX-Future        25.344,00   -0,7 
+MDAX              30.842,53   -0,1 
+TecDAX             4.001,32   -0,0 
+SDAX              18.430,47   +0,3 
+Euro-Stoxx-50      6.269,02   -0,8 
+Stoxx-50           5.323,30   -0,7 
+XDAX              25.079,35   -0,5 
+Dow-Jones         50.906,05   -0,9 
+S&P-500            7.651,54   -0,3 
+Nasdaq Composite  26.861,06   +0,2
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Europas Börsen dürften mit Abgaben in den Handel starten. Belastend wirkt weiter das hohe Zinsniveau an den Anleihemärkten. Mit 5,28 Prozent rentiert die 10-jährige US-Benchmarkanleihe für die hiesigen Börsen auf einem zu hohem Niveau. Rendite treibend sind gleich mehrere Faktoren, die von hoher Inflation, der Sorge vor einer Überschuldung der Staaten, bis hin zu zuletzt überraschend starken Wirtschaftsdaten und hohen KI-Investitionen reichen, die Umschichtungen am Anleihemarkt zur Folge haben. Einen Lichtblick sendet der wieder unter 100 Dollar das Fass notierende Brent-Ölpreis. Neben technischen Faktoren ist hierfür die sich stabilisierende Versorgungslage im Nahen Osten verantwortlich. Nach einigen Schätzungen nähern sich die Liefermengen wieder dem Niveau vor dem Konflikt zwischen den USA und dem Iran. Der Terminkalender hat am Donnerstag wenig zu bieten. Akzente könnte die Bekanntgabe des ISM-Index für das verarbeitende Gewerbe in den USA setzen.
+
+Rückblick: Schwächer - Nach einer Fülle starker US-Wirtschaftsdaten und hoher Inflationszahlen aus den USA und Europa verflog die anfänglich gute Laune schnell. Die September-Verbraucherpreise aus Deutschland sprangen um 3,3 Prozent zum Vorjahr an, in Frankfreich ging es um 3,4 Prozent nach oben, in Italien sogar um 4,1 Prozent. Auch der zwischenzeitlich positiv interpretierte PCE-Index aus den USA stieg um 3,0 Prozent in der Kernrate. Alle diese Zahlen liegen weit entfernt von den Inflationszielen der jeweiligen Notenbanken von je 2 Prozent. Gleichzeitig zeigten die US-Konjunkturdaten eine extrem starke Wirtschaft. Die US-Anleihemärkte reagierten darauf mit Renditeanstiegen. Auf Unternehmensseite standen vor allem Autowerte im Blick, so wie BMW (+1,5%) mit ihrem Kapitalmarkttag. Porsche Automobil Holding legten 1,2 Prozent zu. Die Gesellschaft hatte im jahrelangen Rechtsstreit um die versuchte VW-Übernahme einen endgültigen Sieg errungen. Der Bundesgerichtshof (BGH) wies Schadensersatzforderungen in Höhe von 5,4 Milliarden Euro zurück. VW reduzierten sich um 0,9 Prozent. Hier stand die Kündigung einiger Tarifverträge durch das Unternehmen im Fokus. Bislang betrifft dies aber nur einige Detailregelungen, nicht den Manteltarif mit den Arbeitszeiten. Bei Autozulieferer Continental ging es 1,7 Prozent nach unten. Hier wartete der Markt auf Aussagen vom Pre-Close-Call am Abend.
+
+DAX/MDAX/SDAX/TECDAX
+
+Schwächer - Nach einer Herabstufung durch die Deutsche Bank auf "Hold" gaben Commerzbank um 4,0 Prozent nach. Bei Ionos führte die Ersteinschätzung mit "Sell" durch Metzler sogar zu 5,8 Prozent Minus. Die Analysten sehen keinen Grund, dem Anbieter von Web-Hosting die hohen Aktienbewertungen von KI-Unternehmen zuzubilligen. Mit Verlusten von 6,2 Prozent reagierten CTS Eventim auf den Abgang von CFO William Willms. Dieser scheidet mit sofortiger Wirkung aus, er war erst zu Jahresbeginn in den Vorstand eingezogen. Bei LPKF ging es nach einer Gewinn- und Umsatzwarnung um 2,5 Prozent abwärts. Gerresheimer legten dagegen um 5,5 Prozent zu. Nach einem sehr verhaltenen Start in das Geschäftsjahr wurde im zweiten Quartal etwas Boden gut gemacht.
+
+USA - AKTIEN
+
+Uneinheitlich - Die mit Spannung erwarteten Inflationsdaten fielen unter der Prognose aus, was die Erwartung an eine Zinserhöhung der US-Notenbank noch im Oktober weiter zurückgehen ließ. Bereits zuvor hatten die Märkte ihre Erwartungen an weitere Zinsanhebungen reduziert nach Aussagen des New Yorker Fed-Präsidenten John Williams, wonach sich die US-Notenbank mit ihrer nächsten Zinserhöhung noch etwas Zeit lassen kann. Die Kernrate der PCE-Inflation auf 12-Monats-Sicht, die die volatilen Lebensmittel- und Energiepreise ausklammert, lag bei 3 Prozent und fiel damit von 3,3 Prozent im Vormonat. Ökonomen hatten mit einer unveränderten Rate gerechnet. Diese liegt damit aber immer noch deutlich über dem Inflationsziel der US-Notenbank von 2,0 Prozent. Die Schätzung für das Wachstum des Bruttoinlandsprodukts (BIP) der USA wurde im zweiten Quartal auf 2,2 Prozent nach oben genommen. Zuvor war das US-Handelsministerium von 1,5 Prozent ausgegangen. Dies deutet auf eine weiterhin robuste Konjunktur trotz des Inflationsdrucks infolge des Iran-Krieges hin. Dies unterstrich auch der stärker als erwartet gestiegene Einkaufsmanager-Index (PMI) Chicago. Bei den Einzelwerten wurde auf die nach der Schlussglocke anstehenden
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 01, 2026 01:32 ET (05:32 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+
+# Nachricht - Börse Stuttgart
+
+01.10.2026 / 07:32:06
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+DONNERSTAG: In Shanghai und Hongkong bleiben die Börsen wegen des Nationalfeiertages geschlossen.
+
+FREITAG: In Shanghai findet wegen des Nationalfeiertages kein Handel statt.
+
++++++ TAGESTHEMA I +++++
+
+Fresenius kauft die verbleibenden 45 Prozent an der mAbxience Holding von Insud Pharma und Invim Corporativo. Die Gesamtgegenleistung betrage bis zu 750 Millionen Euro einschließlich einer bedingten Zahlung von 50 Millionen Euro nach erfolgreichen Zulassungen von Produktionsstätten, teilte Fresenius mit. Die Transaktion wurde am 30. September 2026 unterzeichnet und vollzogen, behördliche Genehmigungen waren nicht erforderlich.
+
+Bereits im August 2022 erwarb Fresenius eine Mehrheitsbeteiligung von 55 Prozent an mAbxience. Seitdem wurde das Unternehmen als voll konsolidierte Tochtergesellschaft geführt. Mit dem Erwerb der verbleibenden Anteile wird laut Fresenius die Beteiligungsstruktur nun vervollständigt und die Biosimilars-Plattform sei damit komplett im Biopharma-Geschäft von Fresenius Kabi gebündelt. Somit werde die gesamte Wertschöpfungskette von der Entwicklung bis zur Vermarktung abgedeckt.
+
+mAbxience ist ein globales Biopharma-Unternehmen, das drei Mehrprodukt-Produktionsstätten für Wirkstoffe in Spanien und Lateinamerika betreibt und mehr als 1.300 Mitarbeitende beschäftigt. mAbxience entwickelt und produziert biosimilare monoklonale Antikörper und bietet Partnern Dienstleistungen in der Auftragsentwicklung und -herstellung an. Im Jahr 2025 erzielte mAbxience einen Umsatz von mehr als 320 Millionen Euro.
+
++++++ TAGESTHEMA II +++++
+
+Große japanische Industrieunternehmen sind im dritten Quartal optimistischer mit Blick auf die Geschäftslage geworden, weil die Sorgen vor Energieengpässen nachgelassen haben. Der Index zur Erfassung der Stimmung unter großen Herstellern lag bei plus 24, verglichen mit plus 22 im Juni, wie aus der am Donnerstag veröffentlichten Tankan-Umfrage der Bank von Japan (BoJ) hervorgeht. Dies entsprach nahezu der Median-Prognose von plus 25 der befragten Volkswirte durch den Datenanbieter Quick. Der Indikator gilt als wichtiger Gradmesser für die wirtschaftliche Verfassung japanischer Unternehmen. Er ergibt sich aus dem Prozentsatz der Betriebe mit positiver Geschäftseinschätzung abzüglich derer mit negativer Bewertung.
+
+Die Tankan-Umfrage wird aufmerksam beobachtet, um Hinweise auf den Zeitpunkt der nächsten Zinserhöhung der Zentralbank zu erhalten. Nachdem die BoJ-Währungshüter ihren Leitzins im September auf 1,25 Prozent angehoben haben, beobachten sie nun, wie sich Gegenwind - darunter die Unsicherheiten im Nahen Osten und ein schwacher Yen - auf die Wirtschaft und die Preisentwicklung auswirken. Die Daten zeigen auch, dass Großunternehmen planen, ihre Investitionen im laufenden, im März endenden Geschäftsjahr um 11,3 Prozent zu steigern, verglichen mit einem in der Juni-Umfrage geplanten Anstieg von 11,5 Prozent.
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+22:15 US/Nike Inc, Ergebnis 1Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\-IT 
+    09:45 Einkaufsmanagerindex/PMI verarbeitendes Gewerbe September 
+          PROGNOSE: 50,0 
+          zuvor:    49,6 
+ 
+-FR 
+    09:50 Einkaufsmanagerindex/PMI verarbeitendes Gewerbe 
+          (2. Veröffentlichung) September 
+          1. Veröff.: 50,3 
+          zuvor:      51,1 
+ 
+-DE 
+    09:55 Einkaufsmanagerindex/PMI verarbeitendes Gewerbe 
+          (2. Veröffentlichung) September 
+          1. Veröff.: 53,8 
+          zuvor:      54,3 
+ 
+-EU 
+    10:00 Einkaufsmanagerindex/PMI verarbeitendes Gewerbe Eurozone 
+          (2. Veröffentlichung) September 
+          1. Veröff.: 52,7 
+          zuvor:      52,7 
+ 
+    11:00 Arbeitsmarktdaten August 
+          Eurozone Arbeitslosenquote 
+          PROGNOSE: 6,4% 
+          zuvor:    6,4% 
+ 
+-GB 
+    10:30 Einkaufsmanagerindex/PMI verarbeitendes Gewerbe 
+          (2. Veröffentlichung) September 
+          PROGNOSE:   52,0 
+          1. Veröff.: 52,0 
+          zuvor:      51,7 
+ 
+-US 
+    14:30 Erstanträge Arbeitslosenhilfe (Woche) 
+          PROGNOSE: 200.000 
+          zuvor:    197.000 
+ 
+    15:45 Einkaufsmanagerindex/PMI verarbeitendes Gewerbe 
+          (2. Veröffentlichung) September 
+          PROGNOSE:   57,0 
+          1. Veröff.: 57,0 
+          zuvor:      53,9 
+ 
+    16:00 Bauausgaben August 
+          PROGNOSE: +0,1% gg Vm 
+          zuvor:    -0,5% gg Vm 
+ 
+    16:00 ISM-Index verarbeitendes Gewerbe September 
+          PROGNOSE: 54,9 Punkte 
+          zuvor:    54,6 Punkte
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+Index                       zuletzt  +/- % 
+DAX Futures               25.272,00   -0,4 
+E-Mini-Future S&P-500      7.763,25   +0,6 
+E-Mini-Future Nasdaq-100  31.054,00   +1,2 
+Topix (Tokio)              4.134,11   +0,6 
+Hang-Seng (Hongk.)        24.613,27   +0,4 
+Shanghai-Comp.             3.842,19   +0,3 
+ 
+Mittwoch: 
+INDEX               Schluss  +/- % 
+DAX               25.199,19   -0,8 
+DAX-Future        25.344,00   -0,7 
+MDAX              30.842,53   -0,1 
+TecDAX             4.001,32   -0,0 
+SDAX              18.430,47   +0,3 
+Euro-Stoxx-50      6.269,02   -0,8 
+Stoxx-50           5.323,30   -0,7 
+XDAX              25.079,35   -0,5 
+Dow-Jones         50.906,05   -0,9 
+S&P-500            7.651,54   -0,3 
+Nasdaq Composite  26.861,06   +0,2
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Europas Börsen dürften mit Abgaben in den Handel starten. Belastend wirkt weiter das hohe Zinsniveau an den Anleihemärkten. Mit 5,28 Prozent rentiert die 10-jährige US-Benchmarkanleihe für die hiesigen Börsen auf einem zu hohem Niveau. Rendite treibend sind gleich mehrere Faktoren, die von hoher Inflation, der Sorge vor einer Überschuldung der Staaten, bis hin zu zuletzt überraschend starken Wirtschaftsdaten und hohen KI-Investitionen reichen, die Umschichtungen am Anleihemarkt zur Folge haben. Einen Lichtblick sendet der wieder unter 100 Dollar das Fass notierende Brent-Ölpreis. Neben technischen Faktoren ist hierfür die sich stabilisierende Versorgungslage im Nahen Osten verantwortlich. Nach einigen Schätzungen nähern sich die Liefermengen wieder dem Niveau vor dem Konflikt zwischen den USA und dem Iran. Der Terminkalender hat am Donnerstag wenig zu bieten. Akzente könnte die Bekanntgabe des ISM-Index für das verarbeitende Gewerbe in den USA setzen.
+
+Rückblick: Schwächer - Nach einer Fülle starker US-Wirtschaftsdaten und hoher Inflationszahlen aus den USA und Europa verflog die anfänglich gute Laune schnell. Die September-Verbraucherpreise aus Deutschland sprangen um 3,3 Prozent zum Vorjahr an, in Frankfreich ging es um 3,4 Prozent nach oben, in Italien sogar um 4,1 Prozent. Auch der zwischenzeitlich positiv interpretierte PCE-Index aus den USA stieg um 3,0 Prozent in der Kernrate. Alle diese Zahlen liegen weit entfernt von den Inflationszielen der jeweiligen Notenbanken von je 2 Prozent. Gleichzeitig zeigten die US-Konjunkturdaten eine extrem starke Wirtschaft. Die US-Anleihemärkte reagierten darauf mit Renditeanstiegen. Auf Unternehmensseite standen vor allem Autowerte im Blick, so wie BMW (+1,5%) mit ihrem Kapitalmarkttag. Porsche Automobil Holding legten 1,2 Prozent zu. Die Gesellschaft hatte im jahrelangen Rechtsstreit um die versuchte VW-Übernahme einen endgültigen Sieg errungen. Der Bundesgerichtshof (BGH) wies Schadensersatzforderungen in Höhe von 5,4 Milliarden Euro zurück. VW reduzierten sich um 0,9 Prozent. Hier stand die Kündigung einiger Tarifverträge durch das Unternehmen im Fokus. Bislang betrifft dies aber nur einige Detailregelungen, nicht den Manteltarif mit den Arbeitszeiten. Bei Autozulieferer Continental ging es 1,7 Prozent nach unten. Hier wartete der Markt auf Aussagen vom Pre-Close-Call am Abend.
+
+DAX/MDAX/SDAX/TECDAX
+
+Schwächer - Nach einer Herabstufung durch die Deutsche Bank auf "Hold" gaben Commerzbank um 4,0 Prozent nach. Bei Ionos führte die Ersteinschätzung mit "Sell" durch Metzler sogar zu 5,8 Prozent Minus. Die Analysten sehen keinen Grund, dem Anbieter von Web-Hosting die hohen Aktienbewertungen von KI-Unternehmen zuzubilligen. Mit Verlusten von 6,2 Prozent reagierten CTS Eventim auf den Abgang von CFO William Willms. Dieser scheidet mit sofortiger Wirkung aus, er war erst zu Jahresbeginn in den Vorstand eingezogen. Bei LPKF ging es nach einer Gewinn- und Umsatzwarnung um 2,5 Prozent abwärts. Gerresheimer legten dagegen um 5,5 Prozent zu. Nach einem sehr verhaltenen Start in das Geschäftsjahr wurde im zweiten Quartal etwas Boden gut gemacht.
+
+USA - AKTIEN
+
+Uneinheitlich - Die mit Spannung erwarteten Inflationsdaten fielen unter der Prognose aus, was die Erwartung an eine Zinserhöhung der US-Notenbank noch im Oktober weiter zurückgehen ließ. Bereits zuvor hatten die Märkte ihre Erwartungen an weitere Zinsanhebungen reduziert nach Aussagen des New Yorker Fed-Präsidenten John Williams, wonach sich die US-Notenbank mit ihrer nächsten Zinserhöhung noch etwas Zeit lassen kann. Die Kernrate der PCE-Inflation auf 12-Monats-Sicht, die die volatilen Lebensmittel- und Energiepreise ausklammert, lag bei 3 Prozent und fiel damit von 3,3 Prozent im Vormonat. Ökonomen hatten mit einer unveränderten Rate gerechnet. Diese liegt damit aber immer noch deutlich über dem Inflationsziel der US-Notenbank von 2,0 Prozent. Die Schätzung für das Wachstum des Bruttoinlandsprodukts (BIP) der USA wurde im zweiten Quartal auf 2,2 Prozent nach oben genommen. Zuvor war das US-Handelsministerium von 1,5 Prozent ausgegangen. Dies deutet auf eine weiterhin robuste Konjunktur trotz des Inflationsdrucks infolge des Iran-Krieges hin. Dies unterstrich auch der stärker als erwartet gestiegene Einkaufsmanager-Index (PMI) Chicago. Bei den Einzelwerten wurde auf die nach der Schlussglocke anstehenden
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 01, 2026 01:32 ET (05:32 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+01.10.2026 / 07:32:06
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
+Quartalsergebnisse von Micron geschaut. Diese könnten einen Hinweis auf die durch Künstliche Intelligenz (KI) ausgelöste Chip-Nachfrage liefern. Die Micron-Aktie schloss kaum verändert. Die Boeing-Aktie gab anfängliche Gewinne wieder ab und verlor 0,9 Prozent. Der Luft- und Raumfahrtkonzern hat von der US-Marine einen Auftrag im Wert von mehr als 20 Milliarden US-Dollar für den Bau seines Kampfjets der nächsten Generation erhalten. Für den Konkurrenten Northrop Grumman ist die Entscheidung eine bittere Pille, hieß es. Die Aktien verloren 4,2 Prozent.
+
+USA - ANLEIHEN
+
+US-Treasuries  Rendite    +/- 
+2 Jahre           4,89  -0,00 
+10 Jahre          5,29  +0,04
+
+Die Renditen am US-Anleihemarkt reagierten nur kurzzeitig mit leichten Abgaben auf die Inflationsdaten. Im Anschluss setzten sie ihre Aufwärtstendenz fort. Die 10-jährige Rendite gewann 4 Basispunkte auf 5,29 Prozent.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN            zuletzt  +/- %  +/- abs.  Schluss Vortag   Mi, 17:08 Uhr 
+EUR/USD             1,1318   -0,1   -0,0010          1,1328          1,1352 
+EUR/JPY             179,20   +0,5    0,8800        178,3200        178,4300 
+EUR/CHF             0,9466    0,0    0,0000          0,9466          0,9480 
+EUR/GBP             0,8543   +0,1    0,0005          0,8538          0,8550 
+USD/JPY              158,3   +0,6    0,9100        157,3900        157,1700 
+GBP/USD             1,3243   -0,2   -0,0022          1,3265          1,3275 
+USD/CNY             6,7045   +0,0    0,0015          6,7045          6,7045 
+USD/CNH             6,7149   +0,1    0,0063          6,7086          6,7087 
+AUS/USD             0,6948   +0,1    0,0005          0,6943          0,6953 
+Bitcoin/USD      84.232,60   +0,7    605,70       83.626,90       83.843,64
+
+Die gesunkenen Erwartungen an eine Zinserhöhung der Fed im Oktober belasteten den Dollar nur kurzzeitig. Er holte die Abgaben im Verlauf wieder auf. Die Nachhaltigkeit der jüngsten Dollar-Stärke hängt maßgeblich vom Zinsentscheid der US-Notenbank im Oktober ab, so Thu Lan Nguyen von der Commerzbank. Wenn die Fed die Zinsen anhebe und eine weitere Straffung signalisiere, dürfte der Dollar seine Gewinne halten. Erhöhe die Fed die Zinsen, dämpfe aber die Erwartungen an weitere kurzfristige Zinserhöhungen, könnte der Dollar leicht nachgeben. Der Dollar würde erheblich schwächer, wenn die Fed die Zinsen stabil halte und andeute, dass die nächste Zinserhöhung im Dezember erfolgen werde, so die Expertin.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle            zuletzt  +/- %  +/- abs.  Schluss Vortag 
+Gold              4.185,89   +0,7     29,90        4.155,99 
+Silber               61,33   +1,5      0,92           60,41 
+Platin            1.724,61   +1,1     18,36        1.706,25
+
+Der Goldpreis baute mit der gesunkenen Erwartung einer baldigen Fed-Zinserhöhung seine Gewinne im Verlauf leicht aus, gab diese im Anschluss aber wieder ab. Für die Feinunze ging es um 0,5 Prozent auf 4.156 Dollar nach unten. Der Goldpreis steuerte auf einen Monatsverlust von mehr als 6 Prozent zu.
+
+ÖL
+
+ROHOEL             zuletzt  +/- %  +/- abs.  Schluss Vortag 
+WTI/Nymex            88,83   -1,8     -1,59           90,42 
+Brent/ICE            96,76   -1,3     -1,27           98,03
+
+Die Ölpreise holten einen Teil ihrer Vortagesabgaben wieder auf. Der Preis für ein Barrel der Sorte Brent zur Lieferung im Dezember kletterte an seinem letzten Handelstag um 0,9 Prozent auf 103,53 Dollar. Die Ölpreise stiegen wieder, da die Spannungen im Nahen Osten trotz einer jüngsten Zunahme der Exporte, die die Angebotsängste beruhigt hatte, hoch blieben, hieß es.
+
++++++ MELDUNGEN SEIT VORTAG 17.30 UHR +++++
+
+GELDPOLITIK EZB
+
+EZB-Direktorin Isabel Schnabel hat die jüngsten Zinserhöhungen der Europäischen Zentralbank (EZB) in Reaktion auf den ölpreisbedingten Inflationsanstieg verteidigt. Bei einer Veranstaltung in Luxemburg sagte sie, die EZB habe den Ölpreisschock nicht einfach ignorieren können, auch wenn es sich um einen Angebotsschock handele.
+
+VW
+
+Fitch Ratings hat das langfristige Emittentenausfallrating und das Rating für vorrangige unbesicherte Verbindlichkeiten der Volkswagen AG (VW) mit "A-" bestätigt. Der Ausblick ist negativ. Zum negativen Ausblick erklärte Fitch, dieser spiegle die Ausführungsrisiken wider, die mit dem Umfang und der Komplexität des Umstrukturierungsprogramms verbunden seien, sowie mögliche Einschränkungen in der Unternehmensführung. Eine Herabstufung würde wahrscheinlich erfolgen, wenn die Rentabilität und die FCF-Generierung als strukturell beeinträchtigt und unterhalb der Rating-Sensitivitäten betrachten würden, unter anderem aufgrund eines durch Marktanteilsverluste geschwächten Geschäftsprofils.
+
+TELEFONICA
+
+will sein Betriebsmodell im Spanien-Geschäft vereinfachen. Damit will das Telekommunikationsunternehmen das Wachstum steigern, Entscheidungsprozesse optimieren und wettbewerbsfähig bleiben. Das Unternehmen wird nach eigenen Angaben in Spanien drei unabhängige Einheiten schaffen: Business-to-Business, Business-to-Consumer und Großhandel (Wholesale).
+
+PARAMOUNT / WARNER BROS. DISCOVERY
+
+Ein US-Bundesrichter hat den Vergleich von Paramount mit zwölf Generalstaatsanwälten der US-Bundesstaaten genehmigt. Dies macht den Weg frei für das von David Ellison geführte Unternehmen, die hart umkämpfte, 81 Milliarden US-Dollar schwere Übernahme von Warner Bros. Discovery abzuschließen.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/ros/cln
+
+(END) Dow Jones Newswires
+
+October 01, 2026 01:32 ET (05:32 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
 30.09.2026 / 22:23:32
 
 # Aktien New York Schluss: Dow unter Druck - Gute Inflationsdaten verpuffen
