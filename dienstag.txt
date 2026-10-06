@@ -1,3 +1,617 @@
+# Nachricht - Börse Stuttgart
+
+06.10.2026 / 09:17:41
+
+# MÄRKTE ASIEN/Überwiegend freundlich - Schwergewichte drücken Kospi
+
+(Dow Jones Newswires)
+
+DOW JONES--Überwiegend im Plus haben sich die Börsen in Ostasien und Australien am Dienstag gezeigt. Neben positiven Vorgaben der US-Börsen lieferte der Ölpreis Unterstützung, der schon am Vortag gefallen war und am Dienstag weiter nachgab. Auf der anderen Seite bremsten aber die gestiegenen Marktzinsen. Die Rendite zehnjähriger US-Anleihen war am Montag auf den höchsten Stand seit April 2002 gestiegen.
+
+Die Börse in Shanghai bleibt noch bis einschließlich Mittwoch feiertagsbedingt geschlossen. Am Aktienmarkt in Hongkong notierte der Hang-Seng-Index im späten Handel 0,8 Prozent höher. In Sydney ging der S&P/ASX-200 mit einem Plus von 0,6 Prozent aus dem Handel.
+
+In Seoul gab der Kospi nach dem langen Feiertagswochenende gegen die positive regionale Tendenz um 0,9 Prozent nach. Belastet wurde der Index von den Schwergewichten Samsung Electronics (-1,5%) und SK Hynix (-3,7%). LG Electronics stiegen um 7,6 Prozent. Das Unternehmen hat einen Auftrag zur Lieferung von Kühlsystemen für Datenzentren in den USA an Land gezogen, der sich über mehrere Jahre erstreckt. Einen Auftrag zur Lieferung von Mehrschicht-Keramikkondensatoren im Volumen von 285,61 Milliarden Won (rund 190 Millionen Euro) hat derweil Samsung Electro-Mechanics gemeldet. Die Aktie verbesserte sich um 6 Prozent. Hanmi Semiconductor (+2,2%) wiederum hat einen Auftrag von Samsung Electro-Mechanics erhalten.
+
+An der Tokioter Börse kletterte der Nikkei-225-Index um 1,1 Prozent. Der breiter gefasste Topix stieg um 0,9 Prozent. Die japanischen Anleiherenditen folgten den US-Renditen nach oben, was Anleger etwas vorsichtig agieren ließ, wie Händler sagten. Gesucht waren Aktien mit KI-Bezug. Advantest gewannen 3,8 Prozent und Fujikura 5,2 Prozent.
+
+\=== 
+INDEX                       zuletzt  +/- %      % YTD  Handelsschluss 
+S&P/ASX 200 (Sydney)       8.735,70   +0,6       +0,2           07:00 
+Topix 500 (Tokio)          3.268,26   +0,9      +22,9           08:00 
+Kospi (Seoul)              6.941,39   -0,9      +64,7           08:30 
+Hang-Seng (Hongkong)      24.223,34   +0,8       -5,5           10:00 
+Shanghai-Composite        Feiertag                              09:00 
+Straits-Times (Singapur)   5.673,88   +0,2      +22,1           11:00 
+IDX Comp. (Indonesien)     6.194,18   +1,2      -28,4           10:00 
+KLCI (Malaysia)            1.636,85   +0,3       -2,6           10:00 
+ 
+DEVISEN                     zuletzt  +/- %      00:00    Mo, 8:55 Uhr  % YTD 
+EUR/USD                      1,1213   -0,1     1,1221          1,1187   -4,5 
+EUR/JPY                      177,30   +0,1     177,18          176,47   -3,6 
+EUR/GBP                      0,8479   -0,1     0,8486          0,8464   -2,7 
+USD/JPY                      158,11   +0,1     157,90          157,73   +0,9 
+USD/KRW                    1.342,40   +0,1   1.341,64        1.344,76   -6,8 
+USD/CNY                      6,7045   +0,0     6,7045          6,7045   -4,1 
+USD/CNH                      6,7040   +0,0     6,7035          6,7118   -3,9 
+USD/HKD                      7,8472   +0,0     7,8464          7,8465   +0,8 
+AUD/USD                      0,6964   -0,1     0,6969          0,6942   +4,4 
+NZD/USD                      0,5595   -0,0     0,5597          0,5591   -2,8 
+BTC/USD                   85.285,43   -0,6  85.785,12       86.236,96   -2,7 
+ 
+ROHOEL                      zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                     88,42   -1,1      -1,01           89,43 
+Brent/ICE                     99,47   -0,9      -0,85          100,32 
+ 
+Metalle                     zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                       4.133,38   -0,1      -6,11        4.139,49 
+Silber                        60,72   -0,5      -0,33           61,05 
+Platin                     1.705,49   -0,9     -15,76        1.721,25 
+ 
+(Angaben ohne Gewähr) 
+===
+
+Kontakt: maerkte.de@dowjones.com
+
+DJG/cln/hab
+
+(END) Dow Jones Newswires
+
+October 06, 2026 03:17 ET (07:17 GMT)
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Advantest
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 868805
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/868805-advantest/)
+    
+-   [
+    
+    ### FUJIKURA LTD
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 859317
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/859317-fujikura-ltd/)
+    
+-   [
+    
+    ### Samsung Electronics
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 896360
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/896360-samsung-electronics/)
+    
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+06.10.2026 / 07:54:23
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+DIENSTAG: In chinesischen Kernland bleiben die Börsen wegen der Goldenen Woche zum Nationalfeiertag geschlossen.
+
+MITTWOCH: In chinesischen Kernland bleiben die Börsen wegen der Goldenen Woche zum Nationalfeiertag geschlossen.
+
++++++ TAGESTHEMA +++++
+
+Saudi-arabische und jemenitische Streitkräfte haben am Montag nach Aussage von Offiziellen eine Offensive gegen Huthi-Kämpfer vorangetrieben. Ziel ist es, die Rebellen aus der strategisch wichtigen Hafenstadt Mokha zu vertreiben und die Bedrohung für Energieexporte durch die Meerenge Bab al-Mandab zu entschärfen. Rund 100 Kampfflugzeuge gewährten jemenitischen Bodentruppen Luftunterstützung, als diese in einer Morgendämmerungsoperation in einer Zangenbewegung entlang der Küste nach Norden in Richtung Mokha vorrückten, sagte Generalmajor Turki al-Maliki, ein Sprecher der von Saudi-Arabien geführten Militärkoalition im Jemen.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+Keine relevanten Termine bekannt.
+
++++++ INDEXÄNDERUNG +++++
+
+Folgende Indexänderungen treten mit Handelsbeginn am 6. Oktober in Kraft:
+
+\+ S&P-500 
+  AUFNAHME 
+  - Twilio 
+  HERAUSNAHME 
+   - Warner Bros. Discovery
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- US 
+    14:30 Handelsbilanz August 
+          PROGNOSE: -102,00 Mrd USD 
+          zuvor:     -88,58 Mrd USD
+
++++++ ÜBERSICHT INDIZES +++++
+
+Index                         zuletzt  +/- % 
+E-Mini-Future S&P-500        7.834,50   +0,1 
+E-Mini-Future Nasdaq-100    31.358,00   +0,1 
+S&P/ASX 200 (Sydney)         8.735,70   +0,6 
+Topix-500 (Tokio)            4.186,20   +1,0 
+Kospi (Seoul)                6.930,61   -1,0 
+Shanghai-Composite           3.842,19   +0,3 
+Hang-Seng-Index (Hongkong)  24.208,84   +0,7
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Überwiegend im Plus tendieren die Börsen in Ostasien und Australien am Dienstag. Neben positiven Vorgaben der US-Börsen liefert der Ölpreis Unterstützung, der noch am Vortag gefallen ist. Auf der anderen Seite bremsen aber die gestiegenen Marktzinsen. Die Rendite zehnjähriger US-Anleihen stieg am Montag auf den höchsten Stand seit April 2002. In Seoul gibt der Kospi nach dem langen Feiertagswochenende gegen die positive regionale Tendenz Prozent nach. Belastet wird der Index von den Schwergewichten Samsung Electronics (-1,7%) und SK Hynix (-3,3%). LG Electronics steigen um 7,4 Prozent. Das Unternehmen hat einen Auftrag zur Lieferung von Kühlsystemen für Datenzentren in den USA an Land gezogen, der sich über mehrere Jahre erstreckt. Einen Auftrag zur Lieferung von Mehrschicht-Keramikkondensatoren im Volumen von 285,61 Milliarden Won (rund 190 Millionen Euro) hat derweil Samsung Electro-Mechanics vermeldet. Die Aktie verbessert sich um 5,4 Prozent. Hanmi Semiconductor (+1,1%) wiederum hat einen Auftrag von Samsung Electro-Mechanics erhalten. In Tokio greifen Anleger zu Aktien der Elektronik- und Finanzbranche. Advantest gewinnen 2,9 Prozent und Japan Post Bank 1,9 Prozent.
+
+WALL STREET
+
+Index               Schluss  +/-% 
+Dow-Jones         51.267,90  +0,2 
+S&P-500            7.773,95  +0,7 
+Nasdaq Composite  27.477,31  +1,1 
+ 
+ 
+                     Wochentag  Wochentag 
+Umsatz NYSE (Aktien) 1,54 Mrd   1,24 Mrd 
+Gewinner             1.324      1.676 
+Verlierer            1.420      1.077 
+Unverändert             77         75
+
+Etwas fester - Die gute Laune dauerte an angesichts der Erleichterung über den schwächeren Arbeitsmarktbericht am Freitag und der in der Folge gesunkenen Zinserhöhungssorgen - zumindest für den Termin im Oktober. Der ISM-Index für das nicht-verarbeitende US-Gewerbe lieferte kein Störfeuer für die Zinshoffnungen. Die Renditen am Anleihemarkt stiegen zwar erneut, Optimismus über den Boom der künstlichen Intelligenz überlagerte dies aber. Der Nasdaq-Composite stieg auf ein Rekordhoch, laut Marktteilnehmern getrieben durch die Aussichten auf ein rasant steigendes Gewinnwachstum im Bereich der KI. Das KI-Schwergewicht Nvidia stieg um 2,1 Prozent auf ein Rekordhoch. Unter den Einzelaktien haussierten PTC um 33,5 Prozent, weil das Unternehmen durch Schneider Electric übernommen wird. GE Healthcare Technologies will für 945 Millionen Dollar Sofie Biosciences kaufen - einen Hersteller radioaktiver Substanzen. Das kam gut an, die Aktie stieg um 2,3 Prozent. Cerebras legten um 9,1 Prozent zu.
+
+USA - ANLEIHEN
+
+          Rendite    +/- 
+2 Jahre      4,83  +0,00 
+10 Jahre     5,31  +0,03
+
+Die Anleiherenditen stiegen weiter aufgrund der Wahrnehmung vieler Akteure, dass eine Zinserhöhung im Oktober inzwischen zwar eher unwahrscheinlich ist, damit aber für das Fed-Zinstreffen im Dezember umso mehr auf dem Tisch liegt. Dazu wurde auch auf den ISM-Preisindex verwiesen, der den höchsten Stand seit Juli 2022 erreichte.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN                  zuletzt  +/- %      00:00    Mo, 8:55 Uhr  % YTD 
+EUR/USD                   1,1214   -0,1     1,1221          1,1187   -4,5 
+EUR/JPY                   177,32   +0,1     177,18          176,47   -3,6 
+EUR/GBP                   0,8485   -0,0     0,8486          0,8464   -2,6 
+USD/JPY                   158,10   +0,1     157,90          157,73   +0,9 
+USD/KRW                 1.342,40   +0,1   1.341,64        1.344,76   -6,8 
+USD/CNY                   6,7045   +0,0     6,7045          6,7045   -4,1 
+USD/CNH                   6,7027   -0,0     6,7035          6,7118   -3,9 
+USD/HKD                   7,8473   +0,0     7,8464          7,8465   +0,8 
+AUD/USD                   0,6967   -0,0     0,6969          0,6942   +4,4 
+NZD/USD                   0,5596   -0,0     0,5597          0,5591   -2,8 
+BTC/USD                85.526,64   -0,3  85.785,12       86.236,96   -2,5
+
+Der Dollar zog mit den höheren Marktzinsen an. Im Markt war aber eher von einer ausgeprägten Schwäche des Euro die Rede vor dem Hintergrund der krisenhaften Finanzlage Frankreichs und der dortigen sozialen Unruhen. Höhere französische Renditen führen dort laut der Deutschen Bank bereits jetzt zu einer Straffung der Finanzierungsbedingungen und dürften es der EZB fortschreitend erschweren, die vom Markt eingepreisten Zinsanhebungen umzusetzen. Der Euo kostete im späten US-Handel 1,1220 Dollar.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle                  zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                    4.121,73   -0,4     -17,76        4.139,49 
+Silber                     60,49   -0,9      -0,56           61,05 
+Platin                  1.707,32   -0,8     -13,93        1.721,25
+
+Beim Gold tat sich unter dem Strich im US-Handel wenig, zuletzt kostete die Feinunze 4.134 Dollar.
+
+ÖL
+
+ROHOEL                   zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                  89,70   +0,3       0,27           89,43 
+Brent/ICE                 100,78   +0,5       0,46          100,32
+
+Die Erdölpreise neigten zur Schwäche. Brent verbilligte sich um über 2 Prozent auf knapp über 100 Dollar. Die G7 habe beschlossen, strategische Reserven freizugeben, zudem funktionierten Pumpleitungen in Saudi-Arabien wieder, hieß es dazu.
+
++++++ MELDUNGEN SEIT MONTAG 20.00 UHR +++++
+
+BOEING
+
+hat von Lockheed Martin einen Auftrag im Wert von etwa 14,7 Milliarden US-Dollar erhalten. Boeing erklärte, der noch nicht endgültig unterzeichnete Vertrag sehe vor, die Produktion der "PAC-3 Missile Segment Enhancement (MSE)"-Suchköpfe zu verdreifachen.
+
+PARAMOUNT SKYDANCE
+
+itch Ratings hat das langfristige Emittentenausfallrating von Paramount Skydance von BB+ auf BB herabgestuft und dabei auf die Schulden verwiesen, die das Unternehmen im Rahmen der Übernahme von Warner Bros. Discovery aufnimmt.
+
+STARBUCKS
+
+wird von einer Gruppe von Verbrauchern in einer Sammelklage verklagt, in der der Kaffeekette vorgeworfen wird, ihre Linie von Proteingetränken fälschlicherweise als "zuckerfrei" zu vermarkten.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/flf/gos/cln
+
+(END) Dow Jones Newswires
+
+October 06, 2026 01:54 ET (05:54 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+06.10.2026 / 07:37:06
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+DIENSTAG: In chinesischen Kernland bleiben die Börsen wegen der Goldenen Woche zum Nationalfeiertag geschlossen.
+
+MITTWOCH: In chinesischen Kernland bleiben die Börsen wegen der Goldenen Woche zum Nationalfeiertag geschlossen.
+
++++++ TAGESTHEMA +++++
+
+Der Mobilfunkanbieter 1&1 gibt knapp 35,4 Millionen neue Aktien aus, die der Mehrheitsaktionär United Internet komplett zeichnet. Im Gegenzug überträgt der Internetkonzern dem Tochterunternehmen seine Darlehensansprüche gegen das Düsseldorfer Unternehmen 1&1 Versatel in Höhe von nominal 850,2 Millionen Euro. Als Folge der Transaktion steigt die Beteiligung von United Internet an der 1&1 auf rund 89,32 Prozent. Aktuell liegt sie bei rund 87,19 Prozent. Die Transaktion stärke die Kapitalstruktur und den finanziellen Handlungsspielraum von 1&1, so die Unternehmen. Zugleich werde die konzerninterne Finanzierungsstruktur vereinfacht.
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+Keine wichtigen Termine angesetzt.
+
++++++++ INDEXÄNDERUNG ++++++++++
+
+Folgende Indexänderungen treten mit Handelsbeginn in Kraft:
+
+\+ SDAX 
+  AUFNAHME 
+  - SGL Carbon 
+  HERAUSNAHME 
+  - Wüstenrot & Württembergische
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- DE 
+    08:00 Auftragseingang August 
+          PROGNOSE: -1,0% gg Vm 
+          zuvor:    +2,5% gg Vm 
+- FR 
+    08:45 Industrieproduktion August 
+          PROGNOSE: +0,5% gg Vm 
+          zuvor:    -0,4% gg Vm 
+- EU 
+    11:00 Einzelhandelsumsatz August 
+          PROGNOSE: +0,3% gg Vm 
+          zuvor:    -0,6% gg Vm 
+- US 
+    14:30 Handelsbilanz August 
+          PROGNOSE: -102,10 Mrd USD 
+          zuvor:     -88,58 Mrd USD
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+                            zuletzt  +/- % 
+DAX Futures               25.464,00   +0,3 
+E-Mini-Future S&P-500      7.835,00   +0,1 
+E-Mini-Future Nasdaq-100  31.368,50   +0,2 
+Topix (Tokio)              4.184,95   +1,0 
+Hang-Seng (Hongk.)        24.216,54   +0,7 
+Shanghai-Comp.             Feiertag 
+ 
+Montag: 
+INDEX               Schluss  +/- % 
+DAX               25.254,21   +0,1 
+DAX-Future        25.441,00   +0,3 
+MDAX              30.426,98   -0,1 
+TecDAX             4.070,35   -0,3 
+SDAX              18.160,62   -0,2 
+Euro-Stoxx-50      6.242,14   +0,1 
+Stoxx-50           5.320,70   +0,4 
+XDAX              25.316,82   +0,2 
+Dow-Jones         51.267,90   +0,2 
+S&P-500            7.773,95   +0,7 
+Nasdaq Composite  27.477,31   +1,1
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Mit vorsichtigen Kursgewinnen dürften Europas Börsen am Dienstag in den Handel starten. Die Börsen agierten weiter im Spannungsfeld von Gewinnerwartungen und zunehmender Problemen an den Anleihemärkten mit weiter steigender Renditen, heißt es. Frankreich befinde sich in einer zunehmend krisenhaften Finanzlage, gepaart mit sozialen Unruhen, zugleich sei der Zwang zu weiteren US-Zinserhöhungen immer weniger wegzudiskutieren, wie der ISM-Service-Index am Vortag gezeigt habe. Aktuell überwiege noch die Hoffnung auf starke Gewinne in der kommenden Berichtssaison die Sorge vor Zinsanstiegen, heißt es im Handel.
+
+Rückblick: Gut behauptet - Die Sorgen um die finanzielle Stabilität in Frankreich setzten dem Euro zu, die Auswirkungen auf die Aktienmärkte hielten sich aber in Grenzen. In Paris ging es aber um 0,8 Prozent nach unten. Die Ankündigung vorgezogener Wahlen in Spanien stieß an der spanischen Börse auf ein positives Echo. Der Ibex kletterte um 1,1 Prozent. Mit einem Plus von 4,5 Prozent führten Banco Santander die Gewinnerliste unter den Banktiteln an. Gestützt habe hier aber auch, dass in Brasilien bei der Präsidentschaftswahl der wirtschaftsfreundlichere Kandidat votrne liege. Santander ist stark in Brasilien engagiert. Schneider Electric sackten um 10 Prozent ab angesichts der Milliardenübernahme des US-Softwareunternehmens PTC. Nach neuen Mittelfristzielen zogen Air Liquide um 0,4 Prozent an. Das Margenziel übertreffe die Erwartungen, hieß es bei Jefferies. Für Novo Nordisk ging es um 0,8 Prozent nach unten. Der Pharmariese hatte von der US-Gesundheitsbehörde FDA die Mitteilung erhalten, dass die Prüfung eines Wirkstoffs noch andauere.
+
+DAX/MDAX/SDAX/TECDAX
+
+Gut behauptet - Deutsche Autoaktien hielten sich gut. Mercedes-Benz gewannen 1,2 Prozent und VW 1,6 Prozent. Continental gewannen 1,3 Prozent, nachdem Morgan Stanley die Aktie auf "Overweight" erhöht hatte. Dass der Ifo-Branchenindex der Autohersteller überraschend düster ausgefallen war, belastete nicht. Rheinmetall rückten um 2,4 Prozent vor und waren Tagesgewinner im DAX. Auch andere Rüstiungstitel wie Hensoldt oder TKMS zogen deutlicher an. Händler sprachen von technischen Gegenbewegungen. Infineon verloren nach dem starken Plus am Freitag 1,8 Prozent. Hier dürfte es sich um Gewinnmitnahmen gehandelt haben, hieß es. Tagesverlierer waren Bayer mit einem Minus von 2,2 Prozent. Der Chemiekonzern investiert weitere Milliarden in den USA.
+
+XETRA-NACHBÖRSE
+
+United Internet legten auf Tradegate um 0,8 Prozent zu mit der Nachricht der vollständigen Zeichnung einer Kapitalerhöhung bei der Tochter 1&1. 1&1 zeigten sich dagegen unverändert.
+
+USA - AKTIEN
+
+Etwas fester - Die gute Laune hielt an angesichts der Erleichterung über den schwächeren Arbeitsmarktbericht am Freitag und der in der Folge gesunkenen Zinserhöhungssorgen - zumindest für den Termin im Oktober. Der ISM-Index für das nicht-verarbeitende US-Gewerbe lieferte kein Störfeuer für die Zinshoffnungen. Die Renditen am Anleihemarkt stiegen zwar erneut, Optimismus über den Boom der künstlichen Intelligenz überlagerte dies aber. Der Nasdaq-Composite stieg auf ein Rekordhoch, laut Marktteilnehmern getrieben durch die Aussichten auf ein rasant steigendes Gewinnwachstum im Bereich der KI. Das KI-Schwergewicht Nvidia stieg um 2,1 Prozent auf ein Rekordhoch. Unter den Einzelaktien haussierten PTC um 33,7 Prozent, weil das Unternehmen durch Schneider Electric übernommen wird. GE Healthcare Technologies will für 945 Millionen Dollar Sofie Biosciences kaufen - einen Hersteller radioaktiver Substanzen. Das kam gut an, die Aktie stieg um 1,5 Prozent. Cerebras legten um 9,1 Prozent zu.
+
+USA - ANLEIHEN
+
+          Rendite    +/- 
+2 Jahre      4,83  +0,00 
+10 Jahre     5,31  +0,03
+
+Die Anleiherenditen stiegen weiter in der Wahrnehmung vieler Akteure, dass eine Zinserhöhung im Oktober inzwischen zwar eher unwahrscheinlich ist, damit aber für das Fed-Zinstreffen im Dezember umso mehr auf dem Tisch liegt. Dazu wurde auch auf den ISM-Preisindex verwiesen, der den höchsten Stand seit Juli 2022 erreichte.
+
++++++ DEVISENMARKT +++++
+
+               zuletzt  +/- %  +/- abs.  Schluss Vortag  Fr, 18:59 
+EUR/USD         1,1214   -0,1   -0,0007          1,1221     1,1256 
+EUR/JPY         177,35   +0,1    0,1700        177,1800   177,6800 
+EUR/CHF         0,9324   +0,1    0,0006          0,9318     0,9333 
+EUR/GBP         0,8485   -0,0   -0,0001          0,8486     0,8505 
+USD/JPY         158,11   +0,1    0,2100        157,9000   157,8300 
+GBP/USD         1,3212   -0,1   -0,0007          1,3219     1,3231 
+USD/CNY         6,7045   +0,0    0,0015          6,7045     6,7045 
+USD/CNH         6,7028   -0,0   -0,0007          6,7035     6,7060 
+AUS/USD         0,6967   -0,0   -0,0002          0,6969     0,6948 
+Bitcoin/USD  85.647,38   -0,2   -137,74       85.785,12  85.179,46
+
+Der Dollar zog mit den höheren Marktzinsen an. Im Markt war aber eher von einer ausgeprägten Schwäche des Euro die Rede vor dem Hintergrund der krisenhaften Finanzlage Frankreichs und der dortigen sozialen Unruhen. Höhere französische Renditen führen dort laut der Deutschen Bank bereits jetzt zu einer Straffung der Finanzierungsbedingungen und dürften es der EZB fortschreitend erschweren, die vom Markt eingepreisten Zinsanhebungen umzusetzen. Der Euro kostete im späten US-Handel 1,1220 Dollar.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+           zuletzt  +/- %  +/- abs.  Schluss Vortag 
+Gold      4.123,53   -0,4    -15,96        4.139,49 
+Silber       60,49   -0,9     -0,56           61,05 
+Platin    1.708,70   -0,7    -12,55        1.721,25
+
+Beim Gold tat sich unter dem Strich im US-Handel wenig, zuletzt kostete die Feinunze 4.134 Dollar.
+
+ÖL
+
+             zuletzt  +/- %  +/- abs.  Schluss Vortag 
+WTI/Nymex      89,77   +0,4      0,34           89,43 
+Brent/ICE     100,88   +0,6      0,56          100,32
+
+Die Erdölpreise neigten zur Schwäche. Brent verbilligte sich um über 2 Prozent auf knapp über 100 Dollar. Die G7 habe beschlossen, strategische Reserven freizugeben, zudem funktionierten Pumpleitungen in Saudi-Arabien wieder, hieß es dazu.
+
++++++ MELDUNGEN SEIT VORTAG 17.30 UHR +++++
+
+EU - Außenhandel
+
+Deutschland und Frankreich haben ein neues Abwehrinstrument ins Spiel gebracht, damit sich Europa gegen die anhaltende Flut billiger chinesischer Importe erwehren kann. Dem EU-Gipfel in der nächsten Woche schlagen die beiden Länder vor, dass die EU ihre Hürden für die Blockade bei der Einfuhr chinesischer Produkte erweitert. Ziel ist es, den Staatenbund bei solchen Maßnahmen schneller handlungsfähig zu machen.
+
+NAHOST-KONFLIKT
+
+Saudi-arabische und jemenitische Streitkräfte haben am Montag nach Aussage von Offiziellen eine Offensive gegen Huthi-Kämpfer vorangetrieben. Ziel ist es, die Rebellen aus der strategisch wichtigen Hafenstadt Mokha zu vertreiben und die Bedrohung für Energieexporte durch die Meerenge Bab al-Mandab zu entschärfen. Derweil sollen laut Meldungen Pakistan und die Türkei die rasche Verlegung gemeinsamer Truppen nach Saudi-Arabien beschlossen haben. Die Entscheidung sei bei einem Dringlichkeitstreffen der sogenannten Mekka-Verteidigungsallianz getroffen worden.
+
+RWE
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 06, 2026 01:37 ET (05:37 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+06.10.2026 / 07:37:06
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
+Der mehrheitlich zum RWE-Konzern gehörende Übertragungsnetzbetreiber Amprion hat für 1,5 Milliarden Euro grüne Anleihen platziert.
+
+RENAULT
+
+hat eine Führungskraft des Reifenherstellers Michelin zur neuen Finanzchefin ernannt und damit den Umbau der Konzernführung fortgesetzt. Carine Damois, derzeit stellvertretende Finanzchefin bei Michelin, wird ab November CFO bei Renault.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/flf/gos
+
+(END) Dow Jones Newswires
+
+October 06, 2026 01:37 ET (05:37 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+
+
 Hier sind die vertiefenden Hintergrundinformationen zu den wichtigsten Marktbewegungen und Unternehmensmeldungen von der Wall Street am Montag, den 5. Oktober 2026:
 1. Marktindizes und Tech-Rallye (Nasdaq 100 Rekord)
 Trotz globaler Belastungsfaktoren – wie anhaltend hohen Ölpreisen und restriktiven Anleiherenditen (die 10-jährigen US-Treasuries bewegen sich auf hohem Niveau) – zeigten sich die US-Märkte widerstandsfähig. Der Leitindex Dow Jones Industrial (INDEXDJX:.DJI) schloss bei 51.255 Punkten [cite: 1], während der technologielastige Nasdaq 100 (INDEXNASDAQ:.NDX) getrieben von den Megacaps ein neues historisches Rekordhoch bei 31.034 Punkten markierte [cite: 1]. Robuste Unternehmensgewinne und steigende Margen fungieren laut Analysten weiterhin als starkes Fundament gegen makroökonomische Sorgen [cite: 1].
