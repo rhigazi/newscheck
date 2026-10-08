@@ -1,3 +1,441 @@
+# Nachricht - Börse Stuttgart
+
+08.10.2026 / 07:45:39
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+FREITAG: In Südkorea bleiben die Börsen wegen des Feiertages Hangeul geschlossen.
+
++++++ TAGESTHEMA +++++
+
+Samsung Electronics erwartet für das laufende Quartal erstmals ein operatives Ergebnis von über 80 Milliarden Dollar und setzt damit die Serie an Rekordgewinnen fort. Der weltweit größte Speicherchiphersteller profitiert weiter vom Boom der künstlichen Intelligenz. Das operative Ergebnis für die drei Monate bis Ende September wird im Vergleich zum Vorjahr voraussichtlich um fast das Neunfache auf 107,4 Billionen Won steigen, was etwa 80,18 Milliarden Dollar entspricht, wie das Unternehmen mitteilte.
+
+Die vorläufige Schätzung, mehr als das Doppelte dessen, was Samsung im gesamten Jahr 2025 erwirtschaftete, basiert auf den andauernd hohen Investitionen von Unternehmen in KI-Infrastruktur und -Anwendungen. Die meisten Analysten und Führungskräfte der Halbleiterbranche rechnen damit, dass das Speicherangebot in den nächsten Jahren knapp bleibt und die Chippreise somit auf hohem Niveau verharren werden.
+
+Der prognostizierte Gewinn übertrifft den bisherigen Rekord von Samsung von rund 89 Billionen Won aus dem zweiten Quartal und entspricht weitgehend den Markterwartungen. Auch beim Quartalsumsatz wird ein Rekordwert erwartet: Das Unternehmen prognostiziert mehr als eine Verdoppelung des Umsatzes auf 195 Billionen Won. Von Facset befragten Analysten schätzten zuletzt mit 206,810 Billionen Won aber mehr.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+12:00 US/Pepsico Inc, Ergebnis 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- US 
+    14:30 Erstanträge Arbeitslosenhilfe (Woche) 
+          PROGNOSE: 200.000 
+          zuvor:    197.000
+
++++++ ÜBERSICHT INDIZES +++++
+
+Index                         zuletzt  +/- % 
+E-Mini-Future S&P-500        7.851,50   -0,0 
+E-Mini-Future Nasdaq-100    31.404,75   +0,0 
+S&P/ASX 200 (Sydney)         8.660,90   -0,8 
+Topix-500 (Tokio)            4.116,02   -0,9 
+Kospi (Seoul)                6.717,26   -1,3 
+Shanghai-Composite           3.825,11   -0,4 
+Hang-Seng-Index (Hongkong)  24.011,72   -0,5
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Erneut abwärts geht es an den Börsen in Ostasien und Australien am Donnerstag. Marktteilnehmer verweisen auf die negativen US-Vorgaben und das hohe Niveau der Ölpreise und Anleiherenditen. An der Wall Street hatten Anleger am Mittwoch Gewinne mitgenommen, nachdem S&P-500 und Nasdaq am Tag zuvor neue Rekordstände erklommen hatten. Der Kurs des Indexschwergewichts Samsung fällt in Seoul um 1,8 Prozent. Der Konzern hat als Nutznießer des KI-Booms zwar für das dritte Quartal auf vorläufiger Basis Rekordzahlen vermeldet, doch die Erwartungen des Markts waren noch höher gewesen, wie es heißt. Der Kurs des anderen Schwergewichts SK Hynix gibt um 1,6 Prozent nach. Positiv werden dagegen die Zahlen von LG Energy Solutions (+3,6%) aufgenommen. Japanische Anleger trennen sich vor allem von Aktien der Maschinenbauer und Handelskonzerne. Komatsu verbilligen sich in Tokio um 6,2 und Mitsui um 2,8 Prozent. Später am Donnerstag werden die Einzelhändler Fast Retailing (-0,2%) und Seven & i Holdings (+0,1%) Zahlen vorlegen. Die Aktie von Shein klettert in Hongkong um 6,3 Prozent. Marktteilnehmer sprechen von einer Gegenbewegung auf die jüngsten heftigen Kursverluste.
+
+WALL STREET
+
+               zuletzt  +/- %  +/- abs.  Schluss Vortag 
+DJIA         51.179,87   -0,7   -341,41       51.521,28 
+S&P-500       7.801,77   -0,2    -17,16        7.818,93 
+NASDAQ Comp  27.538,69   -0,2    -61,20       27.599,89 
+NASDAQ 100   31.160,08   -0,2    -64,61       31.224,69 
+ 
+                      Mittwoch  Dienstag 
+Umsatz NYSE (Aktien) 1,18 Mrd   1,15 Mrd 
+Gewinner               582      1.654 
+Verlierer            2.157      1.083 
+Unverändert             72         75
+
+Leichter - Nach der Rekordjagd der vergangenen Tage überwogen Gewinnmitnahmen. Dazu sorgten steigende Erdölpreise und Anleiherenditen für Zurückhaltung. Insbesondere die Aktienmärkte hätten zuletzt die Warnzeichen dauerhaft hoher Renditen weitgehend ignoriert, hieß es. Weil Ölpreise und vor allem die Renditen im Verlauf von ihren Tageshochs deutlich zurückkamen, reduzierten sich auch die Abgaben am Aktienmarkt. Mit dem weiter erhöhten Zinsniveau standen unter anderem Immobilienaktien unter Druck: D.R. Horton verloren 2,5, Lennar Corporation 1,0 oder Pulte 3,2 Prozent. Aktien von Landmaschinenherstellern fielen kräftig, nachdem eine Untersuchung wegen potenzieller wettbewerbswidriger Praktiken eingeleitet worden war. Deere fielen um 3,8, Agco um 6,1 und Caterpillar um 5,7 Prozent. Micron gewannen 4,1 Prozent, laut Händlern gestützt von einem positiven Analystenkommentar. Zuvor hatte noch ein drohender Streik bei dem Halbleiterausrüster den Kurs belastet. Caribou Biosciences brachen mit Finanzierungsproblemen um knapp 46 Prozent ein. SpaceX gaben um 2,5 Prozent nach, belastet von Berichten, wonach das Raketen- und KI-Unternehmen 40 Milliarden Dollar aufbringen will, um Chips von Nvidia (-0,7%) zu kaufen.
+
+USA - ANLEIHEN
+
+           Rendite    +/- 
+2 Jahre       4,76  -0,03 
+10 Jahre      5,27  +0,00
+
+Die Anleiherenditen legten zunächst weiter zu, kamen im Handelsverlauf aber wieder komplett zurück und gaben teils sogar nach - insbesondere am kürzeren Ende. Zum einen könnten Anleger die Zinsen auf dem höchsten Niveau seit über 20 Jahren für Anlagekäufe genutzt haben, zum anderen las sich das im späten Handel veröffentlichte Protokoll der jüngsten Fed-Sitzung eher taubenhaft. Demnach erwarten die meisten Fed-Vertreter eine weitere Zinserhöhung in diesem Jahr. Dabei stellen einige den Plan aber eher als Absicherung gegen künftige Inflationsprobleme denn als Reaktion auf die aktuellen Bedingungen dar.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN                  zuletzt  +/- %      00:00    Mi, 8:55 Uhr  % YTD 
+EUR/USD                   1,1202   +0,1     1,1195          1,1226   -4,6 
+EUR/JPY                   177,26   +0,2     176,96          177,69   -3,7 
+EUR/GBP                   0,8482   +0,1     0,8471          0,8471   -2,7 
+USD/JPY                   158,21   +0,1     158,06          158,27   +1,0 
+USD/KRW                 1.337,70   -0,1   1.339,16        1.339,60   -7,1 
+USD/CNY                   6,7026   -0,0     6,7045          6,7045   -4,2 
+USD/CNH                   6,7024    0,0     6,7025          6,7065   -3,9 
+USD/HKD                   7,8476   -0,0     7,8481          7,8476   +0,8 
+AUD/USD                   0,6954   -0,1     0,6960          0,6969   +4,2 
+NZD/USD                   0,5600   +0,1     0,5597          0,5607   -2,7 
+BTC/USD                82.978,21   -0,5  83.414,34       84.271,84   -5,4
+
+Das hohe Niveau der Marktzinsen trieb den Dollar nach dem Rücksetzer am Vortag wieder oben. Der Euro kostete zuletzt im US-Handel 1,1192 Dollar. Geopolitische Unsicherheit, steigende Renditen bei US-Staatsanleihen und Euro-Schwäche aufgrund von Sorgen über den Haushalt Frankreichs sorgten laut Analyst Stefan Arsenovic von Eleonex für Rückenwind für den Dollar.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle                  zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                    4.129,28   +0,5      18,73        4.110,55 
+Silber                     59,85   -0,5      -0,30           60,15 
+Platin                  1.662,40   +1,9      31,57        1.630,82
+
+Der festere Dollar und das zuletzt erhöhte Zinsviveau drückten den Goldpreis. Die Feinunze gab um 1,4 Prozent auf 4.109 Dollar nach.
+
+ÖL
+
+ROHOEL                   zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                  90,31   +2,3       2,03           88,28 
+Brent/ICE                 102,64   +2,4       2,44          100,20
+
+Brent-Öl verteidigte das Niveau knapp über 100 Dollar. Im Nahen Osten drohe mit den Kämpfen gegen die Huthi-Rebellen im Jemen und deren Beschuss saudischer Ziele eine neue Eskalation, hieß es. Verwiesen wurde daneben darauf, dass die Produktion im Golf von Mexiko wegen Sturmängsten eingestellt wurde.
+
++++++ MELDUNGEN SEIT MITTWOCH 20.00 UHR +++++
+
+FED-PROTOKOLL
+
+Bei der jüngsten Sitzung der US-Notenbank ist die Mehrheit der Geldpolitiker von einem weiteren Zinsschritt in diesem Jahr ausgegangen. Aus dem Sitzungsprotokoll geht jedoch nicht hervor, dass die Währungshüter eine dringende Notwendigkeit für einen solchen Folgeschritt bereits bei der nächsten Sitzung im Oktober sahen. Die Notenbanker befürworteten die Zinserhöhung im September einstimmig, um der hartnäckigen Inflation entgegenzuwirken. Viele Vertreter hielten die Zinsanhebung für gerechtfertigt, um dem Risiko einer über den Erwartungen liegenden Inflation zu begegnen. Einige waren der Ansicht, dass bereits die derzeitigen Aussichten auf einen Preisanstieg ein ausreichender Grund für eine Zinsanhebung sind.
+
+LEISTUNGSBILANZ JAPAN
+
+\- Leistungsbilanz Aug nsb Überschuss 4,062 Bill JPY; +12,0% gg Vj
+
+\- Leistungsbilanz Aug nsb Überschuss 4,062 Bill JPY (PROG: Überschuss 3,195 Bill JPY)
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/flf/gos/cln
+
+(END) Dow Jones Newswires
+
+October 08, 2026 01:45 ET (05:45 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+08.10.2026 / 07:34:32
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+FREITAG: In Südkorea bleiben die Börsen wegen des Feiertages Hangeul geschlossen.
+
++++++ TAGESTHEMA +++++
+
+Bei der jüngsten Sitzung der US-Notenbank ist die Mehrheit der Geldpolitiker von einem weiteren Zinsschritt in diesem Jahr ausgegangen. Aus dem am Mittwoch veröffentlichten Sitzungsprotokoll geht jedoch nicht hervor, dass die Währungshüter eine dringende Notwendigkeit für einen solchen Folgeschritt bereits bei der nächsten Sitzung im Oktober sahen. Die Notenbanker befürworteten die Zinserhöhung im September einstimmig, um der hartnäckigen Inflation entgegenzuwirken. Viele Vertreter hielten die Zinsanhebung für gerechtfertigt, um dem Risiko einer über den Erwartungen liegenden Inflation zu begegnen. Einige waren der Ansicht, dass bereits die derzeitigen Aussichten auf einen Preisanstieg ein ausreichender Grund für eine Zinsanhebung sind. Die meisten FOMC-Mitglieder legten bei der September-Sitzung Prognosen vor, die eine weitere Zinserhöhung im Rahmen der beiden verbleibenden geldpolitischen Sitzungen der Fed in diesem Jahr vorsahen. Eine kleine Minderheit stellte Zinsschritte bei beiden Sitzungen in Aussicht. Das Protokoll der Sitzung, das mit der üblichen dreiwöchigen Verzögerung veröffentlicht wurde, spiegelte jedoch keine eindeutigen Pläne wider, die Zinsen in diesem Monat erneut anzuheben. Dies deckt sich mit jüngsten Äußerungen führender Entscheidungsträger, die angedeutet haben, dass eine weitere Zinserhöhung bis Dezember warten kann.
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+07:10 DE/Südzucker AG, ausführliches Ergebnis 2Q
+
+12:00 US/Pepsico Inc, Ergebnis 3Q
+
+17:30 DE/Mercedes-Benz Group AG, Pre-Close-Call 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- DE 
+    08:00 Handelsbilanz August 
+          Handelsbilanz kalender- und saisonbereinigt 
+          PROGNOSE: +19,3 Mrd Euro 
+          zuvor:    -21,3 Mrd Euro 
+          Exporte 
+          PROGNOSE: +1,0% gg Vm 
+          zuvor:    -0,8% gg Vm 
+          Importe 
+          PROGNOSE: +2,6% gg Vm 
+          zuvor:    -5,7% gg Vm 
+- US 
+    14:30 Erstanträge Arbeitslosenhilfe (Woche) 
+          PROGNOSE: 200.000 
+          zuvor:    197.000
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+                            zuletzt  +/- % 
+DAX Futures               25.221,00   -0,0 
+E-Mini-Future S&P-500      7.850,00   -0,0 
+E-Mini-Future Nasdaq-100  31.393,50   -0,0 
+Topix (Tokio)              4.114,23   -1,0 
+Hang-Seng (Hongk.)        24.003,41   -0,5 
+Shanghai-Comp.             3.817,42   -0,6 
+ 
+ 
+Mittwoch: 
+INDEX               Schluss  +/- % 
+DAX               25.104,36   -1,4 
+DAX-Future        25.290,00   -1,3 
+MDAX              30.112,41   -1,4 
+TecDAX             4.048,53   -1,2 
+SDAX              18.169,69   -1,2 
+Euro-Stoxx-50      6.180,29   -1,5 
+Stoxx-50           5.293,38   -0,8 
+XDAX              25.110,73   +0,0 
+Dow-Jones         51.179,87   -0,7 
+S&P-500            7.801,77   -0,2 
+Nasdaq Composite  27.538,69   -0,2
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Mit einem volatilem Handel rechnen Händler am Donnerstag an Europas Börsen. Eine Woche vor Beginn der Berichtssaison in den USA sei der Markt hin- und hergerissen zwischen hohen Gewinnerwartungen und den stark gestiegenen Renditen bei Staatsanleihen. Stützend dürfte wirken, dass das Protokoll der jüngsten Fed-Sitzung Hinweise auf nur noch eine weitere Zinserhöhung in diesem Jahr gab. Dazu verlief eine Auktion von neuen 10-jährigen US-Schuldtiteln problemlos.
+
+Rückblick: Schwach - Höhere Ölpreise und wieder höhere Anleiherenditen belasteten. Bankaktien waren die größten Verlierer, der Stoxx-Subindex fiel um 3,3 Prozent, weil das hohe Zinsniveau zu einem Rückgang der Kreidtnachfrage führen dürfte. Der zinsreagible Technologiesektor büßte 2 Prozent ein. Verkauft wurden Chipaktien: BE Semiconductor sanken um 8,5, STMicro 4,1 und Infineon 5,8 Prozent. Besser hielten sich Aktien aus vermeintlich sichereren Branchen wie Telekommunikation oder Gesundheitswesen. Automobilwerte wurden gestützt von einer deutsch-französischen Initiative zur Verschiebung des EU-Verbrennerberbots. VW legten 1,6 Prozent, Stellantis 1,4 und Renault 3,7 Prozent. Mercedes-Benz drehten allerdings nach enttäuschenden Absatzzahlen im Minus, wobei besonders das Luxussegment schlecht lief. Die Aktie gab um 2,1 Prozent nach, BMW verloren im Sog 1,2 Prozent.
+
+DAX/MDAX/SDAX/TECDAX
+
+Schwach - Deutsche Telekom kletterten nachrichtenlos um 2,2 Prozent. Beim Autozulieferer Aumovio belastete der überraschende Ausstieg der Finanzvorständin nicht, die Aktie stieg um 2,5 Prozent. Anders bei FMC, die um 6,9 Prozent abrutschten. Ein unerwarteter CEO-Austausch, der bereits nächste Woche vollzogen werden soll, werfe Fragen auf, hieß es. Mit einem Plus von 1,4 Prozent reagierten Vincorion auf eine starke Umsatzsteigerung und eine erhöhte Jahresprognose. Puma gewannen 3,8 Prozent. Kurstreiber war der schnelle Abschluss des Anteilskaufs von Anta Sports, wodurch Anta nun der größte Aktionär ist.
+
+XETRA-NACHBÖRSE
+
+Nachdem FMC im späten Xetra-Handel deutlich um 6,9 Prozent nachgegeben hatten auf die Nachricht über einen bevorstehenden CEO-Austausch, tat sich nachbörslich bei der Aktie kaum noch etwas.
+
+USA - AKTIEN
+
+Leichter - Nach der Rekordjagd der vergangenen Tage überwogen Gewinnmitnahmen. Dazu sorgten steigende Erdölpreise und Anleiherenditen für Zurückhaltung. Insbesondere die Aktienmärkte hätten zuletzt die Warnzeichen dauerhaft hoher Renditen weitgehend ignoriert, hieß es. Weil Ölpreise und vor allem die Renditen im Verlauf von ihren Tageshochs deutlich zurückkamen, reduzierten sich auch die Abgaben am Aktienmarkt. Mit dem weiter erhöhten Zinsniveau standen unter anderem Immobilienaktien unter Druck: D.R. Horton verloren 2,5, Lennar Corporation 1,0 oder Pulte 3,2 Prozent. Aktien von Landmaschinenherstellern fielen kräftig, nachdem eine Untersuchung wegen potenzieller wettbewerbswidriger Praktiken eingeleitet wurde. Deere fielen um 3,8, Agco um 6,1 und Caterpillar um 5,7 Prozent. Micron gewannen 4,1 Prozent, laut Händlern gestützt von einem positiven Analystenkommentar. Zuvor hatte noch ein drohender Streik bei dem Halbleiterausrüster den Kurs belastet. Caribou Biosciences brachen mit Finanzierungsproblemen um knapp 46 Prozent ein. SpaceX gaben um 2,5 Prozent nach, belastet von Berichten, wonach das Raketen- und KI-Unternehmen 40 Milliarden Dollar aufbringen will, um Chips von Nvidia (-0,7%) zu kaufen.
+
+USA - ANLEIHEN
+
+           Rendite    +/- 
+2 Jahre       4,76  -0,03 
+10 Jahre      5,27  +0,00
+
+Die Anleiherenditen legten zunächst weiter zu, kamen im Handelsverlauf aber wieder komplett zurück und gaben teils sogar nach - insbesondere am kürzeren Ende. Zum einen könnten Anleger die Zinsen auf dem höchsten Niveau seit über 20 Jahren für Anlagekäufe genutzt haben, zum anderen las sich das im späten Handel veröffentlichte Protokoll der jüngsten Fed-Sitzung eher taubenhaft. Demnach erwarten die meisten Fed-Vertreter eine weitere Zinserhöhung in diesem Jahr. Dabei stellen einige den Plan aber eher als Absicherung gegen künftige Inflationsprobleme denn als Reaktion auf die aktuellen Bedingungen dar.
+
++++++ DEVISENMARKT +++++
+
+               zuletzt  +/- %  +/- abs.  Schluss Vortag  Mi, 17:30 
+EUR/USD         1,1204   +0,1    0,0009          1,1195     1,1186 
+EUR/JPY         177,27   +0,2    0,3100        176,9600   176,9300 
+EUR/CHF         0,9334   +0,1    0,0006          0,9328     0,9324 
+EUR/GBP         0,8482   +0,1    0,0011          0,8471     0,8469 
+USD/JPY         158,21   +0,1    0,1500        158,0600   158,1400 
+GBP/USD         1,3205   -0,0   -0,0005          1,3210     1,3204 
+USD/CNY         6,7024   -0,0   -0,0021          6,7045     6,7045 
+USD/CNH         6,7024    0,0   -0,0001          6,7025     6,7049 
+AUS/USD         0,6954   -0,1   -0,0006          0,6960     0,6959 
+Bitcoin/USD  82.886,56   -0,6   -527,78       83.414,34  83.060,25
+
+Das hohe Niveau der Marktzinsen trieb den Dollar nach dem Rücksetzer am Vortag wieder oben. Der Euro kostete zuletzt im US-Handel 1,1192 Dollar. Geopolitische Unsicherheit, steigende Renditen bei US-Staatsanleihen und Euro-Schwäche aufgrund von Sorgen über den Haushalt Frankreichs sorgten laut Analyst Stefan Arsenovic von Eleonex für Rückenwind für den Dollar.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+          zuletzt  +/- %  +/- abs.  Schluss Vortag 
+Gold     4.124,71   +0,3     14,16        4.110,55 
+Silber      59,62   -0,9     -0,53           60,15 
+Platin   1.661,07   +1,9     30,25        1.630,82
+
+Der festere Dollar und das zuletzt erhöhte Zinsviveau drückten den Goldpreis. Die Feinunze gab um 1,4 Prozent auf 4.109 Dollar nach.
+
+ÖL
+
+             zuletzt  +/- %  +/- abs.  Schluss Vortag 
+WTI/Nymex      90,33   +2,3      2,05           88,28 
+Brent/ICE     102,61   +2,4      2,41          100,20
+
+Brent-Öl verteidigte das Niveau knapp über 100 Dollar. Im Nahen Osten drohe mit den Kämpfen gegen die Huthi-Rebellen im Jemen und deren Beschuss saudischer Ziele eine neue Eskalation, hieß es. Verwiesen wurde daneben darauf, dass die Produktion im Golf von Mexiko wegen Sturmängsten eingestellt wurde.
+
++++++ MELDUNGEN SEIT MITTWOCH 17.30 UHR +++++
+
+FRANKREICH - Fiskalpolitik
+
+Frankreich zieht in Erwägung, die Emission kurzfristiger Schuldtitel aufzustocken, eil die Zurückhaltung der Investoren zunehme, dem hoch verschuldeten Land Geld für längere Zeiträume zu leihen. In einem Interview sagte Finanzminister Roland Lescure, Frankreich werde bei der Ausgabe neuer Schulden "strategisch" vorgehen.
+
+FRESENIUS MEDICAL CARE
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 08, 2026 01:34 ET (05:34 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+08.10.2026 / 07:34:32
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
+wechselt überraschend den CEO aus. Der "international erfahrenen Manager" Shervin J. Korangy soll zum 12. Oktober zum Vorstandsvorsitzenden und Nachfolger von Helen Giza bestellt werden. Die 58-Jährige, die seit vier Jahren den Vorstandsvorsitz inne hatte, wird aus dem Unternehmen ausscheiden. Sein Amt als Mitglied des Aufsichtsrats hat Shervin J. Korangy im Zuge seiner Ernennung zum CEO niedergelegt. Der 51-Jährige war zuletzt CEO von BVI Medical mit Hauptsitz in den USA.
+
+SAMSUNG ELECTRONICS
+
+erwartet für das dritte Quartal ein operatives Ergebnis von voraussichtlich 107,4 Billionen Won bzw. 80,18 Milliarden US-Dollar - fast das Neunfache des Vorjahreswerts. Der Gewinn entspricht weitgehend den Markterwartungen. Beim Quartalsumsatz wird mit 195 Billionen Won mehr als eine Verdoppelung prognostiziert. Analysten hatten mit 206,81 Billionen Won allerdings mehr erwartet.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/flf/gos
+
+(END) Dow Jones Newswires
+
+October 08, 2026 01:34 ET (05:34 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
 In der Eurozone verzeichnen innerhalb des Dienstleistungssektors im Herbst 2026 vor allem folgende Bereiche den stärksten Preisanstieg:
 Gastgewerbe und Tourismus: Übernachtungen in Hotels sowie Dienstleistungen von Restaurants und Cafés gehören zu den stärksten Treibern. Hier schlagen sowohl die anhaltend hohe Nachfrage als auch die deutlich gestiegenen Lebensmittel- und Personalkosten voll auf die Endverbraucherpreise durch.
 Körpernahe und handwerkliche Dienstleistungen: Friseure, Reinigungen sowie Reparatur- und Wartungsdienste (z. B. Kfz-Werkstätten oder Handwerkerleistungen) verzeichnen überdurchschnittliche Zuwächse, da diese Sektoren extrem arbeitsintensiv sind und die Tariflohnsteigerungen direkt weitergeben.
