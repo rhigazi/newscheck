@@ -1,3 +1,1080 @@
+# Nachricht - Börse Stuttgart
+
+09.10.2026 / 07:58:05
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+FREITAG: In Südkorea bleiben die Börsen wegen des Feiertages Hangeul geschlossen.
+
+MONTAG: In Japan findet wegen des Tags des Sports kein Handel statt.
+
+MONTAG: In den USA pausiert der Anleihemarkt wegen des Tags der amerikanischen Ureinwohner.
+
++++++ TAGESTHEMA +++++
+
+Der annualisierte Umsatz von OpenAI belief sich per September auf rund 50 Milliarden Dollar und lag damit etwa 20 Milliarden unter den zuvor an Investoren gemeldeten Zahlen. Dies berichtet die Financial Times mit Bezug auf Finanzdokumente. Die Diskrepanz ergebe sich aus unterschiedlichen Berechnungsmethoden für den annualisierten Umsatz bei OpenAI und seinem Konkurrenten Anthropic. Während Anthropic auch Einnahmen aus Verkäufen über Cloud-Partner wie AWS und Google Cloud in seine Kalkulationen einbeziehe, berücksichtige OpenAI solche Partnereinnahmen in seinen Zahlen nicht, heißt es. Der Versuch von Investoren, einen direkten Vergleich zwischen den Umsätzen der beiden Unternehmen herzustellen, habe zu den höheren Schätzungen geführt. Frühere Versuche, die Umsatzzahlen von OpenAI anzupassen, hätten zu Berichten geführt, wonach der annualisierte Umsatz des Unternehmens im August 40 Milliarden Dollar erreicht habe.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+12:30 US/Delta Airlines Inc, Ergebnis 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- US 
+    16:00 Index Verbraucherstimmung Uni Michigan (1. Umfrage) Oktober 
+          PROGNOSE: 48,0 
+          zuvor:    48,1
+
++++++ ÜBERSICHT INDIZES +++++
+
+Index                         zuletzt           +/- % 
+E-Mini-Future S&P-500        7.842,25            +0,3 
+E-Mini-Future Nasdaq-100    31.170,00            +0,7 
+S&P/ASX 200 (Sydney)         8.716,60            +0,6 
+Topix-500 (Tokio)            4.103,63            +0,3 
+Kospi (Seoul)                Feiertag 
+Shanghai-Composite           3.807,05            -0,1 
+Hang-Seng-Index (Hongkong)  24.171,85            +1,6
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Zum Wochenausklang lässt sich an den Börsen in Ostasien und Australien keine einheitliche Tendenz feststellen. Nach den teils kräftigen Verlusten des Vortags kommt es mancherorts zu einer Gegenbewegung, nachdem die US-Anleiherenditen am Vorabend deutlich gesunken sind und auch der Ölpreis aktuell etwas nachgibt. US-Präsident Donald Trump hatte gesagt, dass die USA vor den Zwischenwahlen Anfang November keine weiteren Angriffe auf den Iran vornehmen würden, auch wenn der Iran in den vergangenen Wochen verstärkt Tankschiffe angegriffen habe. Trump schrieb überdies von "produktiven" Gesprächen mit Teheran. Aktien des Chipsektors und mit KI-Bezug folgen den US-Pendants nach unten. Diese waren am Donnerstag unter Druck geraten, nachdem die Financial Times berichtet hatte, der Jahresumsatz von OpenAI falle offenbar niedriger aus als bislang signalisiert. Das könne für Halbleiterhersteller eine geringere Nachfrage bedeuten. In Hongkong fallen Hua Hong Grace um 3,7 Prozent und Semiconductor Manufacturing International um 1,6 Prozent ein. Für Kioxia geht es in Tokio um 3 Prozent abwärts. Softbank Group und Renesas verbilligen sich um 5 und um 2,8 Prozent. In den Blick rückt zusehends die Bilanzsaison. Die Uniqlo-Mutter Fast Retailing hat einen rekordhohen Jahresgewinn gemeldet und weiteres Gewinnwachstum in Aussicht gestellt; die Aktie des Textileinzelhändlers gibt gleichwohl um 3 Prozent nach. Seven & i Holdings, Betreiberin der 7-Eleven-Convenience-Stores, hat den Gewinn im ersten Halbjahr den Nettogewinn gesteigert. Die Aktie legt um 0,3 Prozent zu.
+
+WALL STREET
+
+                    zuletzt  +/-% 
+Dow-Jones         51.231,64  +0,1 
+S&P-500            7.765,36  -0,5 
+Nasdaq Composite  27.193,34  -1,3 
+ 
+                     Donnerstag  Mittwoch 
+Umsatz NYSE (Aktien) 1,83 Mrd   1,18 Mrd 
+Gewinner             1.710        582 
+Verlierer            1.016      2.157 
+Unverändert             86         72
+
+Leichter - Die Belastungsfaktoren des Vortages hatten Bestand, steigende Ölpreise und - zumindest zwischenzeitlich - im Sog der Ölpreise steigende Marktzinsen. Allerdings kamen die Renditen von ihren Tageshochs im Handelsverlauf deutlich zurück und sanken im Tagesvergleich sogar , wozu auch eine gut verlaufene Auktion 30-jähriger Anleihen beitrug. Die Aktienindizes lösten sich darauf etwas von den Tagestiefs. "KI-Aktien" litten unter einem Bericht der Financial Times, dass der Jahresumsatz von OpenAI um rund 20 Milliarden Dollar unter früheren Schätzungen liegen soll. OpenAI habe mitgeteilt, dass sich die Einnahmen gegen Ende des vergangenen Monats auf annualisierter Basis 50 Milliarden Dollar genähert hätten, verglichen mit einer vorherigen Schätzung von rund 70 Milliarden. Nvidia fielen um 2,9 und AMD um 3,9 Prozent, der Halbleiterindex knickte um 3,4 Prozent ein. Wolfspeed stiegen zunächst, nachdem der Halbleiterhersteller eine Finanzierungsvereinbarung mit dem Pentagon abgeschlossen hatte, schlossen aber letztlich 1,1 Prozent im Minus. PepsiCo meldete einen höheren Gewinn und Umsatz, senkte aber auch die Prognose und will die Kosten senken. Der Kurs stieg um 3,7 Prozent. Resources Connection brachen 23 Prozent ein - belastet von einem Umsatzrückgang und einem höheren Verlust.
+
+USA - ANLEIHEN
+
+          Rendite    +/- 
+2 Jahre      4,75   -0,01 
+10 Jahre     5,23   -0,05
+
+Die Renditen kletterten zunächst weiter, kamen dann aber deutlich zurück und gaben sogar nach. Marktteinehmer verwiesen auf eine erneut problemlos verlaufene große Auktion von Staatsanleihen, dazu war von Anleihekäufen die Rede, angesichts des auch im Vergleich zu Aktienanlagen attraktiv angesehenen Renditeniveaus.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN                  zuletzt  +/- %      00:00    Do, 9:40 Uhr  % YTD 
+EUR/USD                   1,1231   +0,2     1,1209          1,1190   -4,4 
+EUR/JPY                   177,66   +0,4     176,97          177,10   -3,4 
+EUR/GBP                   0,8481   +0,1     0,8472          0,8479   -2,7 
+USD/JPY                   158,16   +0,2     157,86          158,23   +1,0 
+USD/KRW                 1.341,44   -0,0   1.341,93        1.340,06   -6,9 
+USD/CNY                   6,6966   -0,1     6,7021          6,7026   -4,2 
+USD/CNH                   6,6968   -0,1     6,7034          6,7032   -4,0 
+USD/HKD                   7,8470   -0,0     7,8478          7,8472   +0,8 
+AUD/USD                   0,6982   +0,4     0,6955          0,6950   +4,7 
+NZD/USD                   0,5620   +0,2     0,5610          0,5590   -2,4 
+BTC/USD                82.286,59   +0,6  81.768,58       83.133,68   -6,2
+
+Die Kombination aus starken Wirtschaftsdaten und steigenden Ölpreisen sowie US-Renditen stützte den Dollar zunächst, als die renditen dann deutlich zurückfielen, kam auch der Dollar zurück. Im späten US-Handel wurde der Euro mit 1,1210 Dollar bewertet, einen Tick höher als am späten Mittwoch.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle                  zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                    4.193,28   +1,4      59,35        4.133,93 
+Silber                     60,24   +1,5       0,90           59,34 
+Platin                  1.675,81   +2,5      41,56        1.634,25
+
+Der Goldpreis zog um 0,8 Prozent an auf 4.140 Dollar, nachdem im späten Handel deutlicher sinkende US-Renditen für Auftrieb bei dem Edelmetall gesorgt hatten.
+
+ÖL
+
+ROHOEL                   zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                  90,43   -1,2      -1,06           91,49 
+Brent/ICE                 102,82   -1,4      -1,46          104,28
+
+Die Ölpreise zogen kräftig an, phasenweise betrog das Plus bei Brent über 5 Prozent. Am Ende des tages betrug es knapp 3 Prozent auf 104,15 Dollar. Händler erklärten die Ölpreisrally mit fortgesetzten Angriffen auf die zivile Schifffahrt im Persischen Golf, Berichten über US-Planungen für neue Angriffe auf den Iran und den Wirbelsturm Isaias, der die Ölförderung im Golf von Mexiko einschränkt. Für etwas Entspannung sorgten im Handelsverlauf Aussagen von US-Präsident Trump über produktive Gespräche mit dem Iran und dass die USA den Iran nicht vor den Zwischenwahlen angreifen würden.
+
++++++ MELDUNGEN SEIT VORTAG, 20.00 UHR +++++
+
+USA / ANLEIHERÜCKKÄUFE
+
+Das US-Finanzministerium hat am Donnerstag bei einer Rückkaufaktion von Anleihen mit einer Laufzeit von 20 bis 30 Jahren Wertpapiere im Wert von 6 Milliarden US-Dollar angenommen. Nach der Operation bewegten sich die Renditen für 30-jährige US-Staatsanleihen bei 5,608 Prozent und lagen damit unter dem Tageshoch von 5,7315 Prozent. Analysten prognostizierten, dass der Rückkauf wahrscheinlich keine nennenswerten Auswirkungen auf die Renditen von Staatsanleihen haben werde, da das Volumen der Operation von 6 Milliarden Dollar erwartet worden war.
+
+JAPAN / AUSGABEN PRIVATHAUSHALTE
+
+\- Ausgaben privater Haushalte Aug -3,1% (PROGNOSE: -3,6%) gg Vorjahr
+
+\- Ausgaben Arbeitnehmer-Haushalte Aug -6,8% gg Vorjahr
+
+\- Konsumneigung Aug 64,5%
+
+\- Konsumneigung Aug -4,1 Pkt gg Vorjahr
+
+AMERICAN EXPRESS
+
+muss eine Geldstrafe in Höhe von 350 Millionen US-Dollar an das Office of the Comptroller of the Currency (OCC) des US-Finanzministeriums zahlen. Das Finanzunternehmen hat nach Überzeugung der Behörde gegen bundesstaatliche Vorschriften zur Bankgeheimniswahrung und Geldwäschebekämpfung verstoßen.
+
+SPACEX
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 09, 2026 01:58 ET (05:58 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.10.2026 / 07:58:05
+
+# MORNING BRIEFING - USA/Asien -2-
+
+(Dow Jones Newswires)
+
+hat eine Vereinbarung zum Kauf von Mobilfunkspektrum-Lizenzen von der Investmentfirma Grain Management getroffen, der bislang größte Schritt des Weltraumunternehmens in den von traditionellen Telekom-Firmen dominierten Markt. Der von Elon Musk geführte Konzern wird laut mit der Angelegenheit vertrauten Personen rund 8 Milliarden US-Dollar in bar für die Vermögenswerte zahlen. Die US-Lizenzen, die sich im 800-Megahertz-Band befinden, sind für drahtlose Dienste von Mobilfunkmasten und nicht für Satelliten ausgelegt. Das Spektrum könnte SpaceXs erklärtem Ziel dienen, seinen Starlink-Satellitendienst über Breitband hinaus in den Mobilfunkmarkt zu bringen, um mit Unternehmen wie AT&T und Verizon zu konkurrieren.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/flf/gos/cln
+
+(END) Dow Jones Newswires
+
+October 09, 2026 01:58 ET (05:58 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.10.2026 / 07:52:23
+
+# Aufseher brummen Volkswagen Millionenstrafe auf - Verstoß gegen Ad-hoc-Pflicht
+
+(dpa-AFX) BONN (dpa-AFX) - Die deutsche Finanzdienstleistungsaufsicht hat Volkswagen wegen eines mutmaßlichen Verstoßes gegen Veröffentlichungspflichten mit einer millionenschweren Geldbuße belegt. Die VW AG soll demnach 1,2 Millionen Euro zahlen, wie die Bafin am Freitag mitteilte. Die Prognose von VW für das Geschäftsjahr 2023 habe deutlich über den Markterwartungen gelegen. Die sich darin widerspiegelnde Geschäftsentwicklung hätte sie nach Darstellung der Bonner Behörde unverzüglich "Ad-hoc" mitteilen müssen - also in einer besonders auffälligen Art und Weise für die Marktteilnehmer an den Finanzmärkten. Stattdessen habe das Unternehmen diese Insiderinformationen lediglich in einer Pressemitteilung veröffentlicht. VW kann gegen den Bußgeldbescheid noch Einspruch einlegen. Eine Stellungnahme von VW lag am Morgen zunächst nicht vor.
+
+BONN (dpa-AFX) - Die deutsche Finanzdienstleistungsaufsicht hat Volkswagen wegen eines mutmaßlichen Verstoßes gegen Veröffentlichungspflichten mit einer millionenschweren Geldbuße belegt. Die VW AG soll demnach 1,2 Millionen Euro zahlen, wie die Bafin am Freitag mitteilte. Die Prognose von VW für das Geschäftsjahr 2023 habe deutlich über den Markterwartungen gelegen. Die sich darin widerspiegelnde Geschäftsentwicklung hätte sie nach Darstellung der Bonner Behörde unverzüglich "Ad-hoc" mitteilen müssen - also in einer besonders auffälligen Art und Weise für die Marktteilnehmer an den Finanzmärkten. Stattdessen habe das Unternehmen diese Insiderinformationen lediglich in einer Pressemitteilung veröffentlicht. VW kann gegen den Bußgeldbescheid noch Einspruch einlegen. Eine Stellungnahme von VW lag am Morgen zunächst nicht vor.
+
+Börsennotierte Unternehmen unterliegen in Deutschland der sogenannten Ad-hoc-Publizitätspflicht. Das heißt, dass nicht öffentliche Insiderinformationen, die den Aktienkurs in bedeutender Weise beeinflussen können, sofort ("ad-hoc") veröffentlicht werden müssen. Dazu zählt nach Angaben der Bafin auch eine deutliche Abweichung der Geschäftszahlen von der Markterwartung.
+
+Die Ad-hoc-Publizitätspflicht ist Teil der Marktmissbrauchsverordnung. Verstößt ein Unternehmen dagegen, kann die Bafin dies mit einer Geldbuße bis höchstens 2,5 Millionen Euro oder bis zu zwei Prozent des Umsatzes ahnden.
+
+Die Geldbuße wurde nach Angaben der Bafin bereits am 1. Oktober festgesetzt. Am 3. März 2023 hatte Volkswagen die Anleger im laufenden Handel mit einem optimistischen Ausblick auf das Jahr überrascht. Die im Dax notierte VW-Aktie war an dem Tag um mehr als 10 Prozent in die Höhe geschnellt./men/mis
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Volkswagen
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 766403
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/766403-volkswagen/)
+    
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.10.2026 / 07:34:13
+
+# Ölpreise im Rückwärtsgang - Dementi zu angeblich neuen US-Angriffen
+
+(dpa-AFX) NEW YORK/LONDON (dpa-AFX) - Die Ölpreise haben am Freitag im frühen Handel nachgegeben. Der Preis für ein Barrel (159 Liter) Rohöl der Referenzsorte Brent aus der Nordsee zur Lieferung im Dezember verlor zuletzt 1,29 Prozent auf 102,93 US-Dollar. Gestern war der Brent-Preis angesichts eines Medienberichts über den Plan zu neuen US-Angriffen auf den Iran vor den Zwischenwahlen zunächst in der Spitze bis auf fast 106 US-Dollar angestiegen. Ein Dementi von US-Präsident Donald Trump sorgte dann am Abend europäischer Zeit für eine Gegenbewegung.
+
+NEW YORK/LONDON (dpa-AFX) - Die Ölpreise haben am Freitag im frühen Handel nachgegeben. Der Preis für ein Barrel (159 Liter) Rohöl der Referenzsorte Brent aus der Nordsee zur Lieferung im Dezember verlor zuletzt 1,29 Prozent auf 102,93 US-Dollar. Gestern war der Brent-Preis angesichts eines Medienberichts über den Plan zu neuen US-Angriffen auf den Iran vor den Zwischenwahlen zunächst in der Spitze bis auf fast 106 US-Dollar angestiegen. Ein Dementi von US-Präsident Donald Trump sorgte dann am Abend europäischer Zeit für eine Gegenbewegung.
+
+"Wir werden den Iran zu keinem Zeitpunkt vor den Zwischenwahlen, die am 3. November in den Vereinigten Staaten stattfinden, angreifen", schrieb US-Präsident Donald Trump auf seiner Plattform Truth Social. Die US-Regierung führe unterdessen "konstruktive Gespräche" mit Teheran, schrieb Trump weiter. Der iranische Außenminister Abbas Araghtschi hatte zuvor auf seinem Telegramkanal geschrieben, dass die Regierung in Teheran eine Antwort aus den USA prüfe. Man habe Washington einen "Sieben-Tage-Plan" übermittelt und eine Antwort erhalten - darauf wolle man in wenigen Tagen reagieren, hieß es.
+
+Zuvor hatten mehrere US-Medien darüber berichtet, dass die US-Regierung in ihrem festgefahrenen Krieg neue Angriffe auf Ziele im Iran erwägt. Dabei könnten größere Militäreinsätze in den kommenden Wochen noch vor den wichtigen US-Zwischenwahlen wieder aufgenommen werden, hatten das Nachrichtenportal "Axios" und der US-Sender NBC News unter Berufung auf mit der Angelegenheit vertraute Personen berichtet. Eine Entscheidung darüber sei allerdings bislang nicht gefallen.
+
+Die Ölpreise haben seit Anfang Oktober stark geschwankt. Der anhaltende Krieg zwischen den USA und dem Iran sorgt für Unsicherheit am Markt. Einerseits haben die Öllieferungen aus dem Nahen Osten wieder zugenommen. Andererseits häufen sich Angriffe auf Schiffe, während die Versorgung mit Ölprodukten angespannt bleibt. Stark gestiegene Frachtraten und neue Kämpfe zwischen Saudi-Arabien und den vom Iran unterstützten Huthi im Jemen verstärken die Unsicherheit.
+
+Trump erklärte zudem, allein in der vergangenen Nacht seien 22 Millionen Barrel Öl durch die Straße von Hormus transportiert worden. Einzelheiten nannte er nicht. Die Menge würde das übliche tägliche Transportvolumen vor Kriegsbeginn übertreffen und liegt über den jüngsten Schätzungen von Branchenvertretern. Die Meerenge verbindet den Persischen Golf mit den Weltmärkten.
+
+"Das Risiko, dass eine weitere militärische Eskalation diese Lieferungen unterbrechen könnte, hält die Händler davon ab, stärker auf fallende Preise zu setzen und sich auf einen dauerhaften Rückgang unter 100 US-Dollar einzustellen", sagte Chris Weston vom Finanzdienstleister Pepperstone der Nachrichtenagentur Bloomberg. Am Markt stünden sich geopolitische Risikoaufschläge und die verbesserte tatsächliche Versorgungslage gegenüber./stk/mis
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.10.2026 / 07:43:33
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+FREITAG: In Südkorea bleiben die Börsen wegen des Feiertages Hangeul geschlossen.
+
+MONTAG: In Japan findet wegen des Tags des Sports kein Handel statt.
+
+MONTAG: In den USA pausiert der Anleihemarkt wegen des Tags der amerikanischen Ureinwohner
+
++++++ TAGESTHEMA +++++
+
+Der annualisierte Umsatz von OpenAI belief sich per September auf rund 50 Milliarden Dollar und lag damit etwa 20 Milliarden unter den zuvor an Investoren gemeldeten Zahlen. Dies berichtet die Financial Times mit Bezug auf Finanzdokumente. Die Diskrepanz ergebe sich aus unterschiedlichen Berechnungsmethoden für den annualisierten Umsatz bei OpenAI und seinem Konkurrenten Anthropic. Während Anthropic auch Einnahmen aus Verkäufen über Cloud-Partner wie AWS und Google Cloud in seine Kalkulationen einbeziehe, berücksichtige OpenAI solche Partnereinnahmen in seinen Zahlen nicht, heißt es. Der Versuch von Investoren, einen direkten Vergleich zwischen den Umsätzen der beiden Unternehmen herzustellen, habe zu den höheren Schätzungen geführt. Frühere Versuche, die Umsatzzahlen von OpenAI anzupassen, hätten zu Berichten geführt, wonach der annualisierte Umsatz des Unternehmens im August 40 Milliarden Dollar erreicht habe.
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+07:30 AT/OMV AG, Zwischenbericht 3Q
+
+12:30 US/Delta Airlines Inc, Ergebnis 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- US 
+    16:00 Index Verbraucherstimmung Uni Michigan (1. Umfrage) Oktober 
+          PROGNOSE: 48,0 
+          zuvor:    48,1
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+                            zuletzt  +/- % 
+DAX Futures               25.143,00   +0,7 
+E-Mini-Future S&P-500      7.842,25   +0,3 
+E-Mini-Future Nasdaq-100  31.160,25   +0,6 
+Topix (Tokio)              4.102,24   +0,3 
+Hang-Seng (Hongk.)        24.115,91   +1,4 
+Shanghai-Comp.             3.807,81   -0,1 
+ 
+ 
+Donnerstag: 
+INDEX               Schluss  +/- % 
+DAX               24.806,97   -1,2 
+DAX-Future        25.024,00   -0,8 
+MDAX              29.506,83   -2,0 
+TecDAX             3.965,53   -2,1 
+SDAX              17.822,81   -1,9 
+Euro-Stoxx-50      6.126,73   -0,9 
+Stoxx-50           5.259,69   -0,6 
+XDAX              24.992,40   +0,7 
+Dow-Jones         51.231,64   +0,1 
+S&P-500            7.765,36   -0,5 
+Nasdaq Composite  27.193,34   -1,3
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Für den Start in den Freitag deutet sich an den europäischen Börsen eine freundliche Tendenz an. Zwar gaben die Indizes an der Wall Street nach, allerdings schlossen sie auch über den Tagestiefs, nachdem im Späthandel die Marktzinsen immer weiter gefallen waren. Im Tagesvergleich sank die meistbeachtete Zehnjahresrendite sogar um 5 Basispunkten auf 5,23 Prozent. Diese merkliche Entspannung bei den Anleihen dürfte wieder für erhöhte Risikobereitschaft sorgen, zumal auf dem an den Vortagen deutlicher ermäßigten Niveaus. Dazu kommt, dass die Ölpreise wieder fallen. Branchenseitig sind die Vorgaben für Aktien mit KI-Fantasie schlecht. Der US-Halbleitderindex knickte um über 3 Prozent ein. Auslöser war ein Bericht der Financial Times. Demnach geht aus der Zeitung vorliegenden Finanzdokumten hervor, dass der annualisierte Umsatz des ChatGPT-Entwicklers OpenAI per Ende September nur bei 50 Milliarden Dollar lag, 20 Milliarden unter der Prognose von OpenAI.
+
+Rückblick: Schwach - Deutlich gestiegene Ölpreise und in der Folge erneut höhere Anleiherenditen drückten auf die Stimmung. Weil höhere Zinsen die Kreditnachfrage dämpfen dürften und auch mit Blick auf die Anleihebestände der Banken, die zuletzt deutlich an Wert verloren haben dürften, wurden Bankaktien verkauft. Der Stoxx-Bankensektor verlor weitere 1,7 Prozent, nachdem er tags zuvor noch deutlicher nachgegeben hatte. Gewinner waren mit den steigenden Ölpreisen Ölwerte, deren Subindex um 2,6 Prozent zulegte. Schwächer zeigten sich Autoaktien. Der Anstieg der Marktzinsen dürfte Autofinanzierungen verteuern, hieß es dazu. Zudem könne die von der EU avisierte härtere Gangart gegen chinesische Importe harte Gegenmaßnahmen auslösen. Der Branchenindex verlor 2,0 Prozent. Argenx brachen nach einem Studienmisserfolg um 15,9 Prozent ein. Die Aktie des Argenx-Produktionspartners Lonza gab um 2,4 Prozent nach. Imperial Brands stiegen um 5,1 Prozent mit der Mitteilung über das frühe Erreichen der Jahresziele und der Ankündigung eines neuen Aktienrückkaufs. Tesco stiegen nach einer erhöhten Prognose um 5,2 Prozent.
+
+DAX/MDAX/SDAX/TECDAX
+
+Leichter - FMC gaben nach dem kräftigen Minus von fast 7 Prozent am Vortag in Reaktion auf den plötzlichen CEO-Wechsel um weitere 0,9 Prozent nach. Der Kurs der Mutter Fresenius verlor 3,9 Prozent. Belastet von höheren Marktzinsen gaben Immobilienaktien nach, unter anderen Vonovia um 3,3 oder LEG Immobilien um 2,0 Prozent. Südzucker verloren nach finalen Geschäftszahlen 4,5 Prozent. Wegen der Trockenheit im Sommer dürfte die Zuckerrübenernte leiden und damit auch der Zuckerausstoß im zweiten Halbjahr. Jungheinrich fielen nach einer negativen Studie samt Abstufung durch Bank of America um 5,6 Prozent.
+
+USA - AKTIEN
+
+Leichter - Die Belastungsfaktoren des Vortages hatten Bestand, steigende Ölpreise und - zumindest zwischenzeitlich - im Sog der Ölpreise steigende Marktzinsen. Allerdings kamen die Renditen von ihren Tageshochs im Handelsverlauf deutlich zurück und sanken im Tagesvergleich sogar , wozu auch eine gut verlaufene Auktion 30-jähriger Anleihen beitrug. Die Aktienindizes lösten sich darauf etwas von den Tagestiefs. "KI-Aktien" litten unter einem Bericht der Financial Times, dass der Jahresumsatz von OpenAI um rund 20 Milliarden Dollar unter früheren Schätzungen liegen soll. OpenAI habe mitgeteilt, dass sich die Einnahmen gegen Ende des vergangenen Monats auf annualisierter Basis 50 Milliarden Dollar genähert hätten, verglichen mit einer vorherigen Schätzung von rund 70 Milliarden. Nvidia fielen um 2,9 und AMD um 3,9 Prozent, der Halbleiterindex knickte um 3,4 Prozent ein. Wolfspeed stiegen zunächst, nachdem der Halbleiterhersteller eine Finanzierungsvereinbarung mit dem Pentagon abgeschlossen hatte, schlossen aber letztlich 1,1 Prozent im Minus. PepsiCo meldete einen höheren Gewinn und Umsatz, senkte aber auch die Prognose und will die Kosten senken. Der Kurs stieg um 3,7 Prozent. Resources Connection brachen 23 Prozent ein - belastet von einem Umsatzrückgang und einem höheren Verlust.
+
+USA - ANLEIHEN
+
+          Rendite    +/- 
+2 Jahre      4,75   -0,01 
+10 Jahre     5,23   -0,05
+
+Die Renditen kletterten zunächst weiter, kamen dann aber deutlich zurück und gaben sogar nach. Marktteinehmer verwiesen auf eine erneut problemlos verlaufene große Auktion von Staatsanleihen, dazu war von Anleihekäufen die Rede, angesichts des auch im Vergleich zu Aktienanlagen attraktiv angesehenen Renditeniveaus.
+
++++++ DEVISENMARKT +++++
+
+               zuletzt  +/- %  +/- abs.   Schluss Vortag        Mi, 17.30 
+EUR/USD          1,124   +0,3    0,0031           1,1209           1,1186 
+EUR/JPY         177,69   +0,4    0,7200         176,9700         176,9300 
+EUR/CHF         0,9329   +0,1    0,0007           0,9322           0,9324 
+EUR/GBP         0,8483   +0,1    0,0011           0,8472           0,8469 
+USD/JPY         158,05   +0,1    0,1900         157,8600         158,1400 
+GBP/USD         1,3247   +0,2    0,0023           1,3224           1,3204 
+USD/CNY         6,6963   -0,1   -0,0058           6,7021           6,7045 
+USD/CNH         6,6966   -0,1   -0,0068           6,7034           6,7049 
+AUS/USD         0,6985   +0,4    0,0030           0,6955           0,6959 
+Bitcoin/USD  82.420,99   +0,8    652,41        81.768,58        83.060,25
+
+Die Kombination aus starken Wirtschaftsdaten und steigenden Ölpreisen sowie US-Renditen stützte den Dollar zunächst, als die renditen dann deutlich zurückfielen, kam auch der Dollar zurück. Im späten US-Handel wurde der Euro mit 1,1210 Dollar bewertet, einen Tick höher als am späten Mittwoch.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+           zuletzt  +/- %  +/- abs.   Schluss Vortag 
+Gold      4.199,65   +1,6     65,72         4.133,93 
+Silber       60,45   +1,9      1,11            59,34 
+Platin    1.679,69   +2,8     45,44         1.634,25
+
+Der Goldpreis zog um 0,8 Prozent an auf 4.140 Dollar, nachdem im späten Handel deutlicher sinkende US-Renditen für Auftrieb bei dem Edelmetall gesorgt hatten.
+
+ÖL
+
+               zuletzt  +/- %  +/- abs.   Schluss Vortag 
+WTI/Nymex        90,31   -1,3     -1,18            91,49 
+Brent/ICE       102,69   -1,5     -1,59           104,28
+
+Die Ölpreise zogen kräftig an, phasenweise betrog das Plus bei Brent über 5 Prozent. Am Ende des tages betrug es knapp 3 Prozent auf 104,15 Dollar. Händler erklärten die Ölpreisrally mit fortgesetzten Angriffen auf die zivile Schifffahrt im Persischen Golf, Berichten über US-Planungen für neue Angriffe auf den Iran und den Wirbelsturm Isaias, der die Ölförderung im Golf von Mexiko einschränkt. Für etwas Entspannung sorgten im Handelsverlauf Aussagen von US-Präsident Trump über produktive Gespräche mit dem Iran und dass die USA den Iran nicht vor den Zwischenwahlen angreifen würden.
+
++++++ MELDUNGEN SEIT VORTAG 17.30 UHR +++++
+
+AIRBUS
+
+hat im September insgesamt 72 Maschinen an 37 Kunden ausgeliefert. Damit wurden von Januar bis September insgesamt 547 Flugzeuge an 84 Kunden übergeben. Wie der Flugzeughersteller weiter mitteilte, erhielt er im vergangenen Monat brutto 17 neue Aufträge.
+
+VOLKSWAGEN
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 09, 2026 01:43 ET (05:43 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.10.2026 / 07:43:33
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
+muss wegen eines Jahre zurückliegenden Verstoßes gegen die Marktmissbrauchsverordnung eine Geldbuße von 1,2 Millionen Euro zahlen.
+
+SHELLY
+
+hat in den ersten neun Monaten dieses Jahres den Umsatz mit Shelly-Geräten und damit verbundenen Dienstleistungen nach vorläufigen Berechnungen im Vergleich zum Vorjahr um rund 30 Prozent auf rund 112,8 Millionen Euro gesteigert. Dabei beschleunigte sich das Umsatzwachstum im dritten Quartal gegenüber den beiden vorangegangenen Quartalen.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/flf/gos
+
+(END) Dow Jones Newswires
+
+October 09, 2026 01:43 ET (05:43 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+
+# Nachricht - Börse Stuttgart
+
+09.10.2026 / 07:34:04
+
+# PRESSESPIEGEL/Zinsen, Konjunktur, Kapitalmärkte, Branchen
+
+(Dow Jones Newswires)
+
+Die wirtschaftsrelevanten Themen aus den Medien, zusammengestellt von Dow Jones Newswires.
+
+EURO-KRISE - Ifo-Chef Clemens Fuest rechnet mit einer Rückkehr der Euro-Krise. "Aber es wird eine andere Euro-Krise sein als beim letzten Mal". sagte Fuest dem Handelsblatt. "Dieses Mal steht Frankreich im Mittelpunkt. Wenn die Zinsen auf französische Staatsanleihen weiter steigen, wird die EZB intervenieren. Da die Inflation derzeit anders als in der letzten Euro-Krise hoch ist, sind die Spielräume der EZB geringer." Seiner Einschätzung nach wird man am Ende der Stützung der Staatsfinanzen den Vorzug gegenüber der Bekämpfung der Inflation geben. (Handelsblatt)
+
+STAATSVERSCHULDUNG - Deutschlands Verschuldung zeigt immer bedrohlichere Folgen. Das belegen Kennziffern einer internen Unterlage des Bundesfinanzministeriums (BMF). Demnach wird sich die Kreditfinanzierungsquote - sie gibt an, welcher Anteil des Bundeshaushalts mit Schulden finanziert wird - bis 2030 nahezu verdoppeln. 2025 lag sie bei 13,6 Prozent, 2030 soll sie 26,3 Prozent erreichen. Noch dramatischer entwickelt sich die Zins-Steuerquote. Sie gibt an, welchen Anteil seiner Steuereinnahmen der Bund für Zinszahlungen aufbringen muss. Der Wert lag im vergangenen Jahr noch bei 7,7 Prozent, bis 2030 wird er der BMF-Aufstellung zufolge auf 18,4 Prozent steigen. Auslöser für die Entwicklung ist die rasante Schuldenaufnahme des Bundes in den kommenden Jahren. (Spiegel)
+
+RENTENREFORM - Bundeskanzler Friedrich Merz (CDU) geht nicht mehr davon aus, dass die geplante Rentenreform wie vorgesehen bis zum Jahresende vom Bundestag beschlossen und damit zum 1. Januar 2027 in Kraft treten kann. Wie die Bild-Zeitung unter Berufung auf Regierungschef- und Kanzleramtskreise schreibt, strebt Merz bis zum Jahresende lediglich die Verabschiedung im Bundeskabinett an. Der ursprünglich für Dezember im Bundestag geplante Beschluss wird sich demnach um Monate verschieben. Merz rechne nun damit, dass die Rentenreform vom Bundestag deutlich später verabschiedet wird. Ziel sei, dass das Rentenpaket im Frühjahr stehe, hieß es. Merz hatte vor der Sommerpause erklärt, die Rentenreform solle bis zum Jahresende vom Bundestag verabschiedet werden. (Bild)
+
+IMMOBILIENKRISE - Banken und Investoren schlittern auf dem deutschen Gewerbeimmobilienmarkt laut einer dem Handelsblatt vorab vorliegenden Auswertung der Wirtschaftsprüfungs- und Beratungsgesellschaft EY-Parthenon auf massive Probleme zu. "Die anstehende Refinanzierungswelle wird zu einer deutlichen Marktbereinigung führen", sagt EY-Partnerin Kristin Kriemann. Viele Eigentümer müssten zusätzliches Eigenkapital nachschießen oder ihre Finanzierungen grundlegend neu aufstellen. Denn rund ein Viertel der milliardenschweren Finanzierungen in den Büchern deutscher Immobilienfinanzierer wird innerhalb der kommenden zwei Jahre fällig, wie aus einer Bankenbefragung von EY-Parthenon unter 90 Immobilienfinanzierern sowie 70 auf Restrukturierungen spezialisierten Kanzleien hervorgeht. (Handelsblatt)
+
+TABAKSTEUER - Der Streit um die geplante Erhöhung der Tabaksteuer innerhalb der Bundesregierung wird beigelegt. Nach Bild-Informationen geben die CDU/CSU-Mitglieder des Finanzausschusses im Deutschen Bundestag ihren Widerstand gegen die Erhöhung auf - das neue Gesetz kommt damit sogar in der nachgeschärften Version in die weitere parlamentarische Beratung. Während Gesundheitspolitiker und die Fraktionschefs von Union und SPD auf höhere Abgaben drängten, warnten einige Politiker der Union wochenlang vor möglichen negativen Folgen für die erwarteten Mehreinnahmen wegen des möglichen Erstarkens des Zigarettenschmuggels. (Bild)
+
+AUTOBAHNBRÜCKEN - Der Bund saniert immer weniger Autobahnbrücken, berichtet der Spiegel mit Verweis auf eine Antwort des Bundesverkehrsministeriums an die Grünen-Verkehrspolitikerin Swantje Michaelsen. 2025 sei die Zahl der fertig renovierten Brücken in Deutschland auf 157 zurück gegangen von 212 ein Jahr zuvor. Ursprünglich wollte das Bundesverkehrsministerium das Doppelte schaffen: Jährlich 400 Brücken sollten nach den Plänen renoviert werden, die noch aus der Zeit der Ampelkoalition stammen. Auf Anfrage erklärte das Verkehrsministerium die Verzögerungen mit Einschränkungen durch die vorläufige Haushaltsführung. Auch in diesem Jahr droht der Regierung die Ziele zu verfehlen. "Im ersten Halbjahr 2026 wurden 70 Brücken-Teilbauwerke fertiggestellt und damit etwas mehr als im ersten Halbjahr 2025", schreibt das Ministerium von Steffen Bilger (CDU). "Weitere 100 Brücken-Teilbauwerke sind gegenwärtig noch im Bau, mit einer Fertigstellung ist bis Ende des Jahres 2026 zu rechnen." Das würden 170 ergeben, und damit weniger als in den Jahren 2022 bis 2024. (Der Spiegel)
+
+KLEINBANKEN/EUROPA - Die EZB-Bankenaufsicht und die European Banking Authority (Eba) zeigen sich zunehmend aufgeschlossen für eine Erleichterung für kleine Banken, berichtet der Platow Brief. Während sich EZB-Direktor Frank Elderson in einem Online-Beitrag dafür ausspreche, die Bilanzsummen-Höchstgrenze für Kleinbanken optional auf bis zu 10 Milliarden Euro anzuheben von derzeit 5 Milliarden Euro, habe Eba-Chair François-Louis Michaud in einer Rede ebenfalls eine "Ausweitung" der Kleinbanken-Kategorie ins Spiel gebracht. Von einer Neuregelung könnten Platow zufolge mehr als 100 deutsche Geldhäuser profitieren, die sich damit zusätzlich als Kleinbank qualifizieren könnten. (Der Platow Brief)
+
+\- Alle Angaben ohne Gewähr.
+
+Kontakt zur Redaktion: konjunktur.de@dowjones.com
+
+DJG/brb/uxd/cln
+
+(END) Dow Jones Newswires
+
+October 09, 2026 01:34 ET (05:34 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.10.2026 / 07:31:52
+
+# PRESSESPIEGEL/Unternehmen
+
+(Dow Jones Newswires)
+
+Die wirtschaftsrelevanten Themen aus den Medien, zusammengestellt von Dow Jones Newswires.
+
+RAG-STIFTUNG - Die Einladung zur Sitzung kam recht kurzfristig, angesichts der prominent besetzten Empfängerliste wie etwa Bundesfinanzminister Lars Klingbeil (SPD) oder Bundeswirtschaftsministerin Katherina Reiche (CDU): Am Mittwoch hat der ehemalige nordrhein-westfälische Ministerpräsident Armin Laschet die Kuratoriumsmitglieder der RAG-Stiftung zu einer außerordentlichen Sitzung an diesem Freitag gebeten, wie die FAZ exklusiv erfahren hat. Es wird um das milliardenschwere Angebot der BASF für Evonik gehen, den Essener Spezialchemiekonzern, an dem die RAG-Stiftung die Mehrheit hält. Die RAG-Stiftung bestätigte den Termin am Donnerstag auf Anfrage der FAZ. Aus dem Umfeld des Kuratoriums ist zu hören, dass es am Freitag noch nicht um eine Entscheidung für oder gegen einen Verkauf geht, sondern zunächst nur um einen Austausch. (FAZ)
+
+AUDI - Die Zukunft steht nach nur anderthalb Jahren schon wieder zur Disposition bei Audi - zumindest was die Werke des Konzerns und seine gut 80.000 Mitarbeiter angeht. Die Krise sei zu tief, die Kosten weiter zu hoch, heißt es - deshalb werde man die Betriebsräte zu Nachverhandlungen am "Zukunftspakt" auffordern, sagte Audi-Chef Gernot Döllner auf einer Betriebsversammlung in Neckarsulm am Donnerstagnachmittag. Es ist ein drastischer Schritt, eigentlich sollte die Vereinbarung den Beschäftigten nach der jüngsten Sparrunde bis weit in die 2030er-Jahre hinein Sicherheit bieten. Wie groß der Druck nun aber ist, zeigt auch die Tatsache, dass VW-Konzernchef Oliver Blume - quasi Döllners Chef - ebenfalls eigens nach Neckarsulm gekommen war, um sich der Belegschaft zu stellen. (Süddeutsche Zeitung)
+
+BOSCH - Der neue Bosch-Chef will den Konzern grundlegend umbauen und neue Wachstumsfelder definieren. "Bosch braucht ein verbessertes Betriebssystem", sagte Konzernlenker Christian Fischer in seinem ersten Interview als Bosch-Chef. Das Unternehmen müsse Innovationen schneller in den Markt führen und zu geschäftlichem Erfolg bringen. Fischer will dafür die Entscheidungswege beschleunigen, dezentralisieren und eine neue Fehlerkultur etablieren. "Das wird die größte Veränderung unter meiner Führung sein", sagte Fischer. "Übergreifend wollen wir für Bosch bis Mitte nächsten Jahres acht Zukunftsfelder definieren, in denen wir wachsen wollen, sowohl mit eigenen Innovationen als auch durch gezielte Zukäufe", kündigt er an. (Handelsblatt)
+
+VW - Der britische Skandal um überteuert verkaufte Autokredite wird nun auch für Volkswagen sehr teuer. Die Tochtergesellschaft im Vereinigten Königreich, Volkswagen UK, hat Rückstellungen in Höhe von 725 Millionen Pfund (855 Millionen Euro) für drohende Schadenersatzforderungen gebildet. Dadurch rutschte Volkswagen UK im vergangenen Jahr in die Verlustzone. Die VW-Rechnung für den Skandal um Autokredite übertrifft damit noch die von BMW in Großbritannien. Der Münchner Autokonzern hat seine Rückstellungen auf der Insel von 300 Millionen Pfund auf 611 Millionen Pfund (720 Millionen Euro) erhöht. (FAZ)
+
+RAG-STIFUNG - Die Gewerkschaft IG BCE erhöht im Ringen um die Zukunft von Evonik den Druck auf die RAG-Stiftung. In einem internen Brief an die Betriebsräte von BASF und Evonik stellt Gewerkschaftschef Michael Vassiliadis infrage, wie ein vollständiger Verkauf des Evonik-Pakets mit der bisherigen Linie der Stiftung zusammenpassen würde. Das Schreiben vom 7. Oktober liegt dem Handelsblatt vor. Es ist auch vom IG-BCE-Vorstand Alexander Bercht unterzeichnet, der Vizechef des Evonik-Aufsichtsrats ist. Noch im Frühjahr habe der Vorstand der RAG-Stiftung dem Kuratorium erklärt, Evoniks Strategie nach Prüfung verschiedener Optionen für tragfähig zu halten, heißt es in dem Brief. Nun steht ein vollständiger Verkauf der Beteiligung im Raum. Dazu fragen IG-BCE-Chef Michael Vassiliadis und Alexander Bercht mit Blick auf die Stiftung: "Wie verhält sich ein möglicher vollständiger Verkauf zu dem, was sie noch im Frühjahr versichert hat?" Ein solcher Schritt dürfe "nicht im Stillen und nicht ohne Klärung der Verantwortung der Stiftung erfolgen". (Handelsblatt)
+
+DUCATI - Audi plant derzeit keinen Verkauf der italienischen Motorrad-Tochter Ducati. In einer Stellungnahme zu anhaltenden Spekulationen über einen bevorstehenden Verkauf und zu einem aktuellen Bericht der Zeitung Il Sole 24 Ore teilte die VW-Tochter auf Anfrage mit, "regelmäßige Portfolioprüfungen sind ein fester Bestandteil einer verantwortungsvollen Konzernsteuerung". Es würden "mögliche Optionen für die künftige Eigentümerstruktur und strategische Positionierung von Ducati bewertet. (...) Zum jetzigen Zeitpunkt wurden keine Entscheidungen über mögliche Änderungen der Eigentümerstruktur von Ducati getroffen." Il Sole 24 Ore hatte Volkswagen dagegen mit der Äußerung zitiert, es sei "kein Verkauf des Hauses in den nächsten drei Jahren geplant". (Börsen-Zeitung)
+
+GALERIA - Kurz vor Galerias vierter Insolvenz in sechs Jahren offenbarten interne Zahlen die dramatische Lage des Warenhauskonzerns. Im abgelaufenen Geschäftsjahr, das kurz vor der Insolvenzanmeldung endete, hatte das Management geplant, knapp über 2 Milliarden Euro Umsatz zu erwirtschaften. Entsprechende Zahlen liegen dem Spiegel vor. Allerdings erlöste die Warenhauskette zwischen Anfang Oktober 2025 und Ende September nur 1,79 Milliarden Euro. Binnen eines Jahres sank Galerias Umsatz damit um 10 Prozent. Der Bruttogewinn rutschte um 12,7 Prozent gegenüber Vorjahr auf 728 Millionen Euro ab. Der vorläufige Insolvenzverwalter muss Galeria nun genügend Chancen für eine Sanierung bescheinigen. Das dafür nötige Konzept des Konzerns wird aus Sicht von Insidern die Schließung vieler Filialen beinhalten. Gut 30 der aktuell 83 Kaufhäuser würden demnach wohl auf der Kippe stehen. (Spiegel)
+
+BMW - Im Elektro-Duell der deutschen Premiumhersteller liegt BMW klar vorn. Von März bis Ende August wurden in Europa 36.500 Fahrzeuge des neuen iX3 zugelassen, wie aus Daten des Marktforschers Dataforce hervorgeht, die dem Handelsblatt vorliegen. Der elektrische GLC von Mercedes-Benz kam im selben Zeitraum nur auf knapp über 16.100 Neuzulassungen. Die Bedeutung der beiden Modelle geht weit über Absatzzahlen hinaus: Mit dem iX3 läutet BMW den Roll-out der Zukunftsplattform "Neue Klasse" ein, der elektrische GLC gilt intern als "Schicksalsmodell" von Mercedes-Benz-Konzernchef Ola Källenius. (Handelsblatt)
+
+BOSCH - Der Bosch-Konzern legt CEO Christian Fischer zufolge einen Venture-Capital-Fonds von 100 Millionen Euro speziell für deutsche Startups auf und prüft Wohnungsbau. Mit dem Fonds namens Spark wolle der Konzern "Potenziale in Wachstumsfeldern erschließen und zugleich unser Vertrauen in die Innovationskraft deutscher Startups zum Ausdruck bringen", sagte Fischer dem Handelsblatt. Der Konzern habe bisher mehr als 1 Milliarde Euro in Startups weltweit investiert. Investiert werden soll in Deep Tech oder Innovationen, die ganze Branchen fundamental verändern können, investieren. der Konzern werde " sicher keinen Pizzadienst finanzieren". Bosch prüft Fischer zufolge auch, ob der Konzern zusätzlichen Wohnraum für seine Beschäftigten schaffen kann. Bosch hat seit 1936 eine eigene Wohnungsbaugesellschaft mit inzwischen 2.500 Wohnungen in Deutschland und nicht verkauft. Seit Jahrzehnten würden zu wenige Wohnungen gebaut und jetzt wundere man sich, dass dieses Thema Wahlen entscheidet. Hier müssten Staat und Unternehmen gleichermaßen ansetzen. (Handelsblatt)
+
+VERBUND/EWE - Die Energiekonzerne EWE und Verbund wollen in Niedersachsen gemeinsam einen Wasserstoffelektrolyseur mit einer Leistung von bis zu 500 Megawatt bauen. Das bestätigten EWE-Chef Stefan Dohler und Verbund-Chef Michael Strugl dem Handelsblatt. Damit stellen sich die Unternehmen gegen den Trend: Zuletzt waren in Deutschland immer wieder Wasserstoffprojekte mit Hinweis auf die anspruchsvolle EU-Regulierung abgesagt worden. EWE und Verbund setzen darauf, dass die Regulierung kurzfristig angepasst wird. (Handelsblatt)
+
+CREDIT AGRICOLE - Die französische Bank will ihr Deutschland-Geschäft deutlich ausbauen und bis Ende 2028 den Kundenstamm in den deutschen Geschäftsbereichen auf 2 Millionen verdoppeln, berichtet der Platow Brief. Das habe das Management in Frankfurt angekündigt. Die Verbraucherkredit-Tochter Creditplus betreut mit rund 600 Mitarbeitern und 20 Filialen bereits etwa 1 Million Kunden. Im Privatkundengeschäft soll eine Digitalbank für wohlhabende Kunden entstehen, im Mittelstand setze die Bank auf organisches Wachstum und persönliche Berater. (Der Platow Brief)
+
+SOFTBANK - Der japanische Konzern will bis zu 100 Milliarden US-Dollar von Investoren aus den Golfstaaten einwerben, um sein KI-Engagement auszubauen, berichtet die Financial Times mit Verweis auf mehrere mit der Angelegenheit vertraute Personen. Gründer und CEO Masayoshi Son habe in den letzten Wochen Gespräche mit hochrangigen Vertretern unter anderem in den Vereinigten Arabischen Emiraten über die mögliche Kapitalbeschaffung geführt. (Financial Times)
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 09, 2026 01:31 ET (05:31 GMT)
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Verbund
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 877738
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/877738-verbund/)
+    
+-   [
+    
+    ### BMW
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 519000
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/519000-bmw/)
+    
+-   [
+    
+    ### Mercedes-Benz Group
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 710000
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/710000-mercedes-benz-group/)
+    
+-   [
+    
+    ### VW
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 766400
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/766400-vw/)
+    
+-   [
+    
+    ### Volkswagen
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 766403
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/766403-volkswagen/)
+    
+-   [
+    
+    ### BASF
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN BASF11
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/basf11-basf/)
+    
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.10.2026 / 07:31:52
+
+# PRESSESPIEGEL/Unternehmen -2-
+
+(Dow Jones Newswires)
+
+OPENAI - OpenAI hat Investoren jüngst signalisiert, dass der Jahresumsatz um 20 Milliarden US-Dollar niedriger ausfällt als erwartet, berichtet die Financial Times. Der KI-Konzern habe Investoren kürzlich mitgeteilt, dass sich der annualisierte Umsatz im September auf fast 50 Milliarden Dollar belaufen habe, berichtet die Zeitung mit Verweis auf Finanzunterlagen, die der US-Konzern Investoren vorgelegt habe. Dies seien weit weniger als die 70 Milliarden, die die Zeitung und andere Medien Ende letzten Monats auf der Grundlage von Informationen, die den Investoren zur Verfügung gestellt worden waren, berichtet hatten. Diese Kennzahl ist - zusammen mit dem entsprechenden Wert des OpenAI-Konkurrenten Anthropic - der wichtigste Indikator für die Gesamtnachfrage nach KI und bildet die Grundlage für enorme Infrastrukturausgaben sowie das Wachstum der öffentlichen Aktienmärkte. (Financial Times)
+
+\- Alle Angaben ohne Gewähr.
+
+Kontakt zur Redaktion: unternehmen.de@dowjones.com
+
+DJG/brb/uxd/cln
+
+(END) Dow Jones Newswires
+
+October 09, 2026 01:31 ET (05:31 GMT)
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Verbund
+    
+    #### +0,54 %
+    
+    G 64,8B 64,9
+    
+    WKN 877738
+    
+    2 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/877738-verbund/)
+    
+-   [
+    
+    ### BMW
+    
+    #### +0,08 %
+    
+    G 52,62B 52,74
+    
+    WKN 519000
+    
+    1 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/519000-bmw/)
+    
+-   [
+    
+    ### Mercedes-Benz Group
+    
+    #### +0,43 %
+    
+    G 39,205B 39,345
+    
+    WKN 710000
+    
+    10 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/710000-mercedes-benz-group/)
+    
+-   [
+    
+    ### VW
+    
+    #### \-3,91 %
+    
+    G 67,35B 67,95
+    
+    WKN 766400
+    
+    169 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/766400-vw/)
+    
+-   [
+    
+    ### Volkswagen
+    
+    #### +0,33 %
+    
+    G 67,2B 67,34
+    
+    WKN 766403
+    
+    2 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/766403-volkswagen/)
+    
+-   [
+    
+    ### BASF
+    
+    #### +1,43 %
+    
+    G 51,73B 51,94
+    
+    WKN BASF11
+    
+    197 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/basf11-basf/)
+    
+
+## Weitere relevante Nachrichten
+
+Freitag, 09.10.2026
+
+-   [
+    
+    07:31
+    
+    PRESSESPIEGEL/Unternehmen
+    
+    Dow Jones Newswires
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=7604633020518586919)
+-   [
+    
+    06:59
+    
+    Volkswagen muss wegen Ad-hoc-Verstoßes 1,2 Mio Euro Geldbuße zahlen
+    
+    Dow Jones Newswires
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=319186379897580830)
+-   [
+    
+    06:42
+    
+    Das könnten Zölle auf chinesische Hybridautos bewirken
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=5499833695351405219)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
 Am gestrigen 8. Oktober 2026 stand vor allem ein US-Schwergewicht im Fokus der Quartalsberichterstattung: der Snack- und Getränkeriese PepsiCo.
  Die gemeldeten Ergebnisse liefern wichtige Einblicke in die aktuelle Verfassung der US-Konsumwirtschaft:
 1. Die Ergebnisse von PepsiCo (NASDAQ:PEP)
