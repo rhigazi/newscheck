@@ -1,3 +1,522 @@
+# Nachricht - Börse Stuttgart
+
+12.10.2026 / 18:09:35
+
+# MÄRKTE EUROPA/Börsen weiter auf dem Weg nach oben - Ölpreis steigt kräftig
+
+(Dow Jones Newswires)
+
+Von Steffen Gosenheimer
+
+DOW JONES--Die europäischen Börsen haben am Montag die Aufwärtsbewegung vom Freitag fortgesetzt. Für Kaufbereitschaft sorgte laut Marktteilnehmern, dass es am Anleihemarkt weitgehend ruhig blieb. Trotz wieder deutlich gestiegener Ölpreise und damit verbundenen Inflationsängsten stiegen die Marktzinsen kaum. Daneben sorgte der schwache Euro für Unterstützung, durch ihn verbilligen sich unter anderem die Exporte von Unternehmen aus der Eurozone, aber auch Käufe von Aktien durch Adressen aus dem Dollarraum. Einen positiven Impuls habe auch bewirkt, dass US-Präsident Trump eine begrenzte "Energie-Waffenruhe" im ukrainisch-russischen Krieg erklärt habe, also einen Verzicht von Angriffen auf Energieinfrastruktur, hieß es. Allerdings schien es an der Umsetzung zuletzt noch zu haken.
+
+Der DAX gewann 0,8 Prozent auf 25.278 Punkte, für den Euro-Stoxx-50 ging es um 0,5 Prozent nach oben. Der Euro fiel auf 1,1158 Dollar zurück von gut 1,12 am Freitag.
+
+Der Brent-Ölpreis stieg um rund 2 Prozent auf 107 Dollar. Er zeigte sich unbeeindruckt davon, dass nach einem Deal zwischen Trump und dem russischen Präsident Putin große Mengen russischen Diesels auf den Weltmarkt kommen - im Gegenzug für gelockerte US-Sanktionen. Gemessen am weltweiten Energieverbrauch gehe es dabei um keine große Menge, hieß es im Handel. Zudem sei der Schritt sehr umstritten und ändere nichts an den geopolitischen Unwägbarkeiten und immer neuen Gewaltaktionen im Nahen Osten.
+
+Die Nachrichtenlage war dünn im Vorfeld der ab Dienstag anlaufenden Berichtssaison der Unternehmen, beginnend in den USA, mit den Banken. VW veröffentlichte Absatzzahlen für das dritte Quartal, die insgesamt schwach ausfielen - insbesondere in China. Nachdem in der Vorwoche bereits die Zahlen von Mercedes-Benz enttäuscht hatten, steckte der Markt die Zahlen gut weg. Der jüngste Deal der EU mit China über eine Begrenzung der chinesischen Exporte von Hybridmodellen stützte die Autoaktien in der Breite nicht mehr. Für VW ging es um 0,6 Prozent nach oben, während BMW und Mercedes-Benz leicht nachgaben. Renault legten um 1,3 Prozent zu, Stellantis fielen dagegen um 0,8 Prozent.
+
+Rüstungsaktien wurden von einer Sektorstudie von Morgan Stanley gestützt. Die Analysten erwarten einen Anstieg der Aufträge, was zum Auslöser für eine saisonale Rally werden könnte. Deutschlands Verteidigungsausgaben träten in eine Phase spürbarer Beschleunigung. Daneben sorgte für Auftrieb, dass die Nato den neuen Militärplan vorstellte, der vorsieht, einen potenziellen russischen Angriff entlang der Ostflanke mit einer Mischung aus Feuerkraft, autonomen Systemen und Sensoren zu vereiteln. Rheinmetall gewannen 2,5 Prozent und waren damit größter DAX-Gewinner. Hensoldt legten um 5,8 oder TKMS um 3,5 Prozent zu. In Mailand legten Leonardo um 1,8 Prozent zu, in Paris Thales um 2,0 Prozent und in London BAe Systems um 1,2 Prozent.
+
+Bankaktien zeigten eine Gegenbewegung und waren die Tagesgewinner bei den Branchen. Sie hatten zuletzt stärker unter Druck gestanden, belastet unter anderem von der jüngsten Schwäche der Anleihen, die sich auch zuhauf in den Portfolios der Banken finden. Der Stoxx-Subindex gewann 1,5 Prozent.
+
+Schwach lagen Halbleiteraktien im Markt. Hier belasteten wieder einmal Bedenken über die Nachhaltigkeit und die Rentabilität der anhaltenden hohen KI-Investitionen - zumal es die Unternehmen bei der Finanzierung inzwischen mit einem deutlich höheren Zinsniveau zu tun haben. Im DAX verloren Infineon 2,8 Prozent, im TecDAX Aixtron 2,4 und Elmos 4,2 Prozent. In Amsterdam gaben BE Semiconductor um 2,2 Prozent nach und ASML um 1,6 Prozent.
+
+Ahold Delhaize verloren 2,8 Prozent nach der Mitteilung, dass der Einzelhändler Opfer eines Cybersicherheitsvorfalls geworden ist, worauf als Vorsichtsmaßnahme einige Systeme vom Netz genommen wurden.
+
+Index               Schluss\*  Entwicklung in %  Seit Jahresbeginn (%) 
+Euro-Stoxx-50          6.201              +0,5                   +6,6 
+Stoxx-50               5.340              +0,7                   +7,9 
+Stoxx-600                636              +0,7                   +6,7 
+DAX                   25.278              +0,8                   +2,4 
+FTSE-100 London       10.552              +1,0                   +6,3 
+CAC-40 Paris           7.803              +0,4                   -4,3 
+AEX Amsterdam          1.131              +0,4                  +18,9 
+ATHEX-20 Athen         6.547              +1,4                  +22,4 
+BEL-20 Brüssel         5.455              +0,7                   +7,4 
+BUX Budapest         141.671              +0,9                  +27,6 
+OMXH-25 Helsinki       6.379              +0,4                  +11,8 
+OMXC-20 Kopenhagen     1.518              +0,6                   -5,6 
+PSI 20 Lissabon        9.268              +0,5                  +12,2 
+IBEX-35 Madrid        19.033              +1,3                  +10,0 
+FTSE-MIB Mailand      49.746              +0,6                  +10,7 
+OBX Oslo               1.978              +0,1                  +23,8 
+PX Prag                2.577              +0,8                   -4,1 
+OMXS-30 Stockholm      3.258              +0,4                  +13,0 
+WIG-20 Warschau      158.835              +0,6                  +34,7 
+ATX Wien               6.543              +1,0                  +22,9 
+SMI Zürich            13.787              +0,7                   +3,9 
+\* gerundet 
+ 
+ 
+ 
+DEVISEN         zuletzt  +/- %  +/- abs.  Schluss Vortag        Fr, 17.31 
+EUR/USD          1,1158   -0,4   -0,0043          1,1201           1,1193 
+EUR/JPY          177,09   -0,1   -0,2200          177,31         177,2500 
+EUR/CHF          0,9313   +0,2    0,0015          0,9298           0,9300 
+EUR/GBP          0,8448   -0,2   -0,0014          0,8462           0,8460 
+USD/JPY          158,69   +0,2    0,3800          158,31         158,3500 
+GBP/USD          1,3204   -0,2   -0,0027          1,3231           1,3228 
+USD/CNY          6,6925   +0,0    0,0005          6,6920           6,6920 
+USD/CNH          6,6951   +0,0    0,0024          6,6927           6,6935 
+AUS/USD          0,6958   -0,3   -0,0024          0,6982           0,6976 
+Bitcoin/USD   82.793,92   -1,0   -820,63       83.614,55        82.949,37 
+ 
+ 
+ROHOEL          zuletzt  +/- %  +/- abs.  Schluss Vortag 
+WTI/Nymex         93,83   +2,2      1,98           91,85 
+Brent/ICE         106,6   +1,8      1,88          104,72 
+ 
+ 
+Metalle         zuletzt  +/- %  +/- abs.  Schluss Vortag 
+Gold           4.164,36   -0,7    -29,47        4.193,83 
+Silber            60,26   -0,9     -0,55           60,81 
+Platin         1.682,30   -0,3     -4,91        1.687,21 
+ 
+(Angaben ohne Gewähr)
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/gos/cbr
+
+(END) Dow Jones Newswires
+
+October 12, 2026 12:09 ET (16:09 GMT)
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### BMW
+    
+    #### \-0,60 %
+    
+    G 52,9B 53,16
+    
+    WKN 519000
+    
+    220 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/519000-bmw/)
+    
+-   [
+    
+    ### Elmos Semiconductor
+    
+    #### \-4,38 %
+    
+    G 139,4B 140,2
+    
+    WKN 567710
+    
+    67 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/567710-elmos-semiconductor/)
+    
+-   [
+    
+    ### Infineon
+    
+    #### \-2,68 %
+    
+    G 57,41B 57,55
+    
+    WKN 623100
+    
+    245 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/623100-infineon/)
+    
+-   [
+    
+    ### Rheinmetall
+    
+    #### +2,61 %
+    
+    G 959B 961,8
+    
+    WKN 703000
+    
+    258 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/703000-rheinmetall/)
+    
+-   [
+    
+    ### Mercedes-Benz Group
+    
+    #### \-1,12 %
+    
+    G 39,14B 39,415
+    
+    WKN 710000
+    
+    244 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/710000-mercedes-benz-group/)
+    
+-   [
+    
+    ### VW
+    
+    #### \-0,22 %
+    
+    G 68,15B 68,75
+    
+    WKN 766400
+    
+    177 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/766400-vw/)
+    
+
+## Weitere relevante Nachrichten
+
+Montag, 12.10.2026
+
+-   [
+    
+    21:10
+    
+    Devisen: Eurokurs bleibt im dünnen US-Handel unter 1,12 Dollar
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=7203027627877656369)
+-   [
+    
+    18:37
+    
+    ROUNDUP/Aktien Europa Schluss: Erholung setzt sich zu Wochenbeginn fort
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=4832578478440425770)
+-   [
+    
+    18:10
+    
+    Aktien Europa Schluss: Erholung setzt sich zu Wochenbeginn fort
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=5273061385360234208)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+12.10.2026 / 21:10:17
+
+# Devisen: Eurokurs bleibt im dünnen US-Handel unter 1,12 Dollar
+
+(dpa-AFX) NEW YORK (dpa-AFX) - Der Kurs des Euro ist am Montag in einem feiertagsbedingt dünnen US-Handel unter Druck geblieben. Zuletzt notierte die Gemeinschaftswährung bei 1,1156 Dollar, nachdem sie im frühen europäischen Geschäft noch knapp über 1,12 Dollar gehandelt worden war. Die Europäische Zentralbank setzte den Referenzkurs auf 1,1181 (Freitag: 1,1206) Dollar fest.
+
+NEW YORK (dpa-AFX) - Der Kurs des Euro ist am Montag in einem feiertagsbedingt dünnen US-Handel unter Druck geblieben. Zuletzt notierte die Gemeinschaftswährung bei 1,1156 Dollar, nachdem sie im frühen europäischen Geschäft noch knapp über 1,12 Dollar gehandelt worden war. Die Europäische Zentralbank setzte den Referenzkurs auf 1,1181 (Freitag: 1,1206) Dollar fest.
+
+In der vergangenen Woche war der Kurs des Euro erstmals seit rund anderthalb Jahren unter die Marke von 1,12 Dollar gefallen, vor allem wegen schwacher Konjunkturdaten in Europa, Sorgen um die Finanzlage Frankreichs sowie Zinserhöhungsspekulationen in den USA. Generell erkannten die Experten der Landesbank Hessen-Thüringen (Helaba) an den Finanzmärkten eine "erhöhte Verunsicherung der Anleger", die zuletzt auch am Devisenmarkt zu Kursschwankungen führte./la/he
+
+## Weitere relevante Nachrichten
+
+Montag, 12.10.2026
+
+-   [
+    
+    18:09
+    
+    MÄRKTE EUROPA/Börsen weiter auf dem Weg nach oben - Ölpreis steigt kräftig
+    
+    Dow Jones Newswires
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=9039421008020414259)
+-   [
+    
+    16:28
+    
+    Devisen: Eurokurs fällt wieder unter 1,12 US-Dollar
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=2366227787065908278)
+-   [
+    
+    14:09
+    
+    MÄRKTE EUROPA/Börsen weiter auf dem Weg nach oben
+    
+    Dow Jones Newswires
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=8777934169110853836)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+12.10.2026 / 22:35:52
+
+# ROUNDUP/Aktien New York Schluss: Techwerte vor Berichtssaison unter Druck
+
+(dpa-AFX) NEW YORK (dpa-AFX) - Zu Beginn einer ereignisreichen Woche haben die Anleger an den US-Börsen vorsichtig agiert. Kurz vor dem Start der Berichtssaison der Unternehmen gaben die wichtigsten Aktienindizes am Montag überwiegend nach. Technologiewerte litten unter anhaltenden Gewinnmitnahmen bei den Aktien von Chipherstellern. Ansonsten mangelte es angesichts des Feiertages "Columbus Day" insgesamt an Impulsen, zumal der Anleihenmarkt zu Wochenbeginn geschlossen blieb.
+
+NEW YORK (dpa-AFX) - Zu Beginn einer ereignisreichen Woche haben die Anleger an den US-Börsen vorsichtig agiert. Kurz vor dem Start der Berichtssaison der Unternehmen gaben die wichtigsten Aktienindizes am Montag überwiegend nach. Technologiewerte litten unter anhaltenden Gewinnmitnahmen bei den Aktien von Chipherstellern. Ansonsten mangelte es angesichts des Feiertages "Columbus Day" insgesamt an Impulsen, zumal der Anleihenmarkt zu Wochenbeginn geschlossen blieb.
+
+Für den technologielastigen Nasdaq 100 ging es um 0,71 Prozent auf 30.664,70 Punkte nach unten. Der marktbreite S&P 500 gab um 0,06 Prozent auf 7.807,24 Zähler nach. Er hatte am Dienstag noch ein Rekordhoch erreicht. Der Leitindex Dow Jones Industrial hingegen legte um 0,38 Prozent auf 51.850,55 Punkte zu.
+
+Im Blick blieb die Lage im Nahen Osten und am Rohölmarkt. Der Iran hatte vermeldet, über Mediatoren weiterhin im Austausch mit den USA zu sein. Nachdem die Ölpreise im frühen Handel noch leicht gefallen waren, drehten sie im Tagesverlauf in die Gewinnzone. Die Ölpreise hatten zuletzt die Teuerung wieder nach oben getrieben. Entsprechend richten sich die Blicke auf Inflationszahlen zur Wochenmitte, die auch für den geldpolitischen Kurs der Notenbank wichtig sind.
+
+Die Berichtssaison startet am Dienstag mit den Zahlen erster Großbanken. Marktanalyst Maximilian Wienke vom Handelshaus Etoro verwies darauf, dass die Anleger bereits vorsichtiger geworden seien. Bank-Aktien stünden seit geraumer Zeit unter Druck. "Ein Teil der Risiken dürfte damit allerdings schon in den Kursen berücksichtigt sein", schrieb Wienke. Die Quartalszahlen und Prognosen würden nun darüber entscheiden, ob die Korrektur weitergehe oder der Sektor drehe.
+
+Auch Künstliche Intelligenz (KI) bleibt ein Topthema an den US-Börsen. Die Experten des Börsen- und Analyseportals Index Radar warnten diesbezüglich vor einer Konzentration in historischem Ausmaß: "Die zehn größten KI-Werte vereinen inzwischen gut 40 Prozent der gesamten Marktkapitalisierung auf sich." Damit würden sie den bisherigen Spitzenwert des Tech-Sektors während der Dotcom-Blase übertreffen. Die Entwicklung einzelner Schwergewichte und der übrige Markt lägen weit auseinander.
+
+Unter den Einzelwerten hatte Starbucks Pläne zum Kauf der auf mexikanische Küche spezialisierten Chipotle-Restaurants verneint. Die Chipotle-Aktien fielen um 3,8 Prozent, während die Papiere der Kaffeehaus-Kette um 1,7 Prozent stiegen.
+
+Die Anteilscheine von CCC Intelligent Solutions zogen gar um 8,1 Prozent an. Das Private-Equity-Unternehmen GTCR und der aktivistische Investor Elliott sollen sich in fortgeschrittenen Übernahmegesprächen mit dem Softwareanbieter befinden.
+
+Außerdem bewegten Analysten die Kurse. So stiegen die Papiere des Softwarekonzerns Salesforce an der Dow-Spitze um 2,1 Prozent. Experte Tal Liani sieht keine große Gefahr, dass das Geschäftsmodell durch KI-Systeme obsolet werden kann. Große Unternehmen würden "wahrscheinlich keine Plattformen ersetzen, die ihre Geschäftslogik, Daten, Arbeitsabläufe und Compliance-Plattformen beherbergen".
+
+Dagegen fielen die Aktien von Adobe um 1,7 Prozent, nachdem die Wells-Fargo-Analysten den Softwarehersteller gleich doppelt abgestuft hatten. Die jüngsten Quartalszahlen seien recht verhalten ausgefallen und deuteten darauf hin, dass sich nun deutlichere Risse im Wachstumsprofil des Herstellers von Software für Kreativprofis abzeichneten, hieß es zur Begründung.
+
+Die Analysten der Bank JPMorgan hatten die Papiere von Biogen hochgestuft, was den Aktien ein Plus von 1,6 Prozent bescherte. Experte Christopher Schott schrieb von einer zunehmend vielversprechenden Entwicklung im Jahr 2027. Zudem verwies er auf "verbesserte langfristige Wachstumsaussichten" für das Biotechnologie-Unternehmen./la/he
+
+\--- Von Lutz Alexander, dpa-AFX ---
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Starbucks
+    
+    #### +1,86 %
+    
+    G 82,74B 82,8
+    
+    WKN 884437
+    
+    64 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/884437-starbucks/)
+    
+-   [
+    
+    ### Salesforce.com
+    
+    #### +2,27 %
+    
+    G 209,55B 209,7
+    
+    WKN A0B87V
+    
+    63 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a0b87v-salesforce-com/)
+    
+-   [
+    
+    ### Adobe Systems
+    
+    #### \-1,30 %
+    
+    G 213,35B 213,65
+    
+    WKN 871981
+    
+    69 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/871981-adobe-systems/)
+    
+-   [
+    
+    ### Biogen Idec
+    
+    #### +2,54 %
+    
+    G 205,5B 206,1
+    
+    WKN 789617
+    
+    64 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/789617-biogen-idec/)
+    
+
+## Weitere relevante Nachrichten
+
+Montag, 12.10.2026
+
+-   [
+    
+    22:22
+    
+    Aktien New York Schluss: Techwerte vor Berichtssaison unter Druck - Dow legt zu
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=2939626116816717499)
+-   [
+    
+    20:03
+    
+    Aktien New York: Techwerte wieder unter Druck - Dow legt weiter zu
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=7594286548723939172)
+-   [
+    
+    18:02
+    
+    ROUNDUP/Aktien Frankfurt Schluss: Dax erholt sich weiter
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=2921277825764399431)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+-   [
+    
+    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
+    
+    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
+    
+    18/09/2026 17:00
+    
+    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
+
+Weitere Treffer anzeigen
+
 Apple stellt im Rahmen seines heutigen „Welcome Home“-Events eine völlig neue Produktkategorie im Bereich Smart Home / Connected Home vor.
 Bei der neuen Produktkategorie handelt es sich um einen dedizierten Smart-Home-Hub mit integriertem Touch-Display (in Tech-Medien vorab oft als „HomePad“ oder „HomeView“ bezeichnet).
 Details zur neuen Hardware:
