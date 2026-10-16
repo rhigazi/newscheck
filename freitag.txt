@@ -1,3 +1,624 @@
+# Nachricht - Börse Stuttgart
+
+16.10.2026 / 07:31:30
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+Die Unicredit hat für die Übernahme der Commerzbank eine wichtige Hürde genommen. Wie die italienische Bank mitteilte, hat sie die Genehmigung von der Europäischen Zentralbank (EZB) erhalten, die Beteiligungsschwelle von 30 Prozent zu überschreiten und den Anteil weiter zu erhöhen. Die Unicredit hat sich zuletzt knapp die Hälfte der Anteile an der Commerzbank gesichert. Die noch ausstehenden regulatorischen Prozesse und Konditionen, um das Angebot für die Commerzbank abzuschließen, werden laut Unicredit bis Jahresende erwartet. Dann werde sie knapp 50 Prozent der Stimmrechte vereinnahmen und in der Lage sein, die Kontrolle zu übernehmen.
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+07:30 FR/Schneider Electric SE, Umsatz 3Q
+
+13:00 US/Travelers Cos Inc, Ergebnis 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- DE 
+    08:00 Baugenehmigungen August 
+- EU 
+    11:00 Handelsbilanz August 
+ 
+    11:00 Verbraucherpreise September 
+          Eurozone 
+          PROGNOSE:       +0,6% gg Vm/+3,8% gg Vj 
+          Vorabschätzung: +0,6% gg Vm/+3,8% gg Vj 
+          zuvor:          +0,4% gg Vm/+3,2% gg Vj 
+          Kernrate (ohne Energie, Nahrung, Alkohol, Tabak) 
+          PROGNOSE:             k.A. /+2,5% gg Vj 
+          Vorabschätzung: +0,2% gg Vm/+2,5% gg Vj 
+          zuvor:          +0,2% gg Vm/+2,4% gg Vj 
+- US 
+    14:30 Import- und Exportpreise September 
+          Importpreise 
+          PROGNOSE:  +0,8% gg Vm 
+          zuvor:     +0,7% gg Vm 
+ 
+    15:15 Industrieproduktion und Kapazitätsauslastung September 
+          Industrieproduktion 
+          PROGNOSE:  +0,4% gg Vm 
+          zuvor:      0,0% gg Vm 
+          Kapazitätsauslastung 
+          PROGNOSE:  76,5% 
+          zuvor:     76,3%"
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+Index                       zuletzt  +/- % 
+DAX Futures               25.660,00   +0,7 
+E-Mini-Future S&P-500      7.804,00   +0,2 
+E-Mini-Future Nasdaq-100  30.203,00   +0,2 
+Topix (Tokio)              4.074,82   +1,9 
+Hang-Seng (Hongk.)        24.314,59   +1,1 
+Shanghai-Comp.             3.730,99   +0,6 
+ 
+Donnerstag: 
+Index               Schluss  +/- % 
+DAX               25.382,62   +0,3 
+DAX-Future        25.486,00   +0,1 
+MDAX              30.216,43   +0,6 
+TecDAX             3.970,39   -0,7 
+SDAX              17.953,80   -1,2 
+Euro-Stoxx-50      6.168,26   -0,4 
+Stoxx-50           5.374,34   +0,4 
+XDAX              25.488,68   +0,4 
+Dow-Jones         52.177,69   +1,1 
+S&P-500            7.744,06   +0,3 
+Nasdaq Composite  26.713,03   +0,1
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick - Die Börsen dürften mit kräftigen Aufschlägen in den Handel starten. Eine Stabilisierung an Wall Street sowie die Erholung an den asiatischen Börsen stützen das Sentiment. Der stark KI-lastige südkoreanische Kospi-Index zieht um fast 4 Prozent an. Damit scheint die Sorge vor einem Platzen der KI-Blase, die am Vortag noch einen Ausverkauf bei Chip-Werten ausgelöst hatte, wieder etwas in den Hintergrund zu treten. Im Handel bleibt man aber vorsichtig, die Volatilität dürfte hoch bleiben. Am Nachmittag werden in den USA Import- und Exportpreise für den Monat September veröffentlicht. Sie könnten weitere Hinweise über den Inflationsdruck liefern. Daneben werden Daten zur Industrieproduktion bekannt gegeben. Die jüngsten Wirtschaftsdaten haben bislang häufig positiv überrascht, die Weltwirtschaft hat zumindest bislang den Energiepreisschock besser geschultert als erwartet.
+
+Rückblick: Uneinheitlich - Stark gesunkene Zinsen sorgten für einen wechselhaften Börsentag, an dem Aktien mit KI-Fantasie stark unter Druck standen. Hintergrund waren verstärkte Erwartungen einer weiteren Zinserhöhung in den USA im Zuge höher als erwartet ausgefallenen US-Inflationszahlen. Ein höheres Zinsniveau dürfte negative Folgen für die Investitionen in KI bedeuten. Infineon rutschten um 5,2 Prozent ab, ASML um 4,2 und STMicroelectronics um 3,8 Prozent. Weiter unter Druck standen auch die Aktien von Stromversorgern und Erbauern von Rechenzentren. Siemens Energy verloren 2,2 Prozent, Hochtief 3,6, ABB 3,4 und Schneider 2,4 Prozent. Der Stoxx-Subindex der Technologieaktien gab um 1,5 Prozent nach. Hinter den stark gesunkenen Marktzinsen vermuteten Marktbeobachter eine Fluchtbewegung in sichere Anlagen vor dem Hintergrund des Abverkaufs bei KI-Aktien, also Umschichtungen von Aktien in Anleihen. Die Nachfrage nach Sicherheit überlagere offenbar den Inflationsimpuls. In London ging es für den FTSE-100 um 1,1 Prozent nach oben. Hier stützte, dass die britische Wirtschaft im August erneut gewachsen war. Starke Geschäftszahlen kamen von Ericsson. Die Aktie gewann 6,8 Prozent. Astrazeneca rückten um 3,2 Prozent vor, nachdem der Pharmariese einen KI-gestützten Wirkstoffforschungsdeal abgeschlossen hatte.
+
+DAX/MDAX/SDAX/TECDAX
+
+Etwas fester - In der Breite profitierten Aktien von den deutlich gesunkenen Marktzinsen. Tagessieger im DAX waren Scout24 mit einem Plus von 7,5 Prozent. SAP legten um 2,2 Prozent zu. In der zweiten Reihe gewannen Nemetschek und Atoss Software je rund 2 Prozent. Bei diesen Aktien wirkte der KI-Stimmungsdämpfer positiv, weil die Geschäftsmodelle der betreffenden Unternehmen oft als von KI bedroht eingeschätzt werden. Dazu gehörten auch Auto1, die sich um 4,6 Prozent verteuerten. Drägerwerk brachen über 17 Prozent ein. Der Medizintechniker verbuchte im dritten Quartal einen Gewinnrückgang. Flatexdegiro gewannen 5,5 Prozent. Das Fintech-Unternehmen will eigene Aktien mit einem Volumen von bis zu 100 Millionen Euro zurückerwerben. Redcare kamen im Sog des Wettbewerbers Docmorris um 1,5 Prozent voran. Die Online-Apotheke hatte hat nach starkem Wachstum und Profitabilitätsverbesserungen erneut die Ziele für das Gesamtjahr angehoben.
+
+XETRA-NACHBÖRSE
+
+Aixtron legten auf Tradegate nach der Vorlage vorläufiger Quartalszahlen, die besser als erwartet ausgefallen waren, um rund 7,8 Prozent zu. Im Xetra-Handel zuvor war der Aktienkurs im Zuge des Ausverkaufs von "KI-Aktien" um fast 13 Prozent eingeknickt. Fresenius gewannen 0,8 Prozent nach der Nachricht der Umbesetzung an der Spitze der Sparte Kabi. Nordex zogen mit angehobenem Margenausblick um 7,3 Prozent an. Commerzbank bewegten sich kaum mit der Schlagzeile, dass die Unicredit die Bank laut EZB übernehmen darf.
+
+USA - AKTIEN
+
+Freundlich - Das Geschehen bewegte sich im Spannungsfeld anhaltenden Verkaufsducks bei Aktien mit KI-Fantasie und deutlich gesunkenen Marktzinsen. Die Abwärtstendenz bei den Zinsen verstärkte sich kurz vor Handelsbeginn zunächst sogar noch, obwohl die US-Erzeugerpreise im September deutlich höher ausgefallen waren als erwartet. Marktteilnehmer vermuteten dahinter eine Flucht in den vermeintlich sicheren Anleihehafen angesichts der sich eintrübenden Stimmung für KI-Aktien und des Ausverkaufs. Unter den Halbleiteraktien verloren Nvidia 1,8 Prozent, AMD 1,5 und Broadcom 0,6 Prozent. Marvell gaben 1,7 Prozent nach. Coreweave, die am Vortag schon um 15 Prozent eingeknickt waren, erholten sich um 5,9 Prozent. Börsianer hatten zuvor von Sorgen um die finanzielle Gesundheit des Cloud-Computing-Unternehmens gesprochen, nachdem die Coreweave-Anleiherenditen jüngst die Marke von 15 Prozent überschritten hätten. Dass der KI-Entwickler Anthropic mit der Nachricht aufwartete, dass der Umsatz im dritten Quartal um 45 Prozent auf 16,8 Milliarden Dollar gestiegen sei, ging ebenso unter wie ein Rekordgewinn von TSMC. Nach im September stärker als erwartet gestiegenen Einzelhandelsumsätzen lagen Einzelhandelsaktien sehr fest im Markt. Walmart verteuerten sich um 1,5 Prozent, Home Depot um 4,3 und Kohl's um 6 Prozent.
+
+USA - ANLEIHEN
+
+             Rendite    +/- 
+2 Jahre        4,75    -0,05 
+10 Jahre       5,09    -0,10 
+30 Jahre       5,43    -0,10
+
+Die Marktzinsen fielen deutlich zurück. Die US-Zehnjahresrendite, die am Vortag nach den Inflationsdaten zunächst auf 5,33 Prozent nach oben geschossen war, ehe sie wieder auf das Ausgangsniveau um 5,20 Prozent zurückgekommen war, fiel zuletzt auf 5,09 Prozent im US-Handel und damit auf das niedrigste Niveau seit etwa drei Wochen. Zu den sinkenden Renditen dürften Fluchtbewegungen in die vermeintliche Sicherheit der US-Anleihen beigetragen haben, hieß es, angesichts des eingetrübten Stimmungsumfelds für Aktien.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN        zuletzt  +/- %  +/- abs.  Schluss Vortag  Do, 17:50 
+EUR/USD         1,1227   +0,1    0,0009          1,1218     1,1205 
+EUR/JPY         177,20   -0,0   -0,0300        177,2300   177,2000 
+EUR/CHF         0,9282   +0,1    0,0008          0,9274     0,9294 
+EUR/GBP         0,8439   -0,1   -0,0010          0,8449     0,8453 
+USD/JPY         157,82   -0,1   -0,1600        157,9800   158,1500 
+GBP/USD           1,33   +0,2    0,0027          1,3273     1,3251 
+USD/CNY         6,6887   -0,0   -0,0022          6,6909     6,6909 
+USD/CNH         6,6886   -0,0   -0,0008          6,6894     6,6902 
+AUS/USD         0,6945   +0,4    0,0026          0,6919     0,6915 
+Bitcoin/USD  82.049,94   +0,1     50,24       81.999,70  82.400,11
+
+Der Dollar kam mit dem starken US-Zinsrückgang deutlich zurück, der Dollar-Index hab 0,32 Prozent nach - der Euro erholte sich um 0,6 Prozent auf 1,1222 Dollar. Er machte damit den Rücksetzer vom Mittwoch wieder wett.
+
+Der Euro legt am Morgen weiter zu, aber nur noch leicht. CBA-Analystin warnt jedoch vor einer deutlichen Euro-Abwertung. Denn die EU wolle unbedingt das immense Handelsdefizits mit China abbauen und vollziehe die nächsten Schritte. "Das Risiko besteht darin, dass die EU weitere Handelsbeschränkungen gegen China verhängt, was einen Handelskrieg auslösen könnte, der den Euro stark belasten würde", sagte sie.
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 16, 2026 01:31 ET (05:31 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+# Nachricht - Börse Stuttgart
+
+16.10.2026 / 07:31:30
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle        zuletzt  +/- %  +/- abs.  Schluss Vortag 
+Gold          4.172,44   +0,1      2,19        4.170,25 
+Silber           57,76   +0,6      0,32           57,44 
+Platin        1.636,37   +0,7     10,66        1.625,71
+
+Der Goldpreis erholte sich zum Settlement um 1,5 Prozent auf 4.147,70 Dollar, unterstützt von gesunkenen Zinsen und einem schwächeren Dollar.
+
+ÖL
+
+ROHÖL          zuletzt  +/- %  +/- abs.  Schluss Vortag 
+WTI/Nymex        97,38   -0,6     -0,59           97,97 
+Brent/ICE       105,47   -0,4     -0,45          105,92
+
+Beim Brent-Öl tat sich unter dem Strich wenig, allerdings hatte der Preis zunächst nachgegeben, ehe er sich nach und nach wieder auf das Ausgangsniveau um 105,92 Dollar (-0,1%) erholte. Die US-Sorte WTI verteuerte sich dagegen kräftig um 3 Prozent auf 97,97 Dollar, nachdem die Rohöllagerbestände in den USA in der Woche zum 9. Oktober wider Erwarten deutlich gesunken waren.
+
++++++ MELDUNGEN SEIT DONNERSTAG 17.30 UHR +++++
+
+US-GELDPOLITIK
+
+Der Vorsitzende der Federal Reserve hat jüngste Signale seiner Kollegen, wonach es die US-Notenbank nicht eilig habe, die Zinsen in diesem Monat anzuheben, weder bestätigt noch zurückgewiesen. Kevin Warsh sagte, die Zentralbank sei nicht länger in dem Geschäft tätig, ihre Entscheidungen vorab anzukündigen.
+
+AIXTRON
+
+hat im dritten Quartal Auftragseingang und Margen kräftig und deutlicher als erwartet gesteigert. Der Hersteller von Anlagen für die Chipindustrie profitierte von einer hohen Nachfrage und einem verbesserten Produktmix. Den Ausblick für das Gesamtjahr bestätigte das Unternehmen. Der Auftragseingang kletterte nach vorläufigen Zahlen auf 275 von 124 Millionen Euro im Vorjahreszeitraum. Der Analystenkonsens lag im Median laut Aixtron bei 215 Millionen Euro. Der Umsatz stieg auf 184 von 120 Millionen Euro. Aixtron selbst hatte 180 Millionen Euro mit einer möglichen Abweichung von 20 Millionen nach oben oder unten in Aussicht gestellt. Die Bruttomarge kletterte auf 48 von 39 Prozent. Das EBIT legte auf 57 von 15,4 Millionen Euro zu. Die entsprechende Marge erhöhte sich auf 39 von 13 Prozent.
+
+FRESENIUS
+
+bekommt einen neuen Vorstand für die Sparte Kabi. Der Aufsichtsrat hat Marc-Alexander Mahl zum 1. November in den Konzernvorstand berufen. Er löst Pierluigi Antonelli ab, der das Unternehmen aus persönlichen Gründen verlässt. Mahl ist seit Mai 2023 Leiter der Fresenius-Geschäftsbereiche Pharma und Nutrition.
+
+NORDEX
+
+hat ihren operativen Gewinn im dritten Quartal mehr als verdoppelt und wird zuversichtlicher für das Gesamtjahr. Der Hersteller von Windkraftanlagen hat seinen Ausblick für die operative Rendite angehoben. Er verwies auf höhere Margen im Dienstleistungsgeschäft und ein starkes Projektgeschäft. Für das laufende Jahr rechnet Nordex nun mit einer EBITDA-Marge von 11,5 bis 12,5 Prozent. Bislang hatte der Konzern eine Marge von 8 bis 11 Prozent angepeilt. Der Umsatz wird weiter bei 8,2 bis 9,0 Milliarden Euro gesehen. Im dritten Quartal stieg das EBITDA auf 278 Millionen Euro von 136 Millionen Euro. Die entsprechende Marge rückte auf 12,7 von 8,0 Prozent vor. Der Umsatz kletterte auf 2,19 von 1,71 Milliarden Euro. Der freie Cashflow stieg auf 379 von 149 Millionen Euro. Die Ergebnisse lagen nach Angaben von Nordex über den Erwartungen.
+
+BRUNELLO CUCINELLI
+
+erzielte im dritten Quartal einen Umsatz von 374,2 Millionen Euro und übertraf die Analystenschätzungen von 371,2 Millionen. Für das Gesamtjahr hob der Luxusmodekonzern die Umsatzprognose auf ein Plus von 12 Prozent bei konstanten Wechselkursen an von zuvor 10 bis 11 Prozent.
+
+ALCOA
+
+hat im jüngsten Quartal einen höheren Gewinn und Umsatz ausgewiesen. Der Gewinn für das dritte Quartal betrug 483 Millionen US-Dollar oder 1,81 Dollar je Aktie verglichen mit 232 Millionen Dollar oder 88 Cent je Aktie im Vorjahr. Ohne Berücksichtigung bestimmter Einmaleffekte lag der Gewinn bei 1,82 Dollar je Aktie. Analysten hatten mit einem bereinigten Gewinn von 1,51 Dollar je Aktie gerechnet. Der Umsatz stieg um 24 Prozent auf 3,7 Milliarden Dollar, blieb jedoch hinter den Erwartungen der Wall Street von 3,77 Milliarden Dollar zurück.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/gos/flf
+
+(END) Dow Jones Newswires
+
+October 16, 2026 01:31 ET (05:31 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+# Nachricht - Börse Stuttgart
+
+16.10.2026 / 07:48:16
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+MONTAG: In Hongkong wird wegen eines Ersatztages für das "Chung-Yeung-Fest" nicht gehandelt.
+
++++++ TAGESTHEMA +++++
+
+Der Vorsitzende der Federal Reserve hat jüngste Signale seiner Kollegen, wonach es die US-Notenbank nicht eilig hat, die Zinsen in diesem Monat anzuheben, weder bestätigt noch zurückgewiesen. Kevin Warsh sagte die Zentralbank sei nicht länger in dem Geschäft tätig, ihre Entscheidungen vorab anzukündigen. "Ich greife Sitzungen nicht vor. Ich halte nichts davon, jetzt zu sagen, was ich bei unseren anstehenden Sitzungen tun könnte", sagte Warsh. "Es ist ein neues Kapitel bei der Fed, und wir sind in diesem Geschäft nicht mehr tätig." Warsh äußerte sich am Freitagmorgen (Ortszeit) in Bangkok in einem moderierten Gespräch am Rande der Tagungen des Internationalen Währungsfonds (IWF) und kurz bevor die Fed-Vertreter in ihre übliche "Quiet Period" vor der Sitzung am 27. und 28. Oktober eintreten sollten. Die Fed hatte die Zinsen im vergangenen Monat in einer einstimmigen Entscheidung um einen Viertelprozentpunkt auf eine Spanne zwischen 3,75 Prozent und 4,00 Prozent angehoben. Es war die erste Erhöhung seit drei Jahren, und die meisten von Warshs Kollegen planten in den bei der Sitzung veröffentlichten Prognosen für dieses Jahr mindestens eine weitere Zinserhöhung ein. Warsh hat wiederholt erklärt, er wolle, dass sich die Anleger auf die Wirtschaft konzentrieren und nicht auf Hinweise von Fed-Vertretern zu ihren nächsten Schritten. Vor zwei Wochen signalisierten jedoch hochrangige Funktionäre, die sich mit Warsh über die geldpolitische Strategie beraten, dass es die Zentralbank nicht eilig habe, die Zinsen in diesem Monat erneut anzuheben. Die an den Terminmärkten eingepreiste Wahrscheinlichkeit für eine Zinserhöhung im Oktober stürzte kurz darauf ab. Die in dieser Woche veröffentlichten Inflationsdaten für September zeigten jedoch eine hartnäckigere Teuerung als erwartet. Die Fed-Sitzung im Oktober findet weniger als eine Woche vor den Zwischenwahlen in den USA statt, was bedeutet, dass jede Entscheidung, die Zinsen anzuheben oder unverändert zu lassen, stärker als üblich unter politische Beobachtung geraten könnte.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+13:00 US/Travelers Cos Inc, Ergebnis 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- US 
+    14:30 Import- und Exportpreise September 
+          Importpreise 
+          PROGNOSE:  +0,8% gg Vm 
+          zuvor:     +0,7% gg Vm 
+ 
+    15:15 Industrieproduktion und Kapazitätsauslastung September 
+          Industrieproduktion 
+          PROGNOSE:  +0,4% gg Vm 
+          zuvor:      0,0% gg Vm 
+          Kapazitätsauslastung 
+          PROGNOSE:  76,5% 
+          zuvor:     76,3%"
+
++++++ ÜBERSICHT INDIZES +++++
+
+Index                         zuletzt  +/- % 
+E-Mini-Future S&P-500        7.801,25   +0,1 
+E-Mini-Future Nasdaq-100    30.167,75   +0,1 
+S&P/ASX 200 (Sydney)         8.806,70   +1,0 
+Topix-500 (Tokio)            4.074,15   +1,9 
+Kospi (Seoul)                5.712,93   +2,9 
+Shanghai-Composite           3.722,04   +0,4 
+Hang-Seng-Index (Hongkong)  24.298,36   +1,0
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Nach dem Kursrutsch am Vortag kommt es zum Wochenausklang es an den ostasiatischen Aktienmärkten zu einer kräftigen Erholung. Teilnehmer sprechen allerdings lediglich von einer Gegenbewegung, am übergeordneten Bild habe sich nur wenig verändert. Dafür spricht auch der weitere Rückgang der Renditen. So zeigt sich die Rendite zehnjähriger US-Anleihen wenig verändert bei 5,09 Prozent, nachdem sie nach den höher als erwartet ausgefallenen US-Inflationsdaten noch bis auf 5,33 Prozent gestiegen war. Hier wird auf die Flucht in den "sicheren Hafen" Anleihen verwiesen. Besonders deutlich fällt die Erholung in Seoul aus, wo es für den Kospi um 2,9 Prozent nach oben geht. Am Vortag hatte der Index mit einem Einbruch um 7,6 Prozent das größte Tagesminus seit Ende Juli markiert. In Tokio steigt der Nikkei-225 um 1,9 Prozent, nachdem er am Donnerstag noch den größten Tagesverlust seit März verzeichnet hatte. Der breiter gefasste Topix erhöht sich ebenfalls um 1,9 Prozent. Auch an den chineischen Börsen kommt es zu einer leichten Erholung.
+
+WALL STREET
+
+Index               Schluss  +/- % 
+Dow-Jones         52.177,69   +1,1 
+S&P-500            7.744,06   +0,3 
+Nasdaq Composite  26.713,03   +0,1 
+ 
+                     Donnerstag  Mittwoch 
+Umsatz NYSE (Aktien) 1,37 Mrd    1,39 Mrd 
+Gewinner             2.076         683 
+Verlierer              672       2.073 
+Unverändert             45          48
+
+Freundlich - Das Geschehen bewegte sich im Spannungsfeld anhaltenden Verkaufsducks bei Aktien mit KI-Fantasie und deutlich gesunkenen Marktzinsen. Die Abwärtstendenz bei den Zinsen verstärkte sich kurz vor Handelsbeginn zunächst sogar noch, obwohl die US-Erzeugerpreise im September deutlich höher ausgefallen waren als erwartet. Marktteilnehmer vermuteten dahinter eine Flucht in den vermeintlich sicheren Anleihehafen angesichts der sich eintrübenden Stimmung für KI-Aktien und des Ausverkaufs. Unter den Halbleiteraktien verloren Nvidia 1,8 Prozent, AMD 1,5 und Broadcom 0,6 Prozent. Marvell gaben 1,7 Prozent nach. Coreweave, die am Vortag schon um 15 Prozent eingeknickt waren, erholten sich um 5,9 Prozent. Börsianer hatten zuvor von Sorgen um die finanzielle Gesundheit des Cloud-Computing-Unternehmens gesprochen, nachdem die Coreweave-Anleiherenditen jüngst die Marke von 15 Prozent überschritten hätten. Dass der KI-Entwickler Anthropic mit der Nachricht aufwartete, dass der Umsatz im dritten Quartal um 45 Prozent auf 16,8 Milliarden Dollar gestiegen sei, ging ebenso unter wie ein Rekordgewinn von TSMC. Nach im September stärker als erwartet gestiegenen Einzelhandelsumsätzen lagen Einzelhandelsaktien sehr fest im Markt. Walmart verteuerten sich um 1,5 Prozent, Home Depot um 4,3 und Kohl's um 6 Prozent.
+
+USA - ANLEIHEN
+
+             Rendite    +/- 
+2 Jahre        4,75    -0,05 
+10 Jahre       5,09    -0,10 
+30 Jahre       5,43    -0,10
+
+Die Marktzinsen fielen deutlich zurück. Die US-Zehnjahresrendite, die am Vortag nach den Inflationsdaten zunächst auf 5,33 Prozent nach oben geschossen war, ehe sie wieder auf das Ausgangsniveau um 5,20 Prozent zurückgekommen war, fiel zuletzt auf 5,09 Prozent im US-Handel und damit auf das niedrigste Niveau seit etwa drei Wochen. Zu den sinkenden Renditen dürften Fluchtbewegungen in die vermeintliche Sicherheit der US-Anleihen beigetragen haben, hieß es, angesichts des eingetrübten Stimmungsumfelds für Aktien.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN                  zuletzt  +/- %       0:00    Do, 9:40 Uhr  % YTD 
+EUR/USD                   1,1227   +0,1     1,1218          1,1217   -4,4 
+EUR/JPY                   177,23    0,0     177,23          177,24   -3,7 
+EUR/GBP                   0,8440   -0,1     0,8449          0,8462   -3,2 
+USD/JPY                   157,85   -0,1     157,98          157,99   +0,8 
+USD/KRW                 1.338,60   -0,2   1.341,28        1.342,52   -7,1 
+USD/CNY                   6,6889   -0,0     6,6909          6,6913   -4,4 
+USD/CNH                   6,6885   -0,0     6,6894          6,6913   -4,1 
+USD/HKD                   7,8475    0,0     7,8473          7,8471   +0,8 
+AUD/USD                   0,6943   +0,4     0,6919          0,6942   +4,1 
+NZD/USD                   0,5651   +0,6     0,5619          0,5613   -1,8 
+BTC/USD                82.114,60   +0,1  81.999,70       81.209,79   -6,4
+
+Der Dollar kam mit dem starken US-Zinsrückgang deutlich zurück, der Dollar-Index hab 0,32 Prozent nach - der Euro erholte sich um 0,6 Prozent auf 1,1222 Dollar. Er machte damit den Rücksetzer vom Mittwoch wieder wett.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle                  zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                    4.174,65   +0,1       4,40        4.170,25 
+Silber                     57,66   +0,4       0,22           57,44 
+Platin                  1.634,36   +0,5       8,65        1.625,71
+
+Der Goldpreis erholte sich zum Settlement um 1,5 Prozent auf 4.147,70 Dollar, unterstützt von gesunkenen Zinsen und einem schwächeren Dollar.
+
+ÖL
+
+ROHÖL                    zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                  97,21   -0,8      -0,76           97,97 
+Brent/ICE                 105,43   -0,5      -0,49          105,92
+
+Beim Brent-Öl tat sich unter dem Strich wenig, allerdings hatte der Preis zunächst nachgegeben, ehe er sich nach und nach wieder auf das Ausgangsniveau um 105,92 Dollar (-0,1%) erholte. Die US-Sorte WTI verteuerte sich dagegen kräftig um 3 Prozent auf 97,97 Dollar, nachdem die Rohöllagerbestände in den USA in der Woche zum 9. Oktober wider Erwarten deutlich gesunken waren.
+
++++++ MELDUNGEN SEIT DONNERSTAG 20.00 UHR +++++
+
+ALCOA
+
+hat im jüngsten Quartal einen höheren Gewinn und Umsatz ausgewiesen. Der Gewinn für das dritte Quartal betrug 483 Millionen US-Dollar oder 1,81 Dollar je Aktie verglichen mit 232 Millionen Dollar oder 88 Cent je Aktie im Vorjahr. Ohne Berücksichtigung bestimmter Einmaleffekte lag der Gewinn bei 1,82 Dollar je Aktie. Analysten hatten mit einem bereinigten Gewinn von 1,51 Dollar je Aktie gerechnet. Der Umsatz stieg um 24 Prozent auf 3,7 Milliarden Dollar, blieb jedoch hinter den Erwartungen der Wall Street von 3,77 Milliarden Dollar zurück.
+
+NETFLIX
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 16, 2026 01:48 ET (05:48 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+# Nachricht - Börse Stuttgart
+
+16.10.2026 / 07:48:16
+
+# MORNING BRIEFING - USA/Asien -2-
+
+(Dow Jones Newswires)
+
+Die für Inhalte zuständige Netflix-Managerin verlässt das Unternehmen. Auf Bela Bajaria, die seit zehn Jahren für den Streamingdienst arbeitet, folgt Peter Rice als Chief Content Officer, der früher bei 21st Century Fox and Disney als Manager tätig war. Netflix hat seit geraumer Zeit mit einem verlangsamten Wachstum und einem sinkendem Kundenengagement zu kämpfen.
+
+NIKE
+
+ist von der Ratingagentur Moody's mit einem von stabil auf negativ gesenkten Ausblick eingestuft worden, was eine länger als zuvor erwartete Trendwende widerspiegelt. Das Unternehmen mache zwar Fortschritte bei seinen Sanierungsinitiativen, teilte Moody's mit, fügte jedoch hinzu, dass das Sportbekleidungsgeschäft vor Herausforderungen stehe, darunter ein überversorgter Markt sowie eine unzureichende Differenzierung, und eine umfassende Neuausrichtung erfordere.
+
+PEPSICO / KFC / COCA-COLA
+
+Pepsico hat einen bedeutenden Liefervertrag an seinen Erzrivalen verloren. Die Fast-Food-Kette KFC hat einen Vertrag mit Coca-Cola als Getränkelieferant für Tausende von US-Restaurants geschlossen. Der Wechsel soll ab Januar umgesetzt werden.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/gos/flf/ros
+
+(END) Dow Jones Newswires
+
+October 16, 2026 01:48 ET (05:48 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+# Nachricht - Börse Stuttgart
+
+16.10.2026 / 07:54:56
+
+# Devisen: Euro bleibt klar über 1,12 US-Dollar
+
+(dpa-AFX) NEW YORK (dpa-AFX) - Der Euro hat sich zum Wochenausklang klar über der Marke von 1,12 US-Dollar gehalten. Zuletzt kostete die Gemeinschaftswährung 1,1226 Dollar und damit etwas mehr als am Vorabend. Die Europäische Zentralbank (EZB) hatte den Referenzkurs am Donnerstagnachmittag auf 1,1208 Dollar festgesetzt.
+
+NEW YORK (dpa-AFX) - Der Euro hat sich zum Wochenausklang klar über der Marke von 1,12 US-Dollar gehalten. Zuletzt kostete die Gemeinschaftswährung 1,1226 Dollar und damit etwas mehr als am Vorabend. Die Europäische Zentralbank (EZB) hatte den Referenzkurs am Donnerstagnachmittag auf 1,1208 Dollar festgesetzt.
+
+Erneut sind die Blicke der Marktteilnehmer aus Sicht der Landesbank Hessen-Thüringen (Helaba) in die USA gerichtet. Dort stehen die Zahlen zur Industrieproduktion auf der Agenda. Andere wichtige Datenveröffentlichungen seien Fehlanzeige und auch Reden von Vertretern der EZB oder der US-Notenbank Fed werden nicht mehr erwartet. In der Nacht hatte Fed-Chef Kevin Warsh bereits klargestellt, dass er keine Signale über den zukünftigen geldpolitischen Kurs geben wird. Zur Wochenmitte hatte eine unerwartet hohe Inflation in den USA noch die Sorge vor steigenden Leitzinsen befeuert und den Kurs des Dollar gestützt./jha/stk
+
+## Weitere relevante Nachrichten
+
+Freitag, 16.10.2026
+
+-   [
+    
+    13:52
+    
+    MÄRKTE EUROPA/Freundlich
+    
+    Dow Jones Newswires
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=649846136288182920)
+
+Donnerstag, 15.10.2026
+
+-   [
+    
+    21:04
+    
+    Devisen: Eurokurs bewegt sich im US-Handel weiter über 1,12 Dollar
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=3919691353571842758)
+-   [
+    
+    18:22
+    
+    MÄRKTE EUROPA/Uneinheitlich - KI-Aktien stark unter Druck - Zinsen fallen kräftig
+    
+    Dow Jones Newswires
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=3152194238549127484)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
 Die Aktienmärkte zeigen sich nach einer volatilen Phase erholt.
  Der Fokus liegt aktuell auf einer deutlichen Umschichtung weg von Tech- und KI-Werten hin zu defensiveren Branchen.
 Wichtige Marktentwicklungen:
