@@ -1,659 +1,144 @@
-Hier sind die wichtigsten Finanz-, Wirtschafts- und Politiknachrichten vom Wochenende (10. und 11. Oktober 2026):
-Geopolitik & Makroökonomie
-Spannungen am Persischen Golf: Anziehende Anleiherenditen und erneute geopolitische Spannungen am Persischen Golf prägten die Marktstimmung zum Wochenende.
- Nach Berichten über Angriffe auf saudische Flughäfen in Riad und Dammam blicken Marktteilnehmer mit Nervosität auf die Rohölmärkte für den Handelsstart am Montag.
-USA meldet „Energie-Waffenruhe“: Inmitten der globalen Unsicherheiten vermeldete der US-Präsident Donald Trump überraschend eine strategische Annäherung bzw. eine „Energie-Waffenruhe“.
-Unternehmensmeldungen & Recht
-UBS beendet Greensill-Rechtsstreit: Die Schweizer Großbank UBS (NYSE:UBS) hat ihren jahrelangen und erbitterten Rechtsstreit mit dem australischen Versicherer IAG überraschend kurz vor einem anstehenden Gerichtsurteil in Sydney außergerichtlich beigelegt
-.
-Kryptomarkt (XRP): Ripple (XRP) bewegte am Wochenende im Zuge von drei technischen Netzwerk-Upgrades über 200 Millionen Token.
- Trotz der hohen technologischen Aktivität verharrte der Kurs am Wochenende schwach bei rund 1,40 US-Dollar, da der Markt nach wie vor massive Zuflüsse benötigt, um signifikante Kurssprünge zu verzeichnen.
-Deutschland & Europa
-Frankfurter Buchmesse & Friedenspreis: Am Wochenende stand Frankfurt im Zeichen der Buchmesse.
- Am Sonntag wurde der renommierte Friedenspreis des Deutschen Buchhandels verliehen.
-Politischer Druck in Berlin: Nach den jüngsten Landtagswahlen im Osten und in Berlin wächst der Druck auf die Bundesregierung.
- CSU-Chef Markus Söder äußerte sich in den Sonntagsmedien kritisch zur Krisenbewältigung des aktuellen Koalitionsausschusses.
-Proteste in Brüssel: Bei einer landesweiten Demonstration in Belgien kam es am Wochenende in Brüssel zu Zusammenstößen zwischen der Polizei und Demonstranten, die gegen geplante Haushaltskürzungen und Reformen protestierten.
-Ausblick auf die neue Woche (Montag, 12. Oktober)
-Die Berichtssaison nimmt ab Montag weiter Fahrt auf. Folgende wichtige Termine stehen direkt an:
-LVMH (EPA:MC): Umsatz zum 3. Quartal.
-Volkswagen AG (XETR:VOW3): Globale Absatzzahlen für das 3. Quartal.
-Nobelpreis: Bekanntgabe des Wirtschaftsnobelpreises in Stockholm.
 
+
+Hier sind die konkreten Ergebnisse und Wirtschaftsdaten für die Termine von Freitag, dem 16. Oktober 2026:
+Unternehmensmeldungen & Konjunkturdaten (Europa)
+Schneider Electric SE (3Q-Umsatz): Das Unternehmen erzielte einen Rekordumsatz von 11,5 Milliarden Euro (ein organisches Plus von 17 % gegenüber dem Vorjahreszeitraum), getrieben von massiver Nachfrage im Bereich Rechenzentren.
+ Die Jahresprognose wurde zum zweiten Mal angehoben.
+Deutschland (Baugenehmigungen August): Die Zahl der genehmigten Wohnungen stieg im August um 6,8 % gegenüber dem Vorjahresmonat auf 20.600 Einheiten.
+Eurozone (Handelsbilanz August): Die Eurozone verzeichnete ein unerwartetes Handelsdefizit von 6,8 Milliarden Euro, nachdem im Vormonat noch ein Überschuss von 14,2 Milliarden Euro erzielt worden war.
+Eurozone (Verbraucherpreise September): Die Inflation stieg im Jahresvergleich exakt wie prognostiziert auf 3,8 % (Vormonat: 3,2 %).
+ Haupttreiber waren die kräftig gestiegenen Energiepreise.
+Unternehmensmeldungen & Konjunkturdaten (USA)
+Travelers Cos Inc (Ergebnis 3Q): Die Versicherungsgruppe übertraf die Erwartungen deutlich.
+ Der Umsatz belief sich auf 12,41 Milliarden USD.
+ Der bereinigte Kerngewinn sprang auf 9,18 USD je Aktie (Prognose war 7,25 USD).
+US-Importpreise (September): Die Importpreise kletterten im September um 1,1 % gegenüber dem Vormonat und lagen damit deutlich über der Prognose von +0,8 %.
+US-Industrieproduktion & Kapazitätsauslastung (September):
+Die Industrieproduktion stieg im Monatsvergleich um 0,7 % (Prognose war +0,4 %).
+Die Kapazitätsauslastung kletterte zeitgleich überraschend stark auf 76,9 % (Prognose war 76,5 %).
+Notenbanken & Politik (IWF-Jahrestagung)
+Joachim Nagel (Bundesbank / EZB): Zeigte sich auf der Pressekonferenz in Bangkok zuversichtlich.
+ Er betonte, dass der IWF seine Wachstumsprognose für Deutschland für 2026 auf 1,3 % heraufgesetzt hat und die Wirtschaft sich auf einem soliden Erholungskurs befindet.
+
+Der Euro reagierte trotz des überraschenden Handelsbilanzdefizits der Eurozone von 16,1 Milliarden Euro robust und legte am Freitag im Tagesverlauf gegenüber dem US-Dollar um rund 0,4 % zu.
+ Der offizielle EZB-Referenzkurs kletterte auf 1,1253 USD.
+Der Euro profitierte vor allem von einer leichten Schwächephase der US-Renditen sowie den zeitgleich veröffentlichten Verbraucherpreisen der Eurozone.
+ Da die Inflation im September wie erwartet auf 3,8 % anzog, dämpfte dies am Devisenmarkt die Erwartungen an schnelle Zinssenkungen durch die Europäische Zentralbank (EZB).
+ Dies stützte die Gemeinschaftswährung, wodurch das negative Signal des Handelsbilanzdefizits in den Hintergrund gedrängt wurde.
+Der Internationale Währungsfonds (IWF) hat seine Wachstumsprognose für Deutschland für das Jahr 2026 im jüngsten Weltwirtschaftsausblick kräftig von zuvor 0,7 % auf 1,3 % angehoben.
+Die Anhebung begründet sich im Wesentlichen durch folgende Faktoren:
+Hohe Widerstandsfähigkeit: Die deutsche Wirtschaft hat sich im bisherigen Jahresverlauf deutlich robuster gegen externe Krisen durchgesetzt als zuvor angenommen wurde.
+Staatliche Investitionen: Kräftige staatliche Ausgaben und Sonderkonjunkturprogramme halfen dabei, die anhaltenden Belastungen durch teure Energiekosten abzufedern.
+Geringere Belastungen durch geopolitische Konflikte: Der anhaltende Iran-Krieg und die damit verbundenen Ölpreisschocks trafen die exportorientierte deutsche Industrie dank schnellem Gegensteuern und der Nutzung strategischer Reserven weniger stark als im Sommer befürchtet.
+Mit diesem deutlichen Aufwärtsschritt schließt sich der IWF der optimistischeren Einschätzung der Bundesregierung sowie führender deutscher Wirtschaftsforschungsinstitute an.
+
+Von den starken US-Industriedaten profitierten vor allem zyklische Branchen wie die Grundstoffindustrie, Versorger und der Halbleitersektor, da die Daten eine anhaltende Dynamik in diesen Bereichen signalisierten.
+Grundstoffe & Stahl: Unternehmen wie der Stahlriese Nucor Corp (NYSE:NUE) legten um 3,1 % zu, gestützt durch den Produktionsanstieg bei langlebigen Gütern und Primärmetallen.
+Halbleiter & High-Tech: Trotz allgemeiner Marktrotation zeigte der Bericht einen massiven Quartalssprung von 28,4 % bei Halbleitern und elektronischen Bauelementen infolge des KI-Booms, wovon Branchengrößen wie Nvidia (NASDAQ:NVDA) operativen Rückenwind erhielten
+.
+Versorger (Utilities): Der Teilindex für Versorger verzeichnete einen monatlichen Sprung von 3,5 % (bzw. 14,8 % im gesamten Quartal), angetrieben von einer hohen Stromnachfrage, unter anderem durch den steigenden Energiebedarf von Rechenzentren.
+Die US-Indizes rutschten am Freitag trotz der starken Industriedaten vor allem aufgrund von drei Belastungsfaktoren ins Minus:
+Erneuter Ausverkauf bei Tech- und KI-Aktien: Die Sorgen um die extrem hohe Schuldenlast im KI-Infrastruktursektor (insbesondere rund um CoreWeave) flammten wieder auf.
+ Big Tech und Halbleiterwerte wie Micron (-5,6 %) und Intel (-5,8 %) zogen den S&P 500 und Nasdaq tief nach unten.
+Anziehender Ölpreis: Der Preis für Rohöl der Sorte Brent sprang um 3,7 % nach oben und näherte sich der Marke von 110 USD.
+ Grund sind die anhaltenden Versorgungsängste durch den US-Iran-Krieg, was die globalen Inflationssorgen massiv verschärfte.
+Steigende Anleiherenditen: Die hartnäckigen Inflationsdaten der Woche trieben die Rendite der 10-jährigen US-Staatsanleihen wieder auf 5,1 %.
+ Höhere Zinsen schmälern den Barwert zukünftiger Gewinne, was vor allem wachstumsstarke Tech-Unternehmen stark belastete.
+Am Ende des Tages verlor der S&P 500 (INDEXSP:.INX) 1,1 % und der Nasdaq Composite (INDEXNASDAQ:.IXIC) brach um 2,1 % ein. Der Dow Jones (INDEXDJX:.DJI) hielt sich dank defensiverer Werte stabiler, schloss jedoch ebenfalls 0,3 % im Minus.
+er sprunghafte Anstieg des Ölpreises (Brent kletterte in Richtung 110 USD) wirkte sich sehr unterschiedlich auf Industrieaktien aus:
+Belastung durch steigende Inputkosten: Für klassische, energieintensive Industrieunternehmen (z. B. Logistik, Transport und chemische Produktion) bedeutet ein höherer Öl- und Dieselpreis direkt steigende Betriebskosten.
+ Da der Ölpreisdruck zudem die allgemeinen Inflationssorgen und die Anleiherenditen antrieb, drückte dies auf die Bewertungsmultiplikatoren (KGV) vieler Industrie- und Investitionsgüteraktien.
+Profiteure im Industriebereich: Reine Energie- und Rohstoffwerte (die im S&P 500 oft unter den zyklischen Substanzwerten laufen) profitierten dagegen massiv. Der Energiesektor war mit einem Plus von 2,47 % der mit Abstand stärkste Bereich am Freitag.
+Sondereffekt Versorger: Auch Industrie-Zulieferer und Versorger legten um 1,40 % zu.
+ Die Erwartung, dass der hohe Ölpreis die Stromgewinnung verteuert und gleichzeitig die Nachfrage nach alternativen Energieinfrastrukturen ankurbelt, stützte diese Segmente.
+
+Ja, am Freitag kam es zu wichtigen charttechnischen Brüchen bei den großen US-Indizes.
+ Sowohl der S&P 500 als auch der Nasdaq Composite haben ihre vielbeachteten 50-Tage-Linien (Moving Averages) nach unten durchbrochen.
+S&P 500 (INDEXSP:.INX): Der Index rutschte unter die wichtige Unterstützung bei 7.685 Punkten (50-Tage-Linie) und schloss bei 7.659,75 Punkten.
+ Charttechniker blicken nun auf die nächste Aufwärtstrendlinie im Bereich von 7.640 bis 7.650 Punkten als Auffangbecken.
+Nasdaq Composite (INDEXNASDAQ:.IXIC): Durch das deutliche Minus von 2,1 % wurde die 50-Tage-Linie dynamisch nach unten verletzt.
+ Der Nasdaq-100 testet zudem die psychologisch und strukturell wichtige Marke bei rund 29.300 bis 29.500 Punkten.
+Dow Jones (INDEXDJX:.DJI): Der Leitindex zeigt sich dank seiner defensiven Ausrichtung (Versorger, Energie) robuster und notiert weiterhin stabil oberhalb seiner mittelfristigen Unterstützungen.
+Der sprunghafte Anstieg des Angstbarometers VIX auf über 20 Punkte untermauert das angeschlagene technische Bild und signalisiert, dass sich der Markt in einer kurzfristigen Korrekturphase befindet.
+
+Ja, der S&P 500 befindet sich weiterhin in einem intakten, langfristigen Aufwärtstrend.
+Zwar hat der Index am Freitag durch den jüngsten Tech-Ausverkauf seine kurzfristige Unterstützung (die 50-Tage-Linie bei ca. 7.685 Punkten) durchbrochen und schloss bei 7.659,44 Punkten.
+ Er notiert damit jedoch nach wie vor deutlich über seiner maßgeblichen, langfristigen 200-Tage-Linie, die aktuell im Bereich von 7.250 bis 7.300 Punkten verläuft und weiterhin nach oben gerichtet ist.
+Solange der Index über dieser vielbeachteten Trendlinie bleibt, bewerten Charttechniker die aktuelle Schwächephase lediglich als gesunde, kurzfristige Korrektur innerhalb des übergeordneten Bullenmarktes.
+
+Im Moment wird der S&P 500 vor allem durch defensive Branchen und Substanzwerte (Value) gestützt, da Anleger Kapital aus dem hochbewerteten Technologie- und KI-Sektor abziehen.
+Besonders stark zeigten sich am jüngsten Handelstag folgende Sektoren:
+Energie (Energy): Der Sektor war mit einem Plus von 2,47 % der klare Spitzenreiter, angetrieben durch den kräftigen Anstieg des Rohölpreises (Brent).
+Versorger (Utilities): Konnte um 1,40 % zulegen, da diese Aktien als krisenfest gelten und von einer hohen Stromnachfrage durch Rechenzentren profitieren.
+Finanzwesen (Financials) & Industrie: Diese zyklischen Branchen erhielten Unterstützung durch die robusten US-Wirtschaftsdaten (wie die starke Industrieproduktion) [cite: google:search].
 
 # Nachricht - Börse Stuttgart
 
-09.10.2026 / 17:38:21
+16.10.2026 / 22:21:15
 
-# WOCHENVORSCHAU: Termine bis 23. Oktober 2026
+# Aktien New York Schluss: Techwerte sacken wieder ab - KI- und Inflationssorgen
 
-(dpa-AFX) FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine bis Freitag, den 23. Oktober
+(dpa-AFX) NEW YORK (dpa-AFX) - Am US-Aktienmarkt haben die Technologiewerte nach der Verschnaufpause am Vortag ihren Kursrutsch fortgesetzt. Damit bestimmten am Freitag wieder Ängste über ausufernde Finanzierungskosten für KI-Konzerne das Bild. Hinzukam im Handelsverlauf ein deutlicher Anstieg der Ölpreise, der einmal mehr Inflationssorgen schürte. Denn eine Gruppe von Abgeordneten hatte einen Gesetzentwurf eingebracht, um das Vorhaben von Präsident Donald Trump zu verhindern, mehr russischen Diesel auf die Weltmärkte zu bringen.
 
-FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine bis Freitag, den 23. Oktober
+NEW YORK (dpa-AFX) - Am US-Aktienmarkt haben die Technologiewerte nach der Verschnaufpause am Vortag ihren Kursrutsch fortgesetzt. Damit bestimmten am Freitag wieder Ängste über ausufernde Finanzierungskosten für KI-Konzerne das Bild. Hinzukam im Handelsverlauf ein deutlicher Anstieg der Ölpreise, der einmal mehr Inflationssorgen schürte. Denn eine Gruppe von Abgeordneten hatte einen Gesetzentwurf eingebracht, um das Vorhaben von Präsident Donald Trump zu verhindern, mehr russischen Diesel auf die Weltmärkte zu bringen.
 
-   
----------------------------------------------------------------------------------------
-MONTAG, DEN 12. OKTOBER
+Der techwertelastige Nasdaq 100 sackte um 2,50 Prozent auf 29.187,55 Punkte ab und fiel auf das Niveau von Mitte September zurück. Für den marktbreiten S&P 500 ging es um 1,09 Prozent auf 7.659,44 Punkte nach unten.
 
-TERMINE UNTERNEHMEN
-07:00 DEU: Nordex, Q3-Auftragseingang
-11:00 DEU: Volkswagen, Absatz Q3/26
-17:45 FRA: LVMH, Q3-Umsatz
-
-TERMINE UNTERNEHMEN OHNE ZEITANGABE
-DEU: Porsche AG, Pre-Close-Call Q3
-FRA: L'Oreal, außerordentliche Hauptversammlung
-
-TERMINE KONJUNKTUR
-06:30 NLD: Handelsbilanz 8/26
-07:00 SPA: Handelsbilanz 8/26
-
-SONSTIGE TERMINE
-10:00 DEU: OLG Hamm verkündet Urteil zu Musterfeststellungsklage zu Preiserhöhungen bei Fernwärme durch Eon
-
-10:30 DEU: KfW stellt Studie vor zum Förderbedarf zur Erreichung der Klimaneutralität
-
-11:45 SWE: Bekanntgabe des Preises für Wirtschaftswissenschaften in Andenken an Alfred Nobel
-
-14:00 DEU: Bundesverfassungsgericht verhandelt Bayern-Klage gegen Erbschaftsteuer
-
-15:00 DEU: Pk mit Bundesfinanzminister Lars Klingbeil (SPD) im Anschluss an die Sitzung des Stabilitätsrates
-
-HINWEIS
-JPN: Feiertag, Börse geschlossen
-USA: Anleihenmarkt wegen Feiertag geschlossen
-
----------------------------------------------------------------------------------------
-DIENSTAG, DEN 13. OKTOBER
-
-TERMINE UNTERNEHMEN
-07:00 CHE: Givaudan, Q3-Umsatz
-07:00 DEU: Fraport, Verkehrszahlen, 9/26
-10:00 NLD: Ahold, außerordentliche Hauptversammlung
-12:00 USA: UnitedHealth, Q3-Zahlen
-12:20 USA: Johnson & Johnson, Q3-Zahlen
-12:45 USA: JPMorgan, Q3-Zahlen
-13:00 USA: Wells Fargo, Q3-Zahlen
-13:25 USA: Goldman Sachs, Q3-Zahlen
-15:00 USA: Procter & Gamble, Hauptversammlung
-23:30 GBR: Rio Tinto, Q3-Produktionsbericht
-
-TERMINE UNTERNEHMEN OHNE ZEITANGABE
-DEU: BMW, Pre-Close-Call Q3/26
-CHE: Lonza, Kapitalmarkttag
-USA: Applied Materials, Investorentag
-USA: Workday, Investorentag
-USA: Apple, Vorstellung einer neuen Produktkategorie
-
-TERMINE KONJUNKTUR
-01:50 JPN: Erzeugerpreise 9/26
-01:50 JPN: Kreditvergabe 9/26
-08:00 DEU: Verbraucherpreise 9/26 (2. Schätzung)
-14:15 USA: ADP-Arbeitsmarktbericht
-16:00 USA: Wiederverkäufe Häuser 9/26
-
-USA: IWF, Wirtschaftsausblick und globaler Finanzstabilitätsbericht
-
-SONSTIGE TERMINE
-09:00 DEU: BGH verhandelt zu Ausschlussklausel für Kraftfahrzeugrennen in der Unfallversicherung
-
----------------------------------------------------------------------------------------
-MITTWOCH, DEN 14. OKTOBER
-
-TERMINE UNTERNEHMEN
-06:30 CHE: Lonza, Q3-Umsatz
-07:00 NLD: ASML, Q3-Zahlen
-07:00 NLD: ABN Amro, Pre-Close Note Q3/265
-10:00 NLD: Redcare Pharmacy, außerordentliche Hauptversammlung zur Berufung des neuen Konzernchefs Peter Schmid 
-12:00 USA: Blackrock, Q3-Zahlen
-12:45 USA: Bank of America, Q3-Zahlen
-13:30 USA: State Street, Q3-Zahlen
-13:30 USA: Morgan Stanley, Q3-Zahlen
-18:00 DEU: Schaeffler, Pre-Close-Call Q3/26
-
-TERMINE UNTERNEHMEN OHNE ZEITANGABE
-NLD: Airbus, Pre-Close-Call Q3/26
-USA: Accenture, Investorentag
-
-TERMINE KONJUNKTUR
-über Nacht CHN: Handelsbilanz 9/26
-03:30 CHN: Erzeuger-und Verbraucherpreise 9/26
-09:00 SPA: Verbraucherpreise 9/26 (2. Veröffentlichung)
-13:00 USA: MBA Hypothekenanträge
-14:30 USA: Durchschnittlicher Stundenlohn 9/26
-14:30 USA: Verbraucherpreise 9/26
-20:00 USA: Fed Beige-Book
-
-SONSTIGE TERMINE
-14:00 DEU: Internationales ADFC-Symposium
-
----------------------------------------------------------------------------------------
-DONNERSTAG, DEN 15. OKTOBER
-
-TERMINE UNTERNEHMEN
-07:00 AUS: VAT Group, Q3-Umsatz
-07:00 CHE: DocMorris, Q3-Umsatz
-07:00 SWE: EQT, Q3-Umsatz
-07:30 TWN: TSMC, Q3-Zahlen
-07:30 FRA: Pernod Ricard, Q1-Umsatz
-08:00 FRA: Totalenergies, Q3-Produktionsbericht
-10:30 DEU: Trumpf SE, Jahres-Pk
-13:00 USA: Bank of New York Mellon, Q3-Zahlen
-13:30 USA: Abbott Laboratories, Q3-Zahlen
-22:00 USA: Alcoa, Q3-Zahlen
-22:00 USA: United Airlines, Q3-Zahlen
-
-TERMINE KONJUNKTUR
-06:30 JPN: Industrieproduktion 8/26 (detailliert)
-08:00 GBR: BIP 8/26
-08:45 FRA: Verbraucherpreise 9/26 (2. Schätzung)
-11:00 EUR: Industrieproduktion 8/26
-14:30 USA: Einzelhandelsumsatz 9/26
-14:30 USA: Erstanträge Arbeitslosenhilfe
-14:30 USA: Erzeugerpreise 9/26
-14:30 USA: Philadelphia Fed Business Outlook 10/26
-16:00 USA: Lagerbestände 8/26
-18:00 USA: EIA Ölbericht (Woche)
-
-SONSTIGE TERMINE
-10:30 DEU: Oberlandesgericht verhandelt über Berufung von Ritter Sport gegen Hersteller von quadratischem Haferriegel aus Mannheim
-
-11:00 DEU: TransVer Day des Gesamtverbandes der Versicherer (GDV)
-
-12:00 DEU: Fortsetzung Streit vor Arbeitsgericht um Zahlung von Mindestlohn in einer Werkstatt für Behinderte
-
-GBR: German British Business Summit 2026 - Gipfeltreffen in London
-
-BEL: EU-Gipfel bis 16.10.26
-
----------------------------------------------------------------------------------------
-FREITAG, DEN 16. OKTOBER
-
-TERMINE UNTERNEHMEN
-07:00 SWE: Investor, Q3-Zahlen
-07:30 FRA: Schneider Electric, Q3-Umsatz
-13:00 USA: Travelers Cos, Q3-Zahlen
-
-TERMINE KONJUNKTUR
-11:00 EUR: Handelsbilanz 8/26
-11:00 EUR: Verbraucherpreise 9/26 (2. Veröffentlichung)
-11:00 ITA: Verbraucherpreise 9/26 (2. Veröffentlichung)
-14:30 USA: Export- und Importpreise 9/26
-15:15 USA: Industrieproduktion und Kapazitätsauslastung 9/26
-
-SONSTIGE TERMINE
-09:00 DEU: Hybrid-Vorstellung eines Gutachtens der Grüne-Bundestagsfraktion zur Förderung des genossenschaftlichen Wohnens
-
-BEL: EU-Gipfel, zweiter und letzter Tag
-
----------------------------------------------------------------------------------------
-MONTAG, DEN 19. OKTOBER
-
-TERMINE UNTERNEHMEN
-07:00 AUT: Bawag, Q3-Zahlen
-08:00 DEU: Norma Group, Update Strategie
-23:30 GBR: BHP, Produktionsbericht Q1/27
-
-TERMINE UNTERNEHMEN OHNE ZEITANGABE
-CHE: DSM-Firmenich, außerordentliche Hauptversammlung
-USA: Jefferies, Investorentag
-USA: Trade Desk, außerordentliche Hauptversammlung
-
-TERMINE KONJUNKTUR
-04:00 CHN: BIP Q3/26
-04:00 CHN: Industrieproduktion 9/26
-04:00 CHN: Einzelhandelsumsatz 9/26
-04:00 CHN: Investitionen in Sachanlagen und Immobilien bis 9/26
-08:00 DEU: Auftragseingang Verarbeitendes Gewerbe 8/26
-16:00 USA: NAHB Wohnungsmarkt-Index 10/16
-
-SONSTIGE TERMINE
-08:00 DEU: Pressefrühstück Bundesverband Beteiligungskapital e.V. (BVK) und Zentrale Immobilien Ausschuss (ZIA) zum Investitionsstandort Deutschland
-
-LUX: Treffen der Arbeits- und Sozialminister der EU
-
-HINWEIS
-HKG: Feiertag, Börse geschlossen
-
----------------------------------------------------------------------------------------
-DIENSTAG, DEN 20. OKTOBER
-
-TERMINE UNTERNEHMEN
-07:00 SWE: Tele2 AB, Q3-Zahlen
-07:00 CHE: ABB, Q3-Zahlen
-08:00 GBR: Anglo American, Q3-Umsatz
-12:30 USA: Hasbro, Q3-Zahlen
-12:30 USA: GE Aerospace, Q3-Zahlen
-12:30 USA: General Motors, Q3-Zahlen
-12:30 USA: Northrop Grumman, Q3-Zahlen
-12:30 USA: KeyCorp, Q3-Zahlen
-12:45 USA: Halliburton, Q3-Zahlen
-12:55 USA: RTX, Q3-Zahlen
-13:30 USA: Ally Financial, Q3-Zahlen
-13:45 DEU: Pressegespräch Fraport mit Fluggesellschaft Air Arabia, Frankfurt/M.
-15:00 CHE: Givaudan, Investor Day
-17:00 USA: Goldman Sachs, Hauptversammlung (außerordentliche)
-17:30 FRA: Carrefour, Q3-Umsatz
-17:30 FRA: Vivendi, Q3-Umsatz
-17:45 FRA: Michelin, Q3-Umsatz
-18:00 FRA: EssilorLuxottica, Q3-Umsatz
-19:00 DEU: Deutsche Börse, Q3-Zahlen
-22:01 USA: Netflix, Q3-Zahlen
-22:05 USA: United Airlines, Q3-Zahlen
-22:05 USA: Capital One Financial, Q3-Zahlen
-
-TERMINE UNTERNEHMEN OHNE ZEITANGABE
-USA: Zoom Video Communications (Investor Day)
-
-TERMINE KONJUNKTUR
-08:00 CHE: Im- und Exporte 9/26
-08:00 GBR: Arbeitslosenzahlen 8/26
-08:00 DEU: Erzeugerpreise 9/26
-09:30 POL: Industrieproduktion 9/26
-09:30 POL: Erzeugerpreise 9/26
-10:00 ESP: Handelsbilanz 8/26
-10:00 EUR: EZB Leistungsbilaz 8/26
-11:00 DEU: ZEW Konjunkturerwartungen 10/26
-11:00 EUR: Bauproduktion 8/26
-14:00 HUN: Zentralbank, Zinsentscheid
-14:15 USA: ADP Bericht (Woche)
-14:30 USA: Philadelphia Fed Index 10/26
-14:30 USA: Baubeginne- und genehmigungen 9/26 (vorläufig)
-16:00 USA: Schwebende Hausverkäufe 9/26
-
-SONSTIGE TERMINE
-DEU: Investorengipfel u.a. mit Bundeskanzler Friedrich Merz (CDU) und Bundesfinanzminister Lars Klingbeil (SPD), Berlin
-
----------------------------------------------------------------------------------------
-MITTWOCH, DEN 21. OKTOBER
- 
-TERMINE UNTERNEHMEN
-07:00 FIN: Elisa, Q3-Zahlen
-07:00 LUX: Eurofins Scientific, Q3-Umsatz
-07:00 NLD: Randstad, Q3-Zahlen
-07:00 NLD: Akzo Nobel, Q3-Zahlen
-07:00 NOR: DNB ASA, Q3-Zahlen
-07:00 SWE: Svenska Handelsbanken, Q3-Zahlen
-07:00 SWE: SKF, Q3-Zahlen
-07:00 SWE: Husqvarna, Q3-Zahlen
-07:30 FRA: Atos, Q3-Umsatz
-07:30 NOR: Storebrand, Q3-Zahlen
-08:30 ESP: Iberdrola, Q3-Zahlen
-12:00 USA: Danaher, Q3-Zahlen
-12:30 USA: AT&T, Q3-Zahlen
-12:30 USA: GE Vernova, Q3-Zahlen
-13:00 USA: Philip Morris International, Q3-Zahlen
-13:00 USA: CME Group, Q3-Zahlen
-13:30 USA: Abbott Laboratories, Q3-Zahlen
-14:00 DEU: Deutsche Börse, Analystenkonferenz zu den Q3-Zahlen
-18:00 DEU: Flatexdegiro, Q3-Zahlen
-18:00 FRA: Kleppiere, Q3-Umsatz
-22:00 USA: IBM, Q3-Zahlen
-22:00 USA: Lam Research, Q1-Zahlen
-22:00 USA: Texas Instruments, Q3-Zahlen
-22:00 USA: Southwest Airlines, Q3-Zahlen
-22:05 DEU: SAP, Q3-Zahlen
-22:05 USA: Tesla, Q3-Zahlen
-
-TERMINE UNTERNEHMEN OHNE ZEITANGABE
-DEU: Intershop, Q3-Zahlen
-
-TERMINE KONJUNKTUR
-01:50 JPN: Handelsbilanz 9/26
-08:00 GBR: Verbraucherpreise 9/26
-08:00 GBR: Preisindex Einzelhandel 9/26
-11:00 EUR: Staatsschuld/BIP-Verhältnis 2026 (endgültig)
-16:30 USA: EIA-Ölbericht (Woche)
-
-SONSTIGE TERMINE
-DEU: Frankfurt Finance & Future Summit, Frankfurt/M.
-
-08:45 DEU: BGH entscheidet über Auskunftsanspruch gegen Schufa, Karlsruhe
-
----------------------------------------------------------------------------------------
-DONNERSTAG, DEN 22. OKTOBER
-
-TERMINE UNTERNEHMEN
-06:00 EUR: Acea Kfz-Erstzulassungen 9/26
-07:00 DEU: Sartorius, Q3-Zahlen
-07:00 BEL: Argenx, Q3-Zahlen
-07:00 CHE: Kuehne & Nagel, Q3-Zahlen
-07:00 CHE: Roche, Q3-Umsatz (14.00 Uhr Call)
-07:00 CHE: Nestle, Q3-Zahlen
-07:00 CHE: Schindler, Q3-Zahlen
-07:00 CHE: Galderma, Q3 Trading Update
-07:00 FIN: Nokia, Q3-Zahlen
-07:00 FRA: Rexel, Q3-Umsatz
-07:00 FRA: Nexans , Q3-Umsatz
-07:00 FRA: Thales, Q3-Umsatz
-07:00 FRA: Nexans , Q3-Umsatz
-07:00 ITA: Unicredit, Q3-Zahlen
-07:00 NLD: BE Semiconductor Industries, Q3-Zahlen
-07:00 NOR: Nordic Semiconductor, Q3-Zahlen
-07:00 SWE: Skandinaviska Enskilda Banken, Q3-Zahlen
-07:00 SWE: Telia Company AB, Q3-Zahlen
-07:30 DEU: Vossloh, Q3-Zahlen
-08:00 FRA: Unibail-Rodamco-Westfield, Q3-Zahlen
-08:00 FRA: Hermes, Q3-Umsatz
-08:00 GBR: Pearson Group, Q3-Umsatz
-08:00 GBR: InterContinental Hotels, Q3-Umsatz
-08:00 GBR: Barclays, Q3-Zahlen
-08:00 GBR: Rentokil Initial, Q3-Umsatz
-08:00 GBR: Sainsbury, Halbjahreszahlen
-08:00 INT: LSE, Q3-Umsatz
-08:00 IRL: Kerry Group, Q3-Umsatz
-08:00 NOR: Yara, Q3-Zahlen
-12:00 USA: Comcast, Q3-Zahlen
-12:00 USA: Spotify, Q3-Zahlen
-12:00 USA: Dow, Q3-Zahlen
-12:30 USA: Honeywell International, Q3-Zahlen
-12:30 USA: Valero Energy, Q3-Zahlen
-13:00 USA: Procter & Gamble, Q1-Zahlen
-13:00 USA: American International Group, Q3-Zahlen
-13:00 USA: Nasdaq, Q3-Zahlen
-13:30 USA: Lockheed Martin, Q3-Zahlen
-14:00 USA: Norfolk Southern, Q3-Zahlen
-17:45 FRA: Vinci, Q3-Umsatz
-17:45 FRA: Accor, Q3-Umsatz
-18:00 FRA: Valeo, Q3-Umsatz
-18:00 FRA: L' Oréal, Q3-Umsatz
-18:00 FRA: Kering, Q3-Umsatz
-22:00 USA: Intel, Q3-Zahlen
-22:05 USA: Verisign Inc., Q3-Zahlen
-
-TERMINE UNTERNEHMEN OHNE ZEITANGABE
-ITA: Prada, Q3-Zahlen
-USA: PG&E, Q3-Zahlen
-
-TERMINE KONJUNKTUR
-08:00 JPN: Maschinenwerkzeugaufträge 9/26 (endgültig)
-08:45 FRA: Geschäftsklima 19/26
-08:45 FRA: Produzentenvertrauen 10/26
-09:30 POL: Einzelhandelsumsatz 9/26
-14:30 USA: Erstanträge Arbeitslosenhilfe (Woche)
-16:00 USA: Frühindikator 9/26
-16:00 EUR: Verbrauchervertrauen 10/26 (vorläufig)
-
-SONSTIGE TERMINE
-09:00 DEU: Jahrestagung des Forum for Macroeconomics and Macroeconomic Policies (FMM) der Hans-Böckler-Stiftung (bis 24.10.), Berlin
-
-10:00 DEU: Pk Förderbank KfW zum aktuellen Mittelstandspanel, Frankfurt/M.
-
-11:00 DEU: Online-Pk Bankenverband VÖB: Kapitalmarktprognose
-
-10:00 DEU: Konferenz der Regierungschefinnen und Regierungschefs der Länder, Berlin
-
-11:00 DEU: Online-Pk des Verbands Deutscher Maschinen- und Anlagenbau (VDMA) Baden-Württemberg, Stuttgart
-
----------------------------------------------------------------------------------------
-FREITAG, DEN 23. OKTOBER
-
-TERMINE UNTERNEHMEN
-07:00 DEU: Atoss Software, Q3-Zahlen
-07:00 CHE: Sika AG, Q3-Zahlen
-07:00 CHE: SGS, Q3-Umsatz
-07:00 CHE: Holcim, Q3-Zahlen
-07:00 FRA: Sodexo, Jahreszahlen
-07:00 NOR: Norsk Hydro, Q3-Zahlen
-07:00 SWE: Volvo Cars, Q3-Zahlen
-07:00 SWE: Electrolux, Q3-Zahlen
-07:20 SWE: Volvo AB, Q3-Zahlen
-07:30 SWE: Saab, Q3-Zahlen
-07:45 ITA: Eni, Q3-Zahlen
-08:00 SWE: Securitas AB, Q3-Zahlen
-08:00 SWE: Svenska Cellulosa, Q3-Zahlen
-08:30 FRA: Safran, Q3-Umsatz
-10:30 FIN: Konecranes Oyj, Q3-Zahlen
-12:00 SWE: Autoliv, Q3-Zahlen
-13:00 USA: American Express, Q3-Zahlen
-
-TERMINE UNTERNEHMEN OHNE ZEITANGABE
-LUX: Eurofins Scientific, Europe Investor Day
- 
-TERMINE KONJUNKTUR
-01:01 GBR: GfK Verbrauchervertrauen 10/26
-01:30 JPN: Verbraucherpreise 9/26
-02:30 JPN: S&P Global PMI Verarbeitendes Gewerbe und Dienste 10/26 (1. Veröffentlichung)
-08:00 GBR: Einzelhandelsumsatz 9/26
-09:15 FRA: S&P Global PMI Verarbeitendes Gewerbe und Dienste 10/26 (1. Veröffentlichung)
-09:30 POL: Arbeitslosenquote 9/26
-09:30 DEU: S&P Global PMI Verarbeitendes Gewerbe und Dienste 10/26 (1. Veröffentlichung)
-10:00 EUR: S&P Global PMI Verarbeitendes Gewerbe und Dienste 10/26 (1. Veröffentlichung)
-10:30 GBR: S&P Global PMI Verarbeitendes Gewerbe und Dienste 10/26 (1. Veröffentlichung)
-12:30 RUS: Zentralbank, Zinsentscheid
-15:00 BEL: Geschäftsklima 10/26
-15:45 USA: S&P Global PMI Verarbeitendes Gewerbe und Dienste 10/26 (1. Veröffentlichung)
-16:00 USA: Uni Michigan Verbrauchervertrauen 10/26 (endgültig)
-
-SONSTIGE TERMINE
-DEU: EU-Kommission prüft Übernahme von MediaMarktSaturn-Mutter Ceconomy durch JD.com genauer - Ende der Frist, Düsseldorf
-
-DEU: BGH verhandelt zur möglichen Pflicht des Immobilienverkäufers zur Aufklärung über eine Mangelbeseitigung in Eigenleistung, Karlsruhe
-
-IRL: Informelles Treffen der Handelsminister der EU-Staaten
- 
----------------------------------------------------------------------------------------
-
-Alle Angaben wurden mit größter Sorgfalt recherchiert. Dennoch übernimmt die dpa-AFX Wirtschaftsnachrichten GmbH keine Haftung für die Richtigkeit. Alle Zeitangaben erfolgen in MESZ./bwi
-
-## Aktuelle Videos
-
--   [
-    
-    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
-    
-    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
-    
-    28/09/2026 18:30
-    
-    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
--   [
-    
-    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
-    
-    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
-    
-    25/09/2026 18:00
-    
-    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
--   [
-    
-    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
-    
-    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
-    
-    18/09/2026 17:00
-    
-    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
-
-Weitere Treffer anzeigen
-
-Hier sind die Ergebnisse und wichtigsten Meldungen zu den genannten Terminen vom Freitag, 9. Oktober 2026:
-AT/OMV AG (VIE:OMV), Trading Update 3Q: Die OMV veröffentlichte plangemäß ihre vorläufigen operativen Kennzahlen für das dritte Quartal.
- Der vollständige Quartalsbericht mit den finalen Finanzzahlen folgt am 29. Oktober 2026.
-NO/Bekanntgabe Friedensnobelpreis: Der Friedensnobelpreis 2026 geht an die 85-jährige südafrikanische Juristin und Menschenrechtlerin Navanethem „Navi“ Pillay.
- Sie wird für ihren langjährigen Einsatz gegen Menschenrechtsverletzungen und für das Völkerrecht ausgezeichnet.
-US/Delta Air Lines Inc (NYSE:DAL), Ergebnis 3Q: Delta Air Lines verfehlte im dritten Quartal erstmals seit zwei Jahren die Erwartungen des Marktes.
- Zwar stieg der Umsatz um 16 % auf einen Rekordwert von 20,19 Milliarden US-Dollar,
- doch der bereinigte Gewinn je Aktie (EPS) lag mit 1.72 US-Dollar leicht unter den erwarteten 1.75 US-Dollar.
- Belastet wurde das Ergebnis vor allem durch stark gestiegene Treibstoffkosten.
- Das Unternehmen senkte daraufhin seine Jahresprognose.
-US/Index Verbraucherstimmung Uni Michigan (Oktober, 1. Umfrage): Die Stimmung der US-Verbraucher hat sich deutlicher eingetrübt als erwartet.
- Der viel beachtete Index fiel in der ersten Schätzung von zuvor 48,1 Punkten auf 46,3 Punkte.
- Die Prognose lag im Vorfeld bei 47,6 (bzw. laut einigen Berichten bei 48,0) Punkten.
- Insbesondere die anhaltende Inflation belastete die aktuelle Lagebeurteilung.
-Die europäischen Aktienmärkte verzeichneten zum Ende der Handelswoche deutliche Gewinne, da ein Rückgang der Ölpreise und der Anleiherenditen die Anleger entlastete. Der Leitindex Euro Stoxx 50 legte um rund 0,76 Prozent zu, während der breitere STOXX 600 seine vorherigen Verluste ausgleichen konnte. Besonders rohstoffnahe Sektoren profitierten von der Stabilisierung der makroökonomischen Bedingungen.
-
-Die Aktie von Delta Air Lines (NYSE:DAL) reagierte verhalten und schlussendlich nahezu unverändert auf die Vorlage der Q3-Ergebnisse und den gesenkten Jahresausblick
-.
-Vorab-Reaktion: Im vorbörslichen US-Handel rutschte die Aktie zunächst um über 2 % ins Minus auf ca. 80,41 US-Dollar.
- Investoren reagierten damit direkt auf die verfehlten Gewinnschätzungen und die deutliche Reduzierung der Jahresprognose aufgrund massiv gestiegener Treibstoffkosten.
-Handelsverlauf: Im regulären Tageshandel am Freitag konnte die Aktie die anfänglichen Verluste jedoch komplett wieder aufholen.
- Der Markt verbuchte das Quartal letztlich als eine Art „Stresstest“,
- bei dem die strukturelle Widerstandsfähigkeit und das starke Umsatzwachstum (+16 %) der Airline die Sorgen über die dünner werdenden Margen ausgleichen konnten.
-Schlusskurs: Die Aktie ging nahezu unverändert bei 82,17 US-Dollar (+0,04 %) aus dem Handel.
-
-Die finalen Q3-Ergebnisse und der vollständige Konzernbericht der OMV AG (VIE:OMV) für das dritte Quartal 2026 werden am Donnerstag, den 29. Oktober 2026 veröffentlicht.
-# Nachricht - Börse Stuttgart
-
-11.10.2026 / 20:35:01
-
-# dpa-AFX-Überblick: UNTERNEHMEN - Die wichtigsten Meldungen vom Wochenende
-
-(dpa-AFX) Tesla benennt nach Kritik Assistenzsystem in Europa um
-
-Tesla benennt nach Kritik Assistenzsystem in Europa um
-
-AUSTIN - Tesla hat nach jahrelanger Kritik den umstrittenen Namen seines Fahrassistenzsystems in Europa geändert. Auf Websites des Elektroauto-Herstellers in Deutschland und anderen europäischen Ländern heißt es nun "Tesla Assisted Driving" - was gleich deutlich macht, dass es sich lediglich um ein Assistenzsystem handelt.
-
-Ausgleich in Nachspielzeit: Füllkrug schockt Dortmund
-
-DORTMUND - In eine dicke Trainingsjacke eingehüllt grinste Niclas Füllkrug und feierte mit den Werder-Fans ausgelassen den Last-Minute-Punkt. Der Ex-Dortmunder sorgte bei seiner Rückkehr an alte Wirkungsstätte mit dem späten Ausgleichstreffer (90.+2 Minute) zum 2:2 (0:0) für großen Jubel unter den Bremern - und Frust beim BVB .
-
-Darum kämpft Ritter Sport gegen diesen Quadrat-Haferriegel
-
-STUTTGART - Der Rechtsstreit zwischen dem Schokoladenhersteller Ritter Sport und der Firma Wacker aus Mannheim geht in die nächste Runde: Die Klage von Ritter Sport gegen den quadratischen Haferriegel "Monnemer Quadrat Bio" wird ab Donnerstag (10.30 Uhr) vor dem Oberlandesgericht Stuttgart verhandelt. Ritter Sport hatte im Januar vor dem Landgericht Stuttgart verloren und gegen die Entscheidung Berufung eingelegt. Worum es in dem Streit vor Gericht geht:
-
-Microsoft-Chef will 'Notbremse' in Künstlicher Intelligenz
-
-REDMOND - Microsoft -Chef Satya Nadella hat aus Sorge vor einem Kontrollverlust eine Art "Notbremse" in Künstlicher Intelligenz gefordert. Ein Mensch müsse immer in der Lage sein, ein KI-Modell mitten in einer Aufgabe zu stoppen oder abzuschalten, schrieb Nadella in einem Beitrag auf der Online-Plattform X. Hochentwickelte Modelle würden dafür auch fortgeschrittene Mechanismen zur Eindämmung erfordern, betonte der Chef des Software-Konzerns, der selbst in großem Stil auf KI setzt.
-
-US-Regierung prüft Kartellrechts-Verstoß bei Sendern
-
-WASHINGTON - Nach dem zeitweisen Aussetzen der Berichterstattung mehrerer Sender über US-Präsident Donald Trump prüft das Justizministerium einen möglichen Verstoß gegen das Kartellrecht. Das berichten die "New York Times" und andere Medien unter Berufung auf eine Ministeriumssprecherin und eigene Quellen. Danach handele es sich um eine Untersuchung gegen die Sender des TV-Pools des Weißen Hauses - ABC, CBS, CNN, NBC und Fox News. Unter Berufung auf sechs mit den Maßnahmen des Ministeriums vertraute Menschen hieß es, das Ministerium habe die Medien am Freitag kontaktiert und Unterlagen angefordert, die mit dem Pool in Zusammenhang stehen.
-
-Iran nimmt mehr als 40 Passagierflugzeuge aus dem Betrieb
-
-TEHERAN - Der Iran hat wegen Sicherheitsbedenken 41 Passagierflugzeuge aus dem Verkehr gezogen. "Nach den Informationen, die uns vorliegen, haben auch die Sicherheitsbehörden die iranische zivile Luftfahrtbehörde vor dem hohen Risiko beim Betrieb dieser Flugzeuge gewarnt", zitierte die Nachrichtenagentur Khaneh Mellat die Abgeordnete Sara Fallah. Demnach geht es um mögliche Mängel an den Triebwerken der Maschinen des Herstellers McDonnell Douglas.
-
-Hitze und Dürre: Wird der kostbare weiße Trüffel knapp?
-
-ALBA/ROM - Trockenheit und Hitze setzen auch dem kostbaren weißen Trüffel in Italien zu. In der Region um die norditalienische Stadt Alba im Piemont wie auch in Mittelitalien ist die bisherige Ausbeute zum Saisonstart enttäuschend: Nach einem heißen Sommer und einer langen Dürre gibt es wenig von dem begehrten "Tuber magnatum Pico", die Preise könnten steigen, wie Medien berichten.
-
-KI von Anthropic reichte Fake-Hinweis auf Polizei-Seite ein
-
-SAN FRANCISCO - Künstliche Intelligenz der Entwicklerfirma Anthropic hat in einem Testlauf einen falschen Hinweis auf einer Polizei-Website zur Aufklärung ungelöster Mordfälle eingereicht. In einem weiteren Zwischenfall füllte die KI-Software Formulare auf einer US-Regierungsseite aus, wie Anthropic in einem Blogeintrag bekanntgab. Medienberichten zufolge waren es 20 Visa-Anträge beim amerikanischen Außenministerium. In den vergangenen Wochen wurden bereits verschiedene ungeplante Aktivitäten vor allem von KI des ChatGPT-Entwicklers und Anthropic-Rivalen OpenAI bekannt.
-
-Bundesverband warnt vor Kontroll-Lücken bei Restaurants
-
-POTSDAM - Beschäftigte aus der Lebensmittelüberwachung verteidigen eine deutschlandweit einheitliche Risikobewertung bei Kontrollen. Es habe sich aus ihrer Sicht bewährt, wenn in allen Bundesländern nach den gleichen Kriterien gearbeitet werde, sagte die Präsidentin des Bundesverbands der Lebensmittelchemiker/-innen im öffentlichen Dienst, Birgit Bienzle. Es sei wichtig, dass beispielsweise "nicht ein Imbissbetrieb in Brandenburg eine ganz andere Kontrollfrequenz hat als ein Imbissbetrieb in Baden-Württemberg".
-
-L'Osteria-Mitgründer Rader auf Mallorca tödlich verunglückt
-
-PALMA - Der Mitgründer der bekannten deutschen Restaurantkette L'Osteria, Klaus Rader, ist bei einem Autorennen auf Mallorca ums Leben gekommen. Das Unternehmen bestätigte der Deutschen Presse-Agentur auf Anfrage den "plötzlichen Unfalltod".
-
-Weitere Meldungen
-
--ROUNDUP 4: Bisher schwerster Angriff auf Flughafen Riad - zwölf Tote
--ROUNDUP 2/Trump: Moskau und Kiew stoppen Angriffe auf Energieanlagen
--ROUNDUP: Ukraine trifft erneut russischen Internetkonzern Yandex
-
-Kundenhinweis:
-
-ROUNDUP: Sie lesen im Unternehmens-Überblick eine Zusammenfassung. Zu diesem Thema gibt es mehrere Meldungen auf dem dpa-AFX Nachrichtendienst.
-
-/he
-
-## Wertpapiere im Kontext
-
--   [
-    
-    ### Tesla Motors
-    
-    #### +2,32 %
-    
-    G 341,7B 341,7
-    
-    WKN A1CX3T
-    
-    179 Trades
-    
-    ](/de-de/produkte/aktien/stuttgart/a1cx3t-tesla-motors/)
-    
--   [
-    
-    ### Borussia Dortmund
-    
-    #### +0,00 %
-    
-    G \-B \-
-    
-    WKN 549309
-    
-    57 Trades
-    
-    ](/de-de/produkte/aktien/stuttgart/549309-borussia-dortmund/)
-    
--   [
-    
-    ### Microsoft
-    
-    #### +2,46 %
-    
-    G \-B \-
-    
-    WKN 870747
-    
-    231 Trades
-    
-    ](/de-de/produkte/aktien/stuttgart/870747-microsoft/)
-    
+Der Dow Jones Industrial war im Handelsverlauf ins Minus gedreht und gab am Ende um 0,34 Prozent auf 52.002,41 Punkte nach. In dem Leitindex sind die großen Tech-Aktien bei weitem nicht so schwer gewichtet wie im Nasdaq 100, sodass er sich noch vergleichsweise gut schlug. Auf Wochensicht ergibt sich für den Dow ein Plus von 0,67 Prozent./la/he
 
 ## Weitere relevante Nachrichten
 
-Sonntag, 11.10.2026
+Freitag, 16.10.2026
 
 -   [
     
-    16:54
+    22:31
     
-    Microsoft-Chef will 'Notbremse' in Künstlicher Intelligenz
+    ROUNDUP/Aktien New York Schluss: Techwerte sacken ab - KI- und Inflationssorgen
     
     dpa-AFX
     
     
     
-    ](/de-de/nachrichten/uebersicht/nachricht/?id=5670424183737179419)
-
-Samstag, 10.10.2026
-
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=6298347768309946425)
 -   [
     
-    12:05
+    20:14
     
-    ROUNDUP/'Natürlich enttäuscht': BVB-Auftakt in XXL-Wochen misslingt
+    Aktien New York: Techwerte wieder stark unter Druck - KI- und Inflationssorgen
     
     dpa-AFX
     
     
     
-    ](/de-de/nachrichten/uebersicht/nachricht/?id=5663011286761064868)
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=4893369353309158174)
 -   [
     
-    11:47
+    17:57
     
-    Ausgleich in Nachspielzeit: Füllkrug schockt Dortmund
+    ROUNDUP/Aktien Frankfurt Schluss: Dax schüttelt Zins- und KI-Sorgen ab
     
     dpa-AFX
     
     
     
-    ](/de-de/nachrichten/uebersicht/nachricht/?id=7800027588411931493)
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=9125033846588580614)
 
 ## Aktuelle Videos
 
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
 -   [
     
     ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
@@ -662,7 +147,7 @@ Samstag, 10.10.2026
     
     28/09/2026 18:30
     
-    https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg Buy and Hold: Darum verkauft selbst Warren Buffett! 36:59 https://i.ytimg.com/vi/ZXw8Pu8EQ0U/maxresdefault.jpg Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer...
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
     
     
     
@@ -675,23 +160,10 @@ Samstag, 10.10.2026
     
     25/09/2026 18:00
     
-    https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks 78:09 https://i.ytimg.com/vi/lvUXFHUEmGU/maxresdefault.jpg 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krise...
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
     
     
     
     ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
--   [
-    
-    ![Quantencomputing: Die nächsten Riesen-Gewinner?](https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg)
-    
-    Videos**Quantencomputing: Die nächsten Riesen-Gewinner?**
-    
-    18/09/2026 17:00
-    
-    https://i.ytimg.com/vi/fIES5iLlH1U/hqdefault.jpg Quantencomputing: Die nächsten Riesen-Gewinner? 58:02 https://i.ytimg.com/vi/fIES5iLlH1U/maxresdefault.jpg Sind Quantencomputer der Schlüssel zur nächsten KI-Revolution und die Rettung für den Technologiestan...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/9/18/quantencomputing-die-naechsten-riesen-gewinner/)
 
 Weitere Treffer anzeigen
