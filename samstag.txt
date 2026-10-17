@@ -1,4 +1,32 @@
+In der kommenden Woche (19. bis 23. Oktober 2026) richtet sich der Fokus der Tech-Branche primär auf die Veröffentlichung der Quartalszahlen von Tesla und Meta Platforms [cite: 1.1.5].
+ Sie markieren den Auftakt für die Berichte der restlichen Megacaps (Alphabet, Microsoft, Apple, Amazon), die erst in der darauffolgenden Woche berichten [cite: 1.2.1].
+Die zentralen Erwartungen und Knackpunkte im Überblick:
+1. Meta Platforms (NASDAQ:META) – Bericht am Mittwoch, 21. Oktober [cite: 1.2.10]
+Milliarden-Investitionen vs. Rendite: Meta eröffnet die Berichtssaison der KI-Hyperscaler [cite: 1.2.18]. Analysten erwarten von Konzernchef Mark Zuckerberg konkrete Nachweise darüber, dass die massiven Ausgaben für KI-Infrastruktur und Rechenzentren (die Ausgaben der großen fünf Player sollen 2027 die Marke von 1,2 Billionen USD ins Visier nehmen) schneller wachsen als die Betriebskosten [cite: 1.2.18].
+Umsatzerwartung: Meta selbst hat für das dritte Quartal einen Umsatzkorridor von 61 bis 64 Milliarden USD in Aussicht gestellt [cite: 1.2.4].
+2. Tesla (NASDAQ:TSLA) – Bericht am Mittwoch, 21. Oktober [cite: 1.2.10]
+Margen-Fokus nach den Auslieferungszahlen: Da Tesla bereits starke Verkaufszahlen gemeldet hat (486.532 ausgelieferte Fahrzeuge im dritten Quartal gegenüber 480.126 im zweiten Quartal) [cite: 1.2.4], blickt der Markt nun vor allem auf die Rentabilität.
+Energiespeicherung: Spannend bleibt, wie profitabel sich das stark wachsende Segment der Energiespeicherung (13,7 GWh im abgelaufenen Quartal deployed) auf den Gesamtgewinn auswirkt [cite: 1.2.4].
+Das übergeordnete Marktthema: Die "KI-Investitionsfalle"
+Nachdem Sorgen um die Schuldenlast bei CoreWeave und anderen Infrastruktur-Anbietern den Sektor am Freitag belastet haben, verlangen Investoren dieses Quartal disziplinierte Ausblicke. Es gilt die Faustregel: Tech-Aktien müssen beweisen, dass die Monetarisierung von KI-Diensten mit den rasant steigenden Investitionskosten (Capex) Schritt halten kann [cite: 1.2.18].
 
+
+Gestern wurden unter anderem die folgenden wichtigen Unternehmenszahlen für das dritte Quartal 2026 veröffentlicht:
+Gestern wurden unter anderem die folgenden wichtigen Unternehmenszahlen für das dritte Quartal 2026 veröffentlicht:
+Schneider Electric SE (EPA:SU): Der französische Industriekonzern vermeldete einen Rekordumsatz von 11,46 Milliarden Euro (ein organisches Plus von 17 %), was über den Analystenerwartungen von 11,13 Milliarden Euro lag [cite: 1.4.6]. Getrieben wurde das Wachstum vor allem durch die dreistellige Nachfragesteigerung im Bereich KI-Rechenzentren [cite: 1.4.2]. Infolgedessen hob das Management seine Jahresziele für 2026 zum zweiten Mal an [cite: 1.4.3].
+The Travelers Companies, Inc. (NYSE:TRV): Der US-Versicherungsriese übertraf die Erwartungen deutlich [cite: 1.1.6].
+ Bei einem Umsatz von 12,41 Milliarden USD sprang der bereinigte Kerngewinn auf 9,18 USD je Aktie [cite: 1.3.2] (erwartet wurden rund 7,40 USD) [cite: 1.3.2].
+ Die Aktie legte daraufhin im US-Handel um über 4 % zu [cite: 1.3.9].
+Regions Financial Corp. (NYSE:RF): Die US-Regionalbank meldete für das dritte Quartal einen Nettogewinn von 611 Millionen USD bzw. einen Gewinn von 0,71 USD je Aktie [cite: 1.2.12].
+Gestern wurden unter anderem die folgenden wichtigen Unternehmenszahlen für das dritte Quartal 2026 veröffentlicht:
+Schneider Electric SE (EPA:SU): Der französische Industriekonzern vermeldete einen Rekordumsatz von 11,46 Milliarden Euro (ein organisches Plus von 17 %), was über den Analystenerwartungen von 11,13 Milliarden Euro lag [cite: 1.4.6]. Getrieben wurde das Wachstum vor allem durch die dreistellige Nachfragesteigerung im Bereich KI-Rechenzentren [cite: 1.4.2]. Infolgedessen hob das Management seine Jahresziele für 2026 zum zweiten Mal an [cite: 1.4.3].
+The Travelers Companies, Inc. (NYSE:TRV): Der US-Versicherungsriese übertraf die Erwartungen deutlich [cite: 1.1.6].
+ Bei einem Umsatz von 12,41 Milliarden USD sprang der bereinigte Kerngewinn auf 9,18 USD je Aktie [cite: 1.3.2] (erwartet wurden rund 7,40 USD) [cite: 1.3.2].
+ Die Aktie legte daraufhin im US-Handel um über 4 % zu [cite: 1.3.9].
+Regions Financial Corp. (NYSE:RF): Die US-Regionalbank meldete für das dritte Quartal einen Nettogewinn von 611 Millionen USD bzw. einen Gewinn von 0,71 USD je Aktie [cite: 1.2.12].
+SU
+TRV
+RF
 
 Hier sind die konkreten Ergebnisse und Wirtschaftsdaten für die Termine von Freitag, dem 16. Oktober 2026:
 Unternehmensmeldungen & Konjunkturdaten (Europa)
