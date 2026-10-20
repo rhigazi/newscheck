@@ -1,4 +1,732 @@
+# Nachricht - Börse Stuttgart
 
+20.10.2026 / 07:32:20
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+Die Deutsche Börse ist wohl auch im dritten Quartal auf Wachstumskurs geblieben, und das sowohl bei den Nettoerlösen als auch auf der Ergebnisseite. Ein wichtiger Treiber ist das Geschäft mit Zinsderivaten und das OTC-Clearing. Daneben bleibt der Börsenbetreiber ein Profiteur des hohen Zinsumfelds und der dadurch erzielten Zinserträge. In der Sparte Investment Management Solutions dürften sich die Anleger vor allem für die Entwicklung von Software Solutions interessieren. Es wäre keine Überraschung, wenn die Deutsche Börse mit Vorlage der Drittquartalszahlen die Ziele für das laufende Jahr anheben würde. Die Deutsche Börse wird ihre Geschäftszahlen am Dienstag veröffentlichen, voraussichtlich nach Börsenschluss gegen 19 Uhr. Nachfolgend die Konsensschätzungen für das dritte Quartal (in Millionen Euro, Ergebnis je Aktie):
+
+                                PROG  PROG  PROG 
+3. QUARTAL                      3Q26  ggVj  Zahl   3Q25 
+Nettoerloese                   1.598  +11%    14  1.440 
+Operative Kosten                 644   +7%    14    604 
+EBITDA                           954  +13%    14    842 
+Ergebnis nach Steuern/Dritten    551  +16%     9    473 
+Ergebnis je Aktie               3,05  +18%    14   2,59
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+06:45 CH/ABB Ltd, Ergebnis 3Q
+
+08:00 GB/Anglo American plc, Production Report 3Q
+
+11:45 US/3M Co, Ergebnis 3Q
+
+12:30 US/GE Aerospace, Ergebnis 3Q
+
+12:30 US/General Motors Co (GM), Ergebnis 3Q
+
+12:55 US/RTX Corp, Ergebnis 3Q
+
+17:45 FR/Cie Generale des Etablissements Michelin SCA, Umsatz 9 Monate
+
+17:50 FR/Carrefour SA, Umsatz 3Q
+
+18:00 FR/Essilorluxottica SA, Umsatz 3Q
+
+18:00 FR/Vivendi SE, Umsatz 3Q
+
+22:00 US/Netflix Inc, Ergebnis 3Q
+
+22:00 US/Space Exploration Technologies Corp (SpaceX), Ergebnis 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- DE 
+    08:00 Erzeugerpreise September 
+          PROGNOSE: +1,8% gg Vm/+6,3% gg Vj 
+          zuvor:    +1,1% gg Vm/+4,6% gg Vj 
+ 
+    11:00 ZEW-Index Konjunkturerwartungen Oktober 
+          PROGNOSE:  29,9 
+          zuvor:     34,7 
+          Konjunkturlage 
+          PROGNOSE: -45,0 
+          zuvor:    -47,1 
+- GB 
+    08:00 Arbeitsmarktdaten September 
+          Arbeitslosenquote 3 Monate (ILO) 
+          PROGNOSE: 4,9% 
+          zuvor:    4,9% 
+- US 
+    14:30 Baubeginne/-genehmigungen September 
+          Baubeginne 
+          PROGNOSE: +2,0% gg Vm 
+          zuvor:    -2,6% gg Vm 
+          Baugenehmigungen 
+          PROGNOSE: -0,3% gg Vm 
+          zuvor:    -2,7% gg Vm
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+Index                       zuletzt  +/- % 
+DAX Futures               25.298,00   -0,5 
+E-Mini-Future S&P-500      7.733,00   -0,0 
+E-Mini-Future Nasdaq-100  29.622,75   -0,3 
+Topix (Tokio)              4.008,06   -1,5 
+Hang-Seng (Hongk.)        23.887,87   -1,2 
+Shanghai-Comp.             3.713,13   -0,5 
+ 
+Montag: 
+INDEX               Schluss  +/- % 
+DAX               25.319,77   -1,2 
+DAX-Future        25.350,00   -1,6 
+MDAX              30.513,26   -0,5 
+TecDAX             4.010,90   -0,1 
+SDAX              18.210,22   +0,1 
+Euro-Stoxx-50      6.144,81   -1,0 
+Stoxx-50           5.360,74   -0,8 
+XDAX              25.195,53  -0,5 
+Dow-Jones         51.966,03  -0,1 
+S&P-500            7.690,73  +0,4 
+Nasdaq Composite  26.430,89  +1,1
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Europas Börsen dürften am Dienstag zur Eröffnung weiter nachgeben, wenngleich nicht mehr so stark wie zu Wochenbeginn. Das geopolitische Umfeld bleibt schwierig. Es reicht von anhaltenden Angriffen der Huthis auf die saudische Infrastruktur, die jüngste Annäherung von Washington an Moskau sowie den Krawallen in Frankreich, die Zweifel an der Handlungsfähigkeit der dortigen Regierung aufkommen lassen. Laut CMC stehen die Börsen vor einer Bewährungsprobe. Solange die Unternehmensgewinne überzeugten und die Inflation nicht erneut außer Kontrolle gerate, bleibe das Marktgefüge einigermaßen stabil. "Sollte jedoch eine dieser beiden Stützen wegbrechen, könnte aus der aktuellen Nervosität schnell eine deutlich umfassendere Korrektur werden. Die größte Gefahr für die Aktienmärkte ist derzeit nicht ein einzelner Krisenherd, sondern das gleichzeitige Zusammentreffen mehrerer Belastungsfaktoren", heißt es.
+
+Rückblick: Belastet wurde die Stimmung von den Unruhen in Frankreich. Bei Anleihen schichteten Anleger in deutsche Bundesanleihen um, die Zinsdifferenz gegenüber französischen Staatsanleihen weitete sich auf 146 Basispunkte aus. Der Pariser Leitindex CAC-40 verlor 1,1 Prozent. Auch Einzelaktien aus Frankreich standen unter Druck. So fielen Carrefour um 2,2 Prozent, nachdem an die 50 Märkte Opfer von Plünderungen geworden waren. Axa reduzierten sich wegen zu erwartender Versicherungsschäden um 1,6 Prozent, selbst die defensiven Aktien des Telekom-Unternehmens Orange gaben 1,3 Prozent nach. Lindt & Sprüngli notierten 0,1 Prozent tiefer, der Schokoladenhersteller hatte einen überraschenden Führungswechsel verkündet. Roche (+0,2%) hatte eine Kooperations- und Lizenzvereinbarung mit der chinesischen Hansoh geschlossen. Rüstungswerte standen unter Druck. Sie korrigierten damit zum Teil ihre Kursgewinne vom Freitag. Für zusätzliche Ernüchterung sorgten aber nun Gedankenspiele eines Gipfeltreffens der Präsidenten Donald Trump, Wladimir Putin und Xi Jinping zur Zukunft der Ukraine. Eine Einigung könnte zu einem Ende der europäischen Militärhilfe für das Land führen. Hensoldt, Rheinmetall und Airbus gaben 0,3 bzw. 2,8 und 2,3 Prozent ab. CSG sanken 2,7 Prozent, Thales um 0,9 Prozent.
+
+DAX/MDAX/SDAX/TECDAX
+
+Schwach - Steyr Motors stachen mit einer Hausse von 21,4 Prozent hervor. Das US-Rüstungsunternehmen Red Cat will den Dieselmotorenhersteller übernehmen. Trotz angehobenem Ausblick gaben DHL 0,9 Prozent nach. Der verbesserte Ausblick sei erwartet und mit dem starken Kursanstieg der Vorwoche ausreichend eingepreist worden, hieß es. Merck KGaA verstärkt sich mit einem Zukauf in Großbritannien im Bereich seltener Erkrankungen. Der Konzern übernimmt Silence Therapeutics - der Kurs schloss knapp im Plus. BASF (-1,1%) erwägt im Zuge der Verbesserung ihrer Wettbewerbsfähigkeit eine Zusammenführung der europäischen Polyamid-6-Geschäfte mit den entsprechenden Aktivitäten der chinesischen Highsun Holding. Fuchs stiegen nach einem optimistischen Ausblick und überraschend starken Drittquartalszahlen um 0,4 Prozent. Gegen den Markt stemmten sich Aumovio mit einem Plus von 2 Prozent nach einer positiven Citi-Studie.
+
+XETRA-NACHBÖRSE
+
+Die Aktie von Koenig & Bauer hat sich im nachbörslichen Handel zu Wochenbeginn kaum bewegt. Das Unternehmen hat ein Korruptionsverfahren in Brasilien beigelegt. (s.u.)
+
+USA - AKTIEN
+
+Freundlich - Nach den Verlusten zum Wochenschluss vor allem bei KI-Titeln haben sich die Börsen erholt. Positiv für das Marktumfeld wirkten zunächst gesunkene Anleiherenditen, die jedoch mit im Verlauf gestiegenen Ölpreisen ins Plus drehten. Nach dem jüngsten Ausverkauf im KI-Sektor schien sich die Lage etwas beruhigt zu haben, wenngleich die Sorgen über hohe Kreditkosten zur Finanzierung des KI-Booms nicht ausgeräumt waren. Doch angesichts des niedrigeren Kursniveaus griffen Anleger wieder zu. AMD zogen um 1,8 Prozent an, Intel um 2,4 und Marvell um 4,1 Prozent. Nvidia kletterten um 1,4 Prozent, Micron Technology um 3,0 Prozent. Die zuletzt arg gebeutelte Coreweave legten nach einer Hochstufung durch Goldman Sachs zwischenzeitlich, schlossen aber mit einem Minus von 0,4 Prozent. Silence Therapeutics haussierten um 125,6 Prozent. Die deutsche Merck KGaA übernimmt die britische Gesellschaft.
+
+USA - ANLEIHEN
+
+US-Treasuries  Rendite    +/- 
+2 Jahre           4,76  +0,02 
+10 Jahre          5,14  +0,03
+
+Die Renditen drehten mit gestiegenen Ölpreisen ins Plus. Die Rendite 10-jähriger US-Staatsanleihen lag im Tagestief unter 5,08 Prozent.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN        zuletzt  +/- %  +/- abs.  Schluss Vortag  Mo, 18:04 
+EUR/USD         1,1234   +0,2    0,0024          1,1210     1,1204 
+EUR/JPY         177,73   +0,0    0,0200        177,7100   177,6100 
+EUR/CHF         0,9265   -0,0   -0,0003          0,9268     0,9264 
+EUR/GBP         0,8423   -0,0   -0,0003          0,8426     0,8423 
+USD/JPY         158,19   -0,2   -0,2900        158,4800   158,5100 
+GBP/USD         1,3334   +0,2    0,0032          1,3302     1,3300 
+USD/CNY         6,6788   -0,0   -0,0018          6,6806     6,6806 
+USD/CNH         6,6787   -0,1   -0,0032          6,6819     6,6832 
+AUS/USD         0,6982   +0,1    0,0004          0,6978     0,6975 
+Bitcoin/USD  81.911,12   -0,0    -24,90       81.936,02  81.699,41
+
+Der US-Dollar-Index stieg im Verlauf bis auf 1 Prozent an seine Mehrjahreshöchststände heran, da Händler darauf setzten, dass die US-Notenbank die Zinsen in diesem Jahr mindestens noch einmal anheben wird. Wegen der Unruhen in Frankreich zeigte sich der Euro schwächer zum Greenback und auch zu anderen Währungen. Die Eskalation in Frankreich trübte die fiskalischen Aussichten des Landes weiter ein.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle        zuletzt  +/- %  +/- abs.  Schluss Vortag 
+Gold          4.133,55   -0,1     -6,12        4.139,67 
+Silber           57,19   +0,2      0,11           57,09 
+Platin        1.643,95   +0,2      3,70        1.640,25
+
+Der Goldpreis wurde von höheren Renditen und dem steigenden Dollar 0,5 Prozent ins Minus gedrückt und kostete zum Settlement 4.139 Dollar.
+
+ÖL
+
+ROHÖL          zuletzt  +/- %  +/- abs.  Schluss Vortag 
+WTI/Nymex       103,99   +0,3      0,33          103,66 
+Brent/ICE       109,96   +0,4      0,41          109,55
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 20, 2026 01:32 ET (05:32 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+20.10.2026 / 07:32:20
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
+Die von US-Präsident Trump gestoppten Russland-Sanktionen des US-Kongresses, die auch die Ölwirtschaft betroffen hätten, drückten den Brent-Preis pro Fass um 0,3 Prozent auf 109,55 Dollar. Damit erholten sich die Ölpreise aber deutlich von den Tagestiefs. Die Ukraine hatte Ölinfrastruktur im russischen St. Petersburg angegriffen.
+
++++++ MELDUNGEN SEIT VORTAG 17.30 UHR +++++
+
+UKRAINE-KRIEG
+
+US-Präsident Donald Trump hat sich am Montag offen für ein Treffen mit den Staatschefs von Russland und China gezeigt, um über eine Denuklearisierung zu beraten. Trumps Äußerungen folgten auf einen Bericht des Wall Street Journal, wonach der russische Präsident Wladimir Putin ein Treffen mit Trump und Chinas Staatschef Xi Jinping im kommenden Monat vorgeschlagen haben soll. Ziel sei es, über die Ukraine zu sprechen und ein für Moskau vorteilhaftes Ende des vierjährigen russischen Angriffskriegs auszuhandeln. "Wir würden ein Treffen auf Grundlage der Denuklearisierung anberaumen, und das ist eine sehr positive Sache für die Welt", sagte Trump.
+
+GELDPOLITIK CHINA
+
+Die People's Bank of China (PBOC) hat ihre wichtigsten Kreditzinsen unverändert gelassen. Sie verharren damit auf dem Niveau vom Mai vergangenen Jahres. Chinas einjährige Loan Prime Rate verblieb bei 3,0 Prozent und der fünfjährige Satz bei 3,5 Prozent, wie aus Daten hervorgeht, die die PBOC am Dienstag veröffentlichte. Die Entscheidung folgt auf Signale der chinesischen Zentralbank, dass sie die Reform ihres geldpolitischen Rahmens fortsetzen werde. Dabei sollen kurzfristige Zinssätze weiter angehoben werden, um die Märkte besser zu steuern.
+
+EON
+
+arbeitet an einem "umfassenden Spar- und Steuerungsprogramm", berichtet das Manager Magazin mit Verweis auf Insider. Das unter dem Namen Polaris firmierende Vorhaben solle zu Kosteneinsparungen von 20 bis 25 Prozent führen, etwa durch den Abbau von Doppelfunktionen insbesondere im Management. Das Programm, das mit Unterstützung von McKinsey entsteht, werde intern noch beraten und solle nicht vor 2027 starten, so das Magazin.
+
+KOENIG & BAUER
+
+hat ein Korruptionsverfahren in Brasilien beigelegt. Wie der Druckmaschinenhersteller mitteilte, hat die für den Banknoten-Druck zuständige Konzerngesellschaft Koenig & Bauer Banknote Solutions S.A. mit Sitz in Lausanne eine Kronzeugenvereinbarung mit der zuständigen brasilianischen Behörde zur Verfolgung von Korruptionsstraftaten geschlossen. Das Unternehmen zahlt 11,54 Millionen Franken, was aber keinen wesentlichen Einfluss auf die Gewinn- und Verlustrechnung des Konzerns haben werde.
+
+ABB / MITSUBISHI ELECTRIC
+
+investiert nach eigenen Angaben rund 495 Millionen US-Dollar in den Erwerb einer Mehrheitsbeteiligung an dem neu ausgegründeten Niederspannungs-Stromverteilungsgeschäft der japanischen Mitsubishi Electric. Der Technologiekonzern teilte mit, dass er ein Joint Venture mit Mitsubishi Electric gründe, um seine Po ition in Japan zu stärken. Zudem bestehe eine Option zur vollständigen Übernahme mittelfristig.
+
+BHP
+
+hat in den ersten drei Monaten des neuen Geschäftsjahres eine rückläufige Kupferproduktion verzeichnet. Für Rückenwind sorgten dagegen höhere Rohstoffpreise, insbesondere bei dem Industriemetall.
+
+SCHNEIDER ELECTRIC
+
+will sich für die Teilfinanzierung der Übernahme des US-Industriesoftwareherstellers PTC frisches Geld am Kapitalmarkt besorgen. Wie der französische Konzern mitteilte, will er mit einer Kapitalerhöhung rund 6 Milliarden Euro einnehmen. Die neuen Stammaktien sollen im Rahmen eines beschleunigten Platzierungsverfahrens unter Ausschluss des Bezugsrechts der Altaktionäre platziert werden.
+
+STELLANTIS
+
+Fast alle der 9.000 kanadischen Mitarbeiter von Stellantis haben dafür gestimmt, ihrer Gewerkschaft ein Mandat für einen Streik zu erteilen. Damit soll Druck aufgebaut werden, falls es keine Fortschritte bei einem neuen Tarifvertrag und der Zukunft eines Werks im Großraum Toronto gibt.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/flf/ros
+
+(END) Dow Jones Newswires
+
+October 20, 2026 01:32 ET (05:32 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+20.10.2026 / 07:46:04
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+China hat zum 17. Mal in Folge seine maßgeblichen Kreditzinssätze unverändert gelassen. Die einjährige Loan Prime Rate (LPR) blieb bei 3,00 Prozent, die fünfjährigebei 3,50 Prozent. Beide Zinssätze entsprechen den Markterwartungen. Der einjährige LPR, der als Referenzzinssatz für die meisten neuen und bestehenden Kredite dient, beeinflusst die Kreditkosten für Unternehmen und Haushalte. Der fünfjährige Satz ist eine Referenz für Hypotheken und andere längerfristige Kredite. Die Entscheidung folgte Daten, die zeigten, dass Chinas Wirtschaft im dritten Quartal im Jahresvergleich um 4,5 Prozent gewachsen ist, nach 4,3 Prozent im Vorquartal, womit die Prognosen übertroffen wurden. Das Beibehalten der Zinssätze deutet darauf hin, dass die politischen Entscheidungsträger derzeit keinen unmittelbaren Bedarf für eine breit angelegte geldpolitische Lockerung sehen, obwohl die anhaltende Schwäche bei der Wohnungsnachfrage und den Investitionen weiterhin Herausforderungen darstellt.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+12:30 US/GE Aerospace, Ergebnis 3Q
+
+12:30 US/General Motors Co (GM), Ergebnis 3Q
+
+12:55 US/RTX Corp, Ergebnis 3Q
+
+22:00 US/Netflix Inc, Ergebnis 3Q
+
+22:00 US/Space Exploration Technologies Corp (SpaceX), Ergebnis 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- US 
+    14:30 Baubeginne/-genehmigungen September 
+          Baubeginne 
+          PROGNOSE: +2,0% gg Vm 
+          zuvor:    -2,6% gg Vm 
+          Baugenehmigungen 
+          PROGNOSE: -0,3% gg Vm 
+          zuvor:    -2,7% gg Vm
+
++++++ ÜBERSICHT INDIZES +++++
+
+                              zuletzt  +/- % 
+E-Mini-Future S&P-500        7.734,00   -0,0 
+E-Mini-Future Nasdaq-100    29.641,00   -0,3 
+S&P/ASX 200 (Sydney)         8.816,90   -0,3 
+Topix-500 (Tokio)            4.006,46   -1,5 
+Kospi (Seoul)                5.540,57   -3,9 
+Shanghai-Composite           3.711,84   -0,5 
+Hang-Seng-Index (Hongkong)  23.900,15   -1,2
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Schwach - Wieder grassieren Bedenken hinsichtlich der Finanzierung und Rentabilität des KI-Booms, entsprechend stehen viele Technologieaktien unter Druck. Besonders augenscheinlich ist dies an der technologielastigen Börse in Seoul, wo der Kospi stark einknickt. Auf die Stimmung drückt auch ein ernüchterndes Börsendebüt. Die Aktie des KI-Rechenzentrumsinfrastrukturunternehmens Elice startete 16 Prozent unter dem Ausgabekurs, zuletzt lag der Kurs sogar rund 30 Prozent darunter. Die beiden Schwergewichte Samsung Electronics und SK Hynix verlieren 2,8 bzw. 4,2 Prozent. Hanmi Semiconductor geben um 4,5 Prozent nach. In Tokio verlieren Kioxia 2,1, Softbank Group 5,9 und Murata Manufacturing 2,5 Prozent, in Hongkong SMIC 1,2 Prozent. In Sydney bremsen Bankaktien. National Australia Bank verlieren 2,4 Prozent nach der Ankündigung eines Stellenabbaus und von Restrukturierungskosten. ANZ geben um 0,8 Prozent nach, Westpac um 1,2 Prozent. BHP verbilligen sich um 1,3 Prozent, nachdem der Eisenerz-Riese mitgeteilt hat, dass die Kupferproduktion im September-Quartal gesunken sei. Rio Tinto fallen im Sog 0,8 Prozent. Dass die chinesische Notenbank erneut die Leitzinsen nicht änderte, spielt keine Rolle. Am Markt wurde das so erwartet, auch, nachdem das stärkere Wachstum im dritten Quartal den Druck für eine kurzfristige geldpolitische Lockerung verringert hatte.
+
+WALL STREET
+
+INDEX          zuletzt  +/- %  +/- abs.  Schluss Vortag 
+DJIA         51.966,03   -0,1    -36,38       52.002,41 
+S&P-500       7.690,73   +0,4    +31,29        7.659,44 
+NASDAQ Comp  26.430,89   +1,1   +290,85       26.140,03 
+NASDAQ 100   29.529,35   +1,2   +341,80       29.187,55 
+ 
+                     Montag     Freitag 
+Umsatz NYSE (Aktien) 0,57 Mrd   1,38 Mrd 
+Gewinner               961      1.152 
+Verlierer            1.751      1.569 
+Unverändert             81         59
+
+Freundlich - Nach den starken Verlusten am Freitag sorgte vor allem eine Erholung bei KI-Titeln für eine Erholungsbewegung. Positiv hätten zunächst auch gesunkene Anleiherenditen gewirkt. Diese zogen im Verlauf des Handels mit den Ölpreisen aber wieder etwas an. Nach dem jüngsten Ausverkauf im KI-Sektor angesichts von Sorgen über hohe Kreditkosten zur Finanzierung des KI-Booms griffen einige Akteure auf niedrigeren Kursniveaus wieder zu. AMD zogen um 1,8 Prozent an, Intel um 2,4 und Marvell um 4,1 Prozent. Nvidia kletterten um 1,4 Prozent, Micron Technology um 3,0 Prozent. Die zuletzt schwer gebeutelten Coreweave legten nach einer Hochstufung durch Goldman Sachs zwischenzeitlich zu, schlossen aber mit einem Minus von 0,4 Prozent. Das Unternehmen könnte aufgrund der steigenden Zinsen Schwierigkeiten haben, seine Verpflichtungen zu erfüllen, so die Sorge am Markt. Silence Therapeutics haussierten um 125,6 Prozent. Die deutsche Merck KGaA übernimmt das in den USA notierte britische Unternehmen, das auf seltene Erkrankungen spezialisiert ist.
+
+USA - ANLEIHEN
+
+US-Treasuries  Rendite    +/- 
+2 Jahre           4,76  +0,02 
+10 Jahre          5,14  +0,03
+
+Die Renditen zogen mit den potenziell inflationstreibenden Ölpreisen an. Die Rendite 10-jähriger US-Staatsanleihen hatte im Tagestief unter 5,08 Prozent gelegen, ehe es nach oben ging.
+
++++++ DEVISENMARKT +++++
+
+                zuletzt  +/- %      00:00       Mo, 09:13  % YTD 
+EUR/USD          1,1232   +0,2     1,1210          1,1218   -4,4 
+EUR/JPY          177,64   -0,0     177,71          177,20   -3,5 
+EUR/GBP          0,8423   -0,0     0,8426          0,8418   -3,4 
+USD/JPY          158,13   -0,2     158,48          157,95   +0,9 
+USD/KRW        1.328,30   -0,3   1.332,12        1.330,91   -7,8 
+USD/CNY          6,6791   -0,0     6,6806          6,6809   -4,5 
+USD/CNH          6,6787   -0,1     6,6819          6,6811   -4,3 
+USD/HKD          7,8480    0,0     7,8482          7,8482   +0,9 
+AUD/USD          0,6984   +0,1     0,6978          0,6976   +4,7 
+NZD/USD          0,5679   +0,3     0,5662          0,5658   -1,3 
+BTC/USD       81.869,24   -0,1  81.936,02       82.787,87   -6,6
+
+Der Dollar tendierte unter dem Strich seitwärts. Der Euro kostete zuletzt im US-Handel 1,1213 Dollar, einen Tick mehr als am späten Freitag.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+            zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold       4.131,91   -0,2      -7,76        4.139,67 
+Silber        57,35   +0,5       0,27           57,09 
+Platin     1.647,30   +0,4       7,05        1.640,25
+
+Der Goldpreis wurde von höheren Renditen belastet. Die Feinunze verbilligte sich um 0,5 Prozent und kostete zum Settlement 4.139 Dollar.
+
+ÖL
+
+             zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex     103,99   +0,3       0,33          103,66 
+Brent/ICE     109,92   +0,3       0,37          109,55
+
+Die Ölpreise gaben zunächst nach, zogen im Handelsverlauf in den USA dann aber wieder an. Teilnehmer verwiesen dazu auf ukrainische Angriffe auf Ölinfrastruktur in Russland. Brent-Öl kostete zuletzt in den USA 109,24 Dollar, 0,7 Prozent weniger als zum Schluss der Vorwoche.
+
++++++ MELDUNGEN SEIT MONTAG 20.00 UHR +++++
+
+UKRAINE-KRIEG
+
+US-Präsident Trump hat sich offen für ein Treffen mit den Staatschefs von Russland und China gezeigt, um über eine Denuklearisierung zu beraten. Trumps Äußerungen folgten auf einen Bericht des Wall Street Journal, wonach der russische Präsident Putin ein Treffen mit Trump und Chinas Staatschef Xi vorgeschlagen haben soll. Ziel sei es, über die Ukraine zu sprechen und ein für Moskau vorteilhaftes Ende des vierjährigen russischen Angriffskriegs auszuhandeln. "Wir würden ein Treffen auf Grundlage der Denuklearisierung anberaumen, und das ist eine sehr positive Sache für die Welt", sagte Trump.
+
+BHP
+
+hat in den ersten drei Monaten des neuen Geschäftsjahres eine rückläufige Kupferproduktion verzeichnet und produzierte 400.700 Tonnen Kupfer, 19 Prozent weniger als im Vorjahreszeitraum. Die Eisenerzförderung wuchs um 4 Prozent. Die Jahresprognose für Fördermengen und Stückkosten behielt BHP unverändert bei.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/flf/ros/gos
+
+(END) Dow Jones Newswires
+
+October 20, 2026 01:46 ET (05:46 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+20.10.2026 / 09:19:47
+
+# MÄRKTE ASIEN/Abwärts - "Technologieindex" Kospi knickt um 3,7% ein
+
+(Dow Jones Newswires)
+
+Von Steffen Gosenheimer
+
+DOW JONES--An den asiatischen Aktienmärkten haben am Dienstag wieder Bedenken hinsichtlich Finanzierung und Rentabilität des KI-Booms das Geschehen bestimmt, entsprechend standen vielfach Technologieaktien unter Druck. Daneben bremsten die Ölpreise, die nach dem jüngsten Anstieg weiter zulegten. Brent-Öl stieg um rund ein halbes Prozent auf über 110 US-Dollar.
+
+Besonders unter die Räder geriet der technologielastige und volatile Kospi in Seoul. Er knickte um 3,7 Prozent ein. Auf die Stimmung drückte auch ein ernüchterndes Börsendebüt. Die Aktie des KI-Rechenzentrumsinfrastrukturunternehmens Elice startete bereits 16 Prozent unter dem Ausgabekurs, zuletzt lag der Kurs sogar über 30 Prozent darunter. Die Aktie hatte während der Zeichnungsphase zwar starke Nachfrage verzeichnet, der erste Börsentag fiel aber vom Timing denkbar ungünstig aus mit der aktuell ausgeprägten Skepsis der Investoren gegenüber kostspieligen Rechenzentrumsinvestitionen.
+
+Die beiden Kospi-Schwergewichte Samsung Electronics und SK Hynix verloren 3,0 bzw 4,2 Prozent. Hanmi Semiconductor gaben um 5,7 Prozent nach. In Tokio büßten Kioxia 3,4, Softbank Group 6,0 bzw Murata Manufacturing 2,3 Prozent ein, in Hongkong SMIC 2,5 und Hua Hong 1,5 Prozent. Besser schnitten in Taipeh TSMC mit einem kleinen Minus von 0,6 Prozent ab oder Foxconn, die sogar um 0,8 Prozent zulegten.
+
+Stark unter Druck standen in Seoul auch Aktien von Rüstungsunternehmen: Hanwha Aerospace sackten um über 11 Prozent ab, LIG Defense & Aerospace um über 8 Prozent.
+
+Der Topix in Tokio verlor 1,4 Prozent, in Hongkong lag der HSI im Späthandel nach der Feiertagspause zu Wochenbeginn 1,2 Prozent zurück.
+
+In Shanghai schaffte der Composite-Index dagegen im Späthandel noch den Dreh knapp ins Plus. Dass die chinesische Notenbank erneut den einjährigen und auch den fünfjährigen Leitzins unverändert bei 3,00 bzw 3,50 Prozent belassen hat, spielte keine Rolle. Am Markt wurde das so erwartet, auch, nachdem das stärkere Wachstum im dritten Quartal den Druck für eine kurzfristige geldpolitische Lockerung verringert hatte.
+
+In Sydney ging der S&P/ASX-200-Index 0,3 Prozent niedriger aus dem Tag. Hier bremsten schwache Bankaktien. National Australia Bank verloren 1,8 Prozent nach der Ankündigung von Stellenabbau und Restrukturierungskosten. ANZ gaben um 0,8 Prozent nach, Westpac ebenfalls. BHP verbilligten sich um 1,6 Prozent, nachdem der Eisenerz-Riese rückläufige Kupferproduktion im September-Quartal mitgeteilt hatte. Rio Tinto schlossen 0,4 Prozent leichter.
+
+In Indonesien zeigte sich der Leitindex im späten Handel nach dem jüngsten Kursdebakel um 2,7 Prozent etwas erholt. Auslöser für den Kursrutsch war die Warnung des Indexbetreibers MSCI gewesen, dass Indonesien seinen Schwellenländerstatus verlieren könnte, was Kapitalabflüsse auslösen könnte. Nun stoppten laut Marktbeobachtern Maßnahmen Jakartas zur Beschränkung von Verkäufen am Aktienmarkt die Verkaufsflut zunächst.
+
+INDEX                       zuletzt  +/- %      % YTD  Handelsschluss 
+S&P/ASX 200 (Sydney)       8.816,90   -0,3       +1,2           07:00 
+Topix 500 (Tokio)          3.134,32   -1,4      +17,8           08:00 
+Kospi (Seoul)              5.552,74   -3,7      +31,8           08:30 
+Hang-Seng (Hongkong)      23.932,64   -1,1       -6,6           10:00 
+Shanghai-Composite         3.735,37   +0,1       -5,9           09:00 
+Straits-Times (Singapur)   5.402,88   -0,2      +16,2           11:00 
+IDX Comp. (Indonesien)     5.132,71   +2,7      -40,6           10:00 
+KLCI (Malaysia)            1.597,49   +0,1       -4,9           10:00 
+ 
+ 
+DEVISEN                     zuletzt  +/- %      00:00       Mo, 09:13  % YTD 
+EUR/USD                      1,1228   +0,2     1,1210          1,1218   -4,4 
+EUR/JPY                      177,55   -0,1     177,71          177,20   -3,5 
+EUR/GBP                      0,8408   -0,2     0,8426          0,8418   -3,5 
+USD/JPY                      158,14   -0,2     158,48          157,95   +1,0 
+USD/KRW                    1.327,41   -0,4   1.332,12        1.330,91   -7,9 
+USD/CNY                      6,6787   -0,0     6,6806          6,6809   -4,5 
+USD/CNH                      6,6781   -0,1     6,6819          6,6811   -4,3 
+USD/HKD                      7,8479    0,0     7,8482          7,8482   +0,8 
+AUD/USD                      0,6993   +0,2     0,6978          0,6976   +4,8 
+NZD/USD                      0,5683   +0,4     0,5662          0,5658   -1,3 
+BTC/USD                   81.742,04   -0,2  81.936,02       82.787,87   -6,8 
+ 
+ 
+ROHOEL                      zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                    104,03   +0,4       0,37          103,66 
+Brent/ICE                    109,75   +0,2       0,20          109,55 
+ 
+Metalle                     zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                       4.134,55   -0,1      -5,12        4.139,67 
+Silber                        57,60   +0,9       0,52           57,09 
+Platin                     1.650,36   +0,6      10,11        1.640,25 
+ 
+(Angaben ohne Gewähr)
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/DJN/gos/uxd
+
+(END) Dow Jones Newswires
+
+October 20, 2026 03:19 ET (07:19 GMT)
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### AUSTRALIA & N. Z.
+    
+    #### +0,29 %
+    
+    G 23,955B 24,325
+    
+    WKN A3D4V6
+    
+    29 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a3d4v6-australia-n-z/)
+    
+-   [
+    
+    ### Broken Hill
+    
+    #### \-2,73 %
+    
+    G 35,945B 36,105
+    
+    WKN 850524
+    
+    30 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/850524-broken-hill/)
+    
+-   [
+    
+    ### National Australia Bank
+    
+    #### \-1,38 %
+    
+    G 24,23B 24,48
+    
+    WKN 853802
+    
+    29 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/853802-national-australia-bank/)
+    
+-   [
+    
+    ### Rio Tinto
+    
+    #### \-1,25 %
+    
+    G 94,6B 95,4
+    
+    WKN 855018
+    
+    34 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/855018-rio-tinto/)
+    
+-   [
+    
+    ### Westpac Banking
+    
+    #### \-1,19 %
+    
+    G 21,625B 21,95
+    
+    WKN 854242
+    
+    31 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/854242-westpac-banking/)
+    
+-   [
+    
+    ### Rio Tinto
+    
+    #### \-2,18 %
+    
+    G 77,72B 77,78
+    
+    WKN 852147
+    
+    37 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/852147-rio-tinto/)
+    
+
+## Weitere relevante Nachrichten
+
+Dienstag, 20.10.2026
+
+-   [
+    
+    10:51
+    
+    Anglo American rechnet mit höherer Diamanten-Produktion im Gesamtjahr
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=2157915697305597819)
+-   [
+    
+    09:59
+    
+    ROUNDUP/Aktien Frankfurt Eröffnung: Verluste drücken Dax unter Vortagstief
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=6443202799377343358)
+-   [
+    
+    09:19
+    
+    Aktien Frankfurt Eröffnung: Verluste drücken Dax an sein Vortagstief
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=1107995676611663046)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
 Hier sind die gestern (19. Oktober 2026) veröffentlichten Wirtschaftsdaten im Überblick:
 China – Bruttoinlandsprodukt (BIP) Q3: Das Wirtschaftswachstum lag bei +4,5% im Jahresvergleich (Prognose war +4,4%, Vorquartal +4,3%).
 China – Industrieproduktion (September): Die Produktion stieg um +5,5% im Jahresvergleich und traf damit exakt die Prognose (Vorwert war +5,2%).
