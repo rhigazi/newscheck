@@ -1,5 +1,908 @@
 # Nachricht - Börse Stuttgart
 
+22.10.2026 / 07:32:56
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA I +++++
+
+Ein überraschend starkes Wachstum bei Cloud-Erlösen und -Aufträgen im dritten Quartal lässt SAP zuversichtlicher für das Gesamtjahr werden. Der Walldorfer Software-Konzern seht das Cloud-Wachstum nun am oberen Ende der Prognosespanne. Der Ausblick für den operativen Gewinn, den SAP vor drei Monaten etwas gedämpft hatte, wurde bestätigt. SAP rechnet für 2026 nun mit Cloud-Erlösen am oberen Ende der Spanne von 25,8 bis 26,2 Milliarden Euro, was einem währungsbereinigten Wachstum von 23 bis 25 Prozent entspräche. Auch für die Cloud- und Softwareerlöse zusammen wird nun das obere Ende der Prognose-Bandbreite angepeilt. SAP will möglichst viele Kunden in die Cloud bringen. Der Umstieg ist von großer Bedeutung, weshalb die Anleger besonders auf Zahlen zum Cloud-Wachstum achten. Eine wichtige Kennzahl ist daher auch der sogenannte Current Cloud Backlog (CCB), der die gesicherten Aufträge auf ein Jahr beziffert. Hier erwartet SAP im Gesamtjahr weiterhin eine leichte Abschwächung gegenüber der Rate von 25 Prozent aus dem Vorjahr. Im dritten Quartal wurde jedoch das Wachstumstempo aus dem Vorquartal von währungsbereinigt 26 Prozent gehalten. Analysten hatten im Konsens von Visible Alpha ein langsameres Wachstum erwartet. Für das dritte Quartal wurden folgende Eckdaten bekannt gegeben (Angaben in Millionen Euro, Ausnahme Ergebnis je Aktie in Euro, operative Marge in Prozent, das Unternehmen bilanziert nach IFRS, berichtet aber auch Non-IFRS. Die vorliegenden Prognosen sind auf Basis von Non-IFRS):
+
+.                               BERICHTET   PROG   PROG 
+3. QUARTAL                     3Q26  ggVj    3Q26  ggVj   3Q25 
+Operative Marge                29,5    --    29,1    --   28,3 
+Umsatzerlöse                 10.270  +13%  10.119  +11%  9.076 
+Cloud- und Softwareerlöse     9.249  +15%   9.082  +13%  8.016 
+Softwarelizenzen                147   -9%     121  -25%    161 
+Softwaresupport               2.434   -5%   2.385   -7%  2.565 
+Clouderlöse                   6.668  +26%   6.594  +25%  5.290 
+Operatives Ergebnis           3.030  +18%   2.942  +15%  2.566 
+Ergebnis nach Steuern         2.171  +17%   2.069  +12%  1.852 
+Ergebnis je Aktie              1,89  +19%    1,80  +13%   1,59 
+Current Cloud Backlog (CCB)  24.144  +28%  23.455  +25% 18.839 
+Wachstum CCB (währungsber.)    26,0    --   24,56    --  27,00 
+Free Cashflow                 1.718  +36%   1.702  +34%  1.266
+
++++++ TAGESTHEMA II +++++
+
+Der schwedische Finanzinvestor EQT greift nach Qiagen: Gemeinsam mit den Staats- und Pensionsfonds ADIA und CPP unterbreiten die Schweden ein freiwilliges Barübernahmeangebot für den Diagnostik- und Laborausrüster. Mit 46,50 Euro je Aktie bietet das Konsortium einen satten Aufschlag von gut 40 Prozent auf den unbeeinflussten Kurs vom 8. Juli und bewertet das deutsch-niederländische Unternehmen mit insgesamt 10,8 Milliarden Euro. Für Qiagen bahnt sich damit ein milliardenschwerer Abschied vom Börsenparkett an, der dem Spezialisten für molekulare Analytik laut Käufer neue Handlungsfreiheit sichern soll. In der Führungsetage stößt die Offerte auf Zustimmung: Vorstand und Aufsichtsrat von Qiagen haben die Übernahme nach eingehender Prüfung strategischer Optionen nach eigenen Angaben einstimmig gutgeheißen und empfehlen den Anteilseignern die Annahme. Das Management verspricht sich unter privater Regie jene strategischen Freiheiten, die für langfristige Forschungs- und Entwicklungsvorhaben nötig ist. Die schwedischen Investoren signalisieren Verlässlichkeit und sichern zu, den etablierten Markennamen, die Standorte sowie das wissenschaftliche Fundament des Unternehmens unangetastet weiterzuführen.
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+07:00 CH/Galderma Group AG, Zwischenbericht 3Q
+
+07:30 DE/Vossloh AG, Ergebnis 9 Monate
+
+08:00 FR/Hermes International SCA, Ergebnis 3Q
+
+08:00 GB/Barclays plc, Ergebnis 3Q
+
+08:00 GB/London Stock Exchange Group plc (LSE), Trading Statement 3Q
+
+08:00 GB/Relx plc, Ergebnis 9 Monate
+
+09:00 DE/Flatexdegiro AG, Analystenkonferenz zum Ergebnis 3Q
+
+12:00 US/Spotify Technology SA, Ergebnis 3Q
+
+12:30 US/Honeywell International Inc, Ergebnis 3Q
+
+13:00 US/American Airlines Group Inc, Ergebnis 3Q
+
+13:00 US/Procter & Gamble Co, Ergebnis 1Q
+
+13:00 US/Lockheed Martin Corp, Ergebnis 3Q
+
+17:45 FR/Kering SA, Ergebnis 3Q
+
+17:45 FR/Vinci SA, Umsatz 3Q
+
+18:00 FR/L'Oreal SA, Umsatz 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- FR 
+    08:45 Geschäftsklimaindex Oktober 
+          PROGNOSE: 101 
+          zuvor:    101 
+- EU 
+    16:00 Index Verbrauchervertrauen Eurozone (Vorabschätzung) Oktober 
+          PROGNOSE: -17,0 
+          zuvor:    -16,5 
+- US 
+    14:30 Erstanträge Arbeitslosenhilfe (Woche) 
+          PROGNOSE: 200.000 
+          zuvor:    199.000 
+ 
+    16:00 Index der Frühindikatoren September 
+          PROGNOSE: -0,1% gg Vm 
+          zuvor:    -0,1% gg Vm
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+Index                       zuletzt  +/- % 
+DAX Futures               25.634,00   -0,5 
+E-Mini-Future S&P-500      7.741,25   -0,8 
+E-Mini-Future Nasdaq-100  29.571,75   -1,4 
+Topix (Tokio)              4.002,73   -1,0 
+Hang-Seng (Hongk.)        22.979,42   -2,8 
+Shanghai-Comp.             3.666,89   -1,2 
+ 
+Mittwoch: 
+INDEX               Schluss  +/- % 
+DAX               25.645,04   +1,4 
+DAX-Future        25.766,00   +1,3 
+MDAX              30.650,79   +0,9 
+TecDAX             4.067,76   +1,4 
+SDAX              18.483,05   +1,7 
+Euro-Stoxx-50      6.207,52   +1,4 
+Stoxx-50           5.409,60   +1,2 
+XDAX              25.606,25   -0,2 
+Dow-Jones         52.856,09   +0,7 
+S&P-500            7.757,17   +0,6 
+Nasdaq Composite  26.702,86   +1,1
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Mit einem nervösen Geschäft rechnen Händler am Donnerstag an Europas Börsen. Die Hoffnungen auf einen Frieden im Nahen Osten sind wieder gedämpft, dafür rücken US-Verhandlungen mit Russland hinter dem Rücken der Ukraine in den Fokus. Die auch in Europa stark anlaufende Berichtssaison sei eine willkomene Abwechslung von den geopolitischen Unruhen, heißt es. Im Fokus stehen dazu Daten aus Frankreich, so das Verbrauchervertrauen. Nach den Ausschreitungen vom vergangenen Wochenende wird hier mit schwachen Daten gerechnet, besonders nach der Gewinnwarnung der Supermarkt-Kette Carrefour. Sollte dies weitere Kreise ziehen und den breiten Konsum belasten, könnten auch Frankreichs Banken unter Druck geraten, die stärker an Konsumentenkrediten hängen als deutsche Institute. Auch die Rendite 10-jähriger Staatsanleihen steht im Fokus, sie sprang am Vortag kurz über die 5-Prozent-Marke. Sorgen macht vor allem das Kreditrating Frankreichs: Am Freitagabend wird Moody's bekannt geben, ob eine weitere Abstufung erfolgt. Aktuell wird das Land bereits mit Aa3 und einem negativen Ausblick geführt. Technologie-Werte werden am Donnerstag als Gewinner erwartet, nachdem es hier an der Wall Street wieder kräftig aufwärts ging.
+
+Rückblick: Positiv aufgenommene Geschäftszahlen von SpaceX sorgten für Erleichterung. Dass die Rendite der französischen 10-jährigen Benchmarkanleihen im Tageshoch auf 5 Prozent stieg - das höchste Niveau seit 2022 -, belastete nicht. Technologiewerte waren gesucht. Denn neben SpaceX hellte auch der Ausblick von Super Micro Computer die Stimmung auf. Infineon gewannen 2 Prozent. Suss kletterten um 2,7 Prozent, ASML um 2,6 Prozent, STMicro um 2,5 Prozent und Aixtron 2 Prozent. SAP stellten mit plus 3,5 Prozent den Tagesgewinner im DAX, der Softwarekonzern veröffentlichte nachbörslich Geschäftszahlen. Essilorluxottica haussierten um 15,5 Prozent. Der Brillenhersteller hatte im dritten Quartal von einer starken Nachfrage nach Smartbrillen profitiert. Carrefour brachen dagegen um 13,8 Prozent ein. Der Einzelhändler hat eine Gewinnwarnung wegen Schäden durch die Unruhen in Frankreich abgegeben.
+
+DAX/MDAX/SDAX/TECDAX
+
+Fest - Adidas stachen mit einem Aufschlag on 1,7 Prozent nach starkem Zahlenausweis und angehobenem Ausblick positiv heraus. Deutsche Börse hatte starke Geschäftszahlen vorgelegt. Der Börsenbetreiber erhöhte das Ziel für die Anlagen von Geldbeständen und zur Verwaltung von Sicherheiten. Die Jahresprognose sei dagegen für das operative Geschäft nicht erhöht worden, so Händler kritisch. Die Titel gaben um 0,3 Prozent nach. Druck auf FMC (-2,6%) ging von der Meldung aus, dass das US-Gesundheitsministerium einen Reformplan für den Dialysemarkt vorgestellt hat. Ziel ist mehr Wettbewerb auf dem Markt. Qiagen schlossen praktisch unverändert bei 42,82 Euro. Ein Bericht, wonach EQT mehr als 50 Dollar je Aktie bieten wolle, spielte keine große Rolle. Eine echte Überraschung sei dies nicht, da die Aktie mit solchen Übernahmegerüchten bereits seit Mai im Rally-Modus sei, hieß es. Nach Zahlenausweis und einem erhöhten Ausblick ging es für Jenoptik um 12,1 Prozent nach oben. Grand City beteiligt sich mit 20 Prozent an LEG Immobilien. Grand City legten um 5,6 Prozent zu, LEG Immobilien um 4,5 Prozent. Friedrich Vorwerk stiegen um 8,9 Prozent nach starken Drittquartalszahlen. Im Gefolge zogen MBB um 7,9 Prozent an, die Beteiligungsgesellschaft ist Ankeraktionär bei Vorwerk. CTS Eventim stiegen mit dem Einstieg des aktivistischen Investors Ananym um 4,1 Prozent.
+
+XETRA-NACHBÖRSE
+
+Die Aktien von Flatexdegiro stiegen im nachbörslichen Handel am Mittwoch um rund 1,5 Prozent. Das Unternehmen hat im dritten Quartal von der Handelsfreude der Kunden und einem höheren Zinsergebnis profitiert. Die Aktien von Leifheit gaben dagegen um 3,6 Prozent nach mit der gesenkten Jahresprognose.
+
+USA - AKTIEN
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 22, 2026 01:32 ET (05:32 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+22.10.2026 / 07:32:56
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
+Freundlich - Händler sprachen von einer Mischung aus starken Unternehmenszahlen und Optimismus im Vorfeld der Quartalszahlen großer Technologiekonzerne. Tesla, Meta Platforms, Texas Instruments und IBM legten nach Börsenschluss Geschäftszahlen vor. Denn KI blieb das beherrschende Thema. Zur positiven Stimmung im Technologiesektor trugen SpaceX und Tesla bei. Hauptgesellschafter Elon Musk erklärte, seine beiden Unternehmen prüften eine mögliche Megafusion. Darüber hinaus trug SpaceX mit starken Drittquartalszahlen dazu bei, dass sich Sorgen über eine mögliche Verlangsamung des Investitionsbooms bei KI zerstreuten, wie JPM urteilte. SpaceX hoben um 7,8 Prozent ab, Tesla zogen um 3,4 Prozent an. Anteil an der positiven Stimmung hatte auch Super Micro Computer; deren Kurs schoss um 9.6 Prozent nach oben. Die Geschäftszahlen lagen über der eigenen Prognose. Netflix fielen um 5,3 Prozent, nachdem der Streaming-Dienst eine enttäuschende Umsatzprognose abgegeben hatte. Bei AT&T (-6,5%) enttäuschte laut Händlern der Zuwachs an profitablen Mobilfunkvertragskunden.
+
+USA - ANLEIHEN
+
+US-Treasuries    Rendite    +/- 
+2 Jahre             4,82  +0,04 
+10 Jahre            5,15  +0,03
+
+Die Renditen von Staatsanleihen stiegen leicht, da die Rally in risikoreicheren Bereichen des Aktienmarktes die Attraktivität des Rentenmarktes als sicherer Hafen verringerte, hieß es. Die Auktion 20-jähriger US-Staatsanleihen am Mittwoch hat eine schwächere Nachfrage als erwartet gezeigt.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN        zuletzt  +/- %   +/- abs.  Schluss Vortag  Mi, 17:31 
+EUR/USD         1,1242   +0,1     0,0010          1,1232     1,1225 
+EUR/JPY         177,19   -0,2    -0,4300        177,6200   177,4100 
+EUR/CHF         0,9245   -0,2    -0,0014          0,9259     0,9259 
+EUR/GBP         0,8389   +0,1     0,0005          0,8384     0,8379 
+USD/JPY          157,6   -0,3    -0,5300        158,1300   158,0400 
+GBP/USD         1,3397   +0,0     0,0003          1,3394     1,3390 
+USD/CNY         6,6742   -0,0    -0,0016          6,6758     6,6758 
+USD/CNH         6,6735    0,0    -0,0002          6,6737     6,6749 
+AUS/USD         0,7016   -0,2    -0,0011          0,7027     0,7029 
+Bitcoin/USD  82.871,19   -2,1  -1.764,78       84.635,97  84.436,63
+
+Der Dollar folgte den Anleiherenditen nach oben. Der Euro zeigte sich mit leichten Abgaben, da die Renditen französischer Staatsanleihen Mehrjahreshöchststände erreichten, was Sorgen über die Finanzen der Europäischen Union aufwarf. Im asiatischen Handel am Donnerstag holt die Gemeinschaftswährung die Verluste allerdings wieder auf.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle     zuletzt  +/- %  +/- abs.  Schluss Vortag 
+Gold       4.088,38   -1,3    -52,00        4.140,38 
+Silber        56,19   -3,1     -1,78           57,97 
+Platin     1.594,40   -2,1    -34,01        1.628,41
+
+Der Goldpreis zeigte sich mit leichten Gewinnen. Der Preis für die Feinunze kletterte um 0,2 Prozent auf 4.131 Dollar.
+
+ÖL
+
+ROHÖL       zuletzt  +/- %  +/- abs.  Schluss Vortag 
+WTI/Nymex     98,90   +1,8      1,75           97,15 
+Brent/ICE    111,15   +2,1      2,33          108,82
+
+Brent stagnierte pro Fass bei 108,82 Dollar, US-Leichtöl der Sorte WTI kostete nach den Kapriolen rund um den Verfallstag nun wieder unter 100 Dollar das Barrel. Der Markt bewege sich zwischen Hoffen und Bangen im Hinblick auf eine Verständigung der Kriegsparteien USA und Iran, hieß es. Irans Außenminister Abbas Araghtschi warb in Verhandlungen mit den USA weiter für eine diplomatische Lösung. Die Aussagen drückten die Preise etwas. Da sich die Rohöllagerbestände in den USA in der Vorwoche deutlich stärker als erwartet verringert hatten, kamen die Ölpreise von den Tagestiefs zurück.
+
++++++ MELDUNGEN SEIT VORTAG 17.30 UHR +++++
+
+GELDPOLITIK SÜDKOREA
+
+Südkoreas Zentralbank hat ihren Leitzins am Donnerstag nach zwei Erhöhungen in Folge unverändert gelassen. Sie signalisierte jedoch eine weitere Straffung, da das starke Wachstum und die Inflation über dem Zielwert anhalten. Die Bank of Korea beließ ihren siebentägigen Reposatz als Benchmark bei 3,00 Prozent, nachdem sie ihn im Juli und August angehoben hatte. Die einstimmige Entscheidung entsprach den Erwartungen der Ökonomen. Die meisten von ihnen prognostizieren eine weitere Erhöhung im November.
+
+EUROPÄISCHER AUTOMARKT
+
+Der europäische Automarkt hat im September dank einer anhaltend starken Nachfrage nach Elektrofahrzeugen ein zweistelliges Prozentwachstum verzeichnet. Wie die europäische Herstellervereinigung Acea mitteilte, stiegen die Pkw-Neuzulassungen in der EU, der Freihandelszone Efta und in Großbritannien um 10,2 Prozent gegenüber dem Vorjahresmonat auf rund 1,36 Millionen Fahrzeuge. Für die ersten neun Monate des Jahres (Januar bis September) stand mit insgesamt 10,56 Millionen Autos ein Absatzplus von 6,3 Prozent zu Buche.
+
+SARTORIUS
+
+Für das dritte Quartal wurden folgende Eckdaten bekannt gegeben (Angaben in Millionen Euro, Ausnahme Ergebnis je Aktie in Euro, Marge in Prozent, Bilanzierung nach IFRS):
+
+.                                     BERICHTET   PROG  PROG 
+3. QUARTAL                           3Q26  ggVj   3Q26  ggVj  3Q25 
+Umsatz                                926  +10%    899   +7%   843 
+EBITDA bereinigt                      280  +13%    269   +9%   247 
+EBITDA-Marge bereinigt               30,2    --   29,9    --  29,3 
+Erg nach Steuern/Dritten bereinigt     88  +17%     84  +12%    75 
+Ergebnis je Vorzugsaktie bereinigt   1,27  +18%   1,21  +12%  1,08
+
+FLATEXDEGIRO
+
+hat im dritten Quartal von der Handelsfreude der Kunden und einem höheren Zinsergebnis profitiert. Für das laufende Jahr erwartet Flatexdegiro weiterhin ein Gewinnwachstum von 25 bis 43 Prozent gegenüber Vorjahr auf 200 bis 230 Millionen Euro. Der Umsatz soll um 16 Prozent auf rund 650 Millionen Euro steigen. Für das dritte Quartal wurden folgende Eckdaten veröffebntlicht (Angaben in Millionen Euro, Bilanzierung nach IFRS):
+
+.                    BERICHTET  PROG  PROG 
+3. QUARTAL          3Q26  ggVj  3Q26  ggVj  3Q25 
+Umsatz               150  +14%   155  +17%   132 
+Provisionserträge     89   +6%    94  +11%    85 
+Zinserträge           56  +33%    54  +29%    42 
+Betriebsergebnis      71  +23%    72  +26%    58 
+Konzernergebnis       50  +29%    52  +32%    39
+
+RENK
+
+verkauft sein Gleitlagergeschäft an das österreichische Industrie- und Technologieunternehmen Miba. Das zivile Geschäft von Marine & Industry bleibt von der Transaktion unberührt, wie das MDAX-Unternehmen mitteilte. Über den Kaufpreis sei Stillschweigen vereinbart worden.
+
+KUEHNE + NAGEL
+
+hat die Prognose für das Gesamtjahr erneut angehoben. Zuvor waren die Ergebnisse des Konzerns im dritten Quartal auf breiter Front gestiegen. Das Unternehmen teilte mit, dass die Nachfrage von Kunden aus den Bereichen Cloud-Infrastruktur und Halbleiter das Mengenwachstum antreibe. Das Unternehmen meldete einen Sprung des Nettoumsatzes um 22 Prozent gegenüber dem Vorjahreszeitraum auf 7,39 Milliarden Franken. Das Ergebnis vor Zinsen und Steuern stieg unterdessen um 53 Prozent auf 435 Millionen Franken.
+
+NESTLE
+
+hat für das dritte Quartal einen Umsatzanstieg verbucht. Der Konsumgüterkonzern profitierte von einer Erholung seines Tiernahrungs- und Snackgeschäfts in Amerika. Der Nahrungsmittelkonzern meldete für das dritte Quartal einen Umsatz von 22,76 Milliarden Schweizer Franken, was 27,61 Milliarden US-Dollar entspricht. Der Umsatz wuchs organisch um 4,0 Prozent im Vergleich zum Vorjahr. Das organische Umsatzwachstum von Nestle übertraf die vom Unternehmen zusammengestellten Analystenerwartungen von 3,4 Prozent für das Quartal. Auch der Gesamtumsatz lag über den Erwartungen von 22,49 Milliarden Franken.
+
+ROCHE
+
+hat für das dritte Quartal einen höheren Umsatz ausgewiesen. Grund hierfür war das Wachstum in den Sparten Pharma und Diagnostik. Der Pharmakonzern arbeitet derzeit daran, die Zulassung für seine neuen Tabletten gegen Brustkrebs und Multiple Sklerose zu erhalten. Wie der Konzern mitteilte, belief sich der Umsatz im dritten Quartal auf 16,13 Milliarden Schweizer Franken (19,57 Milliarden US-Dollar). Im Vorjahreszeitraum hatte dieser bei 14,92 Milliarden Franken gelegen. Von Visible Alpha befragte Analysten hatten für das Quartal einen Umsatz von 15,78 Milliarden Franken prognostiziert. Roche teilte mit, dass der Umsatz ohne Berücksichtigung von Wechselkursveränderungen um 7 Prozent gestiegen sei. Zuwächse seien dabei sowohl in der Pharma- als auch in der Diagnostiksparte verzeichnet worden.
+
+THALES
+
+hat seine Umsatzprognose für das laufende Jahr angehoben, da die Aufträge in den Sparten Verteidigung und Luft- und Raumfahrt in den ersten neun Monaten stark gestiegen sind. Der Luftfahrt- und Rüstungskonzern hatte zuvor für das laufende Jahr mit einem organischen Umsatzwachstum zwischen 6 Prozent und 7 Prozent gerechnet. Diese viel beachtete Kennzahl zeigt die Entwicklung bei konstanten Konsolidierungs- und Wechselkursen. Thales teilte mit, dass das Wachstum nun am oberen Ende dieser Spanne oder potenziell sogar darüber liegen dürfte.
+
+META PLATFORMS
+
+Ein Gericht in New Mexico hat den Konzern zu einer Zahlung von 25 Milliarden US-Dollar an den Bundesstaat verurteilt. Vor einigen Wochen hatte eine Jury das Unternehmen für schuldig befunden, Nutzer über seine Datenschutzpraktiken getäuscht zu haben. Das Unternehmen meldete für das dritte Quartal einen Rekordumsatz und kündigte an, eine neue Gattung stimmrechtsloser Aktien zu schaffen, um das für die Entwicklung und Bereitstellung von KI-Modellen benötigte Kapital zu beschaffen.
+
+TESLA
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 22, 2026 01:32 ET (05:32 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+22.10.2026 / 07:32:56
+
+# MORNING BRIEFING - Deutschland/Europa -3-
+
+(Dow Jones Newswires)
+
+verzeichnete im dritten Quartal einen stagnierenden Umsatz, aber einen überraschend positiven freien Cashflow trotz seiner hohen Investitionen in KI und Robotik. Der Umsatz stagnierte im Vergleich zum Vorjahr bei 28 Milliarden Dollar, während der bereinigte Nettogewinn um 4 Prozent auf 1,7 Milliarden Dollar sank. Das Segment "Service und Sonstiges" von Tesla war der Wachstumsmotor, da das Kerngeschäft mit Automobilen und Energiespeichern Umsatzrückgänge von 3 Prozent beziehungsweise 16 Prozent verzeichnete.
+
+TEXAS INSTRUMENTS
+
+hat im dritten Quartal dank eines breit abgestützten Wachstums, das von den Bereichen Industrie, Automobil und Rechenzentren angeführt wurde, einen höheren Gewinn und Umsatz erzielt.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/flf/ros
+
+(END) Dow Jones Newswires
+
+October 22, 2026 01:32 ET (05:32 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+22.10.2026 / 07:57:01
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+Meta Platforms erzielte im dritten Quartal einen Rekordumsatz von 64,6 Milliarden Dollar (+26 Prozent) und übertraf damit die Analystenerwartungen. Der Nettogewinn lag bei 9,8 Milliarden Dollar und blieb deutlich hinter den Prognosen der Analysten von 17,2 Milliarden Dollar zurück, belastet durch eine Sonderbelastung von 9,9 Milliarden Dollar zur Beilegung von Klagen. Für das vierte Quartal prognostiziert der Konzern einen Umsatz zwischen 73 und 76 Milliarden Dollar. Das untere Ende der Investitionsprognose für das Gesamtjahr hob Meta auf 135 bis 145 (zuvor: 130 bis 145) Milliarden Dollar an.
+
+Meta kündigte an, eine neue Gattung stimmrechtsloser Aktien zu schaffen, um das für die Entwicklung und Bereitstellung von KI-Modellen benötigte Kapital zu beschaffen. Die neue Aktie soll als Dividende an die Inhaber von Stamm- und Mehrstimmrechtsaktien ausgegeben werden, mit Wirkung zum 19. Januar 2027. Der effektive Aktiensplit im Verhältnis 2:1 wird die Stimmrechtskontrolle von Chief Executive Mark Zuckerberg oder die Stimmberechtigung anderer Aktionäre nicht beeinträchtigen.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+12:00 US/Spotify Technology SA, Ergebnis 3Q
+
+12:30 US/Honeywell International Inc, Ergebnis 3Q
+
+13:00 US/American Airlines Group Inc, Ergebnis 3Q
+
+13:00 US/Procter & Gamble Co, Ergebnis 1Q
+
+13:00 US/Lockheed Martin Corp, Ergebnis 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- US 
+    14:30 Erstanträge Arbeitslosenhilfe (Woche) 
+          PROGNOSE: 200.000 
+          zuvor:    199.000 
+ 
+    16:00 Index der Frühindikatoren September 
+          PROGNOSE: -0,1% gg Vm 
+          zuvor:    -0,1% gg Vm
+
++++++ ÜBERSICHT INDIZES +++++
+
+                              zuletzt  +/- % 
+E-Mini-Future S&P-500        7.733,00   -0,9 
+E-Mini-Future Nasdaq-100    29.514,50   -1,6 
+S&P/ASX 200 (Sydney)         8.793,20   -0,4 
+Topix-500 (Tokio)            3.990,32   -1,3 
+Kospi (Seoul)                5.507,11   -4,0 
+Shanghai-Composite           3.662,73   -1,4 
+Hang-Seng-Index (Hongkong)  22.903,08   -3,2
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Schwach - Durchwachsen ausgefallene Quartalsergebnisse von US-Technologieunternehmen können die Bedenken vieler Börsianer im Hinblick auf die Rentabilität der massiven Investitionen in künstliche Intelligenz nicht beruhigen. Während bei Tesla die Investitionsprognose gesenkt wurde, wurde sie bei Meta Platforms angehoben. Der Halbleiterausrüster Lam Research wartete derweil mit einer schwächer als erwarteten Gewinnprognose auf. Dazu kommen als Belastungsfaktoren die auf dem hohen Niveau wieder steigenden Ölpreise. Am härtesten trifft die wieder dominierende Verkaufsstimmung bei Halbleiter- und KI-Aktien die Börse in Seoul. Dass die koreanische Notenbank den Leitzins mit 3,0 Prozent nach zwei vorangegangenen Zinserhöhungen diesmal unverändert ließ, wurde so erwartet und sorgt für keinen Impuls. Zum ebenfalls kräftigen Minus in Hongkong tragen die sehr schwach im Markt liegenden Schwergewichte bei. Für Alibaba geht es um 5,9 Prozent südwärts, nachdem die Regierung zu einer stärkeren Qualitätskontrolle aufgerufen hat. Das trifft auch JD.com (-4,7%), Meituan (-4,2%) und Tencent (-3,4%) sowie weitere Technologietitel. Verluste verzeichnen Aktien von Tesla-Zulieferern nach dem vorsichtigen Ausblick des Elektroautobauers für die Bereiche Robotik und Chipfertigung. In Seoul geben die Kurse der Batteriehersteller LG Energy Solution und Samsung SDI um 6,0 Prozent nach, in Tokio Panasonic um 4,9 Prozent. CATL fallen um 5,8 Prozent. In Sydney verbilligen sich Fortescue um 4,0 Prozent auf ein 16-Monats-Tief, nachdem die Eisenerzlieferungen des Bergbauunternehmens im ersten Quartal hinter den Erwartungen der Analysten zurückgeblieben sind.
+
+WALL STREET
+
+INDEX          zuletzt  +/- %  +/- abs.  Schluss Vortag 
+DJIA         52.856,09   +0,7   +360,21       52.495,88 
+S&P-500       7.757,17   +0,6    +44,60        7.712,57 
+NASDAQ Comp  26.702,86   +1,1   +278,04       26.424,82 
+NASDAQ 100   29.822,52   +1,1   +332,24       29.490,28 
+ 
+                     Mittwoch   Dienstag 
+Umsatz NYSE (Aktien) 1,16 Mrd   0,63 Mrd 
+Gewinner             1.356      1.856 
+Verlierer            1.338        848 
+Unverändert             84         79
+
+Freundlich - Händler sprachen von einer Mischung aus starken Unternehmenszahlen und Optimismus im Vorfeld der Quartalszahlen großer Technologiekonzerne, wobei KI das beherrschende Thema blieb. Zur positiven Stimmung im Technologiesektor trugen starke Ergebnisse von SpaceX bei. Sie hätten Sorgen über die Rentabilität des KI-Geschäfts geloindert, hieß es. SpaceX stiegen um 7,8 Prozent ab. Tesla zogen um 3,4 Prozent an. Anteil an der positiven Stimmung hatte auch Super Micro Computer mit einem ermutigenden Ausblick nach guten Quartalszahlen. Der Kurs schoss um 9.6 Prozent nach oben. Netflix fielen um 5,3 Prozent, nachdem der Streaming-Dienst eine enttäuschende Umsatzprognose abgegeben hatte. Bei AT&T enttäuschte laut Händlern der Zuwachs an profitablen Mobilfunkvertragskunden, die Aktie büßte 6,5 Prozent ein. Intel stiegen um 1,4 Prozent, nachdem Elon Musk erklärt hatte, dass ein Joint Venture zur Chipproduktion mit dem Halbleiterhersteller im Jahr 2028 mit der Massenproduktion beginnen solle. Der KI-Optimismus beflügelte auch die Meta-Aktie, trotz der Anordnung eines Richters, wonach das Unternehmen 25 Milliarden Dollar an den Bundesstaat zahlen muss, nachdem festgestellt worden war, dass das Social-Media-Unternehmen Nutzer irreführte. Meta legten um 0,5 Prozent zu.
+
+USA - ANLEIHEN
+
+            Rendite    +/- 
+2 Jahre        4,82  +0,04 
+10 Jahre       5,15  +0,03
+
+Die Anleihekurse gaben nach. Händler begründeten das mit der wieder besseren Stimmung für Aktien. Dazu habe eine eher schwächere Nachfrage bei einer Auktion 20-jähriger US-Staatsanleihen belastet.
+
++++++ DEVISENMARKT +++++
+
+              zuletzt  +/- %          00:00       Mi, 09:21  % YTD 
+EUR/USD        1,1246   +0,1         1,1232          1,1222   -4,3 
+EUR/JPY        176,99   -0,4         177,62          177,45   -3,8 
+EUR/GBP        0,8392   +0,1         0,8384          0,8388   -3,7 
+USD/JPY        157,36   -0,5         158,13          158,12   +0,5 
+USD/KRW      1.323,87   -0,2       1.326,71        1.324,07   -8,1 
+USD/CNY        6,6742   -0,0         6,6758          6,6783   -4,6 
+USD/CNH        6,6737   NULL         6,6737          6,6770   -4,3 
+USD/HKD        7,8456   -0,0         7,8469          7,8477   +0,8 
+AUD/USD        0,7012   -0,2         0,7027          0,7021   +5,1 
+NZD/USD        0,5689   -0,2         0,5700          0,5683   -1,2 
+BTC/USD     82.659,54   -2,3      84.635,97       82.724,33   -5,7
+
+Der Dollar tendierte seitwärts, der Euro kostete im späten US-Handel 1,1233 Dollar.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+           zuletzt  +/- %       +/- abs.  Schluss Vortag 
+Gold      4.073,12   -1,6         -67,26        4.140,38 
+Silber       55,91   -3,6          -2,06           57,97 
+Platin    1.590,67   -2,3         -37,74        1.628,41
+
+Der Goldpreis stieg im US-Handel um 0,2 Prozent auf 4.125 Dollar.
+
+ÖL
+
+              zuletzt  +/- %       +/- abs.  Schluss Vortag 
+WTI/Nymex       99,26   +2,2           2,11           97,15 
+Brent/ICE      111,17   +2,2           2,35          108,82
+
+Der Preis für Brent-Öl tendierte unter Schwankungen seitwärts. Zuletzt kostete das Fass im US-Handel 109,96 Dollar. Der Markt bewege sich zwischen Hoffen und Bangen im Hinblick auf eine Verständigung der Kriegsparteien USA und Iran, hieß es. Irans Außenminister Abbas Araghtschi warb in Verhandlungen mit den USA weiter für eine diplomatische Lösung.
+
++++++ MELDUNGEN SEIT MITTWOCH 20.00 UHR +++++
+
+NEUSEELAND - Inflation
+
+Die neuseeländischen Verbraucherpreise sind im dritten Quartal etwas weniger stark gestiegen als erwartet. Der Verbraucherpreisindex stieg um 3,7 Prozent, nach 4,1 Prozent im zweiten Quartal. Die Notenbank hatte 3,9 Prozent prognostiziert.
+
+SÜDKOREA - Geldpolitik
+
+Die südkoreanische Zentralbank hat ihren Leitzins nach zwei Erhöhungen in Folge unverändert bei 3,00 Prozent gelassen. Sie signalisierte zugleich eine weitere Straffung, weil das starke Wachstum und die Inflation über dem Zielwert anhielten.
+
+IBM
+
+hat im dritten Quartal einen Gewinn von 2,19 (Vorjahr: 1,74) Milliarden Dollar erzielt. Bereinigt lag der Gewinn je Aktie bei 2,95 Dollar, Analysten hatten 2,85 Dollar erwartet. Der Umsatz stieg auf 17,1 (16,33) Milliarden Dollar und übertraf die Analystenschätzungen von 16,82 Milliarden Dollar. Für das Gesamtjahr bestätigte der Konzern die Prognose eines Umsatzwachstums von 4 bis 5 Prozent. Die Erwartung für das Softwarewachstum erhöhte IBM auf 7 bis 8 (6 bis 8) Prozent. Zudem rechnet das Unternehmen nun mit einem Anstieg des freien Cashflows um mehr als 1 (zuvor: rund 1) Milliarde Dollar.
+
+LAM RESEARCH
+
+hat im ersten Geschäftsquartal einen Gewinn von 2,75 (Vorjahr: 1,57) Milliarden Dollar erzielt. Bereinigt lag der Gewinn je Aktie bei 2,20 Dollar, Analysten hatten 2,18 Dollar erwartet. Der Umsatz kletterte um 54 Prozent auf 8,22 Milliarden Dollar und übertraf die Analystenschätzungen von 8,14 Milliarden. Für das zweite Geschäftsquartal prognostiziert das Halbleiterausrüstungsunternehmen einen Umsatz von 8,60 (Analysten: 8,57) Milliarden Dollar sowie einen bereinigten Gewinn je Aktie von 2,33 (2,33) Dollar.
+
+TESLA
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 22, 2026 01:57 ET (05:57 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+22.10.2026 / 07:57:01
+
+# MORNING BRIEFING - USA/Asien -2-
+
+(Dow Jones Newswires)
+
+hat im dritten Quartal einen stagnierenden Umsatz von 28 Milliarden Dollar erzielt. Der bereinigte Nettogewinn sank um 4 Prozent auf 1,7 Milliarden Dollar. Während das Segment Dienstleistungen und Sonstiges um 33 Prozent zulegte, verzeichneten die Sparten Automobile und Energiespeicher Umsatzrückgänge von 3 beziehungsweise 16 Prozent. Für das Gesamtjahr senkte der Elektroautobauer seine Investitionsprognose auf etwa 20 Milliarden Dollar; zuvor waren 25 Milliarden Dollar geschätzt worden.
+
+TESLA
+
+will bis Ende nächsten Jahres bereit sein, seine humanoiden Optimus-Roboter an externe Unternehmen auszuliefern, und seine Flotte autonomer Taxis bald zu einem bedeutenden Umsatzträger machen.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/flf/ros/gos
+
+(END) Dow Jones Newswires
+
+October 22, 2026 01:57 ET (05:57 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+22.10.2026 / 08:01:18
+
+# Vossloh wird für 2026 noch etwas pessimistischer - Belebung im Schlussquartal
+
+(dpa-AFX) WERDOHL (dpa-AFX) - Der Bahntechnik-Anbieter Vossloh wird nach einem Gewinnrückgang im Sommer noch etwas pessimistischer für das laufende Jahr. Zwar dürfte der Umsatz den mittleren Bereich der im Juli gesenkten Zielspanne von 1,51 bis 1,61 Milliarden Euro erreichen, teilte das im SDax gelistete Unternehmen am Donnerstag in Werdohl mit. Der Gewinn vor Zinsen und Steuern (Ebit) dürfte jedoch wegen verschobener Projekte und einmaliger Kosten eher im unteren Bereich der angekündigten Spanne von 100 bis 110 Millionen Euro landen. Allerdings berichtete das Management von einer "deutlichen Belebung im Jahresschlussquartal".
+
+WERDOHL (dpa-AFX) - Der Bahntechnik-Anbieter Vossloh wird nach einem Gewinnrückgang im Sommer noch etwas pessimistischer für das laufende Jahr. Zwar dürfte der Umsatz den mittleren Bereich der im Juli gesenkten Zielspanne von 1,51 bis 1,61 Milliarden Euro erreichen, teilte das im SDax gelistete Unternehmen am Donnerstag in Werdohl mit. Der Gewinn vor Zinsen und Steuern (Ebit) dürfte jedoch wegen verschobener Projekte und einmaliger Kosten eher im unteren Bereich der angekündigten Spanne von 100 bis 110 Millionen Euro landen. Allerdings berichtete das Management von einer "deutlichen Belebung im Jahresschlussquartal".
+
+Im dritten Quartal stieg Vosslohs Umsatz dank der erstmaligen Einbeziehung des französischen Betonschwellenherstellers Sateba um mehr als 15 Prozent auf knapp 377 Millionen Euro. Der operative Gewinn (Ebit) ging jedoch um mehr als ein Fünftel auf gut 24 Millionen Euro zurück. Unter dem Strich stand mit 9,4 Millionen Euro nur gut halb so viel Gewinn wie im Vorjahreszeitraum in den Büchern./stw/stk
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Vossloh
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 766710
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/766710-vossloh/)
+    
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+22.10.2026 / 08:07:54
+
+# Kühne+Nagel erhöht Jahresprognose nach gutem Quartal erneut
+
+(dpa-AFX) SCHINDELLEGI (dpa-AFX) - Der Logistikkonzern Kühne+Nagel hat im dritten Quartal kräftig zugelegt, weil es nun auch in der Seefracht wieder aufwärts geht. Für das Gesamtjahr gibt sich der Konzern nun erneut höhere Ziele. In den Monaten Juli bis September stieg der Nettoumsatz um 22 Prozent auf 7,39 Milliarden Franken, wie das Unternehmen am Donnerstag mitteilte. Währungsbereinigt ergab sich ebenfalls ein Plus von 22 Prozent.
+
+SCHINDELLEGI (dpa-AFX) - Der Logistikkonzern Kühne+Nagel hat im dritten Quartal kräftig zugelegt, weil es nun auch in der Seefracht wieder aufwärts geht. Für das Gesamtjahr gibt sich der Konzern nun erneut höhere Ziele. In den Monaten Juli bis September stieg der Nettoumsatz um 22 Prozent auf 7,39 Milliarden Franken, wie das Unternehmen am Donnerstag mitteilte. Währungsbereinigt ergab sich ebenfalls ein Plus von 22 Prozent.
+
+Im Ausblick wird das Unternehmen nun deutlich optimistischer. 2026 strebt der Konzern einen Ebit von 1,5 bis 1,6 Milliarden an, bisher hatte eine Bandbreite von 1,35 bis 1,55 Milliarden gegolten. Schon im Sommer hatte das Unternehmen seine Ziele erhöht.
+
+Gewachsen ist das Unternehmen im dritten Quartal erneut im Luftfrachtgeschäft. Der Umsatz stieg währungsbereinigt um 37 Prozent. Treiber war laut der Mitteilung die Nachfrage nach Logistiklösungen für Cloud-Infrastruktur und Halbleiter. Kühne+Nagel gilt als ein KI-Boom-Profiteur. Wenn hochkomplexe Teile für Datencenter zum Beispiel von Asien in die USA transportiert werden müssen, sind das lukrative Aufträge für Logistiker.
+
+Starkes Wachstum gab es aber auch in der Seefracht, die zuletzt geschwächelt hatte. Hier nahm der Umsatz währungsbereinigt um 20 Prozent zu. Basis dafür war laut den Angaben ein Volumenzuwachs von 5 Prozent. Dies sei die Folge von Marktanteilsgewinnen auf den Handelsrouten aus Asien und dem Transatlantikgeschäft gewesen. Zusätzliche Impulse kamen laut Mitteilung aus dem weiteren Ausbau von Exportvolumen chinesischer Kunden.
+
+Der um die volatilen Frachttarife bereinigte Rohertrag erhöhte sich konzernweit um 13 Prozent auf 2,39 Milliarden Franken, wie es weiter hieß. Das Betriebsergebnis (Ebit) nahm um 53 Prozent auf 435 Millionen Franken zu und der Reingewinn um ebenfalls 53 Prozent auf 316 Millionen. Die Konversionsmarge (Verhältnis Ebit zu Rohertrag) erreichte 18,2 Prozent. Mit den Zahlen hat Kühne+Nagel die Erwartungen der Analysten übertroffen./rw/ra/AWP/jha
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Kuehne und Nagel International
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN A0JLZL
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a0jlzl-kuehne-und-nagel-international/)
+    
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+22.10.2026 / 07:59:09
+
+# Nordex erhält erstmals Auftrag aus Neuseeland
+
+(Dow Jones Newswires)
+
+DOW JONES--Nordex hat erstmals einen Auftrag aus Neuseeland erhalten. Wie der Windkraftanlagenhersteller mitteilte, hat Mercury, eines der führenden neuseeländischen Unternehmen für Stromerzeugung und Energievertrieb, für einen Windpark in der Region Otago auf der Südinsel Neuseelands 40 Windenergieanlagen mit einer Gesamtleistung von 192 Megawatt bestellt. Darüber hinaus schlossen Mercury und Nordex einen umfassenden Servicevertrag mit einer Laufzeit von 30 Jahren ab.
+
+Kontakt: unternehmen.de@dowjones.com
+
+DJG/brb/uxd
+
+(END) Dow Jones Newswires
+
+October 22, 2026 01:59 ET (05:59 GMT)
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Nordex
+    
+    #### \-1,84 %
+    
+    G 37,32B 37,6
+    
+    WKN A0D655
+    
+    7 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a0d655-nordex/)
+    
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+
+
+# Nachricht - Börse Stuttgart
+
 21.10.2026 / 22:20:25
 
 # Aktien New York Schluss: Gewinne - SpaceX mildert KI-Bedenken
