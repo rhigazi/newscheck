@@ -1,3 +1,1056 @@
+# Nachricht - Börse Stuttgart
+
+28.10.2026 / 07:30:59
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+An den Märkten herrscht die Erwartung, dass die US-Notenbank am Mittwochabend die Zinssätze unverändert lassen wird. Nach der Zinserhöhung im September signalisierten hochrangige Vertreter, dass sie sich mit einem weiteren Schritt nicht beeilen müssten. Anleger nahmen dies zur Kenntnis und senkten die Erwartungen einer Zinserhöhung im Oktober. Dann stärkten die in diesem Monat veröffentlichten Inflationsdaten die Argumente für eine erneute Zinserhöhung. Damit ist das von der Fed bevorzugte Inflationsmaß auf dem Weg, keine weiteren Fortschritte in Richtung ihres Ziels von 2 Prozent zu zeigen - ein Stillstand, der bis Anfang 2025 zurückreicht. Der Bauboom im KI-Bereich hat die Wirtschaft widerstandsfähig gehalten. Gleichzeitig sahen sich Unternehmen aufgrund von Zöllen und Energiepreisen mit höheren Inputkosten konfrontiert. Fed-Chairman Kevin Warsh äußerte sich kurz nach der Veröffentlichung der Inflationsdaten. Er tat aber nichts, um die Erwartungen auf eine Beibehaltung des Zinsensniveaus zu ändern. Eine Erhöhung zum aktuellen Zeitpunkt käme weniger als eine Woche vor den Zwischenwahlen überraschend.
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+AIRBUS (17:45)
+
+Nachfolgend die Konsensschätzungen für das dritte Quartal (Angaben in Millionen Euro, Ausnahme Ergebnis je Aktie in Euro, Bilanzierung nach IFRS):
+
+                                 PROG   PROG  PROG 
+3. QUARTAL                       3Q26   ggVj  Zahl    3Q25 
+Umsatz                         17.910  +0,5%    22  17.826 
+EBIT bereinigt                  1.777    -8%    22   1.942 
+EBIT                            1.751  +0,2%    22   1.748 
+Ergebnis nach Steuern/Dritten   1.298   +16%    22   1.116 
+Ergebnis je Aktie                1,67   +18%    22    1,41 
+Free Cashflow\*                    325   -53%    22     696 
+-\* vor Kundenfinanzierungen
+
+DELIVERY HERO (7:30)
+
+Nachfolgend die Konsensschätzungen für das dritte Quartal (Angaben in Millionen Euro, Ausnahme Marge in Prozent, Bilanzierung nach IFRS):
+
+                        PROG  PROG  PROG 
+3. QUARTAL              3Q26  ggVj  Zahl    3Q25 
+GMV                   13.147   +8%     4  12.179 
+Umsatz                 3.882  +10%     2   3.530 
+GMV = Bruttowarenwert (gross merchandise value)
+
+SYMRISE (7:30)
+
+Nachfolgend die Konsensschätzungen für das dritte Quartal (Angaben in Millionen Euro, Ausnahme Ergebnis je Aktie in Euro, Umsatzentwicklung und Marge in Prozent, Bilanzierung nach IFRS):
+
+                                       PROG   PROG  PROG 
+3. QUARTAL                             3Q26   ggVj  Zahl   3Q25 
+Umsatz Konzern                        1.283    +5%    12  1.223 
+- Scent & Care                          501    +3%    12    487 
+- Taste, Nutrition & Health             782    +6%    12    736 
+Organische Umsatzentwicklung Konzern    5,0     --    14    1,4 
+- Scent & Care                          4,2     --    11    1,3 
+- Taste, Nutrition & Health             5,4     --    11    1,5
+
+TRATON (8:00)
+
+Nachfolgend die Konsensschätzungen für das dritte Quartal (Angaben in Millionen Euro, Ausnahme Ergebnis je Aktie in Euro, Marge in Prozent, Bilanzierung nach IFRS):
+
+                                   PROG  PROG  PROG 
+3. QUARTAL                         3Q26  ggVj  Zahl    3Q25 
+Umsatz                           11.620  +12%    17  10.416 
+Operatives Ergebnis bereinigt       780  +17%    17     668 
+Operative Marge bereinigt           6,7    --    17     6,4 
+Ergebnis nach Steuern/Dritten       544  +68%     6     324 
+Ergebnis je Aktie                  1,11  +71%    12    0,65
+
+Weitere Termine:
+
+05:00 GB/Standard Chartered plc, Ergebnis 3Q
+
+07:00 CH/Sandoz Group AG, Umsatz 3Q
+
+07:30 FR/Danone SA, Umsatz 3Q
+
+07:30 NL/Adyen NV, Ergebnis 3Q
+
+07:30 KR/LG Electronics Inc, ausführliches Ergebnis 3Q
+
+07:30 NL/KPN NV, Ergebnis 3Q
+
+08:00 GB/GSK plc, Ergebnis 3Q
+
+08:00 GB/Unilever plc, Trading Statement 3Q
+
+08:00 NL/Stellantis NV, Ergebnis 3Q (13:00 Analysten- und Pressekonferenz)
+
+09:00 GB/Aston Martin Lagonda Global Holdings plc, Ergebnis 3Q
+
+12:30 US/T-Mobile US Inc, Ergebnis 3Q
+
+12:30 US/GE Healthcare Technologies Inc, Ergebnis 3Q
+
+12:30 US/GE Vernova Inc, Ergebnis 3Q
+
+21:00 US/Fedex Corp, Ergebnis 1Q
+
+21:05 US/Alphabet Inc (Google-Holding), Ergebnis 3Q
+
+21:05 US/Microsoft Corp, Ergebnis 1Q
+
+21:05 US/Ebay Inc, Ergebnis 3Q
+
+21:10 US/Ford Motor Co, Ergebnis 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- DE 
+    08:00 NIM-Konsumklimaindikator November 
+          PROGNOSE: -30,8 
+          zuvor:    -30,6 
+- US 
+    15:30 Rohöllagerbestandsdaten (Woche) der staatlichen 
+          Energy Information Administration (EIA) 
+ 
+    19:00 Fed, Ergebnis der FOMC-Sitzung (19:30 Pk mit Chairman Warsh) 
+          Fed-Funds-Zielsatz 
+          PROGNOSE: 3,75% bis 4,00% 
+          zuvor:    3,75% bis 4,00%
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+Index                       zuletzt  +/- % 
+DAX Futures               25.631,00   -0,3 
+E-Mini-Future S&P-500      7.757,50   -0,0 
+E-Mini-Future Nasdaq-100  29.931,00   +0,4 
+Topix (Tokio)              3.991,71   -0,1 
+Hang-Seng (Hongk.)        23.098,02   +0,3 
+Shanghai-Comp.             3.674,48   +0,7 
+ 
+Dienstag: 
+INDEX               Schluss  +/- % 
+DAX               25.590,77   +0,7 
+DAX-Future        25.739,00   +0,7 
+MDAX              30.495,47   +0,7 
+TecDAX             4.092,64   +0,9 
+SDAX              18.373,06   +0,2 
+Euro-Stoxx-50      6.164,69   +0,8 
+Stoxx-50           5.371,41   +0,3 
+XDAX              25.613,39   +0,1 
+Dow-Jones         52.377,57   +0,0 
+S&P-500            7.722,60   +0,6 
+Nasdaq Composite  26.477,81   +1,2
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Nach den Aufschlägen vom Vortag dürften die Börsen mit kleinen Abgaben starten. Wie das Wall Street Journal berichtet, sollen die USA mehrere arabische Golfstaaten aufgefordert haben, sich nach den US-Zwischenwahlen Anfang November auf einen kurzen, intensiven Militäreinsatz einzustellen. Der Brent Ölpreis zieht daraufhin an, die Rendite der 10-jährigen US-Benchmarkanleihe steigt leicht auf 5,02 Prozent. Das Höhepunkt des Tages ist die geldpolitische Entscheidung der US-Notenbank - allerdings erst bach Börsenschluss in Europa. Es gilt als ausgemacht, dass das aktuelle Leitzinsniveau bestätigt wird. "Normalerweise würde man an der Stelle sagen, entscheidend ist der Ausblick. Allerdings wird Kevin Warsh hier Anleger und Börsen wohl ganz bewusst im Unklaren lassen", heißt es bei QC Partners. Die Wahrscheinlichkeit einer Dezember-Erhöhung wird aktuell mit 90 Prozent eingepreist. Ansonsten dürfte die Berichtssaison Akzente setzen.
+
+Rückblick: Fester - Angeführt von Technologiewerten haben die Aktienmärkte fester geschlossen. Damit zeigten sich Anleger optimistisch vor den geldpolitischen Entscheidungen von Bank of Japan, US-Notenbank sowie EZB und den Geschäftszahlen von Amazon, Alphabet und Microsoft in der laufenden Woche. Die Geschäftszahlen der Technologie-Giganten dürften vor allem mit Blick auf die Nachhaltigkeit des KI-Investitionsbooms an der Börse geprüft werden. Der europäische Technologie-Subindex war mit einem Plus von 2,0 Prozent Tagesgewinner. Siemens Energy stiegen um weitere 4,4 Prozent und Infineon gewannen 4,8 Prozent. ASML legten um 2,8 Prozent zu und STMicro schlossen 7,1 Prozent höher. BE Semiconductor haussierten mit Aufschlägen von 11,4 Prozent. Applied Materials stockt ihre Beteiligung am Halbleiterausrüster auf. Barclays sprach mit Blick auf die Geschäftszahlen der HSBC (-5,4%) von einem durchwachsenen Quartal. Die Drittquartalszahlen von Novartis (+1,0%) waren indes besser als erwartet ausgefallen.
+
+DAX/MDAX/SDAX/TECDAX
+
+Fester - Das organische Umsatzwachstum bei Beiersdorf hatte die Erwartungen im dritten Quartal verfehlt. Der Kurs verlor 3,3 Prozent, für Henkel ging es im Gefolge um 0,7 Prozent nach unten. Mercedes-Benz kassierte die Ziele für dieses Jahr. Nach Einschätzung von JP Morgan dürften die Konsenserwartungen um rund 10 Prozent nach unten revidiert werden. Die Aktie war mit einem Minus von 3,9 Prozent größter DAX-Verlierer. Porsche AG gewannen dagegen 3,8 Prozent. Der Sportwagenbauer hatte laut JP Morgan solide Drittquartalszahlen vorgelegt. Suss fielen nach einer Gewinnwarnung um 4 Prozent. Cancom hatte - aus Sicht der Deutschen Bank überraschend - den Mittelwert der Umsatzprognose für 2026 um 6 Prozent gesenkt. Cancom verloren 6,0 Prozent.
+
+USA - AKTIEN
+
+Uneinheitlich - Während es für den Dow-Jones-Index, belastet von den Abgaben bei Boeing und Sherwin-Williams, leicht abwärts ging, zeigten sich der S&P-500 und die Nasdaq-Indizes mit Gewinnen - gestützt von wachsendem Optimismus über die anstehenden Quartalsberichte der sogenannten KI-Hyperscaler. Unter den großen Technologieunternehmen, die in den kommenden Tagen Quartalszahlen vorlegen, stiegen Alphabet um 0,8 Prozent. Microsoft gaben um 0,2 Prozent nach, Amazon legten um 1,6 Prozent zu. Boeing verzeichnete einen weiteren Quartalsverlust. Die Aktie war mit einem Einbruch von 11 Prozent größter Dow-Verlierer. UPS (+5,9%) hatte den Ausblick für das Gesamtjahr angehoben und im dritten Quartal einen höheren Umsatz erzielt. Coca-Cola (-1,6%) hat seine Gewinnprognose für das Gesamtjahr angehoben, warnte aber vor den Folgen der Inflation. Auch Paypal (+2%) hatte die Prognose für das Gesamtjahr erhöht. General Motors (+5,5%) verlegt ihre Börsennotierung von der New York Stock Exchange zur Nasdaq.
+
+USA - ANLEIHEN
+
+US-Treasuries  Rendite    +/- 
+2  Jahre         4,74d   +0,03 
+10 Jahre         4,99    +0,004 
+30 Jahre         5,30    +0,004
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 28, 2026 02:30 ET (06:30 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+28.10.2026 / 07:30:59
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
+Die Renditen holten zwischenzeitlich moderate Abgaben wieder auf und legten leicht zu. Die Volatilität wurde mit der Verunsicherung wegen der US-Notenbanksitzung und dem künftigen Zinspfad erklärt.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN        zuletzt  +/- %  +/- abs.  Schluss Vortag  Di, 18:43 
+EUR/USD         1,1117   -0,0   -0,0005          1,1122     1,1139 
+EUR/JPY         175,43   -0,2   -0,2700        175,7000   175,8700 
+EUR/CHF         0,9227   +0,1    0,0005          0,9222     0,9224 
+EUR/GBP         0,8364   +0,1    0,0006          0,8358     0,8364 
+USD/JPY          157,8   -0,1   -0,1400        157,9400   157,8600 
+GBP/USD         1,3285   -0,1   -0,0018          1,3303     1,3313 
+USD/CNY         6,6671   +0,0    0,0011          6,6660     6,6660 
+USD/CNH         6,6661   +0,0    0,0014          6,6647     6,6641 
+AUS/USD         0,7029   +0,1    0,0005          0,7024     0,7032 
+Bitcoin/USD  80.819,66   +0,1    115,16       80.704,50  80.603,34
+
+Der Dollar baute seine Vortagesgewinne aus. Der Dollar-Index legte um weitere 0,2 Prozent zu. Der Greenback dürfte vor den Zwischenwahlen im November stark bleiben, selbst wenn die US-Notenbank am Mittwoch trotz erhöhter Inflationsrisiken die Zinssätze unverändert lasse, urteilten die Strategen von TD Securities. Der Euro büßte 0,4 Prozent auf 1,1125 Dollar ein.
+
+Der US-Dollar legt am Morgen weiter zu, der Dollar-Index steigt um weitere 0,1 Prozent. Die Märkte rechnen mit einer Beibehaltung des aktuellen Zinssatzes, beobachten jedoch auch genau den Ton von Fed-Vorsitzendem Kevin Warsh auf mögliche restriktive Signale hinsichtlich der Inflation, die den Zinspfad neu bewerten könnten, so UOB. Eine eher lockere Haltung, die die Erwartungen an Zinserhöhungen dämpfe, belastete den Greenback, heißt es weiter.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle        zuletzt  +/- %  +/- abs.  Schluss Vortag 
+Gold          4.031,34   -0,7    -26,46        4.057,80 
+Silber           53,83   -1,0     -0,53           54,36 
+Platin        1.528,75   -0,7    -11,53        1.540,28
+
+Der Goldpreis konnte sich von der Marke bei 4.000 Dollar je Feinunze weiter absetzen. Das Edelmetall gewann zum Settlement 0,9 Prozent auf 4.059 Dollar je Feinunze.
+
+ÖL
+
+ROHÖL          zuletzt  +/- %  +/- abs.  Schluss Vortag 
+WTI/Nymex       101,39   +1,5      1,49            99,9 
+Brent/ICE       115,73   +1,6      1,85          113,88
+
+Die Ölpreise gaben deutlicher nach. Der Preis für ein Barrel der Sorte Brent verlor 1,7 Prozent auf 113,88 Dollar. Teilnehmer hofften mit Blick auf die Israel-Wahl auf diplomatische Bemühungen zur Entschärfung der Spannungen im Nahen Osten.
+
+Am Morgen steigen die Ölpreise wieder. Laut Wall Street Journal haben die USA mehrere arabische Golfstaaten aufgefordert, sich nach den US-Zwischenwahlen Anfang November auf einen kurzen, intensiven Militäreinsatz gegen den Iran einzustellen.
+
++++++ MELDUNGEN SEIT VORTAG 17.30 UHR +++++
+
+EUROPÄISCHER NUTZFAHRZEUGMARKT
+
+hat in den ersten neun Monaten dieses Jahres vor dem Hintergrund steigender Energiepreise ein uneinheitliches Bild gezeigt. Während die Zulassungen leichter Nutzfahrzeuge weitgehend stabil blieben, zeigte das Lkw-Segment eine Erholung ausgehend von einer niedrigen Basis, wie Acea mitteilte. Das Bus-Segment verzeichnete ein solides Wachstum. Der Anteil von Elektrofahrzeugen an den Neuzulassungen habe zwar weiter zugenommen, jedoch bleibe die Akzeptanz hinter dem erforderlichen Tempo zurück, fügte die Herstellervereinigung hinzu.
+
+BASF
+
+                                   BERICHTET    PROG   PROG 
+3. QUARTAL                       3Q26   ggVj    3Q26   ggVj    3Q25 
+Umsatz                         16.360   +14%  15.665    +9%  14.328 
+EBITDA vor Sondereffekten       1.643   +15%   1.495    +5%   1.430 
+EBITDA                          1.206  -0,1%   1.387   +15%   1.207 
+EBIT vor Sondereffekten           681   +28%     502    -6%     533 
+EBIT                              -98     --     444   +91%     232 
+Ergebnis vor Steuern              -41     --     326  +133%     140 
+Ergebnis nach Steuern/Dritten     155   -10%     196   +14%     172 
+Ergebnis je Aktie                0,18    -5%    0,26   +35%    0,19 
+ 
+AUSBLICK 2026 - das Unternehmen erwartet: 
+- EBITDA vor Sondereffekten: nun zwischen  7,4 und 7,8 Mrd Euro (bisher: 6,9 und 7,7 Mrd Euro) 
+- Free Cashflow: weiter zwischen 1,5 und 2,3 Mrd Euro
+
+\- alle Angaben in Millionen in den Tabellen Euro, Ausnahme Ergebnis und Dividende je Aktie in Euro;
+
+DEUTSCHE BANK
+
+                               BERICHTET   PROG  PROG 
+3. QUARTAL                    3Q26  ggVj   3Q26  ggVj    3Q25 
+Erträge                      8.335   +4%  8.208   +2%   8.043 
+-Investmentbank              2.918   -2%  2.922   -2%   2.978 
+-Fixed Income & Currencies   2.400\*   --  2.411   -4%   2.500 
+Aufwand-Ertrags-Relation      62,4    --   65,0    --    64,4 
+Risikovorsorge                 501  +20%    488  +17%     417 
+Eigenkapitalrendite (RoTE)    10,6    --    9,9    --    10,7 
+Ergebnis vor Steuern         2.631   +8%  2.390   -2%   2.445 
+Ergebnis nach Steuern        1.852   +2%  1.699   -7%   1.819 
+Ergebnis nach Steuern/Dritten      -100%  1.649   +5%   1.564 
+Ergebnis je Aktie verwässert  0,94   +6%   0,77  -13%    0,89 
+\* gerundete Angabe des Unternehmens 
+ 
+AUSBLICK 2026 - das Unternehmen erwartet: 
+- Erträge: "auf dem Weg, das angestrebte Ertragsniveau von 
+33 Mrd. Euro für 2026 zu übertreffen"
+
+\- alle Angaben in den Tabellen in Millionen Euro, Ausnahme Ergebnis je Aktie in Euro, Aufwand-Ertrag-Relation und Rendite in Prozent;
+
+Die Deutsche Bank muss ihr Geschäft im kommenden Jahr gemäß den Anforderungen der Europäischen Zentralbank (EZB) im Überprüfungs- und Bewertungsprozesses der Aufsicht (SREP) mit etwas weniger Eigenkapital hinterlegen als im Vorjahr. Wie die Bank mitteilte, wurde die sogenannte Säule-2-Anforderung (P2R) auf eine Quote von 2,60 Prozent ab Anfang Januar 2027 festgelegt, 25 Basispunkte weniger als für 2026. Die aufsichtliche Anforderung insgesamt für die harte Kernkapitalquote beläuft sich für 2027 auf 11,07 Prozent. Für das zweite Quartal 2026 hatte die Bank eine Quote von 13,92 Prozent ausgewiesen.
+
+COMMERZBANK
+
+Scope hat das Emittenten-Rating mit A und stabilem Ausblick bestätigt. Laut der Ratingagentur spiegelt die Bestätigung die solide operative Entwicklung der Commerzbank sowie ihr starkes Solvabilitäts- und Refinanzierungsprofil wider. Scope bezeichnete es als mittlerweile sehr wahrscheinlich, dass die Commerzbank Teil der italienischen Großbank Unicredit wird, was jedoch keine direkten Auswirkungen auf die Bonitätsbewertung habe.
+
+DWS
+
+                           BERICHTET   PROG  PROG 
+3. QUARTAL                3Q26  ggVj   3Q26  ggVj   3Q25 
+Erträge                    784   +4%    802   +6%    754 
+Aufwand-Ertrags-Relation  58,6    --   57,1    --   57,7 
+Nettomittelflüsse         30,9 +155%   15,1  +25%   12,1 
+Verwaltetes Vermögen     1.221  +16%  1.196  +13%  1.054 
+Ergebnis vor Steuern       325   +2%    345   +8%    319 
+Ergebnis je Aktie         1,15   +5%   1,21  +10%   1,10 
+ 
+AUSBLICK bis 2026 - das Unternehmen erwartet weiterhin: 
+- ein Wachstum des Gewinns je Aktie 10 bis 15% 
+- eine Aufwand-Ertrag-Relation bei 55 bis 57% 
+- Anstieg des Nettomittelaufkommens bei 2 bis 5%
+
+\- alle Angaben in den Tabellen in Millionen Euro, Ausnahme Ergebnis und Dividende je Aktie in Euro, Nettomittelflüsse und das verwaltete Vermögen in Mrd Euro, Aufwand-Ertrags-Relation in Prozent;
+
+MERCEDES-BENZ
+
+                                              BERICHTET   PROG   PROG 
+3. QUARTAL\*                                  3Q26  ggVj   3Q26   ggVj   3Q25 
+Umsatz                                     30.698   -5% 30.942    -4% 32.147 
+EBIT                                        1.773 +136%  1.531  +104%    750 
+Ergebnis je Aktie unverwässert               1,64  +34%   1,27    +4%   1,22 
+Umsatz Cars                                22.374   -6% 22.400    -6% 23.742 
+EBIT bereinigt Cars                           560  -51%    583   -49%  1.139 
+bereinigte Umsatzrendite Cars                 2,5    --    2,6     --    4,8 
+Umsatz Vans                                 4.223   +4%  4.226    +4%  4.044 
+EBIT bereinigt Vans                           397   -4%    386    -6%    412 
+bereinigte Umsatzrendite Vans                 9,4    --    9,1     --   10,2 
+Umsatz Financial Services                   5.587   -4%  5.831  +0,4%  5.805 
+EBIT bereinigt Financial Services             445  +42%    399   +28%    313 
+ber Eigenkapitalrendite Financial Services   13,8    --     --     --    9,6 
+Free Cashflow Industriegeschäft               172  -87%    557   -59%  1.367 
+\*Das Unternehmen hatte am 27. Oktober vorab berichtet. 
+ 
+AUSBLICK 2026 - das Unternehmen erwartet nun: 
+Mercedes-Benz Group: 
+- Umsatz: leicht unter Vorjahr 
+- EBIT: auf dem Niveau des Vorjahres (bisher: deutlich über dem Niveau des Vorjahres) 
+- Free Cashflow des Industriegeschäfts: den Schwellenwert der bisherigen Prognosespanne knapp unterschreitet und somit 
+  nun deutlich unter dem Niveau des Vorjahres liegen wird (bisher: leicht unter dem Niveau des Vorjahres) 
+- Mercedes-Benz Cars: erwartet nun eine bereinigte Umsatzrendite von 2% bis 3% (bisher: 3% bis 5%) 
+- Unverändert bleiben die erwartete bereinigte Umsatzrendite von Mercedes-Benz Vans (8% bis 10%) 
+  und die erwartete bereinigte Eigenkapitalrendite von Mercedes-Benz Financial Services (12% bis 14%)
+
+\- alle Angaben in den Tabellen in Millionen Euro, Ausnahme Ergebnis und Dividende je Aktie in Euro, Rendite in Prozent;
+
+ASLM
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 28, 2026 02:30 ET (06:30 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+
+# Nachricht - Börse Stuttgart
+
+28.10.2026 / 07:30:59
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
+Die Renditen holten zwischenzeitlich moderate Abgaben wieder auf und legten leicht zu. Die Volatilität wurde mit der Verunsicherung wegen der US-Notenbanksitzung und dem künftigen Zinspfad erklärt.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN        zuletzt  +/- %  +/- abs.  Schluss Vortag  Di, 18:43 
+EUR/USD         1,1117   -0,0   -0,0005          1,1122     1,1139 
+EUR/JPY         175,43   -0,2   -0,2700        175,7000   175,8700 
+EUR/CHF         0,9227   +0,1    0,0005          0,9222     0,9224 
+EUR/GBP         0,8364   +0,1    0,0006          0,8358     0,8364 
+USD/JPY          157,8   -0,1   -0,1400        157,9400   157,8600 
+GBP/USD         1,3285   -0,1   -0,0018          1,3303     1,3313 
+USD/CNY         6,6671   +0,0    0,0011          6,6660     6,6660 
+USD/CNH         6,6661   +0,0    0,0014          6,6647     6,6641 
+AUS/USD         0,7029   +0,1    0,0005          0,7024     0,7032 
+Bitcoin/USD  80.819,66   +0,1    115,16       80.704,50  80.603,34
+
+Der Dollar baute seine Vortagesgewinne aus. Der Dollar-Index legte um weitere 0,2 Prozent zu. Der Greenback dürfte vor den Zwischenwahlen im November stark bleiben, selbst wenn die US-Notenbank am Mittwoch trotz erhöhter Inflationsrisiken die Zinssätze unverändert lasse, urteilten die Strategen von TD Securities. Der Euro büßte 0,4 Prozent auf 1,1125 Dollar ein.
+
+Der US-Dollar legt am Morgen weiter zu, der Dollar-Index steigt um weitere 0,1 Prozent. Die Märkte rechnen mit einer Beibehaltung des aktuellen Zinssatzes, beobachten jedoch auch genau den Ton von Fed-Vorsitzendem Kevin Warsh auf mögliche restriktive Signale hinsichtlich der Inflation, die den Zinspfad neu bewerten könnten, so UOB. Eine eher lockere Haltung, die die Erwartungen an Zinserhöhungen dämpfe, belastete den Greenback, heißt es weiter.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle        zuletzt  +/- %  +/- abs.  Schluss Vortag 
+Gold          4.031,34   -0,7    -26,46        4.057,80 
+Silber           53,83   -1,0     -0,53           54,36 
+Platin        1.528,75   -0,7    -11,53        1.540,28
+
+Der Goldpreis konnte sich von der Marke bei 4.000 Dollar je Feinunze weiter absetzen. Das Edelmetall gewann zum Settlement 0,9 Prozent auf 4.059 Dollar je Feinunze.
+
+ÖL
+
+ROHÖL          zuletzt  +/- %  +/- abs.  Schluss Vortag 
+WTI/Nymex       101,39   +1,5      1,49            99,9 
+Brent/ICE       115,73   +1,6      1,85          113,88
+
+Die Ölpreise gaben deutlicher nach. Der Preis für ein Barrel der Sorte Brent verlor 1,7 Prozent auf 113,88 Dollar. Teilnehmer hofften mit Blick auf die Israel-Wahl auf diplomatische Bemühungen zur Entschärfung der Spannungen im Nahen Osten.
+
+Am Morgen steigen die Ölpreise wieder. Laut Wall Street Journal haben die USA mehrere arabische Golfstaaten aufgefordert, sich nach den US-Zwischenwahlen Anfang November auf einen kurzen, intensiven Militäreinsatz gegen den Iran einzustellen.
+
++++++ MELDUNGEN SEIT VORTAG 17.30 UHR +++++
+
+EUROPÄISCHER NUTZFAHRZEUGMARKT
+
+hat in den ersten neun Monaten dieses Jahres vor dem Hintergrund steigender Energiepreise ein uneinheitliches Bild gezeigt. Während die Zulassungen leichter Nutzfahrzeuge weitgehend stabil blieben, zeigte das Lkw-Segment eine Erholung ausgehend von einer niedrigen Basis, wie Acea mitteilte. Das Bus-Segment verzeichnete ein solides Wachstum. Der Anteil von Elektrofahrzeugen an den Neuzulassungen habe zwar weiter zugenommen, jedoch bleibe die Akzeptanz hinter dem erforderlichen Tempo zurück, fügte die Herstellervereinigung hinzu.
+
+BASF
+
+                                   BERICHTET    PROG   PROG 
+3. QUARTAL                       3Q26   ggVj    3Q26   ggVj    3Q25 
+Umsatz                         16.360   +14%  15.665    +9%  14.328 
+EBITDA vor Sondereffekten       1.643   +15%   1.495    +5%   1.430 
+EBITDA                          1.206  -0,1%   1.387   +15%   1.207 
+EBIT vor Sondereffekten           681   +28%     502    -6%     533 
+EBIT                              -98     --     444   +91%     232 
+Ergebnis vor Steuern              -41     --     326  +133%     140 
+Ergebnis nach Steuern/Dritten     155   -10%     196   +14%     172 
+Ergebnis je Aktie                0,18    -5%    0,26   +35%    0,19 
+ 
+AUSBLICK 2026 - das Unternehmen erwartet: 
+- EBITDA vor Sondereffekten: nun zwischen  7,4 und 7,8 Mrd Euro (bisher: 6,9 und 7,7 Mrd Euro) 
+- Free Cashflow: weiter zwischen 1,5 und 2,3 Mrd Euro
+
+\- alle Angaben in Millionen in den Tabellen Euro, Ausnahme Ergebnis und Dividende je Aktie in Euro;
+
+DEUTSCHE BANK
+
+                               BERICHTET   PROG  PROG 
+3. QUARTAL                    3Q26  ggVj   3Q26  ggVj    3Q25 
+Erträge                      8.335   +4%  8.208   +2%   8.043 
+-Investmentbank              2.918   -2%  2.922   -2%   2.978 
+-Fixed Income & Currencies   2.400\*   --  2.411   -4%   2.500 
+Aufwand-Ertrags-Relation      62,4    --   65,0    --    64,4 
+Risikovorsorge                 501  +20%    488  +17%     417 
+Eigenkapitalrendite (RoTE)    10,6    --    9,9    --    10,7 
+Ergebnis vor Steuern         2.631   +8%  2.390   -2%   2.445 
+Ergebnis nach Steuern        1.852   +2%  1.699   -7%   1.819 
+Ergebnis nach Steuern/Dritten      -100%  1.649   +5%   1.564 
+Ergebnis je Aktie verwässert  0,94   +6%   0,77  -13%    0,89 
+\* gerundete Angabe des Unternehmens 
+ 
+AUSBLICK 2026 - das Unternehmen erwartet: 
+- Erträge: "auf dem Weg, das angestrebte Ertragsniveau von 
+33 Mrd. Euro für 2026 zu übertreffen"
+
+\- alle Angaben in den Tabellen in Millionen Euro, Ausnahme Ergebnis je Aktie in Euro, Aufwand-Ertrag-Relation und Rendite in Prozent;
+
+Die Deutsche Bank muss ihr Geschäft im kommenden Jahr gemäß den Anforderungen der Europäischen Zentralbank (EZB) im Überprüfungs- und Bewertungsprozesses der Aufsicht (SREP) mit etwas weniger Eigenkapital hinterlegen als im Vorjahr. Wie die Bank mitteilte, wurde die sogenannte Säule-2-Anforderung (P2R) auf eine Quote von 2,60 Prozent ab Anfang Januar 2027 festgelegt, 25 Basispunkte weniger als für 2026. Die aufsichtliche Anforderung insgesamt für die harte Kernkapitalquote beläuft sich für 2027 auf 11,07 Prozent. Für das zweite Quartal 2026 hatte die Bank eine Quote von 13,92 Prozent ausgewiesen.
+
+COMMERZBANK
+
+Scope hat das Emittenten-Rating mit A und stabilem Ausblick bestätigt. Laut der Ratingagentur spiegelt die Bestätigung die solide operative Entwicklung der Commerzbank sowie ihr starkes Solvabilitäts- und Refinanzierungsprofil wider. Scope bezeichnete es als mittlerweile sehr wahrscheinlich, dass die Commerzbank Teil der italienischen Großbank Unicredit wird, was jedoch keine direkten Auswirkungen auf die Bonitätsbewertung habe.
+
+DWS
+
+                           BERICHTET   PROG  PROG 
+3. QUARTAL                3Q26  ggVj   3Q26  ggVj   3Q25 
+Erträge                    784   +4%    802   +6%    754 
+Aufwand-Ertrags-Relation  58,6    --   57,1    --   57,7 
+Nettomittelflüsse         30,9 +155%   15,1  +25%   12,1 
+Verwaltetes Vermögen     1.221  +16%  1.196  +13%  1.054 
+Ergebnis vor Steuern       325   +2%    345   +8%    319 
+Ergebnis je Aktie         1,15   +5%   1,21  +10%   1,10 
+ 
+AUSBLICK bis 2026 - das Unternehmen erwartet weiterhin: 
+- ein Wachstum des Gewinns je Aktie 10 bis 15% 
+- eine Aufwand-Ertrag-Relation bei 55 bis 57% 
+- Anstieg des Nettomittelaufkommens bei 2 bis 5%
+
+\- alle Angaben in den Tabellen in Millionen Euro, Ausnahme Ergebnis und Dividende je Aktie in Euro, Nettomittelflüsse und das verwaltete Vermögen in Mrd Euro, Aufwand-Ertrags-Relation in Prozent;
+
+MERCEDES-BENZ
+
+                                              BERICHTET   PROG   PROG 
+3. QUARTAL\*                                  3Q26  ggVj   3Q26   ggVj   3Q25 
+Umsatz                                     30.698   -5% 30.942    -4% 32.147 
+EBIT                                        1.773 +136%  1.531  +104%    750 
+Ergebnis je Aktie unverwässert               1,64  +34%   1,27    +4%   1,22 
+Umsatz Cars                                22.374   -6% 22.400    -6% 23.742 
+EBIT bereinigt Cars                           560  -51%    583   -49%  1.139 
+bereinigte Umsatzrendite Cars                 2,5    --    2,6     --    4,8 
+Umsatz Vans                                 4.223   +4%  4.226    +4%  4.044 
+EBIT bereinigt Vans                           397   -4%    386    -6%    412 
+bereinigte Umsatzrendite Vans                 9,4    --    9,1     --   10,2 
+Umsatz Financial Services                   5.587   -4%  5.831  +0,4%  5.805 
+EBIT bereinigt Financial Services             445  +42%    399   +28%    313 
+ber Eigenkapitalrendite Financial Services   13,8    --     --     --    9,6 
+Free Cashflow Industriegeschäft               172  -87%    557   -59%  1.367 
+\*Das Unternehmen hatte am 27. Oktober vorab berichtet. 
+ 
+AUSBLICK 2026 - das Unternehmen erwartet nun: 
+Mercedes-Benz Group: 
+- Umsatz: leicht unter Vorjahr 
+- EBIT: auf dem Niveau des Vorjahres (bisher: deutlich über dem Niveau des Vorjahres) 
+- Free Cashflow des Industriegeschäfts: den Schwellenwert der bisherigen Prognosespanne knapp unterschreitet und somit 
+  nun deutlich unter dem Niveau des Vorjahres liegen wird (bisher: leicht unter dem Niveau des Vorjahres) 
+- Mercedes-Benz Cars: erwartet nun eine bereinigte Umsatzrendite von 2% bis 3% (bisher: 3% bis 5%) 
+- Unverändert bleiben die erwartete bereinigte Umsatzrendite von Mercedes-Benz Vans (8% bis 10%) 
+  und die erwartete bereinigte Eigenkapitalrendite von Mercedes-Benz Financial Services (12% bis 14%)
+
+\- alle Angaben in den Tabellen in Millionen Euro, Ausnahme Ergebnis und Dividende je Aktie in Euro, Rendite in Prozent;
+
+ASLM
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 28, 2026 02:30 ET (06:30 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+28.10.2026 / 07:47:11
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+An den Märkten herrscht die Erwartung, dass die US-Notenbank am Mittwochabend die Zinssätze unverändert lassen wird. Nach der Zinserhöhung im September signalisierten hochrangige Vertreter, dass sie sich mit einem weiteren Schritt nicht beeilen müssten. Anleger nahmen dies zur Kenntnis und senkten die Erwartungen einer Zinserhöhung im Oktober. Dann stärkten die in diesem Monat veröffentlichten Inflationsdaten die Argumente für eine neuerliche Zinserhöhung. Damit ist das von der Fed bevorzugte Inflationsmaß auf dem Weg, keine weiteren Fortschritte in Richtung ihres Ziels von 2 Prozent zu zeigen - ein Stillstand, der bis Anfang 2025 zurückreicht. Der Bauboom im KI-Bereich hat die Wirtschaft widerstandsfähig gehalten. Gleichzeitig sahen sich Unternehmen aufgrund von Zöllen und Energiepreisen mit höheren Inputkosten konfrontiert. Fed-Chairman Kevin Warsh äußerte sich kurz nach der Veröffentlichung der Inflationsdaten. Er tat aber nichts, um die Erwartungen auf eine Beibehaltung des Zinsensniveaus zu ändern. Eine Erhöhung zum aktuellen Zeitpunkt käme weniger als eine Woche vor den Zwischenwahlen überraschend.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+12:30 US/T-Mobile US Inc, Ergebnis 3Q
+
+12:30 US/GE Healthcare Technologies Inc, Ergebnis 3Q
+
+12:30 US/GE Vernova Inc, Ergebnis 3Q
+
+21:00 US/Fedex Corp, Ergebnis 1Q
+
+21:05 US/Alphabet Inc (Google-Holding), Ergebnis 3Q
+
+21:05 US/Microsoft Corp, Ergebnis 1Q
+
+21:05 US/Ebay Inc, Ergebnis 3Q
+
+21:10 US/Ford Motor Co, Ergebnis 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- US 
+    15:30 Rohöllagerbestandsdaten (Woche) der staatlichen 
+          Energy Information Administration (EIA) 
+ 
+    19:00 Fed, Ergebnis der FOMC-Sitzung (19:30 Pk mit Chairman Warsh) 
+          Fed-Funds-Zielsatz 
+          PROGNOSE: 3,75% bis 4,00% 
+          zuvor:    3,75% bis 4,00%
+
++++++ ÜBERSICHT INDIZES +++++
+
+Index                         zuletzt  +/- % 
+E-Mini-Future S&P-500        7.760,25   +0,0 
+E-Mini-Future Nasdaq-100    29.953,00   +0,5 
+S&P/ASX 200 (Sydney)         8.847,30   -0,0 
+Topix-500 (Tokio)            3.991,71   -0,1 
+Kospi (Seoul)                6.012,44   +6,6 
+Shanghai-Composite           3.677,58   +0,8 
+Hang-Seng-Index (Hongkong)  23.094,11   +0,2
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Auch am Mittwoch zeigen sich die Börsen in Ostasien und Australien ohne einheitliche Tendenz. Überraschend starke Geschäftszahlen von SK Hynix zerstreuen Befürchtungen einer KI-Blase und geben Chipwerten in der Region Auftrieb. Ansonsten warten die Anleger aber auf den Zinsentscheid der US-Notenbank am späten Mittwoch. Die Reserve Bank of New Zealand hat derweil überraschend eine Zinspause eingelegt, während Marktteilnehmer mehrheitlich eine Zinserhöhung erwartet hatten. Angeführt werden die Börsen der Region vom südkoreanischen Aktienmarkt, der wiederum von kräftigen Kursgewinnen der beiden Chipgiganten und Indexschwergewichte SK Hynix (+9,5%) und Samsung Electronics (+8,5%) getragen wird. Umsatz und Gewinn von SK Hynix erreichten im dritten Quartal Rekordhöhen. Die Zahlen linderten Befürchtungen, dass die hohen Ausgaben für KI aus dem Ruder liefen, kommentiert Analyst Josh Gilbert von eToro. Im japanischen Chipsektor springen Kioxia um 14 Prozent nach oben. Ibiden und Renesas verbessern sich um 8,1 und 6,6 Prozent. In Hongkong profitieren Semiconductor Manufacturing International mit einem Plus von 6 Prozent von SK Hynix. Hua Hong Grace Semiconductor gewinnen 7,4 Prozent. Ferner legen die Aktien der Bank Standard Chartered in Hongkong um 5,3 Prozent zu. Die Bank hat den Gewinn im dritten Quartal kräftig gesteigert und den Ausblick angehoben. Die australische Börse wurde derweil von Inflationsdaten gebremst. Die Verbraucherpreise in Australien sind im September stärker als im Vormonat und deutlicher als angenommen gestiegen, was Zinserhöhungssorgen nährte. Die nächste Zinssitzung der RBA steht in der kommenden Woche an.
+
+\===
+
+WALL STREET
+
+NDEX               Schluss  +/- % 
+Dow-Jones         52.377,57   +0,0 
+S&P-500            7.722,60   +0,6 
+Nasdaq Composite  26.477,81   +1,2 
+ 
+                     Dienstag   Montag 
+Umsatz NYSE (Aktien) 1,29 Mrd   1,32 Mrd 
+Gewinner             1.573      1.421 
+Verlierer            1.127      1.272 
+Unverändert             72         73
+
+Uneinheitlich - Während es für den Dow-Jones-Index, belastet von den Abgaben bei Boeing und Sherwin-Williams, leicht abwärts ging, zeigten sich der S&P-500 und die Nasdaq-Indizes mit Gewinnen - gestützt von wachsendem Optimismus über die anstehenden Quartalsberichte der sogenannten KI-Hyperscaler. Unter den großen Technologieunternehmen, die in den kommenden Tagen Quartalszahlen vorlegen, stiegen Alphabet um 0,8 Prozent. Microsoft gaben um 0,2 Prozent nach, Amazon legten um 1,6 Prozent zu. Boeing verzeichnete einen weiteren Quartalsverlust. Die Aktie war mit einem Einbruch von 11 Prozent größter Dow-Verlierer. UPS (+5,9%) hatte den Ausblick für das Gesamtjahr angehoben und im dritten Quartal einen höheren Umsatz erzielt. Coca-Cola (-1,6%) hat seine Gewinnprognose für das Gesamtjahr angehoben, warnte aber vor den Folgen der Inflation. Auch Paypal (+2%) hatte die Prognose für das Gesamtjahr erhöht. General Motors (+5,5%) verlegt ihre Börsennotierung von der New York Stock Exchange zur Nasdaq.
+
+USA - ANLEIHEN
+
+US-Treasuries  Rendite    +/- 
+2  Jahre         4,74d   +0,03 
+10 Jahre         4,99    +0,004 
+30 Jahre         5,30    +0,004
+
+Die Renditen holten zwischenzeitlich moderate Abgaben wieder auf und legten leicht zu. Die Volatilität wurde mit der Verunsicherung wegen der US-Notenbanksitzung und dem künftigen Zinspfad erklärt.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN          zuletzt  +/- %          00:00    Di, 8:20 Uhr  % YTD 
+EUR/USD           1,1117   -0,0         1,1122          1,1160   -5,4 
+EUR/JPY           175,52   -0,1         175,70          176,09   -4,6 
+EUR/GBP           0,8369   +0,1         0,8358          0,8374   -4,0 
+USD/JPY           157,87   -0,0         157,94          157,79   +0,8 
+USD/KRW         1.338,79   +0,9       1.326,27        1.324,45   -7,1 
+USD/CNY           6,6669   +0,0         6,6660          6,6684   -4,7 
+USD/CNH           6,6658   +0,0         6,6647          6,6678   -4,4 
+USD/HKD           7,8447    0,0         7,8445          7,8440   +0,8 
+AUD/USD           0,7032   +0,1         0,7024          0,7013   +5,4 
+NZD/USD           0,5613   -1,2         0,5680          0,5690   -2,5 
+BTC/USD        80.825,09   +0,2      80.704,50       79.567,81   -7,8
+
+Der Dollar baute seine Vortagesgewinne aus. Der Dollar-Index legte um weitere 0,2 Prozent zu. Der Greenback dürfte vor den Zwischenwahlen im November stark bleiben, selbst wenn die US-Notenbank am Mittwoch trotz erhöhter Inflationsrisiken die Zinssätze unverändert lasse, urteilten die Strategen von TD Securities. Der Euro büßte 0,4 Prozent auf 1,1125 Dollar ein.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle          zuletzt  +/- %       +/- abs.  Schluss Vortag 
+Gold            4.029,98   -0,7         -27,82        4.057,80 
+Silber             53,82   -1,0          -0,54           54,36 
+Platin          1.533,10   -0,5          -7,18        1.540,28
+
+Der Goldpreis konnte sich von der Marke bei 4.000 Dollar je Feinunze weiter absetzen. Das Edelmetall gewann zum Settlement 0,9 Prozent auf 4.059 Dollar je Feinunze.
+
+ÖL
+
+ROHOEL           zuletzt  +/- %       +/- abs.  Schluss Vortag 
+WTI/Nymex         101,57   +1,7           1,67           99,90 
+Brent/ICE         115,89   +1,8           2,01          113,88
+
+Die Ölpreise gaben deutlicher nach. Der Preis für ein Barrel der Sorte Brent verlor 1,7 Prozent auf 113,88 Dollar. Teilnehmer hofften mit Blick auf die Israel-Wahl auf diplomatische Bemühungen zur Entschärfung der Spannungen im Nahen Osten.
+
++++++ MELDUNGEN SEIT VORTAG, 20.00 UHR +++++
+
+IRAN-KRIEG
+
+Die USA haben mehrere arabische Golfstaaten aufgefordert, sich nach den US-Zwischenwahlen auf einen kurzen, intensiven Militäreinsatz einzustellen. Dies verlautete aus Kreisen von Personen, die über die Gespräche unterrichtet wurden. Die Mitteilungen über diplomatische und militärische Kanäle zählen zu einer wachsenden Zahl von Signalen dafür, dass die USA und Israel Vorbereitungen für eine neue Runde schwerer Kampfhandlungen gegen den Iran treffen.
+
+RESERVE BANK OF NEW ZEALAND
+
+hat den Leitzins auf ihrer geldpolitischen Sitzung am Mittwoch unverändert gelassen. Damit überraschte sie die Geldmärkte, die eine weitere Zinserhöhung als nahezu sicher erachtet hatten. Der offizielle Leitzins verbleibt nach einer knappen Entscheidung des geldpolitischen Boards der Bank bei 2,75 Prozent. Die RBNZ fügte hinzu, dass weitere Zinserhöhungen weiterhin wahrscheinlich seien.
+
+AUSTRALIEN / INFLATION
+
+Die Verbraucherpreise stiegen im September im Jahresvergleich um 4,3 Prozent, nach 4,0 Prozent im August, wie das australische Statistikamt mitteilte. Die für die Geldpolitik wichtigere getrimmte Kernrate der Inflation stieg im September im Jahresvergleich um 3,6 Prozent und lag damit geringfügig höher als im August mit 3,5 Prozent.
+
+USA / METHAN-EMISSIONSREGELN
+
+Die Trump-Regierung arbeitet daran, Regelungen aus der Biden-Ära abzuschaffen, die darauf abzielen, die Emissionen des potenten Treibhausgases Methan zu begrenzen. Sie würde damit eine zentrale Forderung einiger ihrer Verbündeten aus der Öl- und Gasbranche erfüllen.
+
+LG ELECTRONICS
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 28, 2026 02:47 ET (06:47 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+28.10.2026 / 07:47:11
+
+# MORNING BRIEFING - USA/Asien -2-
+
+(Dow Jones Newswires)
+
+Der Nettogewinn stieg im dritten Quartal im Vergleich zum Vorjahr um 54 Prozent auf 708,40 Milliarden Won. Dies entspricht 534,1 Millionen US-Dollar. Analysten hatten laut einer Konsensschätzung von Factset mit einem Nettogewinn von 463,83 Milliarden Won gerechnet. Der Umsatz stieg um 8,9 Prozent auf 23,824 Billionen Won, während der Betriebsgewinn um 14 Prozent auf 781,90 Milliarden Won zulegte. Beide Kennzahlen lagen weitgehend im Rahmen der vorläufigen Schätzungen des Unternehmens.
+
+SEAGATE
+
+meldete für das am 2. Oktober beendete erste Geschäftsquartal einen Gewinn von 1,76 Milliarden US-Dollar beziehungsweise 7,59 Dollar je Aktie. Im Vorjahreszeitraum lag der Gewinn noch bei 549 Millionen Dollar beziehungsweise 2,43 Dollar je Aktie. Auf bereinigter Basis belief sich der Gewinn auf 7,68 Dollar je Aktie und übertraf damit die von Factset befragten Analysten erwarteten 7,45 Dollar je Aktie. Der Umsatz stieg von 2,63 Milliarden Dollar im Vorjahr auf 4,23 Milliarden Dollar und lag damit über den Erwartungen der Analysten von 4,15 Milliarden Dollar.
+
+SK HYNIX
+
+Der Nettogewinn belief sich im dritten Quartal auf 39,776 Billionen Won und verfehlte damit die Erwartungen des Marktes. Analysten hatten laut einer von FactSet zusammengestellten Konsenserwartung mit 61,418 Billionen Won gerechnet. Der Umsatz erreichte mit einem Anstieg auf mehr als das Vierfache auf 104,615 Billionen Won einen Rekordwert. Der Betriebsgewinn erreichte mit 83,334 Billionen Won ebenfalls ein Allzeithoch. Die Aktionäre sollen in Form von Dividenden und Aktienrückkäufen im Gesamtvolumen von 75 Milliarden Dollar vom Erfolg des Unternehmens profitieren.
+
+VISA
+
+meldete für das vierte Geschäftsquartal einen Gewinn von 6 Milliarden US-Dollar beziehungsweise 3,19 Dollar je Aktie. Im Vorjahreszeitraum hatte das Unternehmen einen Gewinn von 5,09 Milliarden Dollar oder 2,62 Dollar je Aktie ausgewiesen. Der bereinigte Gewinn lag bei 3,48 Dollar je Aktie. Von Factset befragte Analysten hatten mit 3,44 Dollar je Aktie gerechnet. Der Umsatz stieg um 13 Prozent auf 12,14 Milliarden Dollar. Analysten hatten im Vorfeld 12,09 Milliarden Dollar erwartet.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/ros/cln
+
+(END) Dow Jones Newswires
+
+October 28, 2026 02:47 ET (06:47 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+28.10.2026 / 08:52:19
+
+# Aktien Asien: Gewinne - SK Hynix facht KI-Begeisterung wieder an
+
+(dpa-AFX) SEOUL/TOKIO/HONGKONG/SHANGHAI (dpa-AFX) - Die Erholung an den Börsen in Südkorea und Japan hat sich am Mittwoch schwungvoll fortgesetzt. Leicht nach oben ging es zudem für die Börsen in China. Für wieder bessere Stimmung rund um Künstliche Intelligenz (KI) sorgte der südkoreanische Chipherstellers SK Hynix mit einem beeindruckenden Quartalsbericht.
+
+SEOUL/TOKIO/HONGKONG/SHANGHAI (dpa-AFX) - Die Erholung an den Börsen in Südkorea und Japan hat sich am Mittwoch schwungvoll fortgesetzt. Leicht nach oben ging es zudem für die Börsen in China. Für wieder bessere Stimmung rund um Künstliche Intelligenz (KI) sorgte der südkoreanische Chipherstellers SK Hynix mit einem beeindruckenden Quartalsbericht.
+
+Die Leitzinsentscheidung der US-Notenbank Fed an diesem Abend in Washington war nach den Neuigkeiten aus Asien zunächst zweitrangig. Mit Spannung warten Investoren nun jedoch auch auf die nachbörslich in den USA anstehenden Geschäftsberichte der zu den "Mag 7" zählenden US-Techgiganten Alphabet und Microsoft sowie am Donnerstagabend auf die Zahlen von Amazon .
+
+Der japanische Nikkei 225 beendete den Handel 1,1 Prozent höher mit 63.954,19 Punkten, nachdem er tags zuvor bereits um 1,7 Prozent zugelegt hatte. Der Kospi in Südkorea , der am Vortag um rund 3 Prozent gestiegen war, sprang zuletzt um 6,6 Prozent hoch und für die Börse in Taiwan ging es um rund 2 Prozent nach oben.
+
+Der KI-Boom sorgte in den vergangenen drei Monaten weiterhin für ein beeindruckendes Wachstum des Chipherstellers SK Hynix und für einen Kursanstieg der Aktie an diesem Morgen um knapp 11 Prozent. Samsung gewannen im Gefolge 9 Prozent und in Japan stiegen Kioxia um fast 14 Prozent.
+
+In den drei Monaten bis Ende September legte der Umsatz im Vergleich zum Vorquartal um gut ein Drittel zu. Verglichen mit dem Vorjahr hat sich der nach Samsung weltweit zweitgrößte Hersteller von Speicherchips sogar mehr als vervierfacht und der operative Gewinn mehr als versiebenfacht. Die enorme Nachfrage nach Hochleistungsspeicherchips (HBM), die für KI-Anwendungen und Infrastruktur benötigt werden, hat SK Hynix in den vergangenen Monaten zu einem der größten Profiteure des KI-Booms gemacht. Dabei gehen die Koreaner davon aus, dass die Nachfrage nach Speicherchips das Angebot noch bis 2030 übersteigen wird.
+
+In China legte der CSI-300-Index mit den 300 wichtigsten Werten vom Festland nach einem schwachen Schluss am Dienstag um 0,9 Prozent auf 4.084 Punkte zu. Der Hang-Seng-Index der Sonderverwaltungszone Hongkong stieg um 0,3 Prozent auf 23.117 Punkte.
+
+In Australien beendete der S&P ASX 200 den Handel fast unverändert mit 8.847,30 Punkten./ck/mis
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Alphabet A
+    
+    #### +0,67 %
+    
+    G 291,25B 291,95
+    
+    WKN A14Y6F
+    
+    28 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a14y6f-alphabet-a/)
+    
+-   [
+    
+    ### Microsoft
+    
+    #### \-0,32 %
+    
+    G 476,75B 477,75
+    
+    WKN 870747
+    
+    19 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/870747-microsoft/)
+    
+-   [
+    
+    ### Amazon.com
+    
+    #### +0,11 %
+    
+    G 228,05B 228,45
+    
+    WKN 906866
+    
+    22 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/906866-amazon-com/)
+    
+-   [
+    
+    ### KIOXIA HOLDINGS CORP.
+    
+    #### +0,78 %
+    
+    G 82,08B 82,39
+    
+    WKN A2QB8W
+    
+    71 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a2qb8w-kioxia-holdings-corp/)
+    
+
+## Weitere relevante Nachrichten
+
+Mittwoch, 28.10.2026
+
+-   [
+    
+    08:21
+    
+    Aktien Frankfurt Ausblick: Zurückhaltung - Quartalszahlen und Fed im Fokus
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=6409226084346796894)
+-   [
+    
+    08:18
+    
+    MÄRKTE ASIEN/Uneinheitlich - SK-Hynix-Zahlen beflügeln Chipwerte
+    
+    Dow Jones Newswires
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=4156180637092736689)
+-   [
+    
+    07:35
+    
+    dpa-AFX Börsentag auf einen Blick: Dax verdaut Erholungsgewinne
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=6216557818042202721)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+-   [
+    
+    ![Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks](https://i.ytimg.com/vi/lvUXFHUEmGU/hqdefault.jpg)
+    
+    Videos**Krypto-Crash oder Bullrun? Markus Miller über Bitcoin, BaFin & Datenlecks**
+    
+    25/09/2026 18:00
+    
+    78:09 3 Billionen Dollar Marktkapitalisierung! Krypto trotzt geopolitischen Krisen, Zinsen und dem Clarity-Act-Aus. In diesem Krypto-Update analysiert Richard „Richy“ Dittrich (Börse Stuttgart Group) gemeinsam mit Experte Markus Miller (Gründer von KRYPTO-X...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/25/krypto-crash-oder-bullrun-markus-miller-ueber-bitcoin-bafin-datenlecks/)
+
+Weitere Treffer anzeigen
+
+
 Die US-Notenbank Federal Reserve (Fed) gibt heute, am 28. Oktober 2026, um 19:00 Uhr MEZ ihre aktuelle Zinsentscheidung bekannt.
 Hier sind die wichtigsten Details zur aktuellen Ausgangslage:
 Aktuelles Zinsniveau: Nach einer überraschenden Anhebung im September 2026 um 25 Basispunkte liegt die geltende Zinsspanne der Federal Funds Rate bei 3,75 % bis 4,00 %.
