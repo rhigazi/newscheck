@@ -1,3 +1,1158 @@
+# Nachricht - Börse Stuttgart
+
+30.10.2026 / 07:32:08
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+FREITAG: In Stockholm findet am Vorabend von Allerheiligen nur eine verkürzte Börsensitzung statt.
+
++++++ TAGESTHEMA +++++
+
+Die Bayer-Tochter Monsanto hat im Milliardenrechtsstreit um die angeblich krebserregende Wirkung des Unkrautvernichters Glyphosat das nach eigener Darstellung erste Verfahren seit der richtungsweisenden Entscheidung des Obersten Gerichtshofs der USA gewonnen. Ein Geschworenengericht in Missouri habe im Fall Aretino et al zugunsten von Monsanto entschieden, teilte der deutsche Pharma- und Agrarchemiekonzern mit, der den Glyphosat-Hersteller vor Jahren geschluckt hatte. Im Juni 2026 hatte der von Bayer angerufene Supreme Court in einem anderen Verfahren entschieden, dass Klagen wegen fehlender Warnhinweise zu möglichen Krebsrisiken nach dem Recht einzelner US-Bundesstaaten durch das Bundesrecht ausgeschlossen sind. Das Urteil im Fall Aretino zeige nun, dass die Klägerseite nach der Supreme-Court-Entscheidung keine Beweise für alternative Klagebegründungen vorlegen könne, erklärte Bayer.
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+PUMA (8:00)
+
+Nachfolgend die Konsensschätzungen für das dritte Quartal (Angaben in Millionen Euro, Ausnahme Ergebnis je Aktie in Euro, Marge in Prozent, Bilanzierung nach IFRS):
+
+                                PROG  PROG  PROG 
+3. QUARTAL                      3Q26  ggVj  Zahl   3Q25 
+Umsatz                         1.755   -6%    17  1.870 
+EBIT bereinigt                   2,6  -90%    16     26 
+EBIT                             -10    --    16     16 
+EBIT-Marge                      -0,6    --    16    0,9 
+Ergebnis nach Steuern/Dritten    -49    --    16    -62 
+Ergebnis je Aktie              -0,33    --    16  -0,42
+
+Weitere Termine:
+
+07:00 DE/Fuchs SE, ausführliches Ergebnis 3Q (10:00 PK; 12:00 Analystenkonferenz)
+
+07:00 DE/Gerresheimer AG, Ergebnis 3Q
+
+07:00 FR/Capgemini SA, Ergebnis 3Q
+
+07:00 FR/Credit Agricole SA, Ergebnis 3Q
+
+07:30 AT/Erste Group Bank AG, Ergebnis 9 Monate
+
+07:30 FR/Sanofi SA, Ergebnis 3Q
+
+08:00 GB/Astrazeneca plc, Ergebnis 9 Monate
+
+08:00 GB/BP plc, Ergebnis 3Q
+
+08:00 GB/Natwest Group plc, Ergebnis 3Q
+
+09:00 DE/Audi AG, Ergebnis 3Q
+
+11:00 US/Chevron Corp, Ergebnis 3Q
+
+11:45 US/Abbvie Inc, Ergebnis 3Q
+
+12:00 IT/Intesa Sanpaolo SpA, Ergebnis 3Q
+
+12:30 US/Exxon Mobil Corp, Ergebnis 3Q
+
+17:30 DE/Hella GmbH & Co KGaA, Ergebnis 3Q (18:15 Telefonkonferenz)
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- FR 
+    07:30 BIP (1. Veröffentlichung) 3Q 
+          PROGNOSE:   +0,1% gg Vq 
+          2. Quartal:  0,0% gg Vq 
+ 
+    07:30 Privater Verbrauch September 
+          PROGNOSE: k.A. 
+          zuvor:    +0,5% gg Vm/+0,8% gg Vj 
+ 
+    08:45 Verbraucherpreise (vorläufig) Oktober 
+          PROGNOSE: +3,2% gg Vj 
+          zuvor:    +3,1% gg Vj 
+          HVPI 
+          PROGNOSE: +3,6% gg Vj 
+          zuvor:    +3,4% gg Vj 
+- DE 
+    08:00 Import-/Exportpreise September 
+          Importpreise 
+          PROGNOSE: k.A. 
+          zuvor:    +1,0% gg Vm/+8,3% gg Vj 
+ 
+    09:55 Arbeitsmarktdaten Oktober 
+          Arbeitslosenzahl saisonbereinigt 
+          PROGNOSE:  +8.000 gg Vm 
+          zuvor:    +12.000 gg Vm 
+          Arbeitslosenquote saisonbereinigt 
+          PROGNOSE: 6,4% 
+          zuvor:    6,4% 
+ 
+    10:00 BIP (1. Veröffentlichung) Q3 
+          kalender- und saisonbereinigt gg Vq 
+          PROGNOSE:   0,0% gg Vj 
+          2.Quartal: +0,3% gg Vq 
+          kalenderbereinigt gg Vj 
+          PROGNOSE:   +1,1% gg Vj 
+          2. Quartal: +1,0% gg Vj 
+ 
+    14:00 Verbraucherpreise (vorläufig) Oktober 
+          PROGNOSE: +0,1% gg Vm/+3,0% gg Vj 
+          zuvor:    +0,6% gg Vm/+3,3% gg Vj 
+          HVPI 
+          PROGNOSE: +0,1% gg Vm/+3,1% gg Vj 
+          zuvor:    +0,6% gg Vm/+3,3% gg Vj 
+- ES 
+    09:00 BIP (1. Veröffentlichung) 3Q 
+          PROGNOSE:  +0,6% gg Vq/+2,7% gg Vj 
+         2. Quartal: +0,7% gg Vq/+2,6% gg Vj 
+ 
+    09:00 HVPI und Verbraucherpreise (vorläufig) Oktober 
+          HVPI 
+          PROGNOSE: +5,1% gg Vj 
+          zuvor:    +5,0% gg Vj 
+- IT 
+    10:00 BIP (1. Veröffentlichung) 3Q 
+          PROGNOSE:   +0,1% gg Vq/+1,0% gg Vj 
+          3. Quartal: +0,2% gg Vq/+1,0% gg Vj 
+ 
+    11:00 Verbraucherpreise (vorläufig) Oktober 
+          PROGNOSE: +4,5% gg Vj 
+          zuvor:    +4,2% gg Vj 
+- EU 
+    11:00 Arbeitsmarktdaten September 
+          Eurozone Arbeitslosenquote 
+          PROGNOSE: 6,4% 
+          zuvor:    6,4% 
+ 
+    11:00 BIP (1. Veröffentlichung) 3Q 
+          Eurozone 
+          PROGNOSE:   +0,2% gg Vq/+1,1% gg Vj 
+          2. Quartal: +0,6% gg Vq/+1,2% gg Vj 
+- CA 
+    13:30 Bruttoinlandsprodukt (BIP) monatlich August 
+          PROGNOSE: +0,2% gg Vm 
+          zuvor:     0,0% gg Vm 
+- US 
+    13:30 Arbeitskostenindex 3Q 
+          PROGNOSE:   +0,8% gg Vq 
+          2. Quartal: +0,9% gg Vq 
+ 
+    14:45 Index Einkaufsmanager Chicago Oktober 
+          PROGNOSE: 56,0 
+          zuvor:    58,8
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+Index                       zuletzt  +/- % 
+DAX Futures               26.095,00   -0,3 
+E-Mini-Future S&P-500      7.683,75   -0,9 
+E-Mini-Future Nasdaq-100  28.990,50   -1,9 
+Topix (Tokio)              3.955,97   -1,2 
+Hang-Seng (Hongk.)        23.387,70   +1,9 
+Shanghai-Comp.             3.640,52   -0,3 
+ 
+Vortag: 
+INDEX               Schluss  +/- % 
+DAX               26.039,68   +1,3 
+DAX-Future        26.211,00   +1,6 
+MDAX              30.798,65   +1,2 
+TecDAX             4.149,61   +0,8 
+SDAX              18.418,50   -0,0 
+Euro-Stoxx-50      6.207,07   +0,6 
+Stoxx-50           5.410,92   +0,8 
+XDAX              26.108,09   +0,3 
+Dow-Jones         52.342,56   -0,3 
+S&P-500            7.720,39   -0,3 
+Nasdaq Composite  26.184,72   -1,4
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Nach den kräftigen Aufschlägen vom Vortag dürften die Börsen mit kleineren Verlusten in den Handel starten. Neben einer normalen Konsolidierung drücken auch negative Vorgaben, vor allem aus dem Technologiebereich. Die Intel-Aktie ist nach einem schwachen Ausblick nachbörslich um mehr als 20 Prozent eingebrochen, für das Amazon-Papier ging es nach Börsenschluss um 7 Prozent nach unten. Die Geschäftszahlen der Technologiegiganten lösen neue Sorgen über die Nachhaltigkeit des KI-Investitionsbooms aus. Der KI-arme DAX befindet sich hier relativ betrachtet im Vorteil. Akzente bei Einzelaktien könnten Unternehmenszahlen setzen. Daneben stehen Wachstumszahlen aus Deutschland und der Eurozone an.
+
+Rückblick: Freundlich - Stützend wirkten leicht gesunkene Marktzinsen, nachdem sowohl die US-Notenbank als auch die Europäische Zentralbank ihre jeweiligen Leitzinsen unverändert belassen hatten. Händler verwiesen überdies auf die bislang überwiegend positiv verlaufene Bilanzsaison. Zudem gaben die Ölpreise nach. Etwas bremsend wirkten schwache Geschäftszahlen aus dem Bankensektor, der 0,2 Prozent abgab. Hier verloren BBVA nach Zahlenausweis 2,6 Prozent. Die beiden übrigen Verlierer in Europa waren Rohstoffwerte mit Abgaben von durchschnittlich 0,2 Prozent und der Lebensmittelsektor mit minus 0,8 Prozent.
+
+DAX/MDAX/SDAX/TECDAX
+
+Fester - Im DAX überzeugte besonders Adidas (+5,8%) mit den endgültigen Geschäftszahlen für das dritte Quartal. Zudem blickt der Sportartikelhersteller optimistisch in die Zukunft. Die Drittquartalszahlen von Volkswagen (+1,7%) fielen schwach aus. Positiv hob JP Morgan aber hervor, dass die Liquidität mit 33 Milliarden Euro unverändert stark sei und das Unternehmen im dritten Quartal einen leicht positiven bereinigten freien Cashflow erzielt habe. Deutsche Telekom (+1,9%) profitierten von überraschen starken Geschäftszahlen der US-Tochter T-Mobile. Henkel (+1%) hatte mit ihren Zahlen die Erwartungen klar übertroffen und den Ausblick angehoben. Als durchwachsen wurden derweil die Geschäftszahlen von MTU (+0,6%) bezeichnet. Ein pessimistischer Ausblick drückte Vonovia um 3 Prozent. Negative Vorgaben von Servicenow ließen SAP um 1,1 Prozent nachgeben. Mit Knorr-Bremse ging es nach schwachen Drittquartalszahlen um 6,8 Prozent abwärts. Salzgitter (+11,2%) überzeugte hingegen mit starken Zahlen. Redcare fielen trotz guter Zahlen um 6,3 Prozent. Diese entsprachen den Konsenserwartungen, wie Baader anmerkte. Händler sprachen von Gewinnmitnahmen.
+
+USA - AKTIEN
+
+Leichter - Der enttäuschende Quartalsausweis der Google-Mutter Alphabet befeuerte die Furcht vor einer KI-Blase und belastete vor allem den Technologiesektor. Trotz eines kräftig gestiegenen Umsatzes im Cloud-Computing-Geschäft verfehlte der Konzernumsatz die Konsensschätzungen. Auch der deutlich negative Cashflow als Folge der massiven Investitionen in den Ausbau der KI-Kapazitäten stoße bei den Anleger auf Skepsis. Der Kurs brach um 12,6 Prozent ein. Der schlechten Stimmung konnten sich auch Microsoft (-0,2%) nicht entziehen, trotz starker Zahlen. Besser als erwartet hatte ferner die Deutsche-Telekom-Tochter T-Mobile (-0,5%) abgeschnitten, im späten Handel senkten jedoch einige große Häuser die Kursziele. Auch die Zahlen des Pharmakonzerns Merck & Co (+3,8%) überraschten positiv. Eine ungebrochen starke Nachfrage nach den Diabetes- und Gewichtsreduktionsmedikamenten von Eli Lilly (+6,6%) verhalf dem Unternehmen zu einem Umsatz und Gewinn deutlich über den Markterwartungen. Auch der Ausblick übertraf den Analystenkonsens. Nach Vorlage "mäßiger" Geschäftszahlen und einem pessimistischen Ausblick stürzten Softwarenow um 27 Prozent ab. Caterpillar gaben 9,3 Prozent ab, nachdem der Umsatz hinter den Erwartungen zurückgeblieben war.
+
+USA - ANLEIHEN
+
+US-Treasuries    Rendite +/- 
+2  Jahre          4,65  -0,08 
+10 Jahre          4,99  -0,06 
+30 Jahre          5,33  -0,03
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 30, 2026 02:32 ET (06:32 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+30.10.2026 / 07:32:08
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
+Die Rendite zehnjähriger der US-Anleihen fiel um 6 Basispunkte auf 4,99 Prozent. Die US-Konjunkturdaten sähen nur auf den ersten Blick robust aus, so Chris Osmond von Fifth Third Wealth Advisors. Er sah in den Daten jedoch Hinweise auf eine sich abschwächende Nachfrage. Auch die Furcht vor einer KI-Blase habe Anleger auf Suche nach Sicherheit an den Anleihemarkt geführt, hieß es.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN        zuletzt  +/- %  +/- abs.  Schluss Vortag  Do, 17:25 Uhr 
+EUR/USD         1,1182   +0,0    0,0004          1,1178         1,1164 
+EUR/JPY         176,28   -0,0   -0,0100        176,2900       176,1800 
+EUR/CHF         0,9197   -0,2   -0,0017          0,9214         0,9223 
+EUR/GBP         0,8352   -0,0   -0,0002          0,8354         0,8348 
+USD/JPY         157,63   -0,0   -0,0600        157,6900       157,8200 
+GBP/USD         1,3382   +0,1    0,0007          1,3375         1,3370 
+USD/CNY         6,6583   -0,0   -0,0027          6,6610         6,6610 
+USD/CNH         6,6541   -0,0   -0,0017          6,6558         6,6574 
+AUS/USD         0,7036   +0,1    0,0009          0,7027         0,7036 
+Bitcoin/USD  78.485,17   -0,5   -355,51       78.840,68      81.395,18
+
+Der Dollar gab im Gefolge der gesunkenen Anleiherenditen etwas nach. Der Dollarindex sank um 0,1 Prozent - der Euro gewann 0,2 Prozent auf 1,1181 Dollar.
+
+Der Dollar-Index schwächt sich am Morgen um weitere 0,2 Prozent ab. Die Rendite 10-jähriger US-Staatsanleihen sinkt um weitere 7 Basispunkte auf 4,92 Prozent und zieht den Greenback nach unten.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle        zuletzt  +/- %  +/- abs.  Schluss Vortag 
+Gold          3.998,49   -0,5    -21,93        4.020,42 
+Silber           51,31   -2,0     -1,07           52,39 
+Platin        1.452,56   -2,4    -35,19        1.487,75
+
+Gold profitierte nicht von gefallenen Zinsen und dem niedrigeren Dollar. Anleger hätten sich vielmehr auf zu erwartende künftige Zinserhöhungen fokussiert, hieß es unter Hinweis darauf, dass die Entscheidung der US-Notenbank vom Mittwoch, den Leitzins unverändert zu belassen, nicht einstimmig erfolgte. Der Preis für die Feinunze Gold sank zum Settlement um 0,4 Prozent auf 4.017,70 Dollar.
+
+ÖL
+
+ROHÖL          zuletzt  +/- %  +/- abs.  Schluss Vortag 
+WTI/Nymex       103,48   +1,5      1,48             102 
+Brent/ICE       116,29   +1,2      1,41          114,88
+
+Hoffnungen auf eine Wiederbelebung der Friedensverhandlungen mit dem Iran ließen die Ölpreise nachgeben. Der Preis für ein Barrel Brentöl fiel um 0,4 Prozent auf 114,88 Dollar. Beobachter merkten jedoch an, dass die USA ihre Militärschläge gegen den Iran nach den US-Zwischenwahlen wieder aufnehmen könnten. Erst ein "glaubwürdiges" Abkommen mit dem Iran könnte die geopolitische Prämie auf dem Brentpreis beseitigen, so Naeem Aslam von Zaye Capital Markets.
+
++++++ MELDUNGEN SEIT VORTAG 17.30 UHR +++++
+
+AUDI
+
+Der umstrittene Auftritt des Audi-Chefs Gernot Döllner an der Seite von US-Präsident Donald Trump wird nun wohl Thema im Aufsichtsrat des Autobauers. Nach Spiegel-Informationen kommt das Gremium am frühen Freitagnachmittag in Ingolstadt zu einer Sondersitzung zusammen. Zuvor hatte die Augsburger Allgemeine berichtet. Döllners Auftritt mit Trump werde Thema der Sitzung sein, zitierte die Zeitung aus Unternehmenskreisen. (Spiegel)
+
+Dem Aufsichtsrat von Volkswagen liegen für das geplante US-Werk von Audi nach Handelsblatt-Informationen bislang keine Vertragsgrundlagen oder beschlussfähige Papiere mit Details zu den Absprachen zwischen der Konzerntochter, dem Bundesstaat Georgia und der Trump-Regierung vor. Zur Debatte steht, dass Audi für die Investitionen in Höhe von 4,2 Milliarden Dollar Finanzhilfen des Bundesstaats und möglicherweise zusätzlich Zollerleichterungen erhält. Konzernkreisen zufolge gibt es allerdings bisher lediglich Absichtserklärungen. (Handelsblatt)
+
+BMW/MERCEDES-BENZ
+
+Die deutsche Autoindustrie steht nach Handelsblatt-Informationen womöglich bald vor Zollerleichterungen in den USA. Demnach könnten BMW und Mercedes von einem möglichen Zoll-Deal zwischen Volkswagen und der US-Regierung von Präsident Donald Trump profitieren. Das hat das Handelsblatt von Personen mit Kenntnis der Vorgänge erfahren. Im Rahmen von Audis Plan in ein neues Werk in den USA zu investieren, führt Volkswagen auch Verhandlungen über Zollerleichterungen mit der US-Regierung. Insidern zufolge könnte US-Präsident Trump zu einem nicht näher genannten Zeitpunkt nach den Zwischenwahlen, die am 3. November stattfinden, diese freigeben. Das habe US-Handelsminister Howard Lutnick dem Autobauer aus Wolfsburg in Aussicht gestellt. Sollte der Deal zustande kommen, könnten dann möglicherweise auch BMW und Mercedes von Zollerleichterungen profitieren, weil ein sogenanntes "Gleichbehandlungsprinzip" greifen könnte. (Handelsblatt)
+
+COMMERZBANK/UNICREDIT
+
+Die Commerzbank bereitet sich auf eine Sonder-HV im Januar oder Februar vor, schreibt der Platow Brief. Noch im Januar wolle Unicredit-Chef Andrea Orcel den Commerzbank-Aufsichtsrat austauschen. Ob die Sonder-HV stattfindet, sei aber noch offen. (Platow Brief)
+
+SFC ENERGY
+
+hat auf Basis vorläufiger Zahlen für die ersten neun Monate ihre Gewinnziele für das Gesamtjahr 2026 erneut angehoben, während das Umsatzziel unverändert bleibt. Der Brennstoffzellenhersteller rechnet beim bereinigten EBITDA nun mit 36,0 bis 38,0 Millionen Euro anstatt 31,5 bis 34,0 Millionen. Für das bereinigte EBIT wird eine Spanne von 25,5 bis 27,5 Millionen Euro erwartet anstatt 21,5 bis 25,5 Millionen Euro. Die Umsatzprognose belässt das SDAX-Unternehmen bei 166,0 bis 175,0 Millionen Euro. Das bereinigte EBIT übertraf mit 25,7 Millionen Euro bereits nach neun Monaten den oberen Wert der bisherigen Jahresspanne.
+
+VW
+
+Nach den Worten von VW-Finanzvorstand Arno Antlitz belasten Zölle den VW-Konzern mit 4 bis 5 Milliarden Euro. "Darin enthalten sind nicht nur direkte Zollzahlungen, sondern auch entgangene Gewinne, weil wir bestimmte Autos nicht mehr wettbewerbsfähig anbieten können, etwa den Jetta aus Mexiko", sagte er im Gespräch mit der FAZ. "An direkten Zöllen haben wir in den ersten neun Monaten rund 2,2 Milliarden Euro gezahlt. Aufs Gesamtjahr hochgerechnet wären es rund 3 drei Milliarden, und rund ein Drittel der Belastung entfällt auf Audi." Seiner Meinung nach ist eine stärkere Produktion in Amerika notwendig, um Volkswagen weltweit robust aufzustellen, mit einer starken dritten Säule in den USA neben Europa und China. (FAZ)
+
+JULIUS BÄR
+
+will am 2. November das zuvor angekündigte neue Aktienrückkaufprogramm im Gesamtwert von bis zu 600 Millionen Franken starten. Dieses Programm soll, vorbehaltlich der vorherrschenden Marktbedingungen, innerhalb eines Jahres abgeschlossen werden.
+
+AMAZON
+
+hat in seinem Bericht zum dritten Quartal einen höher als erwartet ausgefallenen Umsatz von Amazon Web Services ausgewiesen und damit eine anhaltende Dynamik in seinem Cloud-Computing-Geschäft gezeigt. Der Gesamtumsatz stieg um 12 Prozent auf 201,9 Milliarden Dollar und der Nettogewinn belief sich auf 20,7 Milliarden Dollar. Beide Werte lagen unter den Analystenschätzungen.
+
+INTEL
+
+hat im dritten Quartal einen geringeren Gewinn verbucht und einen enttäuschenden Ausblick auf das vierte Quartal gegeben, was die Aktien nachbörslich in den USA um 17 Prozent absacken ließ. Der Chiphersteller prognostizierte für das laufende vierte Quartal einen bereinigten Gewinn von 25 Cent je Aktie bei einem Umsatz zwischen 15 Milliarden und 16 Milliarden US-Dollar. Analysten hatten für das vierte Quartal mit einem Gewinn von 45 Cent je Aktie bei einem Umsatz von 17,29 Milliarden Dollar gerechnet. Das Unternehmen meldete für das dritte Quartal einen Gewinn von 3,32 Milliarden Dollar bzw. 60 Cent je Aktie. Im Vorjahreszeitraum lag der Gewinn noch bei 4,06 Milliarden Dollar oder 90 Cent je Aktie. Ohne Berücksichtigung bestimmter Einmaleffekte lag der bereinigte Gewinn bei 52 Cent je Aktie. Analysten hatten mit 41 Cent je Aktie gerechnet. Der Umsatz stieg um 21 Prozent auf 16,51 Milliarden Dollar, verfehlte jedoch die Erwartungen der Analysten von 16,56 Milliarden Dollar.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/cln/flf
+
+(END) Dow Jones Newswires
+
+October 30, 2026 02:32 ET (06:32 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+
+Weitere Treffer anzeigen
+
+
+# Nachricht - Börse Stuttgart
+
+30.10.2026 / 07:45:44
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+Die Bayer-Tochter Monsanto hat im Milliardenrechtsstreit um die angeblich krebserregende Wirkung des Unkrautvernichters Glyphosat das nach eigener Darstellung erste Verfahren seit der richtungsweisenden Entscheidung des Obersten Gerichtshofs der USA gewonnen. Ein Geschworenengericht in Missouri habe im Fall Aretino et al zugunsten von Monsanto entschieden, teilte der deutsche Pharma- und Agrarchemiekonzern mit, der den Glyphosat-Hersteller vor Jahren geschluckt hatte.
+
+Im Juni 2026 hatte der von Bayer angerufene Supreme Court in einem anderen Verfahren entschieden, dass Klagen wegen fehlender Warnhinweise zu möglichen Krebsrisiken nach dem Recht einzelner US-Bundesstaaten durch das Bundesrecht ausgeschlossen sind.
+
+Das Urteil im Fall Aretino zeige nun, dass die Klägerseite nach der Supreme-Court-Entscheidung keine Beweise für alternative Klagebegründungen vorlegen könne, erklärte Bayer. "Dieses Urteil sollte ein starkes Signal für die Kläger sein, die auch nach dem Urteil des Supreme Court vor Gericht ziehen wollen", sagte Bill Dodero, der Chef der Bayer-Rechtsabteilung in den USA. "Es gibt dafür erhebliche Hürden, sowohl was die Begründung der Klagen betrifft als auch die Beweislage vor Gericht."
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+11:00 US/Chevron Corp, Ergebnis 3Q
+
+11:45 US/Abbvie Inc, Ergebnis 3Q
+
+12:00 IT/Intesa Sanpaolo SpA, Ergebnis 3Q
+
+12:30 US/Exxon Mobil Corp, Ergebnis 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- CA 
+    13:30 Bruttoinlandsprodukt (BIP) monatlich August 
+          PROGNOSE: +0,2% gg Vm 
+          zuvor:     0,0% gg Vm 
+- US 
+    13:30 Arbeitskostenindex 3Q 
+          PROGNOSE:   +0,8% gg Vq 
+          2. Quartal: +0,9% gg Vq 
+ 
+    14:45 Index Einkaufsmanager Chicago Oktober 
+          PROGNOSE: 56,0 
+          zuvor:    58,8
+
++++++ ÜBERSICHT INDIZES +++++
+
+Index                         zuletzt  +/- % 
+E-Mini-Future S&P-500        7.687,00   -0,9 
+E-Mini-Future Nasdaq-100    29.013,75   -1,9 
+S&P/ASX 200 (Sydney)         8.908,10   +0,2 
+Topix-500 (Tokio)            3.965,07   -1,0 
+Kospi (Seoul)                5.730,74   -3,5 
+Shanghai-Composite           3.612,03   -1,1 
+Hang-Seng-Index (Hongkong)  23.326,95   +1,6
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Uneinheitlich präsentieren sich die Börsen in Ostasien und Australien am Freitag. Negative Vorgaben der US-Aktienmärkte lasten in vielen Fällen auf den Kursen. Beobachter sprechen von wieder erwachten Zweifeln an der Tragfähigkeit der gewaltigen KI-Investitionen, nachdem die Zahlen der Google-Mutter Alphabet gezeigt hatten, dass KI-basierte Suchen bislang wenig lukrativ sind. Die Befürchtung einer neuerlichen Eskalation des Iran-Kriegs lässt derweil den Ölpreis nach einem Rücksetzer am Vortag wieder steigen, was die Börsen der Region zusätzlich belastet. In Tokio wird die Stimmung gedämpft von Zinserhöhungssorgen. Die Bank of Japan hat erwartungsgemäß den Leitzins unverändert belassen. Allerdings hat sie ihre Inflationsprognose für das laufende Fiskaljahr angehoben. Zudem deuten die am Freitag veröffentlichten Verbraucherpreisdaten für den Großraum Tokio darauf hin, dass die BoJ bei ihrer Sitzung im Dezember die Zinsen anheben dürfte. Die japanische Industrieproduktion stieg derweil im September stärker als angenommen. Aktien von Softbank Group, einem prominenten KI-Investor, fallen um 5,3 Prozent. Im Chipsektor büßen Advantest, Lasertec und Kioxia 6, 9,2 und 6,3 Prozent ein. Die Aktien der Chipgiganten und Indexschwergewichte SK Hynix und Samsung verbilligen sich in Seoul um 6,3 und 2,3 Prozent. Samsung waren schon am Donnerstag in Reaktion auf die Zahlen des Unternehmens unter Druck geraten. Nach Zahlenvorlage geht es mit China Petroleum & Chemical (Sinopec) in Hongkong um 4 Prozent aufwärts. Im Technologiesektor verbessern sich Xiaomi um 4,4 und Meituan um 5,4 Prozent. Unter den Einzelwerten in Sydney brachen die Aktien der Supermarktkette Coles nach Zahlenvorlage um 7,7 Prozent ein. Die Aktien des Wettbewerbers Woolworths stiegen um 1,9 Prozent. Im Bergbausektor fielen Rio Tinto um 2,9 Prozent. Das Unternehmen hat die Untertageförderung in der Kupfermine Oyu Tolgoi wegen eines "seismischen" Ereignisses unterbrochen.
+
+WALL STREET
+
+INDEX               Schluss  +/- % 
+Dow-Jones         52.342,56   -0,3 
+S&P-500            7.720,39   -0,3 
+Nasdaq Composite  26.184,72   -1,4 
+ 
+Umsatzdaten 
+                     Donnerstag Mittwoch 
+Umsatz NYSE (Aktien) 1,32 Mrd   1,28 Mrd 
+Gewinner             1.914      1.227 
+Verlierer              782      1.484 
+Unverändert             74         73
+
+Leichter - Der enttäuschende Quartalsausweis der Google-Mutter Alphabet befeuerte die Furcht vor einer KI-Blase und belastete vor allem den Technologiesektor. Trotz eines kräftig gestiegenen Umsatzes im Cloud-Computing-Geschäft verfehlte der Konzernumsatz die Konsensschätzungen. Auch der deutlich negative Cashflow als Folge der massiven Investitionen in den Ausbau der KI-Kapazitäten stoße bei den Anleger auf Skepsis. Der Kurs brach um 12,6 Prozent ein. Der schlechten Stimmung konnten sich auch Microsoft (-0,2%) nicht entziehen, trotz starker Zahlen. Besser als erwartet hatte ferner die Deutsche-Telekom-Tochter T-Mobile (-0,5%) abgeschnitten, im späten Handel senkten jedoch einige große Häuser die Kursziele. Auch die Zahlen des Pharmakonzerns Merck & Co (+3,8%) überraschten positiv. Eine ungebrochen starke Nachfrage nach den Diabetes- und Gewichtsreduktionsmedikamenten von Eli Lilly (+6,6%) verhalf dem Unternehmen zu einem Umsatz und Gewinn deutlich über den Markterwartungen. Auch der Ausblick übertraf den Analystenkonsens. Nach Vorlage "mäßiger" Geschäftszahlen und einem pessimistischen Ausblick stürzten Softwarenow um 27 Prozent ab. Caterpillar gaben 9,3 Prozent ab, nachdem der Umsatz hinter den Erwartungen zurückgeblieben war.
+
+USA - ANLEIHEN
+
+US-Treasuries    Rendite +/- 
+2  Jahre          4,65  -0,08 
+10 Jahre          4,99  -0,06 
+30 Jahre          5,33  -0,03
+
+Die Rendite zehnjähriger US-Anleihen fiel um 6 Basispunkte auf 4,99 Prozent. Die US-Konjunkturdaten sähen nur auf den ersten Blick robust aus, so Chris Osmond von Fifth Third Wealth Advisors. Er sah in den Daten jedoch Hinweise auf eine sich abschwächende Nachfrage. Auch die Furcht vor einer KI-Blase habe Anleger auf Suche nach Sicherheit an den Anleihemarkt geführt, hieß es.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN                  zuletzt  +/- %      00:00    Do, 8:49 Uhr  % YTD 
+EUR/USD                   1,1183   +0,0     1,1178          1,1143   -4,8 
+EUR/JPY                   176,15   -0,1     176,29          175,91   -4,3 
+EUR/GBP                   0,8349   -0,1     0,8354          0,8362   -4,2 
+USD/JPY                   157,49   -0,1     157,69          157,85   +0,5 
+USD/KRW                 1.333,80   -0,4   1.339,28        1.336,12   -7,4 
+USD/CNY                   6,6577   -0,1     6,6610          6,6613   -4,8 
+USD/CNH                   6,6536   -0,0     6,6558          6,6575   -4,6 
+USD/HKD                   7,8445   -0,0     7,8458          7,8457   +0,8 
+AUD/USD                   0,7028   +0,0     0,7027          0,7043   +5,3 
+NZD/USD                   0,5635   +0,0     0,5633          0,5619   -2,1 
+BTC/USD                78.425,04   -0,5  78.840,68       79.754,78  -10,6
+
+Der Dollar gab im Gefolge der gesunkenen Anleiherenditen etwas nach. Der Dollarindex sank um 0,1 Prozent - der Euro gewann 0,2 Prozent auf 1,1181 Dollar.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle                  zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                    3.989,57   -0,8     -30,85        4.020,42 
+Silber                     50,92   -2,8      -1,47           52,39 
+Platin                  1.442,38   -3,0     -45,37        1.487,75
+
+Gold profitierte nicht von gefallenen Zinsen und dem niedrigeren Dollar. Anleger hätten sich vielmehr auf zu erwartende künftige Zinserhöhungen fokussiert, hieß es unter Hinweis darauf, dass die Entscheidung der US-Notenbank vom Mittwoch, den Leitzins unverändert zu belassen, nicht einstimmig erfolgte. Der Preis für die Feinunze Gold sank zum Settlement um 0,4 Prozent auf 4.017,70 Dollar.
+
+ÖL
+
+ROHOEL                   zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                 102,70   +0,7       0,70          102,00 
+Brent/ICE                 115,52   +0,6       0,64          114,88
+
+Hoffnungen auf eine Wiederbelebung der Friedensverhandlungen mit dem Iran ließen die Ölpreise nachgeben. Der Preis für ein Barrel Brentöl fiel um 0,4 Prozent auf 114,88 Dollar. Beobachter merkten jedoch an, dass die USA ihre Militärschläge gegen den Iran nach den US-Zwischenwahlen wieder aufnehmen könnten. Erst ein "glaubwürdiges" Abkommen mit dem Iran könnte die geopolitische Prämie auf dem Brentpreis beseitigen, so Naeem Aslam von Zaye Capital Markets.
+
++++++ MELDUNGEN SEIT VORTAG, 20.00 UHR +++++
+
+BANK OF JAPAN
+
+Die japanische Notenbank hat das Ziel für den Tagesgeldsatz unverändert bei 1,25 Prozent belassen. Diese weithin erwartete Entscheidung fiel mit 8 zu 1 Stimmen. Überdies teilte die Notenbank mit, dass die zugrunde liegende Inflation rund 2 Prozent erreicht habe. Dies ist das erste Mal seit 2013, dass sie dieses Ziel erreicht hat. Damals hatte sie ein Abkommen mit der Regierung zur Bekämpfung der Deflation unterzeichnet. Dieser Wendepunkt bestärkt die Erwartungen, dass die BoJ weitere Straffungen vornehmen wird.
+
+VERBRAUCHERPREISE JAPAN
+
+Ohne Berücksichtigung frischer Lebensmittel stiegen die Verbraucherpreise im Großraum Tokio im Oktober im Vergleich zum Vorjahr um 2,6 Prozent, nach einem Anstieg von 2,7 Prozent im September. Dies entsprach der Prognose einer Ökonomenbefragung des Datenanbieters Quick.
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+October 30, 2026 02:45 ET (06:45 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+30.10.2026 / 07:45:44
+
+# MORNING BRIEFING - USA/Asien -2-
+
+(Dow Jones Newswires)
+
+INDUSTRIEPRODUKTION JAPAN
+
+Die Industrieproduktion stieg im September im Vergleich zum Vormonat um 2,2 Prozent, nachdem sie im August um 2,4 Prozent gefallen war. Dies zeigten Regierungsdaten am Freitag. Der Zuwachs übertraf den von Quick befragten Ökonomen erwarteten Anstieg von 1,2 Prozent. Die japanischen Unternehmen blickten positiv auf die Bedingungen im vierten Quartal. Sie erwarten den Daten zufolge, dass die Produktion im Oktober um 5,1 Prozent und im November um 0,8 Prozent steigen wird.
+
+EINZELHANDELSUMSATZ JAPAN
+
+\- Einzelhandelsumsatz Sep +2,3% gg Vorjahr
+
+\- Einzelhandelsumsatz Supermärkte Sep +1,7% gg Vj
+
+AMAZON
+
+Der Gesamtumsatz stieg im dritten Quartal um 12 Prozent auf 201,9 Milliarden Dollar, und der Nettogewinn belief sich auf 20,7 Milliarden Dollar. Beide Zahlen lagen unter den Schätzungen der von Factset befragten Analysten.
+
+INTEL
+
+Der Umsatz von Intel wuchs im dritten Quartal um 21 Prozent auf 16,51 Milliarden Dollar und verfehlte damit die Analystenerwartungen von 16,56 Milliarden Dollar. Der Gewinn betrug 3,32 Milliarden Dollar, verglichen mit 4,06 Milliarden Dollar im Vorjahreszeitraum. Ohne Berücksichtigung bestimmter Einmaleffekte lag der bereinigte Gewinn bei 52 Cent je Aktie. Von Factset befragte Analysten hatten mit 41 Cent je Aktie gerechnet.
+
+MONDELEZ
+
+Der Süßwaren- und Snackhersteller, zu dem Marken wie Oreo und Ritz gehören, verbuchte im dritten Quartal einen Gewinn von 1,31 Milliarden US-Dollar beziehungsweise 1,02 Dollar je Aktie. Im Vorjahreszeitraum hatte der Gewinn noch bei 743 Millionen Dollar oder 57 Cent je Aktie gelegen. Ohne Berücksichtigung bestimmter Einmaleffekte lag der bereinigte Gewinn je Aktie bei 78 Cent. Damit übertraf das Unternehmen die Erwartungen der Analysten, die laut Factset mit 71 Cent gerechnet hatten.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/flf/cln
+
+(END) Dow Jones Newswires
+
+October 30, 2026 02:45 ET (06:45 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+
+Weitere Treffer anzeigen
+# Nachricht - Börse Stuttgart
+
+30.10.2026 / 07:50:38
+
+# Japanische Notenbank hält Leitzins wie erwartet unverändert - Inflation sinkt
+
+(dpa-AFX) TOKIO (dpa-AFX) - Die japanische Zentralbank hat den Leitzins nicht verändert. Der Zinssatz wurde auf 1,25 Prozent belassen, teilte die japanische Notenbank (BoJ) am Freitag in Tokio mit. Experten hatten mit dieser Entscheidung im Schnitt gerechnet. Zudem machte die Bank of Japan deutlich, dass das angepeilte Inflationsziel von zwei Prozent erreicht sei.
+
+TOKIO (dpa-AFX) - Die japanische Zentralbank hat den Leitzins nicht verändert. Der Zinssatz wurde auf 1,25 Prozent belassen, teilte die japanische Notenbank (BoJ) am Freitag in Tokio mit. Experten hatten mit dieser Entscheidung im Schnitt gerechnet. Zudem machte die Bank of Japan deutlich, dass das angepeilte Inflationsziel von zwei Prozent erreicht sei.
+
+Die japanischen Währungshüter hatten den Leitzins zuletzt Mitte September um 0,25 Prozentpunkte erhöht und auf den höchsten Stand seit 1995 gesetzt. Es war der zweite Schritt in diesem Jahr. Am Markt wird jetzt überwiegend mit einer weiteren Zinserhöhung Mitte Dezember gerechnet.
+
+Marktbeobachter sehen Japans Zentralbank vor einem Strategiewechsel: Statt die Preise nach oben zu treiben, muss sie sicherstellen, dass diese nicht über das Ziel hinausschießen.
+
+Zuletzt hat sich die Inflation in Japan im Großraum Tokio wieder etwas abgeschwächt. Im Oktober legten die Verbraucherpreise in der Hauptstadt ohne Frischwaren im Jahresvergleich wie von Experten erwartet um 2,6 Prozent zu, wie die Regierung ebenfalls am Freitag in Tokio mitteilte. Im September hatte die Jahresrate noch etwas höher bei 2,7 Prozent gelegen und damit auf dem höchsten Stand seit November 2025.
+
+Die Daten aus dem Großraum Tokio gelten an den Finanzmärkten als ein verlässlicher Frühindikator für die gesamte Preisentwicklung des Landes./jkr/jha/
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+30.10.2026 / 07:52:34
+
+# Ölpreise legen zu - Sorge vor US-Militärschlag im Iran wächst
+
+(dpa-AFX) NEW YORK/LONDON (dpa-AFX) - Die Ölpreise sind am Freitag angesichts wachsender Sorgen über einen möglichen erneuten Militärschlag der USA im Iran gestiegen. Im frühen Handel kostete ein Barrel (159 Liter) der Referenzsorte Brent 116,43 US-Dollar und damit 1,35 Prozent mehr als am Vortag.
+
+NEW YORK/LONDON (dpa-AFX) - Die Ölpreise sind am Freitag angesichts wachsender Sorgen über einen möglichen erneuten Militärschlag der USA im Iran gestiegen. Im frühen Handel kostete ein Barrel (159 Liter) der Referenzsorte Brent 116,43 US-Dollar und damit 1,35 Prozent mehr als am Vortag.
+
+US-Präsident Donald Trump hat sich Medienberichten zufolge bei einem seltenen persönlichen Treffen mit einem ranghohen Militärchef zum weiteren Vorgehen im Iran-Krieg beraten lassen. Das "Wall Street Journal" schreibt unter Berufung auf US-Beamte, der Chef des US-Regionalkommandos für den Nahen Osten (Centcom), Admiral Brad Cooper, habe Trump am Donnerstag im Weißen Haus unter anderem militärische Optionen im Iran dargelegt.
+
+Die US-Zeitung wertete das als mögliches Zeichen dafür, dass ein bedeutender Einsatz der US-Streitkräfte bevorstehen könnte. Das Nachrichtenportal "Axios" berichtet ebenfalls gestützt auf US-Beamte, Coopers Briefing für den Präsidenten habe sich auf die US-Seeblockade gegen iranische Häfen und Küstengebiete fokussiert.
+
+Seit längerem wird über mögliche neue Angriffe der USA und Israels gegen den Iran nach den US-Parlamentswahlen spekuliert, die kommenden Dienstag stattfinden. US-Medien berichteten jüngst allerdings auch, dass Trumps Regierung und regionale Vermittler neue Anstrengungen für eine diplomatische Lösung des Konflikts mit dem Iran unternommen hätten, in die US-Vizepräsident JD Vance federführend involviert sei./jha/mis
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+
+Weitere Treffer anzeigen
+# Nachricht - Börse Stuttgart
+
+30.10.2026 / 08:07:13
+
+# MÄRKTE ASIEN/Uneinheitlich - KI-Sorgen belasten in Tokio und Seoul
+
+(Dow Jones Newswires)
+
+DOW JONES--Uneinheitlich haben sich die Börsen in Ostasien und Australien am Freitag präsentiert. Negative Vorgaben der US-Aktienmärkte lasteten in vielen Fällen auf den Kursen. Beobachter sprachen von wieder erwachten Zweifeln an der Tragfähigkeit der gewaltigen KI-Investitionen, nachdem die Zahlen der Google-Mutter Alphabet gezeigt hatten, dass KI-basierte Suchen bislang wenig lukrativ sind. Die Alphabet-Aktie brach um 12,6 Prozent ein. Die Befürchtung einer neuerlichen Eskalation des Iran-Kriegs ließ derweil den Ölpreis nach einem Rücksetzer am Vortag wieder steigen, was die Stimmung an den Börsen der Region zusätzlich dämpfte.
+
+An der Börse in Tokio fiel der Nikkei-225-Index um 2,1 Prozent, der breiter gefasste Topix verlor 1 Prozent. Die Bank of Japan ließ erwartungsgemäß den Leitzins unverändert. Allerdings hob sie ihre Inflationsprognose für das laufende Fiskaljahr an. Zudem deuteten die am Freitag veröffentlichten Verbraucherpreisdaten für den Großraum Tokio darauf hin, dass die BoJ bei ihrer Sitzung im Dezember die Zinsen anheben dürfte. Die japanische Industrieproduktion stieg derweil im September stärker als angenommen. Aktien von Softbank Group, einem prominenten KI-Investor, fielen um 6 Prozent. Im Chipsektor büßten Advantest, Lasertec und Kioxia 5,9, 8,8 und 7,1 Prozent ein.
+
+In Seoul ging der Kospi 3,5 Prozent niedriger aus dem Handel. Die Aktien der Chipgiganten und Indexschwergewichte SK Hynix und Samsung verbilligten sich um 7,1 und 3 Prozent. Samsung waren schon am Donnerstag in Reaktion auf die Zahlen des Unternehmens unter Druck geraten.
+
+In Hongkong ging es mit dem Hang-Seng-Index im Späthandel um 1,5 Prozent aufwärts, der Composite-Index in Shanghai schloss 1,4 Prozent im Minus. Nach Zahlenvorlage kletterten China Petroleum & Chemical (Sinopec) in Hongkong um 5 Prozent. Im Technologiesektor verbesserten sich Xiaomi um 3,3 und Meituan um 3,9 Prozent.
+
+Die australische Börse schloss mit einem Plus von 0,2 Prozent. Unter den Einzelwerten brachen die Aktien der Supermarktkette Coles nach Zahlenvorlage um 7,7 Prozent ein. Die Aktien des Wettbewerbers Woolworths stiegen um 1,9 Prozent. Im Bergbausektor fielen Rio Tinto um 2,9 Prozent. Das Unternehmen hat die Untertageförderung in der Kupfermine Oyu Tolgoi wegen eines "seismischen" Ereignisses unterbrochen.
+
+\=== 
+INDEX                       zuletzt  +/- %      % YTD  Handelsschluss 
+S&P/ASX 200 (Sydney)       8.908,10   +0,2       +2,2           06:00 
+Topix 500 (Tokio)          3.099,65   -1,0      +16,5           07:30 
+Kospi (Seoul)              5.730,74   -3,5      +36,0           07:30 
+Hang-Seng (Hongkong)      23.311,84   +1,5       -9,0           09:00 
+Shanghai-Composite         3.599,02   -1,4       -9,2           08:00 
+Straits-Times (Singapur)   5.383,32   -0,2      +15,9           10:00 
+IDX Comp. (Indonesien)     5.032,44   -1,3      -41,8           10:00 
+KLCI (Malaysia)            1.611,07   -0,0       -4,1           10:00 
+ 
+DEVISEN                     zuletzt  +/- %      00:00    Do, 8:49 Uhr  % YTD 
+EUR/USD                      1,1180   +0,0     1,1178          1,1143   -4,8 
+EUR/JPY                      176,32   +0,0     176,29          175,91   -4,2 
+EUR/GBP                      0,8345   -0,1     0,8354          0,8362   -4,3 
+USD/JPY                      157,70   +0,0     157,69          157,85   +0,7 
+USD/KRW                    1.333,75   -0,4   1.339,28        1.336,12   -7,4 
+USD/CNY                      6,6572   -0,1     6,6610          6,6613   -4,8 
+USD/CNH                      6,6546   -0,0     6,6558          6,6575   -4,6 
+USD/HKD                      7,8449   -0,0     7,8458          7,8457   +0,8 
+AUD/USD                      0,7028   +0,0     0,7027          0,7043   +5,3 
+NZD/USD                      0,5631   -0,0     0,5633          0,5619   -2,2 
+BTC/USD                   78.470,97   -0,5  78.840,68       79.754,78  -10,5 
+ 
+ROHÖL                       zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                    102,95   +0,9       0,95          102,00 
+Brent/ICE                    116,06   +1,0       1,18          114,88 
+ 
+Metalle                     zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                       3.982,42   -0,9     -38,00        4.020,42 
+Silber                        50,72   -3,2      -1,67           52,39 
+Platin                     1.443,72   -3,0     -44,03        1.487,75 
+(Angaben ohne Gewähr) 
+===
+
+Kontakt: maerkte.de@dowjones.com
+
+DJG/cln/flf
+
+(END) Dow Jones Newswires
+
+October 30, 2026 03:07 ET (07:07 GMT)
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Rio Tinto
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 855018
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/855018-rio-tinto/)
+    
+-   [
+    
+    ### Woolworths
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 886853
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/886853-woolworths/)
+    
+-   [
+    
+    ### COLES GROUP LTD
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN A2N9WN
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a2n9wn-coles-group-ltd/)
+    
+-   [
+    
+    ### China Petroleum & Chemi.
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN A0M4XN
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a0m4xn-china-petroleum-chemi/)
+    
+-   [
+    
+    ### Rio Tinto
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 852147
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/852147-rio-tinto/)
+    
+-   [
+    
+    ### Advantest
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 868805
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/868805-advantest/)
+    
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+
+Weitere Treffer anzeigen
+# Nachricht - Börse Stuttgart
+
+30.10.2026 / 08:09:45
+
+# Frankreichs Wirtschaft fällt im europäischen Vergleich weiter zurück
+
+(dpa-AFX) PARIS (dpa-AFX) - Die Wirtschaft Frankreichs hat sich in den Sommermonaten überraschend schwach gezeigt und damit die Konjunkturflaute seit Beginn des Jahres fortgesetzt. In den drei Monaten bis Ende September schrumpfte das Bruttoinlandsprodukt (BIP) im Vergleich zum Vorquartal um 0,1 Prozent, wie das Statistikamt Insee am Freitag in Paris nach einer ersten Schätzung mitteilte. Analysten hatten hingegen für das dritte Quartal ein leichtes Wachstum um 0,1 Prozent erwartet.
+
+PARIS (dpa-AFX) - Die Wirtschaft Frankreichs hat sich in den Sommermonaten überraschend schwach gezeigt und damit die Konjunkturflaute seit Beginn des Jahres fortgesetzt. In den drei Monaten bis Ende September schrumpfte das Bruttoinlandsprodukt (BIP) im Vergleich zum Vorquartal um 0,1 Prozent, wie das Statistikamt Insee am Freitag in Paris nach einer ersten Schätzung mitteilte. Analysten hatten hingegen für das dritte Quartal ein leichtes Wachstum um 0,1 Prozent erwartet.
+
+Damit bleibt die französische Wirtschaftsleistung schwach. Sie zählt zu den Schlusslichtern in der Eurozone und fällt weiter hinter die Entwicklung in Deutschland zurück. In der ersten Jahreshälfte konnte sie nur knapp einer Rezession entgehen - unter anderem belastet durch eine schwache Binnennachfrage.
+
+Seit Beginn des Jahres hat sich die zweitgrößte Volkswirtschaft der Eurozone nach Deutschland kaum vom Fleck bewegt. Im zweiten Quartal hatte Frankreichs Wirtschaft stagniert, nachdem sie in den ersten drei Monaten des Jahres ebenfalls leicht geschrumpft war.
+
+Grund für die Konjunkturschwäche in den Sommermonaten waren ein anhaltender Rückgang der Investitionen und rückläufige Exporten. Frankreich steht wegen der angespannten Lage des Staatshaushalts und gewalttätiger Proteste gegen Sparbemühungen der Regierung im Fokus der Finanzmärkte. Zuletzt waren die Renditen für französische Staatsanleihen stark gestiegen und hatten langjährige Höchststände erreicht./jkr/mis
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+
+Weitere Treffer anzeigen
+# Nachricht - Börse Stuttgart
+
+30.10.2026 / 09:04:11
+
+# ROUNDUP: Amazon wächst mit Cloud - Hohe KI-Ausgaben lasten auf der Aktie
+
+(dpa-AFX) SEATTLE (dpa-AFX) - Amazon profitiert weiterhin massiv von seinem Cloud-Geschäft. Die Sparte AWS (Amazon Web Services) beschleunigte im dritten Quartal ihr Wachstum und steigerte den Umsatz im Jahresvergleich um 39 Prozent auf 46 Milliarden US-Dollar. Der Bereich erwirtschaftete ein operatives Ergebnis von 17,8 Milliarden Dollar - 55 Prozent mehr als vor einem Jahr. Mit den Aussichten für den Onlinehandel im wichtigen Weihnachtsgeschäft als auch mit den hohen Milliardenausgaben für den Aufbau von KI-Rechenzentren waren die Anleger hingegen weniger zufrieden, die Aktie fiel.
+
+SEATTLE (dpa-AFX) - Amazon profitiert weiterhin massiv von seinem Cloud-Geschäft. Die Sparte AWS (Amazon Web Services) beschleunigte im dritten Quartal ihr Wachstum und steigerte den Umsatz im Jahresvergleich um 39 Prozent auf 46 Milliarden US-Dollar. Der Bereich erwirtschaftete ein operatives Ergebnis von 17,8 Milliarden Dollar - 55 Prozent mehr als vor einem Jahr. Mit den Aussichten für den Onlinehandel im wichtigen Weihnachtsgeschäft als auch mit den hohen Milliardenausgaben für den Aufbau von KI-Rechenzentren waren die Anleger hingegen weniger zufrieden, die Aktie fiel.
+
+Das Papier notierte bereits im nachbörslichen US-Handel spürbar tiefer, am Freitagmorgen auf der Handelsplattform Tradegate wurden im Vergleich mit dem Nasdaq-Schluss vom Vorabend 7 Prozent weniger gezahlt. Das wäre im Haupthandel etwa so viel wie zum Jahreswechsel. Auf Sicht von 5 Jahren hat der Kurs nahezu um die Hälfte zugelegt.
+
+Goldman-Sachs-Analyst Eric Sheridan sah die AWS-Zahlen über seinen und den Markterwartungen - einige Investoren dürften sich aber noch mehr erhofft haben, schrieb er. Amazon müsse mit großen Sorgen um Kapitalbedarf und das Ertragsprofil umgehen. Auf Basis des nachbörslich gesunkenen Aktienkurses sieht er die Aktie aber als eine der ansprechendsten Risiko-Rendite-Chancen in seinem Beobachtungshorizont.
+
+Sheridan als auch Jefferies-Experte Brent Thill verwiesen darauf, dass die Cloudsparte AWS sowohl 2027 als auch 2028 um jeweils mehr als 40 Prozent wachsen solle. Das Wachstum will Amazon mit entsprechenden Investitionen in Rechenleistung unterfüttern. Amazon habe im Quartal mit 77,3 Milliarden Dollar rund 20 Milliarden Dollar mehr für Investitionen ausgegeben als vom Markt erwartet, fügte Thill von Jefferies an. Der Abfluss freier Finanzmittel habe sich damit auf Sicht der vergangenen zwölf Monate auf über 42 Milliarden Dollar noch vergrößert.
+
+Mit dem Cloudgeschäft von AWS will der weltgrößte Online-Händler am KI-Boom teilhaben. Amazon ist mit AWS weltweit der Platzhirsch beim Angebot von Rechenleistung aus dem Netz, noch vor Microsoft Azure und der Google Cloud Platform von Alphabet . Der Ausbau der Rechenzentren verschlingt zugleich gewaltige Summen. Allein für dieses Jahr veranschlagte Amazon Kapitalinvestitionen von 220 Milliarden Dollar. Die Prognose für das herkömmliche Online-Handelsgeschäft im wichtigen Weihnachtsquartal fiel zugleich unter den Markterwartungen aus.
+
+Im dritten Quartal steigerte Amazon den Konzernumsatz im Jahresvergleich um zwölf Prozent auf 201,9 Milliarden Dollar. Unter dem Strich sank der Gewinn um gut zwei Prozent auf 20,7 Milliarden Dollar. Amazon begründete dies aber vor allem damit, dass vor einem Jahr Bewertungsgewinne bei der Investition in die KI-Firma Anthropic das Ergebnis hochgetrieben hätten./men/so/nas/jha/
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Amazon.com
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 906866
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/906866-amazon-com/)
+    
+-   [
+    
+    ### Microsoft
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 870747
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/870747-microsoft/)
+    
+-   [
+    
+    ### Alphabet C
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN A14Y6H
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a14y6h-alphabet-c/)
+    
+-   [
+    
+    ### Alphabet A
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN A14Y6F
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a14y6f-alphabet-a/)
+    
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+
+Weitere Treffer anzeigen
+
+
+
+
 Hier sind die wichtigsten Ergebnisse der von Ihnen genannten Unternehmensberichte im Überblick:
 Samsung Electronics (KRX:005930): Der Technologieriese erzielte im 3. Quartal einen historischen Meilenstein und überstieg als erstes Tech-Unternehmen weltweit eine operative Quartalsrendite von 100 Billionen Won.
  Der Konzernumsatz erreichte einen Rekordwert von 195,3 Billionen Won (+14 % im Quartalsvergleich),
