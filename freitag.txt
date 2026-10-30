@@ -180,3 +180,628 @@ Reaktion der Aktienmärkte: Nach der anfänglichen Zurückhaltung am Vormittag v
  Der deutsche Leitindex DAX (INDEXDB:DAX) schloss mit einem Plus von 1,4 %, während der europaweite Stoxx 600 um 0,8 % zulegte.
 prompt_suggestion
 
+# Nachricht - Börse Stuttgart
+
+29.10.2026 / 17:42:03
+
+# WOCHENVORSCHAU: Termine bis 12. November 2026
+
+(dpa-AFX) FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine bis Donnerstag den 12. November
+
+FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine bis Donnerstag den 12. November
+
+   
+---------------------------------------------------------------------------------------
+FREITAG, DEN 30. OKTOBER
+
+TERMINE UNTERNEHMEN
+07:00 DEU: Hella, Q3-Zahlen
+07:00 DEU: Fuchs, Q3-Zahlen (detailliert) (10.00 Pk, 12.00 Analystenkonferenz)
+07:00 FRA: Capgemini, Q3-Umsatz
+07:00 FRA: Scor, Q3-Zahlen
+07:00 FRA: Credit Agricole, Q3-Zahlen
+07:00 GRC: Alpha Bank, Q3-Zahlen
+07:30 AUT: Erste Group Bank, Q3-Zahlen
+07:30 FIN: Stora Enso, Q3-Zahlen
+07:30 FRA: Sanofi, Q3-Zahlen
+08:00 DEU: Puma, Q2-Zahlen (9.30  Pk, 15.00 Analystenkonferenz)
+08:00 GBR: BP, Q3-Zahlen
+08:00 GBR: AstraZeneca, Q3-Zahlen
+08:00 GBR: Natwest, Q3-Zahlen
+09:00 ESP: CaixaBank, Q3-Zahlen
+09:00 DEU: Audi, Q3-Zahlen
+11:45 USA: Chevron Corporation, Q3-Zahlen
+11:45 USA: AbbVie, Q3-Zahlen
+12:00 ITA: Intesa Sanpaolo, Q3-Zahlen
+12:00 USA: General Dynamics, Q3-Zahlen
+12:00 USA: Colgate-Palmolive, Q3-Zahlen
+12:30 USA: ExxonMobil, Q3-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+DEU: Gerresheimer, vorläufige Q3-Zahlen
+ 
+TERMINE KONJUNKTUR
+JPN: BoJ, Zinsentscheid
+00:30 JPN: Verbraucherpreise Tokio 10/26
+00:30 JPN: Arbeitslosenquote 9/26
+00:50 JPN: Einzelhandelsumsatz 9/26
+00:50 JPN: Industrieproduktion 9/26 (vorläufig)
+07:30 FRA: BIP Q3/26 (1. Veröffentlichung)
+07:30 FRA: Konsumausgaben 9/26
+08:00 DEU: Außenhandelspreise 9/26
+08:00 NOR: Arbeitslosenquote 10/26
+08:45 FRA: Verbraucherpreise 10/26 (vorab)
+08:45 FRA: Erzeugerpreise 9/26
+09:00 CHE: KOF Frühindikator 10/26
+09:00 AUT: BIP Q3/26 (1. Veröffentlichung)
+09:00 SPA: BIP Q3/26 (1. Veröffentlichung)
+09:00 SPA: Verbraucherpreise 10/26 (vorab)
+09:30 NLD: BIP Q3/26 (1. Veröffentlichung)
+09:30 POL: Verbraucherpreise 10/26 (vorab)
+09:55 DEU: Arbeitslosenzahlen 10/26
+10:00 DEU: BIP Q3/26 (1. Veröffentlichung)
+10:00 DEU: Verbraucherpreise Hessen, Bayern, Brandenburg, Sachsen, Baden-Württemberg, Nordrhein-Westfalen 10/26
+10:00 ITA: BIP Q3/26 (1. Veröffentlichung)
+10:30 PRT: BIP Q3/26 (1. Veröffentlichung)
+11:00 BEL: Arbeitslosenquote 9/26
+11:00 EUR: BIP Q3/26 (1. Veröffentlichung)
+11:00 ITA: Verbraucherpreise 10/26 (vorab)
+11:00 EUR: Arbeitslosenquote 9/26
+12:00 PRT: Verbraucherpreise 10/26 (vorab)
+13:30 USA: Beschäftigungskostenindex Q3/26
+14:00 DEU: Verbraucherpreise 10/26 (vorab)
+14:45 USA: MNI Chicago PMI 10/26
+
+SONSTIGE TERMINE
+10:00 DEU: Fortsetzung der Messe «Reisen & Caravan 2026», Erfurt
+
+USA: Das G20-Außenministertreffen findet unter dem Vorsitz von US-Außenminister Marco Rubio statt, Atlanta
+ 
+---------------------------------------------------------------------------------------
+SAMSTAG, DEN 31. OKTOBER
+ 
+TERMINE KONJUNKTUR
+02:30 CHN: PMI Verarbeitendes Gewerbe und Dienste 10/26
+
+---------------------------------------------------------------------------------------
+MONTAG, DEN 2. NOVEMBER
+
+TERMINE UNTERNEHMEN
+07:00 IRL: Ryanair, Q2-Zahlen
+07:30 FRA: Forvia, Q3-Umsatz
+14:00 USA: Fox Corp, Q1-Zahlen
+22:00 CHE: Transocean, Q3-Zahlen
+22:00 USA: Palantir, Q3-Zahlen
+22:30 USA: Apple, Q4-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+USA: Marriott International, Q3-Zahlen
+ 
+TERMINE KONJUNKTUR
+01:30 JPN: S&P Global PMI Verarbeitendes Gewerbe 10/26 (2. Veröffentlichung)
+02:45 CHN: RatingDog PMI 10/26
+07:00 RUS: S&P Global PMI Verarbeitendes Gewerbe 10/26
+08:30 CHE: Einzelhandelsumsatz 9/26
+09:15 SPA: S&P Global PMI Verarbeitendes Gewerbe 10/26
+09:30 CHE: PMI Verarbeitendes Gewerbe und Dienste 10/26
+09:45 ITA: S&P Global PMI Verarbeitendes Gewerbe 10/26
+09:50 FRA: S&P Global PMI Verarbeitendes Gewerbe 10/26 (2. Veröffentlichung)
+09:55 DEU: S&P Global PMI Verarbeitendes Gewerbe 10/26 (2. Veröffentlichung)
+10:00 EUR: S&P Global PMI Verarbeitendes Gewerbe 10/26 (2. Veröffentlichung)
+10:30 GBR: S&P Global PMI Verarbeitendes Gewerbe 10/26 (2. Veröffentlichung)
+12:00 PRT: Industrieproduktion 9/26
+15:45 USA: S&P Global PMI Verarbeitendes Gewerbe 10/26 (2. Veröffentlichung)
+16:00 USA: ISM Verarbeitendes Gewerbe 10/26
+16:00 USA: Bauinvestitionen 9/26
+
+SONSTIGE TERMINE
+13:00 DEU: Deutscher Verbrauchertag des Bundesverbandes der Verbraucherzentralen, Berlin
+
+DEU: Digitalgipfel der Bundesregierung, Berlin
+
+DEU: Zweite Runde Tarifverhandlungen private Banken, Frankfurt/M.
+
+16:00 USA: Supreme Court der USA tagt, Washington
+
+---------------------------------------------------------------------------------------
+DIENSTAG, DEN 3. NOVEMBER
+
+TERMINE UNTERNEHMEN
+07:00 DEU: Deutsche Lufthansa, Q3-Zahlen (10.00 Pk)
+07:00 DEU: Teamviewer AG, Q3-Zahlen
+07:00 DEU: Norma Group, Q3-Zahlen
+07:00 DEU: Evonik, Q3-Zahlen
+07:00 DEU: FMC, Q3-Zahlen
+07:00 DEU: Zalando, Q3-Zahlen
+07:00 CHE: Geberit, Q3-Zahlen
+07:00 CHE: Clariant, Q3-Zahlen
+07:00 NLD: Philips, Q3-Zahlen
+07:30 DEU: Schaeffler, 9Monatszahlen (detailliert)
+07:30 DEU: Bayer, Q3-Zahlen (10.00 Pk, 14.30 Analystencall)
+07:30 DEU: Hugo Boss, Q3-Zahlen
+07:30 AUT: Raiffeisen International, Q3-Zahlen
+08:00 GBR: Associated British Foods, Jahreszahlen
+09:00 FIN: Stora Enso, Capital Markets Day
+12:00 DEU: Biontech, Q3-Zahlen
+12:00 USA: DuPont de Nemours, Q3-Zahlen
+12:45 ITA: Ferrari, Q3-Zahlen
+12:45 USA: Pfizer, Q3-Zahlen
+13:00 USA: American International Group, Q3-Zahlen
+14:00 USA: International Paper (Capital Markets Day)
+18:00 USA: Lam Research, Hauptversammlung
+22:00 USA: AMD, Q3-Zahlen
+22:00 USA: Amgen, Q3-Zahlen
+22:00 USA: Booking Holdings, Q3-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+USA: The Mosaic, Q3-Zahlen
+
+TERMINE KONJUNKTUR
+08:30 CHE: Verbraucherpreise 10/26
+10:00 BGL: Verbraucherpreise 10/26 (vorläufig)
+12:00 IRL: Verbraucherpreise 10/26 (vorläufig)
+16:00 USA: Auftragseingang Industrie 9/26
+
+SONSTIGE TERMINE
+09:00 DEU: 12. Konferenz zur Bankenunion in Frankfurt, Frankfurt am Main
+
+09:30 DEU: Hybrid-Pressebriefing zum UN-Klimagipfel COP31 in Antalya (09.11.-20.11.), Berlin
+
+09:30 DEU: Jahrespressekonferenz PwC Deutschland, Frankfurt/M.
+
+DEU: Fischwirtschafts-Gipfel 2026 von Fisch-Informationszentrum (FIZ) und Veranstalter FischMagazin, Hamburg
+
+USA: Midterms: Kongresswahlen in den USA
+
+HINWEIS
+JPN: Feiertag, Börse geschlossen
+
+---------------------------------------------------------------------------------------
+MITTWOCH, DEN 4. NOVEMBER
+
+TERMINE UNTERNEHMEN
+06:00 NOR: Aker ASA, Q3-Zahlen
+06:45 DEU: Fresenius, Q3-Zahlen (10.00 Pk, 13.30 Analystencall)
+06:45 DEU: Basler, Q3-Zahlen (detailliert) (14.00 Investorenkonferenz)
+07:00 DEU: Heidelberg Materials, Q3-Umsatz
+07:00 DEU: Fraport, Q1-Zahlen
+07:00 DEU: Vonovia, Q3-Zahlen (detailliert) (7.30 Telefoncall)
+07:00 DEU: Siltronic, Q3-Zahlen
+07:00 CHE: DSM-Firmenich, Q3-Umsatz
+07:00 CHE: Barry Callebaut, Jahreszahlen
+07:30 DEU: Scout24, Q3-Zahlen
+07:30 DEU: Continental Q3-Zahlen, Hannover
+07:30 DEU: Auto1 Group, Q3-Zahlen
+07:30 DEU: BMW, Q3-Zahlen (8.30 Presse- und Analystenkonferenz)
+07:30 DNK: Novo Nordisk, Q3-Zahlen
+07:30 NLD: Ahold Delhaize, Q3-Zahlen
+08:00 CHE: Coca-Cola HBC AG, Q3-Umsatz
+08:00 GBR: Smith & Nephew, Q3-Umsatz
+08:00 GBR: Marks & Spencer, Halbjahreszahlen
+08:00 NLD: Wolters Kluwer, Q3-Zahlen
+09:00 DEU: Maschinenbauverband VDMA zum Auftragseingang September 2026 und 3. Quartal 2026, Frankfurt/M.
+13:00 USA: Uber Technologies, Q3-Zahlen
+13:00 USA: Kraft Heinz, Q3-Zahlen
+13:00 USA: McDonald's, Q3-Zahlen
+13:00 USA: New York Times, Q3-Zahlen
+13:30 USA: Stanley Black & Decker, Q3-Zahlen
+22:00 USA: News Corp, Q1-Zahlen
+22:00 USA: Expedia, Q3-Zahlen
+22:05 USA: Qualcomm, Q4-Zahlen
+22:15 USA: Allstate, Q3-Zahlen
+22:30 GBR: ARM Holding, Q2-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+DEU: Evonik, Investor Day
+GBR: Unilever, Capital Markets Day
+ITA: Leonardo, Q3-Zahlen
+ 
+TERMINE KONJUNKTUR
+POL: Zentralbank, Zinsentscheid
+02:45 CHN: RatingDog PMI Dienste 10/26
+06:30 NLD: Verbraucherpreise 10/26 (vorläufig)
+08:30 HUN: Industrieproduktion 9/26
+09:00 ESP: Arbeitslosenzahlen 10/26
+09:00 AUT: Verbraucherpreise 10/26 (vorläufig)
+09:15 ESP: S&P Global PMI Dienste 10/26
+09:30 SWE: Riksbank, Zinsentscheid
+09:45 ITA: S&P Global PMI Dienste 10/26
+09:50 FRA: S&P Global PMI Dienste 10/26 (2. Veröffentlichung)
+09:55 DEU: S&P Global PMI Dienste 10/26 (2. Veröffentlichung)
+10:00 EUR: S&P Global PMI Dienste 10/26 (2. Veröffentlichung)
+10:30 GBR: S&P Global PMI Dienste 10/26 (2. Veröffentlichung)
+11:00 EUR: Verbraucherpreise 10/26 (vorläufig)
+12:00 IRL: Arbeitslosenquote 10/26
+14:00 HUN: Zentralbank, Zinsentscheid
+14:15 USA: ADP Arbeitsmarktbericht 10/26
+14:30 USA: Handelsbilanz 9/26
+15:45 USA: S&P Global PMI Dienste 10/26 (2. Veröffentlichung)
+16:30 USA: EIA Ölbericht (Woche)
+
+SONSTIGE TERMINE
+10:00 DEU: Bundesverfassungsgericht verhandelt über Ausschluss eines Abgeordneten aus der AfD-Bundestagsraktion, Karlsruhe
+
+10:00 DEU: Globus Gruppe stellt Geschäftsjahr-Bilanz 2025/2026 vor, St. Wendel
+
+BEL: EU-Kommission prüft Übernahme von MediaMarktSaturn-Mutter Ceconomy durch JD.com genauer - Ende der vorläufigen Frist, Brüssel
+
+HINWEIS
+RUS: Feiertag, Börse geschlossen
+
+---------------------------------------------------------------------------------------
+DONNERSTAG, DEN 5. NOVEMBER
+ 
+TERMINE UNTERNEHMEN
+05:00 JPN: Sony, Q2-Zahlen
+06:30 JPN: Toyota, Q2-Zahlen
+06:30 DEU: Hensoldt, Q3-Zahlen
+07:00 DEU: Commerzbank, Q3-Zahlen (9.00 Analystencall, 10.30 Pk)
+07:00 DEU: PVA TePla, Q3-Zahlen
+07:00 DEU: Nordex, Q3-Zahlen (detailliert)
+07:00 DEU: Aumovio, Q3-Zahlen
+07:00 DEU: Nemetschek, Q3-Zahlen
+07:00 DEU: Lanxess, Q3-Zahlen (10.00 Pk, 13.00 Analystencall)
+07:00 DEU: Rational, Q3-Zahlen (15.00 Analystencall)
+07:00 DEU: HelloFresh, Q3-Zahlen
+07:00 DEU: Siemens Healthineers, Jahreszahlen (10.00 Uhr Jahres-Pk)
+07:00 DEU: Deutsche Telekom, Q3-Zahlen (10.00 Pk)
+07:00 DEU: DHL, Q3-Zahlen (detailliert) (8.30 Pk)
+07:00 AUT: AT&S, Q2-Zahlen
+07:00 AUT: Kontron, Q3-Zahlen (9.00 Telefoncall)
+07:00 CHE: Swiss Re, Q3-Zahlen
+07:00 LUX: ArcelorMittal, Q3-Zahlen
+07:00 LUX: SAF Holland, Q3-Zahlen
+07:15 DEU: Suss Mircotec, Q3-Zahlen
+07:15 CHE: Swisscom, Q3-Zahlen
+07:15 FRA: Air France-KLM, Q3-Zahlen
+07:30 DEU: Deutsche Beteiligungs AG, Q3-Zahlen
+07:30 DEU: SGL Carbon, Q3-Zahlen
+07:30 DEU: Deutz, Q3-Zahlen
+07:30 DEU: Renk, Q3-Zahlen
+07:30 DEU: Rheinmetall, Q3-Zahlen
+07:30 DEU: Fielmann, Q3-Zahlen
+07:30 DEU: Evotec, Q3-Zahlen (14.00 Call)
+07:30 FRA: Legrand, Q3-Zahlen
+07:30 FRA: Bouygues, Q3-Zahlen
+07:30 FRA: Veolia Environnement, Q3-Zahlen
+07:30 SWE: Skanska, Q3-Zahlen
+07:45 FRA: Engie, Q3-Zahlen
+08:00 AUT: Verbund, Q3-Zahlen
+08:00 DNK: A.P. Moller-Maersk, Q3-Zahlen
+08:00 GBR: Asos plc, Jahreszahlen
+08:00 GBR: Diageo, Q1-Umsatz
+08:00 GBR: BT Group, Halbjahreszahlen
+08:00 GBR: Helios Towers, Q3-Zahlen
+08:00 GBR: Tate & Lyle, Halbjahreszahlen
+08:00 GBR: National Grid, Halbjahreszahlen
+08:00 GBR: Next, Q3-Umsatz
+08:00 ITA: Banca Monte dei Paschi di Siena, Q3-Zahlen
+08:30 JPN: Nintendo, Halbjahreszahlen
+12:30 USA: Kimberly-Clark, Q3-Zahlen
+12:30 USA: Cigna, Q3-Zahlen
+13:00 USA: Conoco Phillips, Q3-Zahlen
+13:30 USA: Cummins, Q3-Zahlen
+13:30 USA: Southern Company, Q3-Zahlen
+14:00 DEU: Hochtief, Q3-Zahlen
+17:50 ITA: Pirelli, Q3-Zahlen
+18:00 NLD: Euronext, Q3-Zahlen
+22:00 USA: Airbnb, Q3-Zahlen
+22:00 USA: Lyft, Q3-Zahlen
+22:05 USA: Mattel, Q3-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+CHN: VW-Manager sprechen während chinesischer Import-Messe über Strategie, Shanghai
+Volkswagens Gruppenchef Oliver Blume und China-CEO Ralf Brandstätter wollen nach Konzernangaben während der Messe über VWs Entwicklung und die Wettbewerbsfähigkeit bei Forschung und Entwicklung in China sprechen. Zudem soll es eine Ankündigung zur Strategie «in China, beyond China» (in China, über China hinaus) geben.
+DEU: Neuzulassungszahlen des Kraftfahrt-Bundesamts, Flensburg
+USA: Air Products and Chemicals, Q4-Zahlen
+ 
+TERMINE KONJUNKTUR
+01:30 JPN: S&P Global PMI Dienste 10/26 (2. Veröffentlichung)
+08:00 SWE: Verbraucherpreise 10/26 (vorläufig)
+08:00 DEU: Auftragseingang Industrie 9/26
+08:45 FRA: Industrieproduktion 9/26
+09:00 CHE: Arbeitslosenquote 10/26
+10:00 ITA: Einzelhandelsumsatz 9/26
+10:00 NOR: Zentralbank, Zinsentscheid
+11:00 EUR: Erzeugerprise 9/26
+13:00 GBR: BoE, Zinsentscheid
+14:30 USA: BIP Q3/26 (1. Veröffentlichung)
+14:30 USA: Produktivität ex Agragr, Q3/26 (vorab)
+16:00 USA: ISM-Index Services, 10/26
+
+SONSTIGE TERMINE
+09:00 DEU: Online-Pk Hans-Böckler-Stiftung zu Verteilung von Wohlstand in Deutschland, Berlin
+
+09:00 DEU: Wirtschaftstag der Innovationen 2026 u.a. mit Bundesdigitalminister Karsten Wildberger (CDU), Berlin
+
+09:30 DEU: 25. «Lupus alpha Investment Fokus», Frankfurt/M.
+
+10:00 DEU: BGH prüft: Dürfen bei der Kündigung von Online-Verträgen Login-Daten abgefragt werden?, Karlsruhe
+
+11:00 DEU: Pressegespräch Bankhaus Metzler: Private Banking Investment-Strategie für das Jahr 2027, Frankfurt/M.
+
+13:30 DEU: Oberlandesgericht verkündet Urteil in Berufungsverfahren von Ritter Sport gegen Hersteller von quadratischem Haferriegel aus Mannheim, Stuttgart
+
+---------------------------------------------------------------------------------------
+FREITAG, DEN 6. NOVEMBER
+
+TERMINE UNTERNEHMEN
+06:45 DEU: Krones, Q3-Zahlen (detailliert) (13.00 Analystencall)
+07:00 DEU: Daimler Truck, Q3-Zahlen (8.00 Presse- und Analystenkonferenz)
+08:00 GBR: International Consolidated Air, Q3-Zahlen
+08:30 ESP: Amadeus IT, Q3-Zahlen
+14:00 NLD: Qiagen, Hauptversammlung (außerordentliche)
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+USA: Moderna, Q3-Zahlen
+ 
+TERMINE KONJUNKTUR
+08:00 DEU: Industrieproduktion 9/26
+08:00 ROU: Einzelhandelsumsatz 9/26
+08:00 NOR: Industrieproduktion 9/26
+08:45 FRA: Leistungsbilanz 9/26
+09:00 CHE: Fremdwährungsbestand 10/26
+09:00 CHE: Seco Verbrauchervertrauen 10/26
+09:00 ESP: Industrieproduktion 9/26
+11:00 EUR: Einzelhandelsumsatz 9/26
+14:30 USA: Arbeitsmarktbericht 10/26
+16:00 USA: Uni Michigan Verbrauchervertrauen 11/26 (vorab)
+
+---------------------------------------------------------------------------------------
+MONTAG, DEN 9. NOVEMBER
+
+TERMINE UNTERNEHMEN
+07:00 ITA: Unicredit, Q3-Zahlen
+07:15 DEU: Hypoport, Q3-Zahlen
+07:30 DEU: Hannover Rück, Q3-Zahlen
+07:30 DEU: Gea Group, Q3-Zahlen
+18:00 DEU: Patrizia, Q3-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+USA: KKR & Co, Q3-Zahlen
+ 
+TERMINE KONJUNKTUR
+02:30 CHN: Erzeugerpreise 10/26
+02:30 CHN: Verbraucherpreise 10/26
+06:00 JPN: Maschinenwerkzeugaufträge 10/26 (vorläufig)
+08:00 DEU: Im- und Exporte 9/26
+08:00 FIN: Handelsbilanz 9/26 (vorläufig)
+10:30 EUR: Sentix-Investorvertrauen 11/26
+
+SONSTIGE TERMINE
+10:00 DEU: Pk der Deutschen Telekom AG zur KI-Infrastruktur für Deutschland und Europa mit dem Vorstandsvorsitzenden Tim Höttges, Roland Busch, Vorstandsvorsitzender Siemens, Bundeswirtschaftsministerin Katherina Reiche (CDU), Bundesdigitalminister Karsten Wildberger (CDU), und Ministerpräsident Markus Söder (CSU), München
+
+BEL: Treffen der EU-Finanzminister, Brüssel
+
+BEL: Treffen der Euro-Gruppe, Brüssel
+
+FRA: Außenminister-Treffen der G7 in Frankreich geplant, Marseille
+
+TUR: UN-Weltklimakonferenz COP31 in der Türkei, Antalya
+
+16:00 USA: Supreme Court der USA tagt, Washington
+
+---------------------------------------------------------------------------------------
+DIENSTAG, DEN 10. NOVEMBER
+
+TERMINE UNTERNEHMEN
+05:00 DEU: Adtran Networks, Q3-Zahlen
+06:55 DEU: TAG Immobilien, Q3-Zahlen
+07:00 DEU: K+S, Q3-Zahlen
+07:00 DEU: Hamborner Reit, Q3-Zahlen
+07:00 DEU: Jenoptik, Q3-Zahlen
+07:10 DEU: Elmos Semiconductor, Q3-Zahlen
+07:25 ITA: Telecom Italia, Q3-Zahlen
+07:30 DEU: Henkel, Q3-Zahlen
+07:30 DEU: Medios, Q3-Zahlen
+07:30 DEU: Jungheinrich, Q3-Zahlen
+07:30 DEU: Infineon, Jahreszahlen
+08:00 DEU: Porsche Automobil Holding, Q3-Zahlen
+08:00 GBR: Vodafone Group, Halbjahreszahlen
+09:00 DEU: KSB, Q3-Umsatz
+12:00 NOR: DNB ASA, Capital Markets Day
+22:00 CHE: Alcon, Q3-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+DEU: Hensoldt AG, Capital Markets Day
+GBR: Marks & Spencer, Capital Markets Day
+ITA: Banca Generali, Q3-Zahlen
+
+TERMINE KONJUNKTUR
+CHN: Handelsbilanz 10/26
+00:50 JPN: BoJ Leistungsbilanz 9/26
+00:50 JPN: Handelsbilanz 9/26
+06:30 NLD: Verbraucherpreise 10/26 (endgültig)
+06:30 NOR: Verbrauchervertrauen Q4/26
+07:00 FIN: Industrieproduktion 9/26
+08:00 DNK: Verbraucherpreise 10/26
+08:00 NOR: Verbraucherpreise 10/26
+08:30 HUN: Verbraucherpreise 10/26
+09:00 AUT: Industrieproduktion 9/26
+11:00 GRC: Industrieproduktion 9/26
+11:00 GRC: Verbraucherpreise 10/26
+14:15 USA: ADP Arbeitslosenzahlen (Woche)
+14:30 USA: Verbraucherpreise 10/26
+14:30 USA: Realeinkommen 10/26
+
+SONSTIGE TERMINE
+10:30 DEU: Pk Landesbank Hessen-Thüringen (Helaba): Kapitalmarktausblick 2027 mit Helaba-Chefvolkswirtin Rosa Traud, Frankfurt/M.
+
+DEU: Deutscher Eigenkapitaltag (DET) u.a. mit Bundeswirtschaftsministerin Katherina Reiche (CDU), Berlin
+
+DEU: 16. Deutscher Maschinenbaugipfel, Berlin
+
+---------------------------------------------------------------------------------------
+MITTWOCH, DEN 11. NOVEMBER
+
+TERMINE UNTERNEHMEN
+06:50 LUX: Grand City Properties, Q3-Zahlen
+07:00 DEU: RWE, Q3-Zahlen
+07:00 DEU: Eon, Q3-Zahlen
+07:00 DEU: Siemens Energy, Jahreszahlen
+07:00 DEU: Brenntag, Q3-Zahlen
+07:00 DEU: Bilfinger, Q3-Zahlen
+07:00 DEU: KWS Saat, Q1-Zahlen
+07:00 CHE: Swiss Life, Q3-Zahlen
+07:00 NLD: ABN Amro, Q3-Zahlen
+07:30 DEU: SFC Energy, Q3-Zahlen
+07:30 DEU: Vincorion, Q3-Zahlen
+07:30 AUT: Voestalpine, Q2-Zahlen
+07:30 DNK: Vestas, Q3-Zahlen
+08:00 DNK: Royal Unibrew, Q3-Zahlen
+08:30 DEU: Einhell, Q3-Zahlen
+11:15 GBR: Easyjet, Hauptversammlung (außerordentlich)
+18:00 DEU: Freenet, Q3-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+LUX: Eurofins Scientific (North America Investor Day)
+ 
+TERMINE KONJUNKTUR
+07:00 JPN: Maschinenwerkzeugaufträge 10/26 (vorläufig)
+08:00 DEU: Verbraucherpreise 10/26 (endgültig)
+10:00 ITA: Industrieproduktion 9/26
+12:00 PRT: Verbraucherpreise 10/26 (endgültig)
+14:00 RUS: Handelsbilanz 9/26
+
+SONSTIGE TERMINE
+10:00 DEU: BGH prüft Streit um Rechtsschutzversicherung für Impfschaden-Klage nach Corona-Impfung, Karlsruhe
+
+LVA: Wirtschaftskonferenz der Lettischen Zentralbank, Riga
+
+TUR: Gipfel der Staats- und Regierungschefs auf der UN-Weltklimakonferenz COP31 in der Türkei, Antalya
+
+---------------------------------------------------------------------------------------
+DONNERSTAG, DEN 12. NOVEMBER
+
+TERMINE UNTERNEHMEN
+07:00 DEU: Fraport, Verkehrszahlen 10/26
+07:00 DEU: Munich Re, Q3-Zahlen
+07:00 DEU: Deutsche Pfandbriefbank, Q3-Zahlen
+07:00 DEU: Allianz, Q3-Zahlen
+07:00 DEU: Merck KGaA, Q3-Zahlen
+07:00 DEU: SMA Solar, Q3-Zahlen
+07:00 DEU: Siemens, Jahreszahlen
+07:00 DEU: Wacker Neuson, Q3-Zahlen
+07:00 DEU: Init, Q3-Zahlen
+07:00 DEU: LEG Immobilien, Q3-Zahlen
+07:00 DEU: Grenke, Q3-Zahlen
+07:00 DEU: Procredit Holding AG, Q3-Zahlen
+07:00 DEU: Ströer, Q3-Zahlen
+07:00 DEU: Cewe Stiftung, Q3-Zahlen
+07:00 DEU: MLP, Q3-Zahlen
+07:00 DEU: Allianz, Q3-Zahlen
+07:00 AUT: Strabag, Q3-Umsatz
+07:00 AUT: Wienerberger, Q3-Zahlen
+07:00 BEL: KBC Group, Q3-Zahlen
+07:00 CHE: Zurich Insurance Group, Q3-Zahlen
+07:00 CHE: Adecco, Q3-Zahlen
+07:30 DEU: Tonies, Q3-Zahlen
+07:30 DEU: United Internet, Q3-Zahlen
+07:30 DEU: 1&1, Q3-Zahlen
+07:30 DEU: Indus Holding, Q3-Zahlen
+07:30 DEU: Energiekontor, Q3-Zahlen
+07:30 DEU: Friedrich Vorwerk, Q3-Zahlen
+07:30 DEU: Dürr AG, Q3-Zahlen
+07:30 DEU: GFT, Q3-Zahlen
+07:30 DEU: Tonies, Q3-Zahlen
+07:30 DEU: Dermapharm Holding, Q3-Zahlen
+07:30 DEU: Mutares, Q3-Zahlen
+07:30 DEU: Ionos, Q3-Zahlen
+07:30 DEU: Salzgitter, Q3-Zahlen (detailliert)
+07:30 DEU: Secunet Security Networks, Q3-Umsatz
+07:30 DEU: Ottobock SE & Co KGaA, Q3-Zahlen
+07:30 DEU: Heidelberger Druckmaschinen, Q2-Zahlen
+07:30 ESP: Telefonica, Q3-Zahlen
+07:45 DEU: Eckert & Ziegler, Q3-Zahlen
+07:50 DEU: MBB SE, Q3-Zahlen
+08:00 DEU: Jost Werke, Q3-Zahlen
+08:00 DEU: Cancom, Q3-Zahlen
+08:00 DEU: PNE, Q3-Zahlen
+08:00 DEU: OHB, Q3-Zahlen
+08:00 DEU: Verbio, Q1-Zahlen
+08:00 GBR: 3i Group, Halbjahreszahlen
+08:00 GBR: Burberry, Halbjahreszahlen
+08:00 GBR: United Utilities, Halbjahreszahlen
+09:00 DEU: EnBW - Q3-Zahlen, Karlsruhe
+11:00 ESP: ACS, Capital Markets Day
+16:30 USA: Kraft Hein, Investor Day
+17:45 DEU: CTS Eventim, Q3-Zahlen
+18:00 DEU: Deutsche Euroshop, Q3-Zahlen
+18:00 ITA: Enel, Q3-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+DEU: Brenntag, Capital Markets Day
+NLD: DocMorris, Capital Markets Day
+USA: Moderna, Analyst Day
+USA: Applied Materials, Q4-Zahlen
+
+TERMINE KONJUNKTUR
+ROU: Zentralbank, Zinsentscheid
+00:50 JPN: Erzeugerpreise 10/26
+08:00 GBR: BIP Q3/26 (vorläufig)
+08:00 GBR: Privatkonsum Q3/26 (vorläufig)
+08:00 GBR: Staatsausgaben Q3/26 (vorläufig)
+08:00 GBR: Im- und Exporte Q3/26 (vorläufig)
+08:00 GBR: BIP 9/26
+08:00 GBR: Industrieproduktion 9/26
+08:00 GBR: Handelsbilanz 9/26
+08:00 SWE: Verbraucherpreise 10/26 (endgültig)
+08:00 ROU: Verbraucherpreise 10/26
+12:00 IRL: Verbraucherpreise 10/26 (endgültig)
+14:30 USA: Erstanträge Arbeitslosenhilfe (Woche)
+16:00 USA: Wiederverkäufe Häuser 10/26
+
+SONSTIGE TERMINE
+DEU: Pk Bundesbank zur Veröffentlichung des «Finanzstabilitätsberichts 2026», Frankfurt/M.
+
+10:30 DEU: Hybrides Pressegespräch DZ Bank: Jahresausblick 2027, Frankfurt/M.
+
+BEL: Europaministerkonferenz (EMK), Brüssel
+
+---------------------------------------------------------------------------------------
+
+Alle Angaben wurden mit größter Sorgfalt recherchiert. Dennoch übernimmt die dpa-AFX Wirtschaftsnachrichten GmbH keine Haftung für die Richtigkeit. Alle Zeitangaben erfolgen in MEZ./bwi
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+
+Weitere Treffer anzeigen
