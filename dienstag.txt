@@ -1,3 +1,528 @@
+# Nachricht - Börse Stuttgart
+
+03.11.2026 / 07:30:01
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+DIENSTAG: In Tokio bleiben die Börsen wegen des Tags der Kultur geschlossen.
+
+MITTWOCH: In Moskau ruht der Börsenhandel wegen des Tags der Einheit des Volkes.
+
++++++ TAGESTHEMA +++++
+
+Für die Bayer-Quartalsbilanz erwarten Analysten trotz steigender Einnahmen weniger operativen Gewinn. Hatte die Agrarsparte vergangenes Jahr im saisonbedingt schwächsten Jahresviertel noch positiv überrascht, so dürften diesmal Herstellungskosten, Trockenheit auf den Feldern und Preisdruck ihren Tribut bei der Marge gefordert haben, schätzen die Beobachter. In der Pharmasparte dagegen könnten die Gewinneinbußen abflachen, weil die neuen Hoffnungsträger-Medikamente - Nubeqa gegen Prostatakrebs und Kerendia für Nierenerkrankungen - nach ihrer Einschätzung weiter starkes Wachstum zeigten. Die Analysten der UBS halten es für möglich, dass Beyonttra in die Gruppe der Top-15-Medikamente aufsteigt. Bayer hält die Europarechte für das Anfang 2025 zugelassenen Mittel gegen eine sehr seltene Herzerkrankung. Mit der Erstzulassung für den Blutverdünner Asundexian als Schlaganfallprophylaxe in China hat Bayer schon vor den Quartalszahlen eine gute Nachricht veröffentlicht. Das Mittel war zunächst in anderer Indikation gefloppt, gilt aber weiter als Blockbuster-Kandidat. Dem Vernehmen nach soll auch eine US-Zulassung kurz bevorstehen. Ein Thema wird erneut das Milliardenrisiko Glyphosat sein. Hier steht noch die endgültige Genehmigung eines im Frühjahr ausgehandelten Milliardenvergleichs durch ein Gericht in Missouri aus, nachdem die Kläger im September ihre Schlussbewertung abgeben konnten. Zugunsten von Bayer ist unterdessen das erste Glyphosat-Gerichtsverfahren ausgegangen, seit der Supreme Court im Juni seine wegweisende Entscheidung getroffen hat, Bayer könne nicht für fehlende Krebs-Warnlabel auf dem Produkt in einzelnen Bundesstaaten verantwortlich gemacht werden, wenn das Bundesrecht einem solchen Label entgegenstehe. Damit entfiel das Argument, Bayer habe nicht ausreichend gewarnt. Eine Jury in St. Louis entschied nun gegen drei Klägerinnen, die die Nutzung von Glyphosat für ihre jeweilige Krebserkrankung verantwortlich machen wollten. Für Bayers US-Rechtschef Bill ist dies ein klares Signal, dass Kläger nun vor erheblichen Herausforderungen stehen, Ansprüche geltend zu machen und Beweise dafür vorzulegen. Nachfolgend die Konsensschätzungen für das dritte Quartal (Angaben in Millionen Euro, Ausnahme Ergebnis je Aktie in Euro, Bilanzierung nach IFRS):
+
+.                                    PROG   PROG  PROG 
+3. QUARTAL                           3Q26   ggVj  Zahl    3Q25 
+Umsatz Konzern                      9.918    +3%    14   9.660 
+-Pharmaceuticals                    4.471    +3%    14   4.335 
+-Consumer Health                    1.453    +3%    14   1.415 
+-Crop Science                       3.933    +2%    14   3.858 
+EBITDA bereinigt Konzern            1.425    -6%    13   1.511 
+-Pharmaceuticals                    1.037    -1%    13   1.045 
+-Consumer Health                      347    -4%    13     363 
+-Crop Science                         164    -5%    13     172 
+Ergebnis nach Steuern/Dritten        -242     --    10    -963 
+Ergebnis je Aktie Core               0,36   -27%    13    0,49 
+Durchschnittl. Wechselkurs EUR/USD   1,15    -2%     4    1,17
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+7:00 NL/Royal Philips Electronics NV, Ergebnis 3Q
+
+07:10 DE/Norma Group SE, Ergebnis 3Q
+
+07:30 AT/Raiffeisen Bank International AG (RBI), Ergebnis 3Q
+
+07:30 DE/Hugo Boss AG, Ergebnis 3Q
+
+07:30 SA/Saudi Arabian Oil Co (Saudi Aramco), Ergebnis 3Q
+
+08:00 DE/Schaeffler AG, ausführliches Ergebnis 3Q
+
+08:00 GB/Associated British Foods plc (AB Foods), Jahresergebnis
+
+12:00 IT/Intesa Sanpaolo SpA, Ergebnis 3Q
+
+12:45 US/Pfizer Inc, Ergebnis 3Q
+
+12:45 DE/Biontech SE, Ergebnis 3Q (14:00 Analystenkonferenz)
+
+14:00 NL/Ferrari NV, Ergebnis 3Q
+
+22:00 US/Amgen Inc, Ergebnis 3Q
+
+22:00 US/Booking Holdings Inc, Ergebnis 3Q
+
+22:15 US/Advanced Micro Devices Inc, Ergebnis 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- US 
+    16:00 Auftragseingang Industrie September 
+          PROGNOSE: +1,3% gg Vm 
+          zuvor:    +0,1% gg Vm
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+Index                       zuletzt  +/- % 
+DAX Futures               25.855,00   -0,9 
+E-Mini-Future S&P-500      7.555,50   -0,3 
+E-Mini-Future Nasdaq-100  28.070,75   -0,2 
+Topix (Tokio)              FEIERTAG 
+Hang-Seng (Hongk.)        23.440,66   +0,2 
+Shanghai-Comp.             3.588,95   -1,4 
+ 
+Montag: 
+INDEX               Schluss  +/- % 
+DAX               25.981,09   +0,6 
+DAX-Future        26.060,00   +0,6 
+MDAX              30.855,37   +1,3 
+TecDAX             4.115,74   +0,6 
+SDAX              18.217,69   +0,9 
+Euro-Stoxx-50      6.176,06   +0,7 
+Stoxx-50           5.401,33   +0,2 
+XDAX               25.879,11  -0,4 
+Dow-Jones          51.983,98  +0,4 
+S&P-500             7.541,40  -0,5 
+Nasdaq Composite   25.164,36  -1,1
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Vorsicht und Zurückhaltung dürften am Dienstag das Geschäft an Europas Börsen prägen. Wie vom Handel erwartet lassen die Aktivitäten der Institutionellen Anleger im Vorfeld der US-Zwischenwahlen stark nach. Erst ab Mittwochmorgen dürften neue Positionierungen vorgenommen werden, wenn die künftigen Machtverhältnisse in den beiden US-Häusern bekannt sind. Die Börsen in Asien tendieren uneinheitlich, die Zinserhöhung in Australien war erwartet worden. Das Kursminus der DAX-Futures von über 200 Punkten wird am Morgen nicht überbewertet, da es praktisch gegen das Hoch vom Vortag errechnet werde. Übergeordnet dürfte die volatile Seitwärtsbewegung weiter laufen. Kurzfristig im Fokus stehen zudem eine Vielzahl an Unternehmenszahlen.
+
+Rückblick: Der Rückgang der Ölpreise, niedrigere Anleiherenditen und die Erholung der US-Börsen von dem Kurseinbruch am Freitag stützten die europäischen Aktienmärkte zu Wochenbeginn. Kein Belastungsfaktor war die Entscheidung der Rating-Agentur Fitch, den Ausblick für Frankreich auf "negativ" zu senken. Die Absicherungskosten für Frankreich seien auf einem so hohen Niveau, dass viele Risiken bereits als eingepreist gesehen würden, hieß es. Auch die Revisionen der europäischen Einkaufsmanagerindizes lösten keine Reaktion aus. Die Eurozone-Industrie ist zu Beginn des vierten Quartals 2026 auf einem soliden Wachstumskurs geblieben, obwohl sich die Auftragszuwächse verlangsamten und der Lieferdruck zunahm. Bei den Einzelwerten brach die Alstom-Aktie um 26 Prozent ein. Der Eisenbahntechnik-Konzern hatte eine erhebliche Gewinnwarnung herausgegeben und prüft Optionen zum Abbau von Schulden um rund 2 Milliarden Euro, was nach Einschätzung von JP Morgan eine schmerzhafte, aber notwendige Bereinigung darstellt. Auch bei Ryanair ist der Gewinn zurückgegangen gegenüber dem Vorjahr. Grund war wie erwartet der starke Anstieg bei den Treibstoff-Kosten. Im Zuge des Ölpreisrückgangs am Montag gewann die Aktie 5,4 Prozent. Air France-KLM, IAG und Lufthansa legten um bis zu 4,8 Prozent zu. Die Aktien des Reise-Veranstalters Tui kletterten um 5,9 Prozent nach oben. Die Aktien der Supermarktkette Ahold Delhaize fielen um 2,2 Prozent. Carrefour schlossen kaum verändert. Tiefkühl- und Kühlschränke in einigen belgischen Fililalen waren Berichten zufolge von Hackern in den Abtaumodus versetzt worden.
+
+DAX/MDAX/SDAX/TECDAX
+
+Freundlich - Im DAX gewannen Fresenius 1,6 Prozent. Das Unternehmen hatte eine exklusive Entwicklungsvereinbarung mit Wuxi Biologics zum Ausbau seiner Biosimilars-Pipeline geschlossen. Dadurch erhält der Gesundheitskonzern exklusiven Zugang zu bis zu 37 potenziellen Biosimilar-Kandidaten und adressiert damit Originalpräparate mit einem Umsatz von mehr als 370 Milliarden Euro. Die neue Partnerschaft mit WuXi erweitert aus Sicht der DZ Bank die langfristigen Wachstumsperspektiven von Fresenius insbesondere für die Zeit nach 2030 deutlich. Der Ausblick für das Gesamtjahr wurde bestätigt. Gesucht waren ferner Infineon, die um 2,9 Prozent zulegten. Die Titel erholten sich im Einklang mit anderen Aktien mit KI-Bezug, die am Freitag von Zweifeln an der Tragfähigkeit der massiven KI-Investitionen belastet worden waren. Siemens Energy verbuchten ein Plus von 2,4 Prozent. Aixtron verbesserten sich um 3,9 Prozent. Im SDAX brachen Init Innovation in Traffic nach einer Gewinnwarnung um 20,7 Prozent ein.
+
+XETRA-NACHBÖRSE
+
+Es gab keine wichtigen Unternehmensnachrichten während des nachbörslichen Handels.
+
+USA - AKTIEN
+
+Uneinheitlich - Der deutliche Rückgang der Ölpreise und niedrigere Marktzinsen haben die US-Börsen am Montag leicht gestützt. Jedoch zeigten sich die Technologiewerte mit erneuten Abgaben. Vor den Apple-Quartalszahlen am Montag nach Börsenschluss und den US-Zwischenwahlen am Dienstag hätten die Anleger aber eher vorsichtig agiert, hieß es. Konjunkturseitig stieg der ISM-Index für das verarbeitende Gewerbe im Oktober stärker als erwartet. Sein von S&P Global ermitteltes Pendant ging dagegen gegenüber der ersten Veröffentlichung zurück. Der Kurs der KI-Wette Nvidia fiel um weitere 1,3 Prozent. AMD verloren 7,5 Prozent. Intel, die in Reaktion auf die Zahlen des Chipkonzerns am Freitag abgestürzt waren, büßten weitere 8,8 Prozent ein. Aktien mit Bezug zu Kryptowährungen wurden erneut von dem massiven Cyberdiebstahl bei der nicht börsennotierten Kryptobörse Binance belastet. Anleger zogen nach Bekanntwerden des Zwischenfalls 3,6 Milliarden Dollar von Binance ab. Coinbase verloren nach dem Kurseinbruch von 10 Prozent am Freitag weitere 4 Prozent. Nach einem überzeugenden Quartalsbericht
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 03, 2026 01:30 ET (06:30 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+03.11.2026 / 07:30:01
+
+# MORNING BRIEFING - Deutschland/Europa -3-
+
+(Dow Jones Newswires)
+
+muss ihren Ausblick für das bereinigte EBIT abermals nach unten korrigieren. "Angesichts des fortgeschrittenen Jahresverlaufs und der höheren Treibstoffkosten konkretisieren wir unsere Ergebnisprognose auf 1,7 bis 2,0 Milliarden Euro", sagte Finanzvorstand Till Streichert laut Mitteilung. Bislang hatte das obere Ende der Spanne bei 2,2 Milliarden Euro gelegen. Im Vorjahr hat die Lufthansa operativ 1,96 Milliarden Euro verdient. Für das dritte Quartal wurden folgende Eckdaten bekannt gegeben (Angaben in Millionen Euro, Ausnahme Ergebnis je Aktie in Euro, Marge in Prozent, Bilanzierung nach IFRS):
+
+.                                 BERICHTET    PROG  PROG 
+3. QUARTAL                       3Q26  ggVj    3Q26  ggVj    3Q25 
+Umsatz                         12.240   +9%  12.079   +8%  11.199 
+EBIT bereinigt                  1.407   +6%   1.368   +3%   1.331 
+EBIT-Marge bereinigt             11,5    --    11,3    --    11,9 
+Ergebnis nach Steuern/Dritten   1.257  +30%   1.063  +10%     966 
+Ergebnis je Aktie                1,05  +30%    0,89  +10%    0,81 
+Free Cashflow bereinigt           793   -3%      --    --     818
+
+TEAMVIEWER
+
+hat seine Umsatzprognose für das Gesamtjahr gesenkt. Wie das Softwareunternehmen mitteilte, verzögern sich größere Abschlüsse. Außerdem dämpfe die wirtschaftliche Unsicherheit in Europa die Aussichten für das vierte Quartal. Die Margenprognose wurde bestätigt. Für das dritte Quartal wurden folgende Eckdaten bekannt gegeben (Angaben in Millionen Euro, Ausnahme Ergebnis je Aktie in Euro, Marge in Prozent, Bilanzierung nach IFRS):
+
+.                        BERICHTET  PROG  PROG 
+3. QUARTAL              3Q26  ggVj  3Q26  ggVj  3Q25 
+Umsatz                   185   -4%   188   -2%   192 
+EBITDA bereinigt          79  -10%    80   -9%    88 
+EBITDA-Marge bereinigt  42,8   -6%  41,6    --  45,7 
+Ergebnis nach Steuern     36    --    34  +17%    29 
+Ergebnis je Aktie       0,23  +28%  0,20  +11%  0,18
+
+GALDERMA
+
+Finanzchef Luigi La Corte wird das Unternehmen verlassen, um eine "bedeutende" neue Möglichkeit anderswo zu verfolgen. Er werde aber noch für eine Übergangszeit bleiben. La Corte war erst im April zu Galderma gekommen und übernahm den CFO-Posten im Mai.
+
+APPLE
+
+Die Wachstumsmaschine von Apple gerät ins Stocken, aber Preiserhöhungen ermöglichten es dem iPhone-Konzern, die Erwartungen der Analysten im vierten Geschäftsquartal knapp zu übertreffen. Apple prognostiziert zudem, dass sich das margenstarke Dienstleistungsgeschäft im laufenden Quartal weiter verlangsamen und die viel beachtete Bruttomarge weiter sinken werde.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/cln/ros
+
+(END) Dow Jones Newswires
+
+November 03, 2026 01:30 ET (06:30 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+03.11.2026 / 07:57:55
+
+# Ölpreise steigen nach US-Angriffen auf Ziele im Iran
+
+(dpa-AFX) NEW YORK/LONDON (dpa-AFX) - Die Ölpreise sind am Dienstag nach Meldungen über erneute Angriffe des US-Militärs auf Ziele im Iran gestiegen und haben damit einen Teil der deutlichen Verluste vom Vortag wettgemacht. Am Morgen wurde ein Barrel (159 Liter) der Referenzsorte Brent für Rohöl aus der Nordsee mit Lieferung im Januar bei 106,12 US-Dollar gehandelt und damit etwa 1,3 Prozent höher als am Montag. Zu Wochenbeginn hatte der Brent-Preis knapp acht Prozent nachgegeben.
+
+NEW YORK/LONDON (dpa-AFX) - Die Ölpreise sind am Dienstag nach Meldungen über erneute Angriffe des US-Militärs auf Ziele im Iran gestiegen und haben damit einen Teil der deutlichen Verluste vom Vortag wettgemacht. Am Morgen wurde ein Barrel (159 Liter) der Referenzsorte Brent für Rohöl aus der Nordsee mit Lieferung im Januar bei 106,12 US-Dollar gehandelt und damit etwa 1,3 Prozent höher als am Montag. Zu Wochenbeginn hatte der Brent-Preis knapp acht Prozent nachgegeben.
+
+Nach übereinstimmenden Medienberichten haben die USA Ziele auf der iranischen Insel Gheschm in der Straße von Hormus angegriffen. Demnach wurde eine Stellung der Revolutionsgarden auf der Insel attackiert, nachdem von dort eine Rakete auf ein US-Flugzeug abgefeuert worden sei.
+
+Nur Stunden zuvor hatte US-Präsident Donald Trump gesagt, dass viele davon ausgehen, der Krieg mit dem Iran gehe zu Ende. Der Iran wolle unbedingt eine Vereinbarung, behauptete Trump. Allerdings hatten Medien in den Tagen zuvor über Pläne der Regierung in Washington berichtet, nach den Zwischenwahlen in den USA gemeinsam mit Israel erneut Angriffe gegen den Iran zu fliegen.
+
+Mit dem aktuellen Anstieg haben die Ölpreise den deutlichen Rückgang vom Wochenauftakt vorerst gestoppt. Am Montag war der Preis für Rohöl der Sorte Brent wegen positiver Signale aus dem Iran zeitweise bis auf 103,28 Dollar gefallen, nachdem die Notierung in der vergangenen Woche noch bei fast 117 Dollar gestanden hatte.
+
+Der oberste Führer des Iran, Modschtaba Chamenei, hatte grünes Licht für Verhandlungen gegeben, die den seit Monaten andauernden Krieg mit den USA beenden könnten, wie aus einem Bericht der staatlichen Nachrichtenagentur IRNA hervorgeht./jkr/zb
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+03.11.2026 / 08:11:49
+
+# MÄRKTE ASIEN/Seoul tiefrot - Aktien von Apple-Zulieferern werden verkauft
+
+(Dow Jones Newswires)
+
+Von Steffen Gosenheimer
+
+DOW JONES--Die ostasiatischen Aktienmärkte haben am Dienstag nach einer schwachen Vorgabe der Wall Street uneinheitlich tendiert. Hauptthemen waren die Quartalszahlen, vor allem aber der Ausblick von Apple, und die Zwischenwahlen in den USA. Letztere könnten das Machtgefüge im Kongress verändern und Präsident Donald Trump das Regieren schwerer machen. Derweil erhöhte die Reserve Bank of Australia wie mehrheitlich schon erwartet die Zinsen und zwar bereits das fünfte Mal in diesem Jahr, um die anhaltende Inflation einzudämmen.
+
+Zunächst lediglich zur Kenntnis genommen wurde, dass es im Iran-Krieg wieder Angriffe gab, obwohl Präsident Trump diesen vor den Zwischenwahlen eine Absage erteilt hatte. Zudem hatten am Vortag noch Meldungen über neue diplomatische Versuche für Zuversicht und sehr stark fallende Ölpreise gesorgt. Die zeigen sich auf dem gedrückten Niveau wenig verändert. Brent-Öl kostete zuletzt in Asien rund 106 Dollar, etwa 1,2 Prozent mehr als am Vortag.
+
+Im koreanischen Seoul setzte sich das Hin und Her des sehr volatilen technologielastigen Kospi fort. Nach dem deutlichen Plus am Vortag sackte der Index nun wieder um 3,6 Prozent ab, wofür Teilnehmer den Ausblick von Apple zumindest mitverantwortlich machten. Der iPhone-Hersteller hat zwar über den Erwartungen liegende Quartalszahlen berichtet, prognostiziert aber für das wichtige Weihnachtsquartal niedrigere Bruttomargen angesichts steigender Kosten für Speicherchips. Der Ausblick verstärke die Bedenken hinsichtlich der Kosten und Rentabilität von Technologieinvestitionen, unter anderem in Künstliche Intelligenz, hieß es im Handel.
+
+In Shanghai gab der Composite-Index um 0,8 Prozent nach. Besser hielt sich der HSI in Hongkong, er lag im Späthandel 0,4 Prozent höher als am Vortag. In Sydney, wo es am Montag im Vorfeld des Zinsbeschlusses etwas deutlicher nach unten gegangen war, erholte sich der S&P/ASX-200 um 0,3 Prozent. Dazu könnte etwas beitragen haben, dass die Entscheidung die Zinsen zu erhöhen, gespalten ausfiel: drei der neun beschließenden Notenbanker hatten für unveränderte Zinsen plädiert.
+
+Die Kommentare der Notenbank hätten einen taubenhaften Unterton gehabt, sagte Dwyfor Evans von State Street Markets. Die Bank scheine sich stärker auf die Verlangsamung des Produktionswachstums zu konzentrieren, was ein potenzieller Auslöser für eine Desinflation sein könnte. UBS-Ökonom George Tharenou sagte, die RBA scheine ihre Straffungstendenz aufzugeben, was eine weitere Zinserhöhung im Dezember ausschließe. Dazu passend gab der Australische Dollar trotz der Zinserhöhung etwas nach.
+
+In Japan pausierte das Geschäft an den Finanzmärkten wegen eines Feiertags.
+
+Unter den Einzelwerten ging es in der gesamten Region nach dem Rücksetzer bei den Ölpreisen mit den Kursen der stark kerosinpreisabhängigen Fluggesellschaften nach oben. In Hongkong hoben Cathay Pacific um 3,2 Prozent ab, in Sydney Qantas um 6,4 oder in Hongkong Air China um 2,9 und China Eastern um 1,9 Prozent.
+
+Unter Druck standen Aktien von Apple-Zulieferern. Largan Precision fielen um 9,9 Prozent, TSMC um 1,5, Hon Hai (Foxconn) um 4,5 oder LG Innotek um 7,2 Prozent. Der Kurs des Apple-Konkurrenten Samsung Electronics rutschte um 4,2 Prozent ab.
+
+INDEX                       zuletzt  +/- %          % YTD  Handelsschluss 
+S&P/ASX 200 (Sydney)       8.886,80   +0,3           +2,0           06:00 
+Topix 500 (Tokio)          Feiertag                 +15,5 
+Kospi (Seoul)              5.648,79   -3,6          +34,0           07:30 
+Hang-Seng (Hongkong)      23.453,57   +0,3           -8,5           09:00 
+Shanghai-Composite         3.608,10   -0,8           -9,2           08:00 
+Straits-Times (Singapur)   5.259,84   -0,8          +13,2           10:00 
+IDX Comp. (Indonesien)     4.931,63   -3,2          -43,0           10:00 
+KLCI (Malaysia)            1.620,36   +0,1           -3,6           10:00 
+ 
+ 
+DEVISEN                     zuletzt  +/- %          00:00       Mo, 08:44  % YTD 
+EUR/USD                      1,1192   +0,1         1,1185          1,1186   -4,7 
+EUR/JPY                      176,62   -0,0         176,68          176,35   -4,0 
+EUR/GBP                      0,8343   NULL         0,8343          0,8346   -4,3 
+USD/JPY                      157,82   -0,1         157,94          157,62   +0,8 
+USD/KRW                    1.341,01   -0,4       1.346,05        1.333,72   -6,9 
+USD/CNY                      6,6738   +0,4         6,6480          6,6566   -4,6 
+USD/CNH                      6,6734   +0,4         6,6461          6,6523   -4,3 
+USD/HKD                      7,8462    0,0         7,8465          7,8450   +0,8 
+AUD/USD                      0,6981   -0,2         0,6996          0,7031   +4,6 
+NZD/USD                      0,5626   +0,2         0,5615          0,5635   -2,3 
+BTC/USD                   76.421,75   -0,4      76.730,93       78.379,03  -12,9 
+ 
+ 
+ROHOEL                      zuletzt  +/- %       +/- abs.  Schluss Vortag 
+WTI/Nymex                     98,45   +2,1           1,99           96,46 
+Brent/ICE                    106,49   +1,6           1,72          104,77 
+ 
+ 
+Metalle                     zuletzt  +/- %       +/- abs.  Schluss Vortag 
+Gold                       3.910,96   -0,9         -36,46        3.947,42 
+Silber                        49,01   -3,2          -1,62           50,63 
+Platin                     1.430,80   -1,3         -18,45        1.449,25 
+ 
+(Angaben ohne Gewähr)
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/DJN/gos/hab
+
+(END) Dow Jones Newswires
+
+November 03, 2026 02:11 ET (07:11 GMT)
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Qantas Airways
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 896435
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/896435-qantas-airways/)
+    
+-   [
+    
+    ### Air China
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN A0M4WT
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a0m4wt-air-china/)
+    
+-   [
+    
+    ### China Eastern Airlines
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN A0M4XH
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a0m4xh-china-eastern-airlines/)
+    
+-   [
+    
+    ### Cathay Pacific Airways
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 870986
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/870986-cathay-pacific-airways/)
+    
+-   [
+    
+    ### Apple Computer
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 865985
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/865985-apple-computer/)
+    
+-   [
+    
+    ### CATHAY PAC.AIRW.HD-20ADR5
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 873281
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/873281-cathay-pac-airw-hd-20adr5/)
+    
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+-   [
+    
+    ![Buy and Hold: Darum verkauft selbst Warren Buffett!](https://i.ytimg.com/vi/ZXw8Pu8EQ0U/hqdefault.jpg)
+    
+    Videos**Buy and Hold: Darum verkauft selbst Warren Buffett!**
+    
+    28/09/2026 18:30
+    
+    36:59 Ist Buy and Hold wirklich „kaufen für immer“ oder verpasst du den Ausstieg? Investor Alex Fischer (Reich mit Plan) und Richard „Richy“ Dittrich (Börse Stuttgart Group) diskutieren, warum stures Festhalten gefährlich sein kann, wie Warren Buffett mit V...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/9/28/buy-and-hold-darum-verkauft-selbst-warren-buffett/)
+
+Weitere Treffer anzeigen
+
 Hier sind die gestern (am 2. November 2026) veröffentlichten Wirtschaftsergebnisse:
 Ryanair Holdings plc (NASDAQ:RYAAY): Der Gewinn nach Steuern sank im ersten Halbjahr des Geschäftsjahres 2026/27 um 15 % auf Grund gestiegener Kerosinkosten.
 DE / Einzelhandelsumsatz (September): Die Umsätze sanken unerwartet deutlich um real 2,0 % gegenüber dem Vormonat (Erwartung war ein Plus von ca. 0,3 bis 0,4 %).
