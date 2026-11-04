@@ -1,3 +1,13 @@
+Bei den gestrigen US-Zwischenwahlen (Midterms) vom 3. November 2026 haben die Republikaner von Präsident Donald Trump eine deutliche Niederlage erlitten.
+ Die Demokraten konnten die Mehrheit in beiden Kammern des Kongresses erobern.
+Die wichtigsten Ergebnisse im Überblick:
+Repräsentantenhaus: Die Demokraten haben die erforderliche Mehrheit von 218 Sitzen überschritten und übernehmen die Kontrolle über die Kammer.
+Senat: Die Demokraten konnten eine Reihe von Sitzen in bisherigen republikanischen Hochburgen drehen (darunter Texas, Ohio und Kansas) und sichern sich damit ebenfalls die Mehrheit.
+Hintergrund: Als Hauptgründe für den Missmut der Wähler gelten die Unzufriedenheit mit den Lebenshaltungskosten und den gestiegenen Kraftstoffpreisen.
+Präsident Trump kündigte in einer ersten Reaktion an, das Ergebnis anzuerkennen und mit den Demokraten zusammenarbeiten zu wollen, betonte jedoch gleichzeitig, von seinem Vetorecht Gebrauch zu machen.
+prompt_suggestion
+
+
 # Nachricht - Börse Stuttgart
 
 04.11.2026 / 07:35:19
