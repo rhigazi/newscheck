@@ -1,3 +1,514 @@
+Hier ist die Zusammenfassung der gestern (5. November 2026) gemeldeten Konjunkturdaten aus Europa:
+Frankreich: Industrieproduktion (September 2026)
+Aktuell: -0,5 % im Monatsvergleich (Erwartung war ein Plus von 0,3 %).
+Hintergrund: Der überraschende Rückgang wurde vor allem durch einen Einbruch von 3,8 % in der Energie- und Wasserwirtschaft infolge einer geringeren Stromproduktion verursacht.
+ Ein Lichtblick war das verarbeitende Gewerbe, das dank einer starken Erholung in der Automobilbranche (+7,5 %) ein Plus von 0,5 % verzeichnete.
+Schweiz: Arbeitslosenquote (Oktober 2026)
+Aktuell: 3,0 % (nicht saisonbereinigt).
+Hintergrund: Die Quote verharrte den dritten Monat in Folge auf diesem Niveau.
+ Die saisonbereinigte Arbeitslosenquote blieb stabil bei 3,1 %.
+Italien: Einzelhandelsumsatz (September 2026)
+Aktuell: +0,1 % im Monatsvergleich (Prognose war +0,2 %).
+Hintergrund: Der Konsum kühlte sich leicht ab.
+ Während der Umsatz mit Lebensmitteln stagnierte (0,0 %), legten Nicht-Lebensmittelprodukte um 0,3 % zu.
+ Im gesamten dritten Quartal verzeichnete das Verkaufsvolumen einen Rückgang von 0,5 %.
+Norwegen: Zentralbank (Zinsentscheid – November 2026)
+Entscheidung: Die Norges Bank beließ ihren Leitzins unverändert bei 4,5 %, was den Markterwartungen entsprach.
+Hintergrund: Zentralbankchefin Ida Wolden Bache betonte, dass die Inflation weiterhin zu hoch sei.
+ Der geldpolitische Ausschuss signalisierte Bereitschaft, die Zinsen bei Bedarf im Winter erneut anzuheben, sollten die Kernkosten nicht wie gewünscht zurückgehen.
+Eurozone: Erzeugerpreise / PPI (September 2026)
+Aktuell: +2,5 % im Monatsvergleich / +11,1 % im Jahresvergleich (Prognose war +10,9 %).
+Hintergrund: Dies ist der stärkste Anstieg der gewerblichen Erzeugerpreise seit Februar 2023.
+ Haupttreiber waren die rasant gestiegenen Energiepreise, die im Vormonatsvergleich um 7,8 % und im Jahresvergleich um rund 30,0 % nach oben schossen.
+prompt_suggestion
+
+Der starke Anstieg der Energie- und Erzeugerpreise in der Eurozone im September 2026 war primär eine direkte Folge der geopolitischen Eskalation im Nahen Osten.
+Kriegshandlungen im Nahen Osten: Der Ausbruch des militärischen Konflikts zwischen den USA, Israel und dem Iran im Frühjahr führte zu anhaltenden Störungen und massiven Unsicherheiten auf den globalen Rohstoffmärkten.
+Preissprung bei Mineralölerzeugnissen: Infolgedessen schossen die Preise für Erdöl und verarbeitete Mineralölprodukte drastisch nach oben.
+ Mineralölerzeugnisse verteuerten sich im Vorjahresvergleich um mehr als die Hälfte (+51,3 %), während leichtes Heizöl sogar um 91,8 % zulegte.
+Durchreichen an die Erzeugerstufe: Dieser drastische Rohstoffpreisanstieg schlug direkt auf die Energieerzeugerpreise durch, die im September im Monatsvergleich um 7,8 % und im Jahresvergleich um 30,8 % in die Höhe kletterten.
+Der starke Anstieg der Energie- und Erzeugerpreise in der Eurozone im September 2026 war primär eine direkte Folge der geopolitischen Eskalation im Nahen Osten.
+Kriegshandlungen im Nahen Osten: Der Ausbruch des militärischen Konflikts zwischen den USA, Israel und dem Iran im Frühjahr führte zu anhaltenden Störungen und massiven Unsicherheiten auf den globalen Rohstoffmärkten.
+Preissprung bei Mineralölerzeugnissen: Infolgedessen schossen die Preise für Erdöl und verarbeitete Mineralölprodukte drastisch nach oben.
+ Mineralölerzeugnisse verteuerten sich im Vorjahresvergleich um mehr als die Hälfte (+51,3 %), während leichtes Heizöl sogar um 91,8 % zulegte.
+Durchreichen an die Erzeugerstufe: Dieser drastische Rohstoffpreisanstieg schlug direkt auf die Energieerzeugerpreise durch, die im September im Monatsvergleich um 7,8 % und im Jahresvergleich um 30,8 % in die Höhe kletterten.
+prompt_suggestion
+
+Der Euro reagiert am Devisenmarkt stabil bis leicht fester auf die hohen Erzeugerpreisdaten der Eurozone.
+Zinserwartungen stützen den Euro: Da der unerwartet starke Anstieg der Erzeugerpreise (PPI) auf einen anhaltenden Inflationsdruck hindeutet, sinkt am Markt die Wahrscheinlichkeit für rasche oder kräftige Zinssenkungen durch die Europäische Zentralbank (EZB). Höhere Zinsen im Euroraum machen die Währung für Investoren attraktiver.
+Wechselkurs zum US-Dollar: Die Gemeinschaftswährung notiert am Morgen stabil über der Marke von 1,09 USD [1] und behauptet damit ihre Gewinne der letzten Tage.
+Die hohe Inflation auf Herstellerebene dämpft zwar die Wachstumsaussichten der Unternehmen, stützt den Eurokurs jedoch über den geldpolitischen Zinskanal der EZB.
+EUR
+
+Der Anstieg der gewerblichen Erzeugerpreise (PPI) auf 11,1 % im September 2026 wirkt sich über zwei Hauptkanäle verzögert und direkt auf die europäische Verbraucherinflation aus:
+Direkter inflationärer Impuls: Die Erzeugerpreise gelten als Vorläufer für die Verbraucherpreise (CPI). Da die Produktionskosten für die Unternehmen massiv steigen, geben viele Betriebe diesen Kostendruck an die Endverbraucher weiter. Dies zeigt sich bereits in den jüngsten Verbraucherdaten: Die jährliche Inflationsrate in der Eurozone beschleunigte sich im Oktober 2026 den vierten Monat in Folge auf 4,0 % (nach 3,8 % im September).
+Extreme Zweiteilung ("Energie-Schock"): Da der Anstieg fast ausschließlich von den Energie-Erzeugerpreisen (+30,8 %) getrieben wird, schlägt sich dies primär in der Energiekomponente der Verbraucher nieder, die im Oktober um 20,8 % anzog.
+ Die Kerninflation (ohne Energie und Nahrungsmittel) blieb dagegen bei 2,5 % stabil.
+ Es handelt sich also um einen angebotsseitigen Energieschock und keine breite Teuerung über alle Warengruppen.
+.
+
+Laut den aktuellsten harmonisierten Verbraucherpreisdaten (HVPI) von Eurostat verzeichnen folgende europäischen Länder die höchste jährliche Inflationsrate:
+Rumänien: Führt die europäische Teuerung mit einer Inflationsrate von 6,5 % an.
+Litauen: Verzeichnet mit 6,1 % die höchste Inflationsrate innerhalb der Eurozone.
+Bulgarien: Liegt mit einer Teuerungsrate von 5,6 % auf dem dritten Platz.
+Haupttreiber ist in fast allen betroffenen Mitgliedstaaten der drastische Anstieg der Energiepreise (+20,8 %), welcher die Gesamtinflation in der Eurozone im Oktober 2026 auf durchschnittlich 4,0 % angetrieben hat.
+prompt_suggestion
+
+Der US-Dollar hat über den Wechselkurskanal einen erheblichen und direkten Einfluss auf die europäische Inflation. Da der Euro im bisherigen Verlauf des Jahres 2026 gegenüber dem Dollar zeitweise an Wert verloren hat,
+ wirkt sich das US-Zahlungsmittel wie folgt aus:
+Importierte Inflation bei Rohstoffen: Global gehandelte Rohstoffe wie Rohöl, Gas und Metalle werden fast ausschließlich in US-Dollar abgerechnet. Ein starker Dollar (bzw. ein schwächerer Euro) führt dazu, dass europäische Importeure mehr Euro aufwenden müssen, um dieselbe Menge Energie einzukaufen. Dies hat den jüngsten Energiepreis-Schock und den rasanten Anstieg der Erzeugerpreise (+11,1 %) in der Eurozone massiv verstärkt.
+Verteuerung von Konsumgütern: Neben Rohstoffen werden auch viele Elektronikkomponenten, Konsumgüter und Vorprodukte aus Asien und den USA in Dollar bezahlt. Der starke Dollar verteuert diese Importe auf breiter Front, was die Unternehmen über steigende Produktionskosten zeitverzögert an die Verbraucher weitergeben.
+Ein starker US-Dollar wirkt für Europa somit wie ein Inflationsbeschleuniger, da er Importe verteuert und den Preisdruck im Euroraum erhöht.
+EUR
+
+
+
+Hier sind die Ergebnisse der gestern am 5. November 2026 veröffentlichten Konjunkturdaten:
+Japan: S&P Global Einkaufsmanagerindex (PMI) Dienste (Oktober 2026)
+Aktuell: 51,7 Punkte
+Vormonat: 51,3 Punkte
+Hintergrund: Der japanische Dienstleistungssektor expandierte den fünften Monat in Folge, getrieben durch solide Inlandsnachfrage und Neukundengewinnung.
+Schweden: Verbraucherpreise (Oktober 2026 – vorläufig)
+Aktuell (Inflationsrate CPI): +0,9 % im Jahresvergleich (Erwartung: +1,2 %)
+Vormonat: +1,1 %
+Hintergrund: Die schwedische Teuerungsrate sank überraschend deutlich und verharrte im Monatsvergleich unberührt (0,0 %).
+ Der für die Riksbank maßgebliche KPIF sank auf 1,1 %.
+Deutschland: Auftragseingang der Industrie (September 2026)
+Aktuell: +4,4 % im Monatsvergleich (Erwartung: +4,8 %)
+Vormonat: -10,1 % (revidiert von -10,6 %)
+Hintergrund: Nach dem schweren Einbruch im Vormonat gab es eine spürbare Erholung.
+ Haupttreiber war die Automobilindustrie mit einem Auftragsplus von 10,5 % nach Betriebsferien und Produktionsumstellungen im Sommer.
+Deutschland: Umsatz im Dienstleistungsbereich (August 2026)
+Aktuell: +0,9 % im Monatsvergleich (real, preisbereinigt)
+Vorjahresmonat: +0,9 % real / +4,5 % nominal
+Hintergrund: Den stärksten realen Umsatzzuwachs gegenüber dem Vormonat verzeichnete der Bereich Information und Kommunikation mit +3,7 %.
+Deutschland: Arbeitskostenerhebung (Jahr 2024)
+Aktuell: 44,32 Euro betrugen die durchschnittlichen Nettoarbeitskosten je geleistete Arbeitsstunde in Deutschland.
+Hintergrund: Im regionalen Vergleich verzeichnete Hamburg die höchsten Arbeitskosten.
+ Die niedrigsten Kosten je Arbeitsstunde fielen in den Branchen Gastronomie und Beherbergung an.
+
+Der Anstieg des realen Auftragseingangs im September 2026 um 4,4 %
+ fiel etwas geringer aus als die durchschnittlich prognostizierten 4,6 % bis 4,8 %.
+ Für die deutsche Industrie bedeutet dieses Ergebnis folgendes:
+Strukturelle Erholung: Auch wenn die Erwartungen minimal verfehlt wurden, konnte die Industrie nach dem drastischen Einbruch im Vormonat (-10,1 %)
+ wieder einen bedeutenden Teil der Verluste wettmachen.
+Stärke im Kerngeschäft: Ohne die oft schwankungsanfälligen Großaufträge stiegen die Bestellungen sogar um 5,1 %.
+ Das signalisiert eine solide, breiter abgestützte Nachfrage im operativen Tagesgeschäft.
+Stabilisierung auf Quartalssicht: Im gesamten 3. Quartal 2026 lagen die Aufträge hauchdünn mit 0,2 % über dem Vorquartal.
+ Die Zahlen deuten damit auf eine fundamentale Bodenbildung und eine langsame Stabilisierung der Industriekonjunktur hin, ohne dass jedoch bereits von einem kräftigen, dynamischen Boom gesprochen werden kann.
+.
+
+Laut den aktuellen Berichten von S&P Global belasten vor allem folgende Faktoren und Bereiche die Dynamik der japanischen Wirtschaft:
+Das Verarbeitende Gewerbe (Industrie): Der Industrie-PMI sank im Oktober auf ein Siebenmonatstief von 53,3 Punkten.
+ Das Wachstum bei Produktion und Neuaufträgen verlor spürbar an Schwung.
+Auslandsnachfrage: Während die Inlandsnachfrage den Dienstleistungssektor stützte, blieb das Neugeschäft und die Nachfrage aus dem Ausland im gesamten Wirtschaftsraum schwach.
+Massiver Kostendruck: Steigende Energiekosten und der schwache Yen treiben die Einkaufspreise (Inputkosten) sowohl in der Industrie als auch im Dienstleistungssektor an.
+ Da Unternehmen diese Kosten nicht voll an die Kunden weitergeben können, geraten die Gewinnmargen zunehmend unter Druck.
+prompt_suggestion
+Wie
+
+Führende Ökonomen und Wirtschaftsforschungsinstitute blicken verhalten optimistisch, aber mit spürbaren Einschränkungen auf die Aussichten der deutschen Industrie im Winter 2026:
+Erhöhte Wachstumsprognosen: Institutionen wie die DIHK, die OECD und das IW Köln haben ihre BIP-Wachstumsprognosen für das Gesamtjahr 2026 zuletzt deutlich auf 1,0 % bis 1,2 % angehoben.
+ Ursächlich hierfür war ein unerwartet starkes erstes Halbjahr, getrieben von soliden Exporten und dem globalen KI-Boom.
+Nachlassende Dynamik im Winter: Für das laufende zweite Halbjahr und das Winterhalbjahr rechnen Ökonomen mit einer Abschwächung dieser Dynamik.
+ Sonderfaktoren wie geopolitische Risiken (z.B. die Nahost-Krise und damit verbundene Lieferketteneffekte) sowie protektionistische Tendenzen im Welthandel dämpfen das Exportgeschäft.
+Strukturelle Bremsen: Trotz einer verbesserten Stimmung warnen Verbände und Wirtschaftsforscher vor anhaltenden Belastungen.
+ Hohe Energiepreise und im internationalen Vergleich hohe Arbeitskosten hemmen weiterhin die private Investitionsbereitschaft im Inland.
+ Eine dauerhafte, breit angelegte und sich selbst tragende Erholung ist für den Winter vorerst noch nicht in Sicht.
+NYA
+
+Laut den vorläufigen Angaben des Statistischen Bundesamtes (Destatis) war die positive Entwicklung beim deutschen Auftragseingang im September 2026 vor allem auf folgende Schlüsselbranchen zurückzuführen:
+Automobilindustrie: Der Sektor verzeichnete den stärksten Zuwachs mit einem deutlichen Plus von 10,5 % im Vergleich zum Vormonat.
+Maschinenbau: Die Bestellungen in dieser Kernbranche legten ebenfalls kräftig um 8,3 % zu.
+prompt_suggestion
+
+Ökonomen und Wirtschaftsforschungsinstitute blicken verhalten optimistisch, aber mit deutlichen Vorbehalten auf die Aussichten der deutschen Industrie im Winter 2026.
+Präzisierte Prognosen: Für das Gesamtjahr 2026 rechnen Institutionen wie die DIHK oder das IW Köln mit einem Wirtschaftswachstum (BIP) von 1,0 % bis 1,2 %. Das ist primär einem unerwartet starken ersten Halbjahr zu verdanken, in dem robuste Exporte und der globale KI-Boom die Konjunktur stützten.
+Winterflaute erwartet: Im Winterhalbjahr dürfte sich diese Wachstumsdynamik jedoch merklich abkühlen. Geopolitische Risiken (wie die Nahost-Krise und damit verbundene Lieferkettenengpässe) sowie zunehmend protektionistische Tendenzen im Welthandel belasten das Exportgeschäft im zweiten Halbjahr.
+Strukturelle Belastungen: Neben den konjunkturellen Risiken bremsen weiterhin dauerhafte Standortprobleme. Insbesondere die hohen Energiepreise und die im internationalen Vergleich hohen Lohnnebenkosten dämpfen die private Investitionsbereitschaft im Inland, weshalb Ökonomen vorerst nicht von einer breit angelegten, nachhaltigen Erholung ausgehen.
+prompt_suggestion
+
+Während die Automobilindustrie und der Maschinenbau im September 2026 deutliche Zuwächse verzeichneten, gab es in anderen Segmenten nennenswerte Einbußen:
+Sonstiger Fahrzeugbau: Dieser Sektor – zu dem der Bau von Flugzeugen, Schiffen, Zügen und Militärfahrzeugen gehört – musste einen spürbaren Rückgang von 10,4 % im Vormonatsvergleich hinnehmen.
+ Die Branche war in den Vormonaten durch sehr große Einzelorders stark gestiegen und korrigierte nun wieder.
+Investitionsgüter (regional): Auf Länderebene (wie beispielhaft in den Daten aus Rheinland-Pfalz gemeldet) gab es branchenübergreifend eine Abschwächung bei den Investitionsgütern, deren Nachfrage dort um 3,8 % zurückging, während Vorleistungs- und Konsumgüter zulegten.
+prompt_suggestion
+
+
+
+
+Hier ist die Zusammenfassung der gestern (5. November 2026) veröffentlichten Unternehmensergebnisse:
+Sony Group Corporation (NASDAQ:SONY)
+Umsatz: 3.429,4 Mrd. Yen (+10 % im Jahresvergleich) dank starker Performance im Gaming- und Filmgeschäft.
+Operativer Gewinn: Stieg deutlich um 45 % auf 622,3 Mrd. Yen.
+Nettoergebnis: Kletterte um 44 % auf 449,6 Mrd. Yen.
+Toyota Motor Corporation (TYO:7203)
+Umsatz (Q2): Stieg auf 13,437 Bio. Yen (Vorjahr: 12,377 Bio. Yen).
+Nettogewinn (Q2): Sank auf 759,4 Mrd. Yen (Vorjahr: 932,0 Mrd. Yen), belastet unter anderem durch US-Zölle.
+Ausblick: Die Prognose für den operativen Jahresgewinn wurde um 500 Mrd. Yen auf 3,9 Bio. Yen angehoben.
+ Die Aktie reagierte in Tokio mit einem Kurssprung von fast 17 %.
+️ Hensoldt AG (ETR:HAG)
+Auftragslage (9M): Der Auftragseingang schoss um knapp 77 % auf 3,564 Mrd. Euro nach oben; der Auftragsbestand erreichte ein Rekordhoch von 10,367 Mrd. Euro.
+Ergebnis (9M): Das bereinigte EBITDA verbesserte sich um 33 % auf 281 Mio. Euro.
+Ausblick: Die Umsatzprognose für 2026 wurde auf rund 2,8 Mrd. Euro (zuvor 2,75 Mrd. Euro) angehoben.
+Commerzbank AG (ETR:CBK)
+Quartalsergebnis (Q3): Der Nettogewinn sprang um 45,2 % auf 859 Mio. Euro nach oben.
+Operatives Ergebnis: Stieg um 25 % auf 1,312 Mrd. Euro.
+Ausblick: Das Jahresziel für den Nettogewinn von mindestens 3,4 Mrd. Euro wurde bestätigt.
+ Die Prognose für den Nettozinseinkommen wurde aufgrund des intensiven Einlagenwettbewerbs leicht auf 8,5 Mrd. Euro gesenkt.
+PVA TePla AG (ETR:TPE)
+Umsatz (Q3): Stieg um 12 % auf 62,7 Mio. Euro, blieb jedoch knapp hinter den Markterwartungen zurück.
+EBITDA (Q3): Erreichte 6,0 Mio. Euro (+60 % im Jahresvergleich).
+Ausblick: Dank eines sehr starken Auftragseingangs von 273,4 Mio. Euro in den ersten neun Monaten wurde die Gesamtjahresprognose für 2026 voll bestätigt.
+Nordex SE (ETR:NDX1)
+Umsatz (Q3): Legte um 28,2 % auf 2,2 Mrd. Euro zu.
+EBITDA (Q3): Hat sich mit 278 Mio. Euro mehr als verdoppelt (EBITDA-Marge von 12,7 %).
+Ausblick: Aufgrund der starken operativen Entwicklung hob Nordex die EBITDA-Margenprognose für das Gesamtjahr 2026 auf 11,5 % bis 12,5 % an.
+Übersicht
+
+Hier ist die Übersicht der am 5. November 2026 vorgelegten Unternehmensergebnisse für die genannten deutschen Termine:
+️ Aumovio SE (FWB:AMV0)
+Umsatz: Sank im herausfordernden Umfeld um 12,0 % auf 4,0 Mrd. Euro.
+Ergebnis: Das bereinigte EBIT lag bei 137 Mio. Euro; die Marge verbesserte sich leicht auf 3,5 %.
+Ausblick: Die Jahresprognose für 2026 wurde voll bestätigt.
+Nemetschek SE (ETR:NEM)
+Umsatz: Kletterte im Jahresvergleich um 26,6 % auf 371,1 Mio. Euro.
+Ergebnis: Das bereinigte Ergebnis je Aktie (EPS) stieg um 20,0 % auf 0,66 Euro.
+Ausblick: Die Prognose eines organischen Umsatzwachstums von 14–15 % bleibt bestehen.
+Lanxess AG (ETR:LXS)
+Umsatz: Legte um 9,6 % auf 1,467 Mrd. Euro zu.
+Ergebnis: Das bereinigte EBITDA stieg um 11,2 % auf 139 Mio. Euro, unter dem Strich blieb jedoch ein Verlust von 70 Mio. Euro.
+Ausblick: Die Prognose wurde präzisiert und tendiert nun an das obere Spannenende.
+Rational AG (ETR:RAA)
+Umsatz: Erreichte im Quartal 332,2 Mio. Euro (+6 %).
+Ausblick: Die Erwartung für die EBIT-Marge des Gesamtjahres wurde auf 26 % bis 27 % angehoben.
+HelloFresh SE (ETR:HFG)
+Umsatz: Fiel währungsbereinigt um 11,3 % auf rund 1,426 Mrd. Euro, da die Bestellungen um 17,9 % zurückgingen.
+Ergebnis: Das bereinigte EBITDA stieg dank Sparmaßnahmen um 26,3 % auf 54,4 Mio. Euro, der Nettoverlust betrug 39,7 Mio. Euro.
+Siemens Healthineers AG (ETR:SHL)
+Geschäftsjahr 2026: Der vergleichbare Jahresumsatz stieg um 4 % auf 23,63 Mrd. Euro.
+Ausblick 2026/27: Der Konzern gab sich mit einem angepeilten vergleichbaren Umsatzplus von 4–5 % etwas zurückhaltender als vom Markt erwartet.
+Deutsche Telekom AG (ETR:DTE)
+Umsatz: Wuchs organisch um 5,5 % auf 31,1 Mrd. Euro.
+Ergebnis: Der Nettogewinn kletterte um 13,8 % auf 2,762 Mrd. Euro.
+Ausblick: Die bereinigte EBITDA-AL-Prognose für das Gesamtjahr wurde leicht auf rund 47,6 Mrd. Euro angehoben.
+DHL Group (ETR:DHL)
+Umsatz: Erreichte 22,7 Mrd. Euro (+12,6 %).
+Ergebnis: Das operative Ergebnis (EBIT) schoss um 16,2 % auf 1,716 Mrd. Euro nach oben.
+Ausblick: Die EBIT-Jahresprognose wurde zum zweiten Mal angehoben und liegt nun bei über 7,0 Mrd. Euro.
+Evotec SE (ETR:EVT)
+Umsatz: Blieb mit 164,9 Mio. Euro im Quartal nahezu stabil.
+Ergebnis: Das bereinigte EBITDA verbesserte sich deutlich von -15,0 Mio. Euro im Vorjahr auf -1,6 Mio. Euro.
+Zahlen
+
+Hier ist die Übersicht der gestern (5. November 2026) veröffentlichten Geschäftszahlen für die gewünschten Termine:
+Österreich (AUT)
+AT&S (VIE:ATS): Erzielte im Q2 ein Rekordergebnis.
+ Der Quartalsumsatz stieg um 52,4 % auf 682 Mio. Euro.
+ Das EBITDA betrug 244 Mio. Euro mit einer starken Marge von 35,8 %.
+ Die Jahresprognose wurde voll bestätigt.
+Kontron (ETR:KTN): Die ersten neun Monate zeigten einen währungs- und entkonsolidierungsbedingten Umsatzrückgang auf 1,103 Mrd. Euro (Vorjahr: 1,182 Mrd. Euro).
+ Das bereinigte EBITDA kletterte auf 151,0 Mio. Euro.
+ Trotz Lieferengpässen bei Speicherchips bleibt die Jahresprognose 2026 aufrecht.
+Schweiz (CHE)
+Swiss Re (SWX:SREN): Meldete für das Q3 einen starken Nettogewinn von 1,3 Mrd. USD, wodurch das Neunmonatsergebnis auf 4,2 Mrd. USD kletterte (Eigenkapitalrendite: 22.5 %).
+ Der Rückversicherer profitierte von unterdurchschnittlichen Katastrophenschäden und liegt voll auf Kurs für das Jahresziel von mindestens 4,5 Mrd. USD.
+Swisscom (SWX:SCMN): Steigerte den Neunmonatsgewinn und den operativen Cashflow trotz leicht rückläufiger Erlöse.
+ Der Ausblick für 2026 wurde bestätigt;
+ das Management plant nun, die Dividende von 26 auf 27 CHF anzuheben.
+Luxemburg (LUX)
+ArcelorMittal (AMS:MT): Erlebte einen Anstieg des Q3-EBITDA um 34 % auf 2,02 Mrd. USD.
+ Unbereinigt fiel jedoch ein Nettoverlust von 0,4 Mrd. USD an, was auf signifikante Wertminderungen sowie Sondereffekte bei der Stilllegung von Werken in der Ukraine zurückzuführen ist.
+SAF-Holland (ETR:SFQ): Beschleunigte sein Wachstum im Q3 merklich mit einem Umsatzplus von 9,4 % auf 456,6 Mio. Euro.
+ Das bereinigte EBIT legte um 16,1 % auf 44,3 Mio. Euro zu (Marge: 9,7 %).
+ Der Jahresumsatz wird nun im oberen Drittel der Prognosespanne erwartet.
+Deutschland (DEU)
+Suss Microtec (ETR:SMHN): Meldete temporäre Lieferengpässe, die Auslieferungen verzögerten und Q3-Einbrüche verursachten (Umsatz -19 % auf 97 Mio. Euro; EBITDA -58 % auf 7,5 Mio. Euro).
+ Ein Rekord-Auftragsbestand von 601 Mio. Euro stützt jedoch die bereits im Oktober angepasste Prognose.
+Deutsche Beteiligungs AG (ETR:DBAN): Kehrte im Q3 mit einem Konzerngewinn von 3,7 Mio. Euro in die schwarzen Zahlen zurück, nachdem die ersten beiden Quartale schwach liefen.
+ Auf Neunmonatssicht verbleibt ein Verlust von ca. 30 Mio. Euro.
+ Die Jahresziele wurden bestätigt.
+SGL Carbon (ETR:SGL): Der Umsatz lag im Q3 mit 200,6 Mio. Euro wieder auf Vorjahresniveau.
+ Dank einer gesteigerten bereinigten EBITDA-Marge (17,9 %) und Zuversicht aus dem operativen Geschäft hob das Unternehmen die EBITDA-Jahresprognose auf 130–140 Mio. Euro an.
+Deutz (ETR:DEZ): Verzeichnete ein starkes Q3 mit einem zweistelligen Umsatzwachstum (+12,3 % auf 553,9 Mio. Euro) und einem Sprung beim bereinigten EBIT um 23,4 %.
+ Angetrieben durch die Rüstungsübernahme von FFG peilt Deutz nun das obere Ende seiner EBIT-Margenprognose an.
+Renk (ETR:R3NK): Lieferte solide Neunmonatszahlen, die leicht über den Markterwartungen lagen.
+ Der Q3-Umsatz stieg um 12 % auf 345 Mio. Euro.
+ Renk bestätigte die im Oktober angepasste Guidance für das operative Jahresergebnis und rechnet mit dem Erreichen des oberen Endes.
+Frankreich (FRA)
+Air France-KLM (EPA:AF): Übertraf die Erwartungen mit einem operativen Gewinn von 1,35 Mrd. Euro im Q3 (+10 % zum Vorjahr), gestützt durch eine starke Nachfrage auf Asien-Routen.
+ Dennoch drosselte die Airline ihre Kapazitätsprognose für das Gesamtjahr wegen gestiegener Kerosin- und Strukturkosten leicht.
+ATS
+
+Hier ist die Zusammenfassung der am 5. November 2026 veröffentlichten Geschäftszahlen für die von Ihnen genannten Termine:
+Deutschland (DEU)
+Rheinmetall (ETR:RHM): Verzeichnete ein starkes drittes Quartal mit einem Umsatzplus von 36 % auf über 3,1 Mrd. Euro (operative Marge: 17,5 %).
+ Wegen Projektverzögerungen beim Bundeswehr-Projekt „Arminius“ wurde jedoch die Jahresprognose 2026 gesenkt: Erwartet wird nun ein Umsatz von ca. 13,2 Mrd. Euro (zuvor 13,7–14,2 Mrd. Euro) bei einer Marge von ca. 18,5 %.
+Fielmann (ETR:FIE): Beschleunigte das Umsatzwachstum im dritten Quartal um 5,1 % auf 649 Mio. Euro dank anhaltender Preisführerschaft und einer starken Entwicklung im Ausland (+5,9 %).
+ Die Jahresziele (Konzernumsatz von 2,50 bis 2,55 Mrd. Euro) wurden bestätigt.
+Frankreich (FRA)
+Legrand (EPA:LR): Steigerte den Umsatz in den ersten neun Monaten um 19,5 % auf 8.329,4 Mio. Euro (organisch +12,7 %) bei einer operativen Marge von 20,8 %.
+ Das Management hob die Jahresprognose für das organische Wachstum auf 11–13 % an.
+Bouygues (EPA:EN): Hielt den Neunmonatsumsatz stabil bei 41,6 Mrd. Euro.
+ Angetrieben durch starke Ergebnisse bei Equans und Bouygues Construction wurde die COPA-Jahresprognose (operativer Gewinn aus laufender Geschäftstätigkeit) leicht nach oben korrigiert.
+Veolia Environnement (EPA:VIE): Das Umsatzwachstum beschleunigte sich im dritten Quartal auf 5,0 %, wodurch das Neunmonats-EBITDA organisch um 5,1 % auf 5,40 Mrd. Euro kletterte (Marge: 16,2 %).
+ Die Jahresprognose wurde voll bestätigt.
+Engie (EPA:ENGI): Das operative Ergebnis (EBIT) ohne Kernenergie stieg in den ersten neun Monaten organisch um 3,3 % auf 7,0 Mrd. Euro,
+ beflügelt durch ein starkes drittes Quartal (+10,9 % organisch).
+ Die Jahresprognose für das Nettoergebnis wurde an das obere Ende der Spanne (4,9–5,5 Mrd. Euro) angehoben.
+Weitere europäische Märkte
+Verbund (VIE:VER): Wurde durch den historisch trockensten Sommer massiv getroffen: Die Wasserkraft-Erzeugung brach in den ersten drei Quartalen um 20,2 % ein.
+ Das EBITDA sank um 29,0 % auf 1.498,5 Mio. Euro, der Konzerngewinn stürzte um 43,5 % auf 684,8 Mio. Euro ab.
+Skanska (STO:SKA_B): Erzielte im dritten Quartal eine starke operative Marge im Baugeschäft von 5,0 %.
+ Der Auftragseingang erreichte mit 68 Mrd. SEK erneut ein Rekordniveau, maßgeblich angetrieben durch den Bau von US-Rechenzentren.
+A.P. Moller-Maersk (CPH:MAERSK_B): Profitierte im dritten Quartal massiv von gestiegenen Frachtraten durch anhaltende Lieferkettenstörungen: Der Umsatz kletterte um 27 % auf 18,1 Mrd. USD, das EBITDA auf 4,7 Mrd. USD.
+ Die Jahresprognose für das bereinigte EBITDA wurde kräftig auf 14,0–14,5 Mrd. USD angehoben.
+Asos plc (LON:ASC): Meldete für das am 30. August endende Geschäftsjahr 2026 die Rückkehr in die Gewinnzone mit einem Vorsteuergewinn von 24,4 Mio. GBP.
+ Das bereinigte EBITDA stieg um 29 % auf 170,3 Mio. GBP.
+Diageo (LON:DGE): Verzeichnete im ersten Geschäftsviertel einen Umsatzanstieg um 1,2 % auf 4,93 Mrd. USD (organisch +1,4 %) und schlug die Erwartungen.
+ Starkes Wachstum in Afrika kompensierte eine anhaltende Schwäche auf dem nordamerikanischen Markt.
+Berichtssaison
+
+
+Hier sind die wichtigsten Ergebnisse der gestern (5. November 2026) gemeldeten Unternehmenskennzahlen:
+Großbritannien (GBR)
+BT Group (LON:BT-A): Der bereinigte Umsatz stieg im Halbjahr leicht um 1 % auf 8,75 Mrd. GBP, während der Gewinn vor Steuern um 12 % auf 1,07 Mrd. GBP anzog.
+ Die Zwischendividende wurde auf 2,5 Pence erhöht.
+National Grid (LON:NG): Verzeichnete einen massiven Sprung beim Vorsteuergewinn um 109 % auf 1,73 Mrd. GBP,
+ getrieben durch beschleunigte Investitionen von 6,7 Mrd. GBP in Netzerweiterungen.
+ Die EPS-Wachstumsprognose für das Gesamtjahr wurde auf 15–16 % hochgestuft.
+Next (LON:NXT): Die Vollpreis-Umsätze kletterten im Q3 überraschend stark um 8,1 %.
+ Die Umsatzprognose für das Gesamtjahr hob Next leicht auf 7,54 Mrd. GBP an, beließ die Gewinnprognose vor Steuern jedoch unverändert bei 1,255 Mrd. GBP.
+Helios Towers (LON:HTWS): Der Umsatz in den ersten 9 Monaten wuchs um 13 % auf 718,8 Mio. USD.
+ Aufgrund einer Rekordzahl an neuen Mietern verschärfte das Unternehmen seine EBITDA-Jahresprognose nach oben auf rund 535 Mio. USD.
+Tate & Lyle (LON:TATE): Meldete für das Halbjahr eine Rückkehr zu einem volumengetriebenen Umsatzwachstum (+1 % auf 1,04 Mrd. GBP).
+ Das bereinigte EBITDA ging plangemäß um 8 % auf 197 Mio. GBP zurück.
+ Die Übernahme durch Ingredion wird für Ende 2027 erwartet.
+Japan (JPN)
+Nintendo (TYO:7974): Der Nettogewinn im Halbjahr stieg um 11 % auf 220,9 Mrd. Yen, verfehlte jedoch knapp die Markterwartungen.
+ Während die Umsätze um 12 % auf 966 Mrd. Yen sanken,
+ stützte der Absatz der "Switch 2" (6,49 Mio. Einheiten) und starke Software-Verkäufe das operative Ergebnis.
+Vereinigte Staaten (USA)
+Airbnb (NASDAQ:ABNB): Verzeichnete mit einem Umsatzplus von 19 % auf 4,9 Mrd. USD das stärkste Wachstum seit drei Jahren.
+ Der Nettogewinn sprang um 43 % auf 1,9 Mrd. USD (EPS: 3,16 USD).
+ Airbnb kündigte zudem ein neues Aktienrückkaufprogramm über 12 Mrd. USD ein.
+Lyft (NASDAQ:LYFT): Die Bruttobuchungen stiegen im Q3 um 17 % auf 5,6 Mrd. USD.
+ Während der Umsatz mit 1,82 Mrd. USD und das Nettoergebnis (GAAP-EPS von -0,03 USD) die Erwartungen verfehlten,
+ lag das bereinigte EBITDA mit 204 Mio. USD (+47 %) über den Prognosen.
+ConocoPhillips (NYSE:COP): Der Quartalsumsatz stieg im Zuge höherer realisierter Preise deutlich um 29,2 % auf 19,44 Mrd. USD.
+ Das bereinigte EPS lag mit 3,27 USD über dem Konsens,
+ woraufhin die Quartalsdividende um 11 % auf 0,93 USD erhöht wurde.
+The Cigna Group (NYSE:CI): Übertraf mit einem bereinigten Q3-Umsatz von 73,8 Mrd. USD (+6 %) und einem bereinigten EPS von 7,98 USD die Erwartungen.
+ Die bereinigte EPS-Prognose für das Gesamtjahr wurde auf mindestens 30,60 USD angehoben.
+Kimberly-Clark (NYSE:KMB): Meldete ein bereinigtes EPS von 1,70 USD (Erwartung: 1,65 USD), während der Umsatz leicht um 0,4 % auf 4,13 Mrd. USD nachgab.
+ Das organische Wachstum büßte aufgrund einer Social-Media-Kontroverse in China 1,3 % ein.
+NG
+
+Hier ist die Übersicht zu den Terminen ohne feste Zeitangabe:
+Volkswagen AG (XETR:VOW3) – Strategie-Präsentation in Shanghai
+Volkswagen hat auf der Importmesse CIIE in Shanghai die Weiterentwicklung seiner Strategie offiziell bekannt gegeben.
+„In China, Beyond China“: Der Konzern stellt sich neu auf und wandelt seine chinesischen Standorte von reinen Produktionsstätten für den lokalen Markt zu globalen Entwicklungs- und Export-Hubs um.
+Technologie-Export: Die lokal in China entwickelte Elektro-Plattformmatrix „VEGA“ sowie die Elektronik-Architektur „CEA“ sollen ab Ende der 2020er-Jahre auch in Fahrzeugen für andere Märkte (u. a. Südamerika und Afrika) eingesetzt werden.
+ Bis 2030 peilt VW den Export von mindestens 300.000 in China gebauten Fahrzeugen pro Jahr an.
+Kraftfahrt-Bundesamt (KBA) – Neuzulassungen Oktober 2026
+Das KBA hat die offiziellen Zahlen für den vergangenen Monat vorgelegt:
+Gesamtmarkt: Im Oktober wurden in Deutschland 254.492 Pkw neu zugelassen, was einem kleinen Plus von 1,7 % im Vergleich zum Vorjahresmonat entspricht.
+ Während die privaten Zulassungen um 20,6 % anstiegen, gab es bei den gewerblichen Haltern ein Minus von 8,2 %.
+Elektro-Boom: Reine Elektroautos (BEVs) verzeichneten einen massiven Sprung um 79,5 % auf 94.086 Fahrzeuge.
+ Damit kletterte der Marktanteil von E-Autos auf beachtliche 37 %.
+Air Products and Chemicals, Inc. (NYSE:APD) – Q4-Zahlen
+Der US-amerikanische Industriegase-Konzern hat seine Ergebnisse für das vierte Geschäftsquartal vorgelegt:
+Umsatz: Stieg im Jahresvergleich um 12 % auf 3,56 Milliarden USD und übertraf die Wall-Street-Schätzungen (3,34 Milliarden USD) deutlich.
+Gewinn: Das bereinigte Ergebnis je Aktie (Adjusted EPS) landete bei 3,61 USD und traf damit exakt die Erwartungen der Analysten.
+ Das operative Ergebnis (GAAP) erholte sich deutlich auf 633 Millionen USD nach einem Verlust im Vorjahr, der durch Projektabstriche belastet war.
+Fokus
+
+
+
+
+
+# Nachricht - Börse Stuttgart
+
+05.11.2026 / 22:39:26
+
+# ROUNDUP/Aktien New York Schluss: Tech-Flucht - Angst vor KI-Regulierung
+
+(dpa-AFX) NEW YORK (dpa-AFX) - Die Furcht vor einer stärkeren Regulierung auf dem Gebiet der Künstlichen Intelligenz (KI) hat am Donnerstag am US-Aktienmarkt zu einem Ausverkauf bei Technologiewerten geführt. Zwei Tage nach den wegweisenden Wahlerfolgen der Demokraten bei den Zwischenwahlen brachen insbesondere die Papiere aus dem Umfeld der Chipbranche ein, die bis in die jüngste Vergangenheit als größte Profiteure des Hypes um KI gegolten hatten. Aber auch Standardwerte standen stark unter Druck. Anleger flohen aus Aktien und schichteten Gelder in den als sicher empfundenen Hafen der Staatsanleihen um.
+
+NEW YORK (dpa-AFX) - Die Furcht vor einer stärkeren Regulierung auf dem Gebiet der Künstlichen Intelligenz (KI) hat am Donnerstag am US-Aktienmarkt zu einem Ausverkauf bei Technologiewerten geführt. Zwei Tage nach den wegweisenden Wahlerfolgen der Demokraten bei den Zwischenwahlen brachen insbesondere die Papiere aus dem Umfeld der Chipbranche ein, die bis in die jüngste Vergangenheit als größte Profiteure des Hypes um KI gegolten hatten. Aber auch Standardwerte standen stark unter Druck. Anleger flohen aus Aktien und schichteten Gelder in den als sicher empfundenen Hafen der Staatsanleihen um.
+
+Der Nasdaq 100 sackte um 6,36 Prozent auf 26.629,81 Punkte ab und fiel auf das Niveau von April zurück. Damit verschwanden 2,3 Billionen Dollar an Marktwert; allerdings war der Tech-Index auch seit Anfang 2023 rasant gestiegen und hatte damit sehr stark von der Hoffnung auf gute Geschäfte mit Künstlicher Intelligenz profitiert. Erst im Oktober hatte das Börsenbarometer ein Rekordhoch erreicht. Seit Jahresanfang hat er noch um 5,5 Prozent zugelegt.
+
+Für den marktbreiten S&P 500 ging es am Donnerstag um 4,36 Prozent auf 7.353,73 Zähler nach unten. Es ist der größte Tagesverlust seit April 2025. Der Leitindex Dow Jones Industrial fiel um 3,44 Prozent auf 51.523,06 Punkte. Hier liegt das Plus seit Jahresanfang noch bei 7,2 Prozent.
+
+Bei den Zwischenwahlen am Dienstag hatten die Demokraten die Kontrolle über den Senat und das Repräsentantenhaus übernommen. Damit hatten viele Wähler nicht nur ihren Unmut über die hohen Lebenshaltungskosten oder die Politik von Präsident Donald Trump, sondern auch ihre Ablehnung gegenüber Rechenzentren zum Ausdruck gebracht. Diese sind für die extrem datenintensiven Anwendungen rund um Künstliche Intelligenz essenziell.
+
+Kritiker der KI-Rechenzentren verweisen unter anderem auf deren hohen Strombedarf, der auch die Energiepreise für die Bevölkerung in die Höhe treiben könnte. Hinzukommen Sorgen wegen Lärm, Luftverschmutzung und Wassermangel sowie die Befürchtung, dass durch die Rechenzentren nur wenige dauerhafte Jobs entstehen. Die Demokraten gelten den Chancen von Künstlicher Intelligenz gegenüber als skeptischer als die Republikaner, die sich eher für Deregulierung starkmachen. In Texas hat die designierte Gouverneurin Gina Hinojosa von den Demokraten bereits ein sofortiges Moratorium für den Bau von Rechenzentren gefordert.
+
+Rechenzentren sind ein wesentlicher Bestandteil der KI-Infrastruktur und bestehen aus zahlreichen standardisierten Metallgestellen mit Halbleitern. Sollten die Investitionen in Rechenzentren zurückgehen, hätte dies in den kommenden Jahren massive Auswirkungen auf die Chiphersteller. Vor diesem Hintergrund sackten die Aktien von Nvidia als Schlusslicht im Dow um 9,3 Prozent ab. Noch viel heftiger erwischte es mit Seagate , Western Digital und Sandisk große Werte aus dem Speicherbereich, die um bis zu 22 Prozent einbrachen. Ihre Produkte sind für Rechenzentren unverzichtbar.
+
+Die Anteilscheine von Micron büßten 17,5 Prozent ein. Der Halbleiterkonzern habe seine Pläne für ein Speicherchip-Werk in Taiwan wegen eines drohenden langwierigen Tarifkonflikts vorerst auf Eis gelegt, berichtete die Nachrichtenagentur Bloomberg unter Berufung auf Insider. Dies wirft Fragen hinsichtlich der Zukunft eines wichtigen Produktionsstandorts für entscheidende KI-Komponenten auf.
+
+Die Furcht vor einer insgesamt schärferen Regulierung verschreckte derweil auch am Donnerstag die Anleger von Aktien aus dem Firmenimperium des Tech-Milliardärs Elon Musk. So fielen die Papiere des Elektroautobauers Tesla um fast elf Prozent und die des Weltraum- und KI-Unternehmens SpaceX um neun Prozent./la/he
+
+\--- Von Lutz Alexander, dpa-AFX ---
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### NVIDIA
+    
+    #### \-9,03 %
+    
+    G 162B 162,04
+    
+    WKN 918422
+    
+    433 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/918422-nvidia/)
+    
+-   [
+    
+    ### Western Digital
+    
+    #### \-16,98 %
+    
+    G 238,15B 238,55
+    
+    WKN 863060
+    
+    82 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/863060-western-digital/)
+    
+-   [
+    
+    ### Micron Technology
+    
+    #### \-17,56 %
+    
+    G 586,4B 586,6
+    
+    WKN 869020
+    
+    214 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/869020-micron-technology/)
+    
+-   [
+    
+    ### Tesla Motors
+    
+    #### \-10,59 %
+    
+    G 306,3B 306,3
+    
+    WKN A1CX3T
+    
+    229 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a1cx3t-tesla-motors/)
+    
+-   [
+    
+    ### SpaceX
+    
+    #### \-8,73 %
+    
+    G 110,16B 110,16
+    
+    WKN A42D4F
+    
+    238 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a42d4f-spacex/)
+    
+
+## Weitere relevante Nachrichten
+
+Donnerstag, 05.11.2026
+
+-   [
+    
+    22:24
+    
+    Aktien New York Schluss: Flucht aus Techwerten - Furcht vor KI-Regulierung
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=6746514577053711707)
+-   [
+    
+    20:17
+    
+    Aktien New York: Flucht aus Techwerten - Furcht vor KI-Regulierung
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=5628998548642753248)
+-   [
+    
+    19:42
+    
+    ROUNDUP/Aktien Europa Schluss: Ins Minus gedreht - Ausverkauf bei US-Techwerten
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=956177423517460168)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+
+Weitere Treffer anzeigen
+
+
 --- FILE: CQ Morning Briefing/Recess update SCOTUS justices to testify before Congress.mp3 ---
 Good morning. I'm Christina Karish and it's Wednesday, July 8th. This is CQ Roll Call's
 morning briefing, and here are the top three headlines you need to start today.
