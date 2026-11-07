@@ -9,3 +9,6 @@ test_output.ipynb
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
+
+# macOS
+.DS_Store
