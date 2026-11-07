@@ -2,9 +2,10 @@
 type: "Behavioral Rule"
 title: "OKF-Regel 5: Asymmetrische Panik-Absorption und selektives Dip-Buying"
 description: "Verhaltensökonomische Gesetzmäßigkeit zur selektiven Schnäppchenjagd in überverkauften Qualitätswerten bei gleichzeitiger Beharrung klassischer Standardwerte im Abwärtstrend."
+konfidenz: 0.80
 generated:
   by: "process:antigravity"
-  at: "2026-11-07T06:05:00Z"
+  at: "2026-11-07T07:23:00Z"
 sources:
   - id: "dia-market-data"
     description: "DJIA / DIA ETF 10-Tages-OHLCV-Marktdaten (2026-10-26 bis 2026-11-06)"

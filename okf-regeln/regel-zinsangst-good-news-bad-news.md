@@ -2,9 +2,10 @@
 type: "Behavioral Rule"
 title: "OKF-Regel 4: Zinsangst und das 'Good News is Bad News'-Dilemma"
 description: "Verhaltensökonomische Gesetzmäßigkeit zur Invertierung makroökonomischer Stärkesignale in Zinsfurcht bei gleichzeitigem angebotsseitigem Inflationsdruck."
+konfidenz: 0.85
 generated:
   by: "process:antigravity"
-  at: "2026-11-07T06:05:00Z"
+  at: "2026-11-07T07:23:00Z"
 sources:
   - id: "dia-market-data"
     description: "DJIA / DIA ETF 10-Tages-OHLCV-Marktdaten (2026-10-26 bis 2026-11-06)"

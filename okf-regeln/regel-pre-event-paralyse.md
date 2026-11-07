@@ -2,14 +2,17 @@
 type: "Behavioral Rule"
 title: "OKF-Regel 1: Vor-Ereignis-Paralyse und Volatilitätskompression"
 description: "Verhaltensökonomische Gesetzmäßigkeit zur institutionellen Risikoaversion und Liquiditätsaustrocknung vor binären Makro- und Polit-Ereignissen."
+konfidenz: 0.90
 generated:
   by: "process:antigravity"
-  at: "2026-11-07T06:05:00Z"
+  at: "2026-11-07T07:23:00Z"
 sources:
   - id: "dia-market-data"
     description: "DJIA / DIA ETF 10-Tages-OHLCV-Marktdaten (2026-10-26 bis 2026-11-06)"
   - id: "news-briefings-2026-11"
     description: "Börsen-Nachrichten Börse Stuttgart / Dow Jones Newswires (2026-11-02 bis 2026-11-06)"
+  - id: "termine-preview"
+    description: "Wochenvorschau Börse Stuttgart Termine bis 20. November 2026 (termine.md)"
 tags:
   - behavioral-finance
   - marktpsychologie
@@ -66,6 +69,7 @@ flowchart LR
 1. **Kein prozyklisches Trading**: Keine Breakout-Strategien bei unterdurchschnittlichem Volumen handeln.
 2. **Keine Absicherungsauflösung**: Absicherungen (Puts, Hedges) dürfen nicht vor dem Event liquidiert werden, selbst wenn die Bewegung bis zum Vortagsschluss scheinbar stagniert.
 3. **Vorbereitung auf Volatilitätsexpansion**: Die künstliche Volatilitätskompression entlädt sich am Folgetag typischerweise in Form eines signifikanten Eröffnungs-Gaps (siehe [`regel-relief-rally-gridlock`](regel-relief-rally-gridlock.md)).
+4. **Anwendung auf Makrodaten (US-CPI)**: Das Phänomen manifestiert sich identisch vor entscheidenden Inflationsdaten (z. B. US-Verbraucherpreise CPI am 10.11.2026 [^termine-preview]), indem der Leitindex in einer engen Spanne (508,00 bis 516,00) verharrt.
 
 ---
 
@@ -74,6 +78,8 @@ flowchart LR
 * Verwandte Analyse: [`marktdaten-analyse-dia`](marktdaten-analyse-dia.md)
 * Folgeregel: [`regel-relief-rally-gridlock`](regel-relief-rally-gridlock.md)
 * Übergeordnete Synthese: [`synthese-verhaltensregeln`](synthese-verhaltensregeln.md)
+* Prognoseanwendung: [`erwartung`](../erwartung.md)
 
 [^dia-market-data]: Marktdaten-Auszug DJIA/DIA vom 26.10. bis 06.11.2026.
 [^news-briefings-2026-11]: Morning Briefings der Börse Stuttgart / Dow Jones Newswires vom 02.11. und 03.11.2026.
+[^termine-preview]: Wochenvorschau Termine bis 20. November 2026 (`termine.md`).

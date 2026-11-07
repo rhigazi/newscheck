@@ -4,7 +4,7 @@ title: "Empirische Marktdaten-Analyse: SPDR Dow Jones Industrial Average ETF (DI
 description: "Quantitative Analyse der 10-Tages-Handelsdaten des DIA-ETF (2026-10-26 bis 2026-11-06) als Proxy für den DJIA zur Korrelation mit menschlichen Verhaltensnarrativen."
 generated:
   by: "process:antigravity"
-  at: "2026-11-07T06:05:00Z"
+  at: "2026-11-07T07:23:00Z"
 sources:
   - id: "dia-market-data"
     description: "DJIA / DIA ETF 10-Tages-OHLCV-Marktdaten (2026-10-26 bis 2026-11-06)"

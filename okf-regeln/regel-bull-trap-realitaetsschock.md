@@ -2,9 +2,10 @@
 type: "Behavioral Rule"
 title: "OKF-Regel 3: Bull Trap, kaskadierender Realitätsschock und Panik-Liquidation"
 description: "Verhaltensökonomische Gesetzmäßigkeit zum abrupten Kippen von Gier in Panik bei Konfrontation von Scheineuphorie mit Gewinnwarnungen und Regulierungsrisiken."
+konfidenz: 0.85
 generated:
   by: "process:antigravity"
-  at: "2026-11-07T06:05:00Z"
+  at: "2026-11-07T07:23:00Z"
 sources:
   - id: "dia-market-data"
     description: "DJIA / DIA ETF 10-Tages-OHLCV-Marktdaten (2026-10-26 bis 2026-11-06)"

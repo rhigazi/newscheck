@@ -27,6 +27,9 @@ Die Struktur folgt den Vorgaben des [Open Knowledge Format (OKF) v0.2](https://g
 ### 3. Übergreifende Synthese & Entscheidungsmodell
 * [`synthese-verhaltensregeln`](synthese-verhaltensregeln.md): Ganzheitlicher Verhaltenszyklus, Phasenmodell, vergleichende Regel-Matrix und algorithmische Handlungsanweisungen für Marktteilnehmer.
 
+### 4. Aktive Marktprognose (Soll-Vorgabe)
+* [`erwartung`](../erwartung.md): Tagesaktuelle Soll-Prognose für den Handelstag 09.11.2026 vor dem US-Verbraucherpreis-Bericht (CPI) auf Basis von [`regel-pre-event-paralyse`](regel-pre-event-paralyse.md).
+
 ---
 
 ## Verhaltensmatrix im Überblick
