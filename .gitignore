@@ -1,0 +1,11 @@
+# Secrets – niemals committen
+.env
+
+# Lokale Test-/Validierungsausgaben
+test_output.ipynb
+*-test_output.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
