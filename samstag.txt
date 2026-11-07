@@ -869,3 +869,72 @@ Japan / International: Rede von BoJ-Gouverneur Kazuo Ueda
 Inhalt: Kazuo Ueda hielt die renommierte Michel Camdessus Central Banking Lecture. Er sprach über die Herausforderungen des globalen Zinsumfelds und verteidigte Japans geldpolitischen Normalisierungskurs. Angesichts des schwachen Yen und des anhaltenden Kostendrucks stellte er bei einer anhaltenden Stabilisierung der Inflation weitere moderate Zinserhöhungen in Aussicht.
 S
 
+
+
+
+Die Zinsdifferenz zwischen der US-Notenbank Federal Reserve (Fed) und der Europäischen Zentralbank (EZB) ist einer der stärksten Treiber für den Wechselkurs des Euro zum US-Dollar (EUR-USD). Sie beeinflusst den Wechselkurs über folgende Mechanismen:
+Attraktivität für Kapitalströme: Investoren suchen weltweit nach den höchsten risikofreien Renditen. Wenn die Fed die Zinsen stärker anhebt oder auf einem höheren Niveau belässt als die EZB, werfen US-Staatsanleihen mehr Rendite ab als europäische Pendants. Kapital fließt aus der Eurozone in die USA, wodurch vermehrt US-Dollar nachgefragt werden und der Euro im Gegenzug abwertet.
+Geldpolitische Divergenz 2026: Aktuell führt die Zinsdifferenz dazu, dass der Euro unter Druck bleibt. Während die EZB aufgrund des schwachen Wirtschaftswachstums in Europa Spielraum für moderate Zinssenkungen sucht, zwingen die robusten US-Wirtschaftsdaten (wie das starke BIP-Wachstum von 3,4 % [3.5]) die Fed dazu, die Zinsen länger hochzuhalten. Diese Schere stärkt den US-Dollar und belastet den EUR-USD-Wechselkurs.
+
+In der am 6. November 2026 veröffentlichten vorläufigen Umfrage der Universität Michigan haben sich die Inflationserwartungen der US-Verbraucher spürbar entspannt:
+Kurzfristige Inflationserwartungen (auf Sicht von einem Jahr): Diese gingen deutlich von 4,7 % im Oktober auf 4,3 % im November zurück.
+ Analysten hatten im Vorfeld mit einem höheren Wert von 4,6 % gerechnet.
+Langfristige Inflationserwartungen (auf Sicht von fünf Jahren): Diese gaben ebenfalls leicht nach und sanken von 3,5 % im Vormonat auf 3,4 %.
+EUR
+
+Das gesamte US-Konsumklima hat sich im November 2026 überraschend positiv entwickelt.
+Der vielbeachtete Index der Verbraucherstimmung der Universität Michigan stieg in der ersten Schätzung deutlich auf 50,8 Punkte. Volkswirte hatten im Vorfeld mit einem Rückgang auf 47,5 Punkte gerechnet, nachdem der Index im Oktober noch bei 48,0 Zählern gelegen hatte.
+Haupttreiber für den spürbaren Optimismus der US-Verbraucher waren der unerwartet starke Stellenaufbau auf dem Arbeitsmarkt sowie die gleichzeitig rückläufigen Inflationserwartungen für das kommende Jahr.
+.
+
+Dass die Inflationserwartungen der US-Verbraucher im November 2026 trotz des jüngsten Rückgangs auf 4,3 % immer noch deutlich höher liegen als zu Jahresbeginn (im Februar lag der Wert noch bei einem Jahrestief von 3,4 %), liegt an einem zentralen Belastungsfaktor:
+Der US-Iran-Konflikt im Nahen Osten: Nach dem Ausbruch des militärischen Konflikts im Februar kam es zu massiven Ölgebots-Schocks und der Blockade wichtiger Handelsrouten wie der Straße von Hormuz.
+Explosion der Treibstoffpreise: Dies trieb die US-Benzin- und Energiepreise im Frühjahr und Sommer rasant nach oben.
+ Auch wenn sich die Energiepreise zuletzt im Herbst etwas beruhigt haben, bleibt das Preisniveau an den Zapfsäulen und im Alltag der Verbraucher spürbar höher als Anfang des Jahres.
+prompt_suggestion minus
+
+Eins
+
+Die meisten Ökonomen sowie internationale Organisationen wie der Internationale Währungsfonds (IWF) rechnen damit, dass die US-Inflation erst im Laufe des Jahres 2027 auf das 2%-Ziel der Federal Reserve zurückkehren wird.
+Auch die US-Notenbank selbst hat ihre Prognosen im September 2026 angepasst und den Zeitplan weiter nach hinten verschoben, da geopolitische Risiken (wie der Nahost-Konflikt) und hartnäckige Energiepreise den Rückgang der Teuerungsrate verzögern.
+ Für das Gesamtjahr 2026 wird die Inflation (PCE) im Median noch bei rund 3,7 % erwartet.
+.
+
+Der Unterschied zwischen der Kerninflation und der Gesamtinflation liegt in den jeweils berücksichtigten Produktgruppen:
+Gesamtinflation (Headline Inflation): Sie misst die Preisentwicklung eines breiten, repräsentativen Warenkorbs über alle Güter und Dienstleistungen hinweg. Sie spiegelt die tatsächlichen Preisveränderungen wider, die Verbraucher im Alltag spüren.
+Kerninflation (Core Inflation): Sie schließt die Preise für Energie und Nahrungsmittel aus der Berechnung aus. Da diese beiden Kategorien durch geopolitische Krisen oder Wettereinflüsse oft extremen Schwankungen unterliegen, liefert die Kerninflation Ökonomen und Notenbanken ein genaueres Bild über den fundamentalen, langfristigen Preistrend in einer Volkswirtschaft.
+prompt_suggestion
+
+
+Wenn die schwankungsanfälligen Preise für Energie und Nahrungsmittel ausgeschlossen werden, wird die Kerninflation im aktuellen Jahr 2026 vor allem durch folgende strukturelle Faktoren angetrieben:
+Wohnkosten und Mieten (Shelter): Die Kosten für das Wohnen – insbesondere die tatsächlichen Mieten sowie die kalkulatorischen Eigenmieten (Owners' Equivalent Rent) – sind der gewichtigste Teil des Warenkorbs. Ein anhaltender Mangel an bezahlbarem Wohnraum in den USA und Europa treibt die Mietpreise kontinuierlich an.
+Dienstleistungen (Services): Dienstleistungssektoren wie das Transportwesen, Versicherungen (insbesondere Kfz- und Krankenversicherungen) sowie das Gesundheitswesen verzeichnen deutliche Preissteigerungen. Da Dienstleistungen sehr arbeitsintensiv sind, schlagen sich hier die gestiegenen Löhne der vergangenen Quartale direkt in höheren Endpreisen nieder.
+Medizinische Versorgung und Bildung: Diese Sektoren weisen eine hohe Preisunelastizität auf, da Verbraucher kaum auf sie verzichten können. Steigende Kosten für Medikamente, Klinikaufenthalte und Bildungsgebühren wirken daher als dauerhafte Inflationstreiber.
+prompt_suggestion
+
+Am gestrigen Handelstag (6. November 2026) gab es an den Märkten trotz einer insgesamt volatilen Woche deutliche Gewinner:
+US-Markt: Erholung im Halbleiter- und Chipsektor
+Nach einer heftigen Verkaufswelle am Vortag („Tech Wreck“ aufgrund von Sorgen über strengere Regulierung nach den demokratischen Siegen bei den Midterm-Wahlen) nutzten Anleger den Rücksetzer zum Einstieg:
+Advanced Micro Devices (NASDAQ:AMD): Schoss um +11 % nach oben.
+Intel (NASDAQ:INTC): Legte um +8 % zu.
+Nvidia (NASDAQ:NVDA): Kletterte um knapp +3 %.
+Warum: Schnäppchenjäger griffen nach dem heftigen Ausverkauf im Zuge des anhaltenden KI-Infrastrukturbooms bei Chip-Werten wieder zu.
+Deutscher Markt (DAX): Einzelne starke Quartalszahlen
+Während der DAX insgesamt schwächer schloss, stachen einige Gewinner hervor:
+Hochtief (XETR:HOT): War mit einem Plus von +6,88 % der Spitzenreiter im DAX nach starken Quartalszahlen.
+Evotec (XETR:EVT): Kletterte im TecDAX um +5,16 %.
+ Das bereinigte EBITDA verbesserte sich im Quartal drastisch von -15,0 Mio. Euro auf -1,6 Mio. Euro.
+Siemens Energy (XETR:ENR): Verzeichnete ein Plus von +4,81 %,
+ getrieben von der anhaltend hohen Nachfrage nach Energielösungen.
+AMD
+
+Der Ausblick für Siemens Energy [ETR:ENR] stellt sich nach dem jüngsten Kursanstieg äußerst optimistisch dar.
+Analysten bewerten die Aktie im Konsens als "Strong Buy" und sehen erhebliches weiteres Potenzial:
+Analysten-Empfehlungen: Von 10 erfassten Analysten raten 9 zum Kauf (90 %) und einer zum Halten (10 %) – es gibt keine Verkaufsempfehlungen.
+Kursziele: Das durchschnittliche Kursziel liegt bei 211,87 EUR, was einem rechnerischen Aufwärtspotenzial (Upside) von +86,11 % zum aktuellen Kursniveau entspricht.
+ Das konservativste Kursziel liegt bei 195,00 EUR, während das optimistischste bis auf 250,00 EUR reicht.
+Hintergrund für die anhaltende Euphorie sind die exzellente Auftragslage im Bereich der Netztechnik und die weltweit massive Nachfrage nach Energielösungen zur Umsetzung der Energiewende.
+Analystenkonsens
+
+
+
