@@ -1,3 +1,1682 @@
+# Nachricht - Börse Stuttgart
+
+09.11.2026 / 07:30:11
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+MONTAG: In Singapur bleiben die Börsen wegen eines Ersatzfeiertags für Deepavali geschlossen.
+
++++++ TAGESTHEMA +++++
+
+Das relativ geringe Aufkommen an Naturkatastrophen spielt den Rückversicherern in die Karten. Die Hannover Rück dürfte am Montag ein solides Zahlenwerk abliefern, auch weil sie ein starkes Kapitalanlageergebnis verbucht hat. Ob die Hannover Rück den Ausblick für das Gesamtjahr erhöht, so wie es die Munich Re bei der Veröffentlichung vorläufiger Zahlen vorgemacht hat, ist unklar. Denn das Geschäft ist kein Selbstläufer: Die Branche hat derzeit mit Überkapazitäten und einem schwachen Preisumfeld zu kämpfen.
+
+Nachfolgend die Konsensschätzungen für das dritte Quartal (in Millionen Euro, Combined Ratio in Prozent, nach IFRS):
+
+.                                  PROG   PROG  PROG 
+3. QUARTAL                         3Q26   ggVj  Zahl    3Q25 
+Rückversicherungsumsatz (brutto)  6.617    +4%    17   6.372 
+Kapitalanlageergebnis               590   +97%    17     300 
+EBIT                                907   +23%    17     738 
+Ergebnis nach Steuern/Dritten       638    -2%    17     651 
+Combined Ratio\*                    85,3     --    17    80,8
+
+\-\* Schaden-Rückversicherung
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+GEA (07:30)
+
+Nachfolgend die Konsensschätzungen für das dritte Quartal (in Millionen Euro, Ergebnis je Aktie in Euro, Marge in Prozent, nach IFRS):
+
+.                             PROG  PROG  PROG 
+3. QUARTAL                    3Q26  ggVj  Zahl   3Q25 
+Auftragseingang              1.500   +9%    15  1.372 
+Umsatz                       1.478   +8%    16  1.366 
+EBITDA\*                        264  +14%    16    232 
+EBITDA-Marge\*                 17,8    --    16   17,0 
+Ergebnis nach Steuern/Dritten  141  +16%     8    121 
+Ergebnis je Aktie             0,85  +15%    14   0,74
+
+\- \* vor Restrukturierungsaufwand
+
+Weitere Termine:
+
+07:00 IT/Unicredit SpA, Ergebnis 9 Monate
+
+07:10 DE/Hypoport SE, ausführliches Ergebnis 3Q (10:00 Analysten- und Pressekonferenz)
+
+18:00 DE/Patrizia SE, Ergebnis 3Q
+
+DIVIDENDENABSCHLAG
+
+(bei deutschen Aktien und Aktien aus dem Stoxx- bzw. Euro-Stoxx-50-Index)
+
+Ceotronics: 0,25 EUR
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- DE 
+    08:00 Handelsbilanz September 
+          Handelsbilanz kalender- und saisonbereinigt 
+          PROGNOSE:  +18,7 Mrd Euro 
+          zuvor:     +19,5 Mrd Euro 
+          Exporte 
+          PROGNOSE:  +0,5% gg Vm 
+          zuvor:     -0,8% gg Vm 
+          Importe 
+          PROGNOSE:  +1,2% gg Vm 
+          zuvor:     +0,9% gg Vm
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+Index                       zuletzt  +/- % 
+DAX Futures               25.816,00   -0,2 
+E-Mini-Future S&P-500      7.429,00   +0,4 
+E-Mini-Future Nasdaq-100  27.086,50    0,0 
+Topix (Tokio)              3.820,48   +3,0 
+Hang-Seng (Hongk.)        24.558,04   +0,3 
+Shanghai-Comp.             3.667,61   +0,5 
+ 
+ 
+Vortag: 
+INDEX               Schluss  +/- % 
+DAX               25.820,36   -1,9 
+DAX-Future        25.848,00   -2,2 
+MDAX              30.642,23   -0,8 
+TecDAX             4.005,07   -0,9 
+SDAX              17.843,71   -1,0 
+Euro-Stoxx-50      6.170,49   -1,0 
+Stoxx-50           5.370,47   -0,9 
+XDAX              25.674,11   -0,6 
+Dow-Jones         51.285,73   -0,5 
+S&P-500            7.376,86   +0,3 
+Nasdaq Composite  24.579,43   +1,1
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Mit einer zurückhaltenden Eröffnung an Europas Börsen rechnen Händler am Montag. Die erste große Schreckreaktion nach der US-Zwischenwahl sei eingepreist, der gefürchtete KI-Crash ist ausgeblieben. "Es war eine starke, aber reine Sektorrotation", kommentierte ein Händler. Große Signale gibt es zum Wochenstart nicht. Der Brent-Ölpreis notiert leicht im Minus bei 97 Dollar, obwohl die Huthi-Milizen am Wochenende sogar den Saudi-Aramco-Turm in Riad, und damit ein Wahrzeichen in Saudi-Arabien, angreifen konnten. Dies deute nicht auf eine schnelle Problemlösung in der Region, heißt es. Im US-Iran-Krieg sollen derweil Verhandlungen weiter im Hintergrund laufen. Von den Inflationsdaten aus China geht keine Signalwirkung für Europas Börsen aus. Allerdings würden sie im Rückspiegel nur noch einmal die jüngsten Exporterfolge Chinas untermauern, was keine gute Nachricht für deutsche Autobauer sei. Klar im Fokus der Woche stehen die neuen US-Inflationsdaten. Händler sind gespannt auf die Reaktion der Anleiherenditen, da diese zuletzt von der Flucht in "sichere Häfen" angesichts des KI-Einbruchs deutlich gedrückt worden. Mit der politischen Sicherheit der US-Wahlergebnisse im Rücken werde sich dann zeigen, wie hoch die Inflationsprämie bei US-Anleihen ist. Dies dürfte dann bis zum Jahresende die Aktienbewertung prägen. Bei Unternehmens- und Konjunkturdaten ist es zum Wochenstart noch ruhig. Zahlen stehen unter anderem von Gea, Hannover Rück und Unicredit an. Im Blick steht der neue Sentix-Index für die Konjunktur in Deutschland.
+
+Rückblick: Schwach - Der Ausverkauf an den US-Börsen vom Vortag zog auch in Europa die Kurse nach unten. Diese erholten sich jedoch von ihren Tagestiefs, nachdem die Wall Street in einer Gegenbewegung im Plus gestartet war. Die am Vortag drastisch gefallenen Chipwerte machten Boden gut oder stabilisierten sich zumindest. Sie erhielten etwas Unterstützung von Berichten, wonach die EU Chips aus Europa mit einer halben Milliarde Euro fördern will. Damit solle die heimische Chip-Produktion erhöht werden. Infineon sanken um weitere 0,4 Prozent. Am Vortag waren die Titel noch um 8,5 Prozent eingebrochen. ASML stiegen um 2,7 Prozent, für STMicro ging es um 1,5 Prozent aufwärts und BE Semiconductor gewannen 1,8 Prozent. Der Technologiesektor gab um 0,3 Prozent nach und hielt sich damit vergleichsweise gut. Einziger Sektor im Plus waren Reise- und Touristikaktien, die im Schnitt um 0,9 Prozent zulegten. Hier gewannen Air France-KLM nach ihrem Kurssprung vom Vortag weitere 7,1 Prozent.
+
+DAX/MDAX/SDAX/TECDAX
+
+Sehr schwach - Erneut unter Druck stand die Rheinmetall-Aktie. Sie verlor weitere 3,4 Prozent, nachdem sie in Reaktion auf die Prognosesenkung des Rüstungskonzerns am Donnerstag um gut 16 Prozent abgesackt war. Mit dem Sieg der Demokraten bei der US-Kongresswahl seien die Friedensaussichten gestiegen, und die Rüstungsausgaben dürften weltweit gekappt werden, hieß es dazu. Renk gaben um 2,9 Prozent nach. Geschäftszahlen legte aus dem DAX am Freitag Daimler Truck vor. Die Aktie gab um 3,4 Prozent nach. Die Analysten von MWB bezeichneten die Drittquartalszahlen als stark. Umsatz und bereinigtes EBIT seien aber nicht so deutlich gestiegen wie erwartet. Die Auftragseingänge hätten den Konsens verfehlt, insbesondere in Nordamerika, monierten derweil die Analysten Bernstein. Die Aktien der Jost Werke legten um 4,5 Prozent zu, nachdem das Unternehmen die Prognosen für den Umsatz und den Gewinn im Geschäftsjahr 2026 angehoben hatte. Leicht positiv für Freenet (+0,4%) werteten Händler den geplanten Aktienrückkauf. Dagegen verloren Stabilus 12 Prozent. Im vierten Geschäftsquartal war das Unternehmen überraschend ins Minus gerutscht.
+
+USA - AKTIEN
+
+Fest - Die US-Aktien machten am Freitag einen Teil ihrer Vortagesverluste wett. Die offiziellen Arbeitsmarktdaten für Oktober waren besser als erwartet ausgefallen und lieferten somit der US-Notenbank weitere Argumente für eine Zinserhöhung im Dezember, die aber weithin erwartet wird. Auch die Stimmung der US-Verbraucher hellte sich Anfang November überraschend auf, wie der entsprechende Index der Universität Michigan zeigte. Unter den Einzelwerten sprangen Airbnb um 11,7 Prozent nach oben. Die Vermittlungsplattform für Kurzzeit- und Ferienunterkünfte hatte im dritten Quartal eine Belebung der Nachfrage verzeichnet und daraufhin ihre Jahresziele erhöht. Auch Moderna (+5,3%) hat sich ehrgeizigere Ziele gesetzt. Dagegen hat der Wettanbieter Draftkings (-21,3%) seine Prognose gesenkt. Bei Aktien mit KI-Bezug nutzten Anleger die drastischen Rücksetzer zum Kauf. Nvidia stiegen um 2,8 Prozent, Advanced Micro Devices um 11 und Intel um 7,7 Prozent. Der Kurs des Ausrüsters von Datenzentren GE Vernova rückte um 0,5 Prozent vor. Tesla gewannen 4,2 Prozent. Das Unternehmen wird wegen geringer Nachfrage die Produktion des Cybertrucks in seiner Gigafactory in Texas im kommenden Jahr herunterfahren. Mit diesem Schritt soll "Platz geschaffen werden" für eine verstärkte Produktion des selbstfahrenden Cybercabs, schrieb CEO Elon Musk in einem Beitrag auf X am Freitag.
+
+USA - ANLEIHEN
+
+US-Treasuries            Rendite    +/- 
+2 Jahre                     4,52  +0,04 
+10 Jahre                    4,86  +0,02
+
+Die überraschend starken Arbeitsmarktdaten nährten Zinserhöhungserwartungen, was die am Vortag gesunkenen Anleiherenditen etwas zulegen ließ. Die Zehnjahresrendite stieg um 2 Basispunkte auf 4,86 Prozent.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN        zuletzt  +/- %  +/- abs.  Schluss Vortag  Fr, 17:25 Uhr 
+EUR/USD         1,1163   +0,2    0,0020          1,1143         1,1148 
+EUR/JPY         176,64   +0,1    0,1000        176,5400       176,5400 
+EUR/CHF         0,9146   +0,1    0,0008          0,9138         0,9139 
+EUR/GBP         0,8339   -0,1   -0,0005          0,8344         0,8341 
+USD/JPY         158,23   -0,1   -0,2200        158,4500       158,3400 
+GBP/USD         1,3384   +0,3    0,0035          1,3349         1,3361 
+USD/CNY         6,6742   -0,0   -0,0018          6,6760         6,6760 
+USD/CNH         6,6729   -0,0   -0,0007          6,6736         6,6714 
+AUS/USD         0,6891   +0,4    0,0028          0,6863         0,6876 
+Bitcoin/USD  74.301,44   +0,3    254,24       74.047,20      75.656,64
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 09, 2026 01:30 ET (06:30 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.11.2026 / 07:30:11
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
+Der Dollar wertete im Gefolge der Anleiherenditen auf. Der Dollarindex stieg um 0,6 Prozent. Der Euro gab auf etwa 1,1150 Dollar nach.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle        zuletzt  +/- %  +/- abs.  Schluss Vortag 
+Gold          4.115,99   +1,2     50,36        4.065,63 
+Silber           52,64   +1,5      0,76           51,87 
+Platin        1.544,74   +0,7     11,46        1.533,28
+
+Beim Gold, das am Vortag als "sicherer Hafen" gefragt war, nahmen Anleger Gewinne mit. Der festere Dollar und die höheren Marktzinsen belasteten zusätzlich. Der Preis für die Feinunze fiel um 0,5 Prozent auf 4.065 Dollar.
+
+ÖL
+
+ROHOEL         zuletzt  +/- %  +/- abs.  Schluss Vortag 
+WTI/Nymex        89,94   -1,0     -0,89           90,83 
+Brent/ICE        97,04   -1,3     -1,28           98,32
+
+Am Ölmarkt setzten die Akteure auf eine diplomatische Lösung im Iran-Krieg. Das Barrel Brentöl tendierte kaum verändert be 98,32 Dollar.
+
++++++ MELDUNGEN SEIT VORTAG 17.30 UHR +++++
+
+INNENPOLITIK ISRAEL
+
+Fast zwei Wochen nach der Parlamentswahl in Israel hat der Präsident des Landes dem ehemaligen Militärchef und Politik-Neuling Gadi Eisenkot den Auftrag zur Regierungsbildung erteilt. Die Ankündigung von Präsident Isaac Herzog bedeutet, dass Eisenkot, der die aufstrebende zentristische Yashar-Partei anführt, nun genügend Abgeordnete davon überzeugen muss, seiner Koalition beizutreten. Dabei muss er tiefe Gräben zwischen den israelischen politischen Parteien überwinden, wenn er Benjamin Netanjahu das Amt des Ministerpräsidenten abnehmen will. Netanjahus oberstes Ziel ist es, die Regierungsbildung zu verhindern, damit er - als geschäftsführender Regierungschef - bis zu möglichen Neuwahlen an der Macht bleiben kann.
+
+EZB
+
+Für die Nachfolge von EZB-Präsidentin Christine Lagarde stehen die beiden Kandidaten nun offiziell fest. Wie der Präsident der Eurogruppe, Kyriakos Pierrakakis, mitteilte, haben bis zum Ende der Nominierungsfrist am Freitag Klaas Knot, ehemaliger Gouverneur der niederländischen Zentralbank, und der Spanier Pablo Hernandez de Cos ihren Hut in den Ring geworfen.
+
+ZYPERN / RATING
+
+Fitch Ratings hat das langfristige Emittentenausfallrating Zyperns von "A-" auf "A" erhöht und den Ausblick mit "stabil" bewertet. Der rapide Schuldenabbau des Landes war laut Fitch ein entscheidender Faktor für die Erhöhung.
+
+ACS / HOCHTIEF / TURNER
+
+CS lotet einem Agenturbericht zufolge strategische Optionen für die börsennotierte Hochtief AG aus. Darunter fällt auch eine mögliche Komplettübernahme oder eine Fusion der beiden Unternehmen, wie Bloomberg unter Berufung auf Kreise berichtet. Als Teil eines Deals würde ACS dann eine Börsennotierung der US-Tochter von Hochtief, Turner Construction, in New York Erwägung ziehen.
+
+AKZO NOBEL / AXALTA
+
+Die EU genehmigt die Fusion der beiden Unternehmen unter der Bedingung, dass die niederländische Akzo Nobel ihr Geschäft mit Autoreparaturlacken im Europäischen Wirtschaftsraum an einen geeigneten Käufer veräußert.
+
+MITSUI CHEMICALS
+
+will den Halbleitermaterialienhersteller JSR gemeinsam mit der staatlichen Development Bank of Japan (DBJ) für umgerechnet rund 7,9 Milliarden Euro übernehmen.
+
+NVIDIA
+
+Der Board von Nvidia leitet eine Untersuchung ein, weil CEO Jensen Huang möglicherweise das Ziel eines ausländischen Spionageversuchs gewesen sein soll. Hintergrund ist eine Beziehung des Chefs mit einer Managerin, die im Verdacht steht, für den chinesischen Geheimdienst gearbeitet zu haben.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/cln
+
+(END) Dow Jones Newswires
+
+November 09, 2026 01:30 ET (06:30 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.11.2026 / 07:44:23
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ FEIERTAGSHINWEIS +++++
+
+MONTAG: In Singapur bleiben die Börsen wegen eines Ersatzfeiertags für Deepavali geschlossen.
+
++++++ TAGESTHEMA +++++
+
+Chinas Erzeugerpreise sind im vergangenen Monat so schnell gestiegen wie seit mehr als vier Jahren nicht mehr. Steigende Energiepreise trieben die Produktionskosten weiter in die Höhe. Unterdessen verfehlte die Verbraucherpreisinflation die Prognosen, da der Konsum schwach blieb. Der Erzeugerpreisindex kletterte im Vergleich zum Vorjahr um 5,7 Prozent. Dies stellt eine Beschleunigung gegenüber dem Anstieg von 5,0 Prozent im September dar. Der Wert übertraf die Prognose eines Anstiegs von 5,3 Prozent. Unterdessen stiegen die Verbraucherpreise im Vergleich zum Vorjahr um 0,7 Prozent. Dies bedeutete eine Verlangsamung gegenüber dem Wachstum von 0,9 Prozent im September. Zudem wurde die von Ökonomen erwartete Steigerung von 0,8 Prozent verfehlt.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+Keine relevanten Unternehmenstermine angekündigt.
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+Keine relevanten Konjunkturdaten angekündigt.
+
++++++ ÜBERSICHT INDIZES +++++
+
+Index                         zuletzt  +/- % 
+E-Mini-Future S&P-500        7.426,25   +0,3 
+E-Mini-Future Nasdaq-100    27.061,50   -0,1 
+S&P/ASX 200 (Sydney)         9.029,70   +0,1 
+Nikkei-225                  58.775,50   +2,3 
+Topix-500 (Tokio)            3.818,16   +3,0 
+Kospi (Seoul)                5.018,85   -0,8 
+Shanghai-Composite           3.664,84   +0,4 
+Hang-Seng-Index (Hongkong)  24.544,22   +0,3
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Nach dem Ausverkauf der technologielastigen Aktienmärkte in Südkorea, Japan und Taiwan am vergangenen Freitag setzt sich dort die Erholung fort, die bereits zum Wochenschluss im späten Verlauf eingesetzt hatte - wenn gleich die Börsen noch immer heftig unter die Räder gekommen waren. Gestützt wird die Erholung von der Wall Street, die zum Wochenschluss ebenfalls zugelegt hatte. Händler sprechen mit Blick auf die Freitags-Verluste im Technologiebereich von einer übertriebenen Marktreaktion, die nun zum Teil korrigiert werde. Andere charakterisieren die Aufschläge zum Wochenstart lediglich als rein technische Gegenbewegung. Angeführt wird die Erholung im Technologiesektor von Taiwan, nachdem die Behörden Maßnahmen zur Marktstabilisierung ergriffen hatten. Taiwan Semiconductor Manufacturing Co. und MediaTek steigen jeweils um rund 6 Prozent. In Südkorea klettert der Kospi nur sehr bescheiden. Wie in Taiwan hatten die Behörden auch hier am vergangenen Freitag ihre Bemühungen intensiviert, den angeschlagenen heimischen Aktienmarkt zu stützen. Die Technologie-Schwergewichte Samsung Electronics und SK Hynix klettern um 1,6 bzw. 2,2 Prozent. Angesichts der heftigen Freitagsverluste sprechen Händler aber lediglich von einer Stabilisierung. In Japan liegen Maschinenbau- und Finanztitel vorn. Mazda Motor geben nach Zahlenausweis um 3,2 Prozent ab. Mitsui Chemicals (-8,1%) übernimmt den Hersteller von Chipmaterialien JSR für 11 Milliarden US-Dollar. In China, wo sich die Börsen zuletzt deutlich besser geschlagen hatten - auch gestützt durch Hilfen für den heimischen Halbleitersektor durch Peking - passiert nicht viel. Die chinesischen Inflationsdaten liefern wenig aussagekräftige Signale. Ähnlich wie in China tut sich auch in Australien nicht viel. Da hier Technologiewerte keine Rolle spielen, war der Leitindex auch von den jüngsten Marktturbulenzen nicht betroffen. ANZ fallen um 3,2 Prozent, nachdem die Bank einen Jahresüberschuss über Markterwartung vermeldet hat. Allerdings wurden die Rückstellungen angesichts eines volatileren wirtschaftlichen Umfelds erhöht.
+
+WALL STREET
+
+INDEX          zuletzt  +/- %  +/- abs.  Schluss Vortag 
+DJIA         51.285,73   -0,5   -237,33       51.523,06 
+S&P-500       7.376,86   +0,3    +23,13        7.353,73 
+NASDAQ Comp  24.579,43   +1,1   +264,43       24.315,00 
+ 
+Umsatzdaten 
+                     Freitag   Donnerstag 
+Umsatz NYSE (Aktien) 1,40 Mrd     1,75 Mrd 
+Gewinner             1.474          413 
+Verlierer            1.252        2.336 
+Unverändert             56           38
+
+Fest - Die US-Aktien machten einen Teil ihrer Vortagesverluste wett. Die Arbeitsmarktdaten für Oktober waren besser als erwartet ausgefallen und lieferten somit der Fed weitere Argumente für eine Zinserhöhung im Dezember. Auch die Stimmung der US-Verbraucher hellte sich Anfang November überraschend auf. Unter den Einzelwerten sprangen Airbnb um 11,7Prozent nach oben. Die Vermittlungsplattform für Kurzzeit- und Ferienunterkünfte hatte im dritten Quartal eine Belebung der Nachfrage verzeichnet und daraufhin ihre Jahresziele erhöht. Auch Moderna (+5,3%) hatte sich ehrgeizigere Ziele gesetzt. Dagegen hat der Wettanbieter Draftkings (-21,3%) seine Prognose gesenkt. Bei Aktien mit KI-Bezug nutzten Anleger die drastischen Rücksetzer zum Kauf. Nvidia stiegen um 2,8 Prozent, AMD um 11 und Intel um 7,7 Prozent. Der Kurs des Ausrüsters von Datenzentren GE Vernova rückte um 0,5 Prozent vor. Tesla gewannen 4,2 Prozent. Das Unternehmen wird wegen geringer Nachfrage die Produktion des Cybertrucks in seiner Gigafactory in Texas herunterfahren.
+
+US-ANLEIHEN
+
+US-Treasuries            Rendite    +/- 
+2 Jahre                     4,52  +0,04 
+10 Jahre                    4,86  +0,02
+
+Die überraschend starken Arbeitsmarktdaten nährten Zinserhöhungserwartungen, was die am Vortag gesunkenen Anleiherenditen etwas zulegen ließ.
+
+DEVISEN
+
+DEVISEN                     zuletzt  +/- %      00:00       Fr, 08:37  % YTD 
+EUR/USD                      1,1164   +0,2     1,1143          1,1171   -5,0 
+EUR/JPY                      176,64   +0,1     176,54          176,18   -4,0 
+EUR/GBP                      0,8340   -0,1     0,8344          0,8337   -4,3 
+USD/JPY                      158,21   -0,2     158,45          157,70   +1,0 
+USD/KRW                    1.346,10   -1,3   1.363,64        1.355,64   -6,6 
+USD/CNY                      6,6742   -0,0     6,6760          6,6705   -4,6 
+USD/CNH                      6,6728   -0,0     6,6736          6,6682   -4,3 
+USD/HKD                      7,8397    0,0     7,8396          7,8377   +0,7 
+AUD/USD                      0,6890   +0,4     0,6863          0,6863   +3,3 
+NZD/USD                      0,5598   +1,0     0,5545          0,5553   -2,8 
+BTC/USD                   74.212,62   +0,2  74.047,20       75.336,87  -15,4
+
+Der Dollar wertete im Gefolge der Anleiherenditen auf. Der Dollarindex stieg um 0,6 Prozent. Der Euro gab auf etwa 1,1150 Dollar nach.
+
+++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle                     zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                       4.110,77   +1,1      45,14        4.065,63 
+Silber                        52,50   +1,2       0,63           51,87 
+Platin                     1.542,78   +0,6       9,50        1.533,28
+
+Beim Gold, das am Vortag als "sicherer Hafen" gefragt war, nahmen Anleger Gewinne mit. Der festere Dollar und die höheren Marktzinsen belasteten zusätzlich. Der Preis für die Feinunze fiel um 0,5 Prozent auf 4.065 Dollar.
+
+ÖL
+
+ROHÖL                       zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                     89,79   -1,1      -1,04           90,83 
+Brent/ICE                     96,89   -1,5      -1,43           98,32
+
+Am Ölmarkt setzten die Akteure auf eine diplomatische Lösung im Iran-Krieg. Das Barrel Brentöl tendierte kaum verändert bei 98,32 Dollar.
+
++++++ MELDUNGEN SEIT VORTAG, 20.00 UHR +++++
+
+KONJUNKTUR PFILIPPINEN
+
+Die Wirtschaft ist im dritten Quartal mit dem langsamsten Tempo seit der Covid-19-Pandemie gewachsen. Damit wurden die Hoffnungen auf eine Erholung enttäuscht. Das BIP expandierte im Zeitraum von Juli bis September im Vergleich zum Vorjahr um 2,1 Prozent. Dies stand im Vergleich zu einem Wert von 2,3 Prozent im zweiten Quartal und dem prognostizierten Anstieg von 2,7 Prozent.
+
+AUTOABSATZ CHINA
+
+Chinas Autoverkäufe sind im Oktober erneut zurückgegangen, da die schwache Inlandsnachfrage die Automobilhersteller zunehmend dazu veranlasst, ihr Wachstum im Ausland zu suchen. Die Einzelhandelsverkäufe von Personenkraftwagen sanken im Oktober im Vergleich zum Vorjahr um 27,1 Prozent auf 1,64 Millionen Einheiten. Im Vergleich zum September stiegen die Verkäufe um 1,5 Prozent. Der Automarkt des Landes verfehlte im Oktober, der traditionell als Hauptabsatzzeit gilt, eine Erholung. Damit setzte sich der Rückgang den 14. Monat in Folge fort. Eine schwächere Nachfrage von Erstkäufern, höhere Ölpreise und ein gedämpfter Konsum hätten die Verkäufe belastet, heißt es.
+
+DEVISENRESERVEN CHINA
+
+Chinas Devisenreserven sind im Oktober leicht gestiegen. Der Devisenbestand des Landes stieg bis Ende Oktober um 4,9 Milliarden auf 3,405 Billionen US-Dollar. Ökonomen hatten für Ende Oktober Devisenreserven in Höhe von 3,41 Billionen US-Dollar erwartet. Weitgehend unbeeindruckt von schwachen inländischen Wirtschaftsdaten war der Renminbi in den vergangenen Wochen auf ein Vierjahreshoch gegenüber dem Greenback gestiegen. Um die Rally zu dämpfen änderte die PBoC die Regeln für Devisenreserven und verlangte von chinesischen Finanzinstituten, mehr Fremdwährungseinlagen bei der Zentralbank zu hinterlegen.
+
+ANZ
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 09, 2026 01:44 ET (06:44 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.11.2026 / 07:44:23
+
+# MORNING BRIEFING - USA/Asien -2-
+
+(Dow Jones Newswires)
+
+hat ihren Jahresgewinn um 23 Prozent gesteigert. Der Kreditgeber meldete nach jüngsten Stellenstreichungen und Umstrukturierungen niedrigere Betriebskosten. Die Bank meldete für die zwölf Monate bis September einen Nettogewinn von 7,27 Milliarden australischen Dollar. Die Betriebseinnahmen stagnierten mit 22,14 Milliarden australischen Dollar. Die Analystenprognose war von einem Nettogewinn von fast 7,40 Milliarden australischen Dollar bei Betriebseinnahmen von 22,63 Milliarden australischen Dollar ausgegangen. Ohne Berücksichtigung von Einmaleffekten.
+
+CONSTELLATION SOFTWARE
+
+hat im dritten Quartal einen höheren Gewinn und steigende Umsätze verzeichnet, was auf die Beiträge übernommener Unternehmen zurückzuführen ist. Das Unternehmen, dessen Geschäftsmodell in der Übernahme kleinerer Softwarefirmen besteht, verbuchte einen Gewinn von 212 Millionen US-Dollar bzw. 10,01 Dollar je Aktie. Im Vorjahreszeitraum hatte der Gewinn bei 210 Millionen Dollar oder 9,89 Dollar je Aktie gelegen. Von Factset befragte Analysten hatten mit einem Gewinn von 15,17 Dollar je Aktie gerechnet.
+
+ALPHABET/SPACEX
+
+Don Harrison, ein Google-Manager und langjähriges Mitglied des SpaceX-Boards, ist von seinem Posten im Board des Raketenbauers zurückgetreten. Sein Rücktritt wird mit sofortiger Wirkung in Kraft getreten. Harrison, President of Global Partnerships and Corporate Development bei Google, trat dem SpaceX-Board im Jahr 2015 bei und betreute eine Investition, die bis zum Ende des dritten Quartals auf 75,2 Milliarden US-Dollar anwuchs.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/cln/flf
+
+(END) Dow Jones Newswires
+
+November 09, 2026 01:44 ET (06:44 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.11.2026 / 08:43:38
+
+# MÄRKTE ASIEN/Technologiesektor nach Ausverkauf moderat erholt
+
+(Dow Jones Newswires)
+
+DOW JONES--An den asiatischen Börsen haben am Montag die Pluszeichen überwogen. Nach dem Ausverkauf der technologielastigen Aktienmärkte in Südkorea, Japan und Taiwan am vergangenen Freitag setzte sich dort die Erholung zunächst fort, die bereits zum Wochenschluss im späten Verlauf eingesetzt hatte - wenngleich die Börsen noch immer heftig unter die Räder gekommen waren. Allerdings hielt der südkoreanische Kospi seine temporären Aufschläge nicht. Gestützt wurde die Erholung von der Wall Street, die zum Wochenschluss ebenfalls zugelegt hatte. Händler sprachen mit Blick auf die Freitagsverluste im Technologiebereich von einer übertriebenen Marktreaktion, die nun zum Teil korrigiert worden sei. Andere charakterisierten die Aufschläge zum Wochenstart lediglich als rein technische Gegenbewegung.
+
+Denn Schlagzeilen über Nvidia verstärkten eher den Argwohn gegenüber dem KI-Boom. CEO Jensen Huang steht im Fokus einer Untersuchung durch den Board, die nach Einschätzung von Analysten von Yorkville Ives mindestens mehrere parlamentarische Untersuchungen nach sich ziehen dürfte. Die entscheidende Frage für Anleger sei, ob Huang CEO bleiben werde. Es bestehe eindeutig das Risiko, dass er je nach Ausgang der Untersuchung des Boards abgesetzt werden könnte.
+
+Angeführt wurde die Erholung im Technologiesektor von Taiwan, wo der Taiex um 4,9 Prozent zulegte, nachdem die Behörden Maßnahmen zur Marktstabilisierung ergriffen hatten. Der Leitindex in Taiwan beendet damit eine siebentägige Durststrecke - er war in der Vorwoche um 12 Prozent eingebrochen. Taiwan schloss sich damit Südkorea an, um die Talfahrt heimischer Aktien einzudämmen, die durch den weltweiten Ausverkauf von Werten aus dem Bereich der Künstlichen Intelligenz ausgelöst worden war. Der Taiex war gemeinsam mit anderen technologielastigen Indizes eingebrochen, da der Sieg der Demokraten bei den US-Zwischenwahlen Sorgen vor strengeren Regulierungen schürte. Dies könnte den Ausbau der KI-Infrastruktur verlangsamen und die Nachfrage nach KI-bezogener Hardware dämpfen. Taiwan Semiconductor Manufacturing Co. und MediaTek steigen um 4,7 bzw. 9,9 Prozent.
+
+Japanische Aktien stiegen nach dem jüngsten Ausverkauf auf breiter Basis, aber nicht ganz so deutlich wie in Taiwan - der Nikkei-225 legte um 2,3 Prozent auf 58.776 Punkte zu. Mazda Motor gaben nach Zahlenausweis um 2,5 Prozent nach. Mitsui Chemicals (-8,5%) übernimmt den Hersteller von Chipmaterialien JSR für 11 Milliarden US-Dollar.
+
+In Südkorea drehte der Kospi im Verlauf ins Minus und gab weitere 0,8 Prozent ab - belastet von Wehrtechnik- und Batterietiteln. Es war die dritte Sitzung in Folge mit Abgaben. Wie in Taiwan hatten die Behörden auch hier am vergangenen Freitag ihre Bemühungen intensiviert, den angeschlagenen heimischen Aktienmarkt zu stützen. Im Technologiesektor gelang dies, die Schwergewichte Samsung Electronics und SK Hynix kletterten um 0,6 bzw. 0,4 Prozent. Angesichts der heftigen Freitagsverluste sprachen Händler aber lediglich von einer Stabilisierung. Ein Boom bei Speicherchips dürfte das Wachstum des Bruttoinlandsprodukts Südkoreas stützen, aber ein eventueller Rückgang der Chipexporte könnte die Wirtschaft ab der zweiten Jahreshälfte 2027 belasten, urteilte Analyst Jin-Wook Kim von der Citigroup.
+
+In China, wo sich die Börsen zuletzt deutlich besser geschlagen hatten - auch gestützt durch Hilfen für den heimischen Halbleitersektor durch Peking - tat sich nicht viel. Der HSI in Hongkong kletterte im späten Handel um 0,1 Prozent, der Shanghai-Composite schloss 0,3 Prozent höher. Die chinesischen Inflationsdaten für Oktober lieferten wenig aussagekräftige Signale. Die Erzeugerpreise waren im vergangenen Monat so schnell gestiegen wie seit mehr als vier Jahren nicht mehr. Gestiegene Energiepreise trieben die Produktionskosten weiter in die Höhe. Unterdessen verfehlte die Verbraucherpreisinflation die Prognosen, da der Konsum schwach blieb.
+
+Ähnlich wie in China passierte auch in Australien nicht viel, der S&P/ASX-200 gewann 0,1 Prozent. Da hier Technologiewerte keine Rolle spielen, war der Leitindex auch von den jüngsten Marktturbulenzen nicht betroffen. Aktien der ANZ Group fielen um 3,2 Prozent, nachdem die Bank die Erwartungen verfehlt hatte. Zudem wurden die Rückstellungen angesichts eines volatileren wirtschaftlichen Umfelds erhöht.
+
+\=== 
+INDEX                       zuletzt  +/- %      % YTD  Handelsschluss 
+S&P/ASX 200 (Sydney)       9.029,70   +0,1       +3,6           06:00 
+Nikkei-225                58.775,50   +2,3         -            07:30 
+Topix 500 (Tokio)          2.984,81   +3,0        0,0           07:30 
+Kospi (Seoul)              5.018,85   -0,8      +19,1           07:30 
+Hang-Seng (Hongkong)      24.497,70   +0,1       -4,4           09:00 
+Shanghai-Composite         3.660,79   +0,3       -7,8           08:00 
+Straits-Times (Singapur)   5.179,17   -2,2      +11,5           10:00 
+IDX Comp. (Indonesien)     5.083,72   +0,7      -41,2           10:00 
+KLCI (Malaysia)            1.616,58   -1,2       -3,8           10:00 
+ 
+DEVISEN                     zuletzt  +/- %      00:00       Fr, 08:37  % YTD 
+EUR/USD                      1,1165   +0,2     1,1143          1,1171   -4,9 
+EUR/JPY                      176,52   -0,0     176,54          176,18   -4,1 
+EUR/GBP                      0,8339   -0,1     0,8344          0,8337   -4,3 
+USD/JPY                      158,05   -0,3     158,45          157,70   +0,9 
+USD/KRW                    1.347,30   -1,2   1.363,64        1.355,64   -6,5 
+USD/CNY                      6,6742   -0,0     6,6760          6,6705   -4,6 
+USD/CNH                      6,6726   -0,0     6,6736          6,6682   -4,3 
+USD/HKD                      7,8409   +0,0     7,8396          7,8377   +0,8 
+AUD/USD                      0,6884   +0,3     0,6863          0,6863   +3,2 
+NZD/USD                      0,5594   +0,9     0,5545          0,5553   -2,8 
+BTC/USD                   73.808,73   -0,3  74.047,20       75.336,87  -15,8 
+ 
+ROHÖL                       zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                     89,81   -1,1      -1,02           90,83 
+Brent/ICE                     96,90   -1,4      -1,42           98,32 
+ 
+Metalle                     zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                       4.099,24   +0,8      33,61        4.065,63 
+Silber                        52,28   +0,8       0,41           51,87 
+Platin                     1.535,15   +0,1       1,87        1.533,28 
+(Angaben ohne Gewähr) 
+===
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/DJN/flf/cln
+
+(END) Dow Jones Newswires
+
+November 09, 2026 02:43 ET (07:43 GMT)
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### AUSTRALIA & N. Z.
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN A3D4V6
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a3d4v6-australia-n-z/)
+    
+-   [
+    
+    ### Mazda Motor
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 854131
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/854131-mazda-motor/)
+    
+-   [
+    
+    ### Mitsui Chemicals
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 858586
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/858586-mitsui-chemicals/)
+    
+-   [
+    
+    ### Samsung Electronics
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 896360
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/896360-samsung-electronics/)
+    
+-   [
+    
+    ### Taiwan Semiconductor
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 909800
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/909800-taiwan-semiconductor/)
+    
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.11.2026 / 09:09:37
+
+# Ifo: KI-Effekt am Arbeitsmarkt - Berufseinsteiger leiden
+
+(dpa-AFX) MÜNCHEN (dpa-AFX) - Der zunehmende Einsatz von Künstlicher Intelligenz (KI) in vielen Unternehmen geht nach Analyse des Ifo-Instituts mit schlechteren Jobchancen für Berufsanfänger einher. KI-bedingte Stellenstreichungen in großem Maßstab hingegen beobachten die Münchner Ökonomen bislang nicht. Ifo-Präsident Clemens Fuest und seine Mitarbeiter veröffentlichten einen neuen KI-Frühindikator, der die Folgen der zunehmenden Verbreitung von KI für die Arbeitswelt messen soll. Die Wissenschaftler vergleichen dafür die Beschäftigung und Neueinstellungen in 140 Berufen und setzen diese in Relation zur Ersetzbarkeit menschlicher Tätigkeit durch KI.
+
+MÜNCHEN (dpa-AFX) - Der zunehmende Einsatz von Künstlicher Intelligenz (KI) in vielen Unternehmen geht nach Analyse des Ifo-Instituts mit schlechteren Jobchancen für Berufsanfänger einher. KI-bedingte Stellenstreichungen in großem Maßstab hingegen beobachten die Münchner Ökonomen bislang nicht. Ifo-Präsident Clemens Fuest und seine Mitarbeiter veröffentlichten einen neuen KI-Frühindikator, der die Folgen der zunehmenden Verbreitung von KI für die Arbeitswelt messen soll. Die Wissenschaftler vergleichen dafür die Beschäftigung und Neueinstellungen in 140 Berufen und setzen diese in Relation zur Ersetzbarkeit menschlicher Tätigkeit durch KI.
+
+Nicht nur IT-Arbeitskräfte sind leicht ersetzbar
+
+Demnach ist die Vollzeitbeschäftigung der 20- bis 24-Jährigen in den am stärksten KI-exponierten Berufen seit 2022 um 14 Prozent zurückgegangen, von rund 279.000 auf 239.000. Vorn auf der Liste der Berufe mit einem hohem Anteil leicht zu automatisierender Tätigkeiten stehen Datenerfassung und Textverarbeitung, gefolgt von Softwareentwicklern, Buchhaltern, Datenbank- und Netzwerktechnikern sowie Autoren und Journalisten. "Von einem breiten Jobabbau durch KI sehen wir bislang nichts", sagte Fuest. "Aber wer ins Berufsleben startet, spürt die Veränderung als Erstes."
+
+... doch die KI-Effekte sind keineswegs nur negativ
+
+Die KI-Auswirkungen auf die Arbeitswelt nehmen aber durchaus gegenläufige Richtungen ein, wie Fuest und seine Koautoren betonen: Auf der einen Seite steht die Automatisierung, auf der anderen die "Augmentierung": Die KI kann menschliche Arbeitskräfte unterstützen und produktiver machen. Was den Arbeitsmarkt insgesamt betrifft, so ist laut Ifo die Beschäftigung in den KI-exponierten Berufen seit 2022 sogar um 1,8 Prozent gewachsen - in den nicht exponierten Berufen hingegen hat sie demnach um 6,4 Prozent abgenommen. Koautor Oliver Falck sieht den Jobschwund bei den Berufsanfängern jedoch als Frühwarnzeichen am Arbeitsmarkt.
+
+Manager dürfen sich nicht sicher fühlen
+
+Ein KI-Risiko laufen demnach allerdings keineswegs nur gewöhnliche Arbeitnehmer, sondern auch Führungskräfte bis in die Chefetagen hinein: KI könnte demnach auch einen beträchtlichen Teil der Arbeit von Geschäftsführern und Vorständen erheblich schneller bewältigen. Nicht KI-exponiert sind demnach hauptsächlich handwerkliche und sonstige manuelle Tätigkeiten: An letzter Stelle der Liste stehen Küchenhilfskräfte. Unter den nicht oder kaum durch KI zu ersetzenden Berufen finden sich beispielsweise auch Bauarbeiter und -handwerker, Tischler, Maler, Gebäudereiniger, Bauern und auch Hauswirtschaftsleitungen.
+
+Die Wissenschaftler betonen, dass der neue KI-Indikator des Instituts keine monokausale Erklärung abliefern soll: Demnach lässt sich daraus nicht ableiten, dass allein KI die beobachteten Effekte auslöst. Eine Rolle spielen könnten demnach neben anderen Faktoren der demografische Wandel und längere Ausbildungszeiten./cho/DP/nas
+
+## Aktuelle Videos
+
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.11.2026 / 09:17:06
+
+# Aktien Asien: Tech-Erholung in Taiwan, auch Tokio fest - Nvidia trübt die Lage
+
+(dpa-AFX) SEOUL/TOKIO/HONGKONG/SHANGHAI (dpa-AFX) - Die Aktienmärkte in Fernost sind am Montag teilweise mit deutlichen Gewinnen in die neue Woche gestartet. Im Nachgang der Freitagserholung an der New Yorker Nasdaq hieß es auch in Asien, dass dort erst einmal Schnäppchenjäger am Werk seien, nachdem der Sieg der Demokraten bei den US-Kongresswahlen in der Vorwoche den globalen Technologiesektor in Turbulenzen gebracht hatte.
+
+SEOUL/TOKIO/HONGKONG/SHANGHAI (dpa-AFX) - Die Aktienmärkte in Fernost sind am Montag teilweise mit deutlichen Gewinnen in die neue Woche gestartet. Im Nachgang der Freitagserholung an der New Yorker Nasdaq hieß es auch in Asien, dass dort erst einmal Schnäppchenjäger am Werk seien, nachdem der Sieg der Demokraten bei den US-Kongresswahlen in der Vorwoche den globalen Technologiesektor in Turbulenzen gebracht hatte.
+
+Die deutlichsten Kursgewinne gab es in Taiwan, wo der Markt von Maßnahmen der lokalen Behörden profitierte, um das Vertrauen der Investoren wiederherzustellen - etwa mit der Einführung von Beschränkungen für Leerverkäufe. Der TAIEX ging dort fast fünf Prozent höher aus dem Handel. Aus dem Chipsektor führten die Unternehmen TSMC und MediaTek den Markt in Taiwan an mit prägnanten Kursgewinnen.
+
+Allerdings wurde die Stimmung gedämpft von Untersuchungen bei Nvidia, nachdem der Konzernchef Jensen Huang eine Affäre mit einer Chinesin eingestanden hat - zum Leidwesen der Tech-Branche gibt es Mutmaßungen, dass es sich dabei um eine Spionin gehandelt haben soll. Die US-Futures für die technologielastige Nasdaq-Börse wurden davon zuletzt ins Minus gedrückt. Die Nvidia-Aktien verloren außerbörslich zuletzt fast sechs Prozent an Wert.
+
+In Japan schloss der Nikkei 225 2,3 Prozent höher bei 58.775,50 Punkten, wobei Werte aus dem IT-Bereich dort die Bewegung nicht maßgeblich prägten. An der für den Tech-Sektor besonders bedeutenden Börse in Südkorea war der KOSPI derweil mit 0,8 Prozent ins Minus gesackt. Die Aktien der Speicherchip-Produzenten SK Hynix und Samsung Electronics gaben dort weite Teile ihrer Gewinne wieder ab.
+
+Die chinesischen Börsen zeigten sich derweil am Montag von der Gemengelage wenig beeindruckt. Der CSI-300-Index mit den 300 wichtigsten Festland-Werten ging mit einem knappen Plus aus dem Handel, während der Hang-Seng-Index in der Sonderverwaltungszone Hongkong zuletzt auf Vortagsniveau lag. Auch der australische S&P ASX 200 zeigte sich am Montag mit 9.029,69 Zählern eher wenig bewegt./tih/stk
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.11.2026 / 09:37:21
+
+# MÄRKTE EUROPA/Leichtes Plus dank KI-Erholung und Öl-Minus
+
+(Dow Jones Newswires)
+
+DOW JONES--Mit leichtem Plus sind Europas Börsen am Montag in die neue Handelswoche gestartet. Der DAX legt um 0,4 Prozent auf 25.923 Punkte zu, der Euro-Stoxx-50 um 0,6 Prozent auf 6.206 Zähler. Nachdem vergangene Woche noch die Sorge vor einem KI-Crash nach der US-Zwischenwahl umging, ist dies einer nüchternen Betrachtung gewichen. "Es war eine starke, aber reine Sektorrotation", kommentierte ein Händler. Nvidia stiegen um rund 3 Prozent, Qualcomm und Micron über 5 Prozent und Chip-Hersteller AMD sogar um 11 Prozent. Wie erhofft, hatten die günstigen Kurse für Schnäppchenkäufe gesorgt. Im DAX legen Infineon um 1,1 Prozent zu.
+
+Große Signale gibt es zum Wochenstart nicht. Der Brent-Ölpreis notiert 2 Prozent schwächer unter 97 Dollar, obwohl die Huthi-Milizen am Wochenende sogar den Saudi-Aramco-Turm in Riad, und damit ein Wahrzeichen in Saudi-Arabien, angreifen konnten. Dies deute nicht auf eine schnelle Problemlösung in der Region, heißt es.
+
+Hier setzt der Markt voll auf eine Einigung im US-Iran-Krieg, wo Verhandlungen im Hintergrund laufen. Vivek Dhar von der CBA schätzt, dass ein Abkommen zur Aufhebung der US-Seeblockade die Brent-Futures auf 70 bis 85 Dollar pro Barrel sinken lassen sollte. Bei einem reinen Waffenstillstand dürfte es nur in den Bereich von 85 bis 100 Dollar gehen.
+
+Von den Inflationsdaten aus China geht keine Signalwirkung für Europas Börsen aus. Allerdings würden sie im Rückspiegel nur noch einmal die jüngsten Exporterfolge Chinas untermauern, was keine gute Nachricht für deutsche Autobauer sei. Klar unter Druck steht danach das Sentiment für Luxus-Aktien. Die Daten würden keine großen Turnaround-Fantasien für den Markt in China zulassen. Entsprechend fallen LVMH und Hermes bis 2,7 Prozent, Richemont, Kering und Burberry um die 2 Prozent. Analysten hatten sich schon vergangene Woche nach diversen Quartalszahlen aus dem Sektor recht uninspiriert gezeigt und auf China als Bremsfaktor verwiesen.
+
+Klar im Fokus der Woche stehen die neuen US-Inflationsdaten. Händler sind gespannt auf die Reaktion der Anleiherenditen, da diese zuletzt von der Flucht in "sichere Häfen" angesichts des KI-Einbruchs deutlich gedrückt worden. Mit der politischen Sicherheit der US-Wahlergebnisse im Rücken werde sich dann zeigen, wie hoch die Inflationsprämie bei US-Anleihen ist. Dies dürfte dann bis zum Jahresende die Aktienbewertung prägen.
+
+Bei Unternehmens- und Konjunkturdaten ist es zum Wochenstart noch ruhig. Im Blick steht der neue Sentix-Index für die Konjunktur in Deutschland.
+
+Klar im Fokus stehen die Aktien von Hochtief, die am Freitag mit Übernahmegerüchten über 5 Prozent gestiegen waren. Händler verweisen allerdings auf ein Dementi von deren Hauptaktionär ACS gegenüber der spanischen Börsenaufsicht am Wochenende. Daher geht es nun wieder 4,7 Prozent nach unten. Die Aktie werden in nächster Zeit weiter volatil erwartet.
+
+Kräftige Kursgewinne von 4,6 Prozent gibt es bei Unicredit nach starken Zahlen. Hannover Rück geben 1,5 Prozent ab nach ihren Daten, hier waren die Aktien aber zuvor schon stark gelaufen.
+
+Bei Gea werden die Quartalsdaten als durchwachsen gewertet, die Aktien geben 0,1 Prozent nach. Die Gewinnschätzung wurde zwar verfehlt, der Auftragseingang sei aber deutlich stärker als erwartet
+
+Kursgewinne von 2 Prozent gibt es bei SAP dank einer Hochstufung durch JP Morgan auf "Overweight". Das Kursziel wurde drastisch erhöht auf 275 nach 175 Euro. SAP notieren derzeit bei 215 Euro.
+
+Rheinmetall geben um 0,8 Prozent nach gegen einen erholten Rüstungssektor. Sie wurden von der Bank of America auf "Neutral" nach zuvor "Buy" abgestuft.
+
+\=== 
+Index                    zuletzt  +/- %   +/- abs.  Schluss Vortag      +/- % YTD 
+Euro-Stoxx-50           6.205,91   +0,6      35,42        6.170,49            7,2 
+Stoxx-50                5.394,66   +0,5      24,19        5.370,47            9,7 
+DAX                    25.923,07   +0,4     102,71       25.820,36            5,8 
+MDAX                   30.725,11   +0,3      82,88       27.039,42            0,4 
+TecDAX                  4.017,57   +0,3      12,50        3.091,28           10,9 
+SDAX                   17.846,68   +0,0       2,97       13.062,07            3,9 
+FTSE                   10.707,86   +0,3      33,92       10.673,94            7,8 
+CAC                     8.157,93   +0,2      18,93        8.139,00            0,1 
+SMI                    14.808,57   +0,1      12,07       14.796,50           11,6 
+ATX                     6.488,75   +0,8      53,95        6.434,80           21,8 
+ 
+DEVISEN                  zuletzt  +/- %   +/- abs.  Schluss Vortag  Fr, 17:25 Uhr 
+EUR/USD                   1,1186   +0,4     0,0043          1,1143         1,1148 
+EUR/JPY                    176,7   +0,1     0,1600          176,54       176,5400 
+EUR/CHF                   0,9144   +0,1     0,0006          0,9138         0,9139 
+EUR/GBP                   0,8335   -0,1    -0,0009          0,8344         0,8341 
+USD/JPY                   157,94   -0,3    -0,5100          158,45       158,3400 
+GBP/USD                   1,3411   +0,5     0,0062          1,3349         1,3361 
+USD/CNY                   6,6732   -0,0    -0,0028          6,6760         6,6760 
+USD/CNH                   6,6708   -0,0    -0,0028          6,6736         6,6714 
+AUS/USD                   0,6892   +0,4     0,0029          0,6863         0,6876 
+Bitcoin/USD            74.130,30   +0,1      83,10       74.047,20      75.656,64 
+ 
+ROHOEL                   zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                  89,53   -1,4      -1,30           90,83 
+Brent/ICE                  96,34   -2,0      -1,98           98,32 
+ 
+Metalle                  zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                    4.095,34   +0,7      29,71        4.065,63 
+Silber                     52,37   +1,0       0,50           51,87 
+Platin                  1.543,03   +0,6       9,75        1.533,28 
+ 
+(Angaben ohne Gewähr) 
+===
+
+DJG/mod/cln
+
+(END) Dow Jones Newswires
+
+November 09, 2026 03:37 ET (08:37 GMT)
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Cie Financiere Richemont
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN A1W5CV
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a1w5cv-cie-financiere-richemont/)
+    
+-   [
+    
+    ### Hochtief
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 607000
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/607000-hochtief/)
+    
+-   [
+    
+    ### Infineon
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 623100
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/623100-infineon/)
+    
+-   [
+    
+    ### GEA Group
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 660200
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/660200-gea-group/)
+    
+-   [
+    
+    ### Rheinmetall
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 703000
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/703000-rheinmetall/)
+    
+-   [
+    
+    ### SAP
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 716460
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/716460-sap/)
+    
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.11.2026 / 09:48:20
+
+# Fall um Nvidia-Chef: China weist Spionagevorwurf zurück
+
+(dpa-AFX) PEKING (dpa-AFX) - Im Fall um eine Affäre von Nvidia \-Chef Jensen Huang mit einer möglichen chinesischen Spionin hat Chinas Außenministerium entsprechende Vorwürfe zurückgewiesen. Die Behauptung der chinesischen Spionage sei frei erfunden und eine Verleumdung, sagte Außenamtssprecher Guo Jiakun in Peking.
+
+PEKING (dpa-AFX) - Im Fall um eine Affäre von Nvidia -Chef Jensen Huang mit einer möglichen chinesischen Spionin hat Chinas Außenministerium entsprechende Vorwürfe zurückgewiesen. Die Behauptung der chinesischen Spionage sei frei erfunden und eine Verleumdung, sagte Außenamtssprecher Guo Jiakun in Peking.
+
+Der Chef des US-Chipkonzerns, der wichtige Technologie für den KI-Ausbau liefert, hatte zuvor mitgeteilt, untreu gewesen zu sein. Nvidia leitete parallel eine Untersuchung ein. Der Verwaltungsrat teilte jedoch mit, derzeit keinen Grund zur Annahme zu haben, dass Geschäftsgeheimnisse von Nvidia oder die Nationale Sicherheit der USA kompromittiert worden seien.
+
+Mehrere Medien hatten zuvor berichtet, Huang könnte Ziel einer ausländischen Spionageaktivität geworden sein, da er ein Verhältnis zu einer Frau gehabt habe, die nach Vermutungen von US-Sicherheitskreisen vom chinesischen Geheimdienst angeworben worden sei.
+
+Chinas staatliche Zeitung "Global Times" kritisierte die US-Medien. Diese hätten den Fall anhand von ein paar Fotos einer Frau mit "asiatischen Merkmalen", Nvidias Bemühungen, die Handelsbeschränkungen gegenüber China zu lockern, sowie Aussagen von mit der Sache vertrauten Quellen und Verdächtigungen der Medien zu einer Spionage-aufgebauscht, hieß es in einem Kommentar./jon/DP/nas
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### NVIDIA
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 918422
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/918422-nvidia/)
+    
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+09.11.2026 / 06:05:09
+
+# WOCHENVORSCHAU: Termine bis 20. November 2026
+
+(dpa-AFX) FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine bis Freitag, den 20. November
+
+FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine bis Freitag, den 20. November
+
+   
+---------------------------------------------------------------------------------------
+MONTAG, DEN 9. NOVEMBER
+
+TERMINE UNTERNEHMEN
+06:30 JPN: Mazda Motor, Q2-Zahlen
+07:00 ITA: Unicredit, Q3-Zahlen
+07:10 DEU: Hypoport, Q3-Zahlen (detailliert) (10.00 Analysten- und Pressekonferenz)
+07:30 DEU: Hannover Rück, Q3-Zahlen (8.00 Pressekonferenz)
+07:30 DEU: Gea Group, Q3-Zahlen (14.00 Analystenkonferenz)
+18:00 DEU: Patrizia, Q3-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+USA: KKR & Co, Q3-Zahlen
+ 
+TERMINE KONJUNKTUR
+02:30 CHN: Erzeugerpreise 10/26
+02:30 CHN: Verbraucherpreise 10/26
+06:00 JPN: Maschinenwerkzeugaufträge 10/26 (vorläufig)
+08:00 DEU: Im- und Exporte 9/26
+08:00 DEU: Lkw-Maut-Fahrleistungsindex 10/26
+08:00 FIN: Handelsbilanz 9/26 (vorläufig)
+10:30 EUR: Sentix-Investorvertrauen 11/26
+
+SONSTIGE TERMINE
+10:00 DEU: Pk der Deutschen Telekom AG zur KI-Infrastruktur für Deutschland und Europa mit dem Vorstandsvorsitzenden Tim Höttges, Roland Busch, Vorstandsvorsitzender Siemens, Bundeswirtschaftsministerin Katherina Reiche (CDU), Bundesdigitalminister Karsten Wildberger (CDU), und Ministerpräsident Markus Söder (CSU), München
+
+DEU: SZ Wirtschaftsgipfel u.a. mit Bundesfinanzminister Lars Klingbeil (SPD), Bundesfamilienministerin Karin Prien (CDU), Bundesforschungsministerin Dorothee Bär (CSU), Bundesverkehrsminister Steffen Bilger (CDU) und Bundesdigitalminister Karsten Wildberger (CDU), Berlin
+
+BEL: Treffen der EU-Finanzminister, Brüssel
+
+BEL: Treffen der Euro-Gruppe, Brüssel
+
+FRA: Außenminister-Treffen der G7 in Frankreich, Marseille
+
+TUR: UN-Weltklimakonferenz COP31 in der Türkei, Antalya
+
+16:00 USA: Supreme Court der USA tagt, Washington
+
+HINWEIS
+SGP: Feiertag, Börse geschlossen
+
+---------------------------------------------------------------------------------------
+DIENSTAG, DEN 10. NOVEMBER
+
+TERMINE UNTERNEHMEN
+05:00 USA: Adtran, Q3-Zahlen
+06:55 DEU: TAG Immobilien, Q3-Zahlen (10.00 Telefoncall)
+07:00 DEU: K+S, Q3-Zahlen
+07:00 DEU: Hamborner Reit, Q3-Zahlen
+07:00 DEU: Jenoptik, Q3-Zahlen (detailliert)
+07:10 DEU: Elmos Semiconductor, Q3-Zahlen
+07:25 ITA: Telecom Italia, Q3-Zahlen (Conference Call 11.00 Uhr)
+07:30 DEU: Uniper, 9Monatszahlenn (detailliert)
+07:30 DEU: Henkel, Q3-Zahlen (9.00 Analystenkonferenz, 10.30 Pressekonferenz)
+07:30 DEU: Medios, Q3-Zahlen
+07:30 DEU: Jungheinrich, Q3-Zahlen
+07:30 DEU: Infineon, Jahreszahlen (8.00 Pk)
+08:00 DEU: Porsche Automobil Holding, Q3-Zahlen
+08:00 GBR: Vodafone Group, Halbjahreszahlen
+08:00 JPN: Suzuki Motor, Q2-Zahlen
+08:30 JPN: Softbank, Q2-Zahlen
+09:00 DEU: KSB, Q3-Umsatz
+12:00 NOR: DNB ASA, Capital Markets Day
+22:00 CHE: Alcon, Q3-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+DEU: Hensoldt AG, Capital Markets Day
+GBR: Marks & Spencer, Capital Markets Day
+ITA: Banca Generali, Q3-Zahlen
+
+TERMINE KONJUNKTUR
+CHN: Handelsbilanz 10/26
+00:50 JPN: BoJ Leistungsbilanz 9/26
+00:50 JPN: Handelsbilanz 9/26
+06:30 NLD: Verbraucherpreise 10/26 (endgültig)
+06:30 NOR: Verbrauchervertrauen Q4/26
+07:00 FIN: Industrieproduktion 9/26
+08:00 DNK: Verbraucherpreise 10/26
+08:00 NOR: Verbraucherpreise 10/26
+08:30 HUN: Verbraucherpreise 10/26
+09:00 AUT: Industrieproduktion 9/26
+11:00 GRC: Industrieproduktion 9/26
+11:00 GRC: Verbraucherpreise 10/26
+14:15 USA: ADP Arbeitslosenzahlen (Woche)
+14:30 USA: Verbraucherpreise 10/26
+14:30 USA: Realeinkommen 10/26
+
+SONSTIGE TERMINE
+10:30 DEU: Pk Landesbank Hessen-Thüringen (Helaba): Kapitalmarktausblick 2027 mit Helaba-Chefvolkswirtin Rosa Traud, Frankfurt/M.
+
+DEU: Deutscher Eigenkapitaltag (DET) u.a. mit Bundeswirtschaftsministerin Katherina Reiche (CDU), Berlin
+
+DEU: 16. Deutscher Maschinenbaugipfel, Berlin
+
+---------------------------------------------------------------------------------------
+MITTWOCH, DEN 11. NOVEMBER
+
+TERMINE UNTERNEHMEN
+06:50 LUX: Grand City Properties, Q3-Zahlen
+07:00 DEU: RWE, Q3-Zahlen (13.00 Analystencall)
+07:00 DEU: Eon, Q3-Zahlen
+07:00 DEU: Siemens Energy, Jahreszahlen (8.00 Bilanz-Pk)
+07:00 DEU: Brenntag, Q3-Zahlen
+07:00 DEU: Bilfinger, Q3-Zahlen (9.00 Pk)
+07:00 DEU: KWS Saat, Q1-Zahlen
+07:00 CHE: Swiss Life, Q3-Zahlen
+07:00 NLD: ABN Amro, Q3-Zahlen
+07:30 DEU: SFC Energy, Q3-Zahlen
+07:30 DEU: Vincorion, Q3-Zahlen
+07:30 AUT: Voestalpine, Q2-Zahlen
+07:30 DNK: Vestas, Q3-Zahlen
+08:00 DNK: Royal Unibrew, Q3-Zahlen
+08:30 DEU: Einhell, Q3-Zahlen
+09:25 JPN: Nissan Motor, Halbjahreszahlen
+11:15 GBR: Easyjet, Hauptversammlung (außerordentlich)
+18:00 DEU: Freenet, Q3-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+LUX: Eurofins Scientific (North America Investor Day)
+ 
+TERMINE KONJUNKTUR
+07:00 JPN: Maschinenwerkzeugaufträge 10/26 (vorläufig)
+08:00 DEU: Verbraucherpreise 10/26 (endgültig)
+10:00 ITA: Industrieproduktion 9/26
+12:00 PRT: Verbraucherpreise 10/26 (endgültig)
+14:00 RUS: Handelsbilanz 9/26
+
+SONSTIGE TERMINE
+10:00 DEU: BGH prüft Streit um Rechtsschutzversicherung für Impfschaden-Klage nach Corona-Impfung, Karlsruhe
+
+LVA: Wirtschaftskonferenz der Lettischen Zentralbank, Riga
+
+TUR: Gipfel der Staats- und Regierungschefs auf der UN-Weltklimakonferenz COP31 in der Türkei, Antalya
+
+---------------------------------------------------------------------------------------
+DONNERSTAG, DEN 12. NOVEMBER
+
+TERMINE UNTERNEHMEN
+06:45 CHE: Zurich Insurance Group, Q3-Zahlen
+07:00 DEU: Fraport, Verkehrszahlen 10/26
+07:00 DEU: Munich Re, Q3-Zahlen (detailliert) (8.30 Pk)
+07:00 DEU: Deutsche Pfandbriefbank, Q3-Zahlen (9.30 Pk)
+07:00 DEU: Allianz, Q3-Zahlen (9.30 Pk)
+07:00 DEU: Merck KGaA, Q3-Zahlen (9.30 Pk)
+07:00 DEU: SMA Solar, Q3-Zahlen
+07:00 DEU: Siemens, Jahreszahlen (8.00 Bilanz-Pk, 9.30 Analystencall)
+07:00 DEU: Wacker Neuson, Q3-Zahlen
+07:00 DEU: Init, Q3-Zahlen (detailliert)
+07:00 DEU: LEG Immobilien, Q3-Zahlen (10.00 Analystencall)
+07:00 DEU: Grenke, Q3-Zahlen
+07:00 DEU: Procredit Holding AG, Q3-Zahlen
+07:00 DEU: Ströer, Q3-Zahlen
+07:00 DEU: Cewe Stiftung, Q3-Zahlen
+07:00 DEU: MLP, Q3-Zahlen
+07:00 DEU: Allianz, Q3-Zahlen (9.30 Pk)
+07:00 AUT: Strabag, Q3 Trading Statement
+07:00 AUT: Wienerberger, Q3-Zahlen
+07:00 BEL: KBC Group, Q3-Zahlen
+07:00 CHE: Adecco, Q3-Zahlen
+07:30 DEU: Talanx, Q3-Zahlen (8.30 Pk)
+07:30 DEU: Sixt, Q3-Zahlen
+07:30 DEU: Tonies, Q3-Zahlen
+07:30 DEU: United Internet, Q3-Zahlen (12.00 Telefoncall)
+07:30 DEU: 1&1, Q3-Zahlen
+07:30 DEU: Indus Holding, Q3-Zahlen
+07:30 DEU: Koenig & Bauer, Q3-Zahlen
+07:30 DEU: Energiekontor, Q3-Zahlen
+07:30 DEU: Friedrich Vorwerk, Q3-Zahlen (detailliert)
+07:30 DEU: Dürr AG, Q3-Zahlen
+07:30 DEU: HHLA, Q3-Zahlen
+07:30 DEU: GFT, Q3-Zahlen
+07:30 DEU: Prosiebensat1, Q3-Zahlen (detailliert)
+07:30 DEU: Tonies, Q3-Zahlen
+07:30 DEU: Dermapharm Holding, Q3-Zahlen
+07:30 DEU: Hapag-Llyod, Q3-Zahlen
+07:30 DEU: Mutares, Q3-Zahlen
+07:30 DEU: Ionos, Q3-Zahlen
+07:30 DEU: Delivery Hero, Q3-Zahlen
+07:30 DEU: Salzgitter, Q3-Zahlen (detailliert) (10.00 Telefoncall)
+07:30 DEU: Secunet Security Networks, Q3-Umsatz
+07:30 DEU: Ottobock SE & Co KGaA, Q3-Zahlen
+07:30 DEU: Heidelberger Druckmaschinen, Q2-Zahlen (detailliert) (11.00 Pk)
+07:30 ESP: Telefonica, Q3-Zahlen
+07:45 DEU: Eckert & Ziegler, Q3-Zahlen
+07:50 DEU: MBB SE, Q3-Zahlen (detailliert)
+08:00 DEU: Jost Werke, Q3-Zahlen (detailliert)
+08:00 DEU: Cancom, Q3-Zahlen (detailliert)
+08:00 DEU: PNE, Q3-Zahlen
+08:00 DEU: OHB, Q3-Zahlen
+08:00 DEU: Verbio, Q1-Zahlen
+08:00 DEU: Wüstenrot & Württembergische, Q3-Zahlen
+08:00 GBR: 3i Group, Halbjahreszahlen
+08:00 GBR: Burberry, Halbjahreszahlen
+08:00 GBR: Rolls-Royce, Q3 TRading Update
+08:00 GBR: United Utilities, Halbjahreszahlen
+08:30 TWN: Foxconn, Q3-Zahlen
+08:30 DEU: Verband der chemischen Industrie (VCI), Q3-Konjunkturbericht
+09:00 DEU: EnBW, Q3-Zahlen (14.00 Analystencall)
+11:00 ESP: ACS, 9Monatszahlen und Capital Markets Day
+11:00 DEU: Borussia Dortmund, Q1-Zahlen (detailliert)
+16:30 USA: Kraft Heinz, Investor Day
+17:45 DEU: CTS Eventim, Q3-Zahlen
+18:00 DEU: Deutsche Euroshop, Q3-Zahlen
+18:00 ITA: Enel, Q3-Zahlen
+22:00 USA: Applied Materials, Q4-Zahlen
+22:00 USA: Cisco Systems, Q1-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+DEU: Brenntag, Capital Markets Day
+NLD: DocMorris, Capital Markets Day
+USA: Moderna, Analyst Day
+
+TERMINE KONJUNKTUR
+ROU: Zentralbank, Zinsentscheid
+00:50 JPN: Erzeugerpreise 10/26
+08:00 GBR: BIP Q3/26 (vorläufig)
+08:00 GBR: Privatkonsum Q3/26 (vorläufig)
+08:00 GBR: Staatsausgaben Q3/26 (vorläufig)
+08:00 GBR: Im- und Exporte Q3/26 (vorläufig)
+08:00 GBR: BIP 9/26
+08:00 GBR: Industrieproduktion 9/26
+08:00 GBR: Handelsbilanz 9/26
+08:00 SWE: Verbraucherpreise 10/26 (endgültig)
+08:00 ROU: Verbraucherpreise 10/26
+12:00 IRL: Verbraucherpreise 10/26 (endgültig)
+14:30 USA: Erstanträge Arbeitslosenhilfe (Woche)
+16:00 USA: Wiederverkäufe Häuser 10/26
+18:00 USA: EIA Ölbericht (Woche)
+
+DEU: Bundesbank, Finanzstabilitätsbericht
+
+SONSTIGE TERMINE
+DEU: Pk Bundesbank zur Veröffentlichung des «Finanzstabilitätsberichts 2026», Frankfurt/M.
+
+10:30 DEU: Hybrides Pressegespräch DZ Bank: Jahresausblick 2027, Frankfurt/M.
+
+BEL: Europaministerkonferenz (EMK), Brüssel
+
+---------------------------------------------------------------------------------------
+FREITAG, DEN 13. NOVEMBER
+
+TERMINE UNTERNEHMEN
+07:00 CHE: Richemont, Halbjahreszahlen
+07:00 ITA: Generali Group, Q3-Zahlen
+07:15 AUT: AMS Osram AG, Q3-Zahlen (9.45 Call)
+07:30 DEU: Bechtle, Q3-Zahlen
+08:00 GBR: Land Securities, Halbjahreszahlen
+08:00 GBR: Aviva, Q3-Umsatz
+ 
+TERMINE KONJUNKTUR
+07:00 FIN: Verbraucherpreise 10/26
+08:00 DEU: Großhandelspreise 10/26
+08:00 DEU: Erzeugerpreise landwirtschaftlicher Produkte 9/26
+08:00 DEU: Insolvenzen 8/26
+08:00 ROU: BIP Q3/26 (vorab)
+08:30 CHE: Erzeugerpreise 10/26
+08:30 CHE: Importpreise 10/26
+08:45 FRA: Verbraucherpreise 10/26 (endgültig)
+09:00 ESP: Verbraucherpreise 10/26 (endgültig)
+09:30 POL: Verbraucherpreise 10/26 (endgültig)
+09:30 POL: BIP Q3/26 (vorab)
+10:00 ITA: Handelsbilanz 9/26
+10:00 FRA: IEA Monatsbericht Ölmarkt 11/26
+11:00 EUR: BIP Q3/26 (2. Veröffentlichung)
+11:00 EUR: Handelsbilanz 9/26
+11:00 EUR: Beschäftigung Q3/26 (vorab)
+14:00 POL: Handelsbilanz 9/26
+14:30 USA: Erzeugerpreise 10/26
+17:00 RUS: BIP Q3/26 (vorab)
+17:00 RUS: Verbraucherpreise 10/26
+
+SONSTIGE TERMINE
+08:30 DEU: Fortsetzung Energieministerkonferenz von Bund und Ländern mit Niedersachsens Energieminister Christan Meyer (Grüne), Göttingen
+
+09:30 DEU: Hybrides Pressegespräch Commerzbank-Chefvolkswirt Jörg Krämer zu Konjunkturausblick 2027, Frankfurt/M.
+
+09:30 DEU: Online-Pk des Forums Netztechnik/Netzbetrieb im Elektrotechnik-Verband VDE zum Thema Sicherheit der Stromnetze, Frankfurt/M.
+
+DEU: Kreislaufwirtschaft-Konferenz mit EU-Umweltkommissarin Jessika Roswall, Wuppertal
+
+IRL: Informelles Treffen der Staats- und Regierungschefs der EU-Staaten
+
+TUR: UN-Weltklimakonferenz COP31 in der Türkei, Antalya
+ 
+---------------------------------------------------------------------------------------
+MONTAG, DEN 16. NOVEMBER
+
+TERMINE UNTERNEHMEN
+08:00 GBR: Legal + General Group, Q3-Umsatz
+10:00 DEU: Uniper, Capital Markets Day
+
+USA: Tyson Foods, Q4-Zahlen
+ 
+TERMINE KONJUNKTUR
+00:50 JPN: BIP Q3/26 (vorläufig)
+03:00 CHN: Einzelhandelsumsatz 10/26
+03:00 CHN: Industrieproduktion 10/26
+05:30 JPN: Kapazitätsauslastung 9/26
+05:30 JPN: Industrieproduktion 9/26 (endgültig)
+11:00 EUR: Industrieproduktion 9/26
+14:30 USA: Empire State Index 11/26
+
+SONSTIGE TERMINE
+09:00 DEU: Eröffnungskonferenz der Euro Finance Week, Frankfurt/M.
+
+10:00 DEU: Bundesverfassungsgericht entscheidet über Klagen gegen Sonderkündigungsrecht für Fernsehverträge, Karlsruhe
+
+11:00 DEU: Nationaler Stahlgipfel 2026 - Stahl-Allianz berät über Zukunft der Industrie, Salzgitter
+
+DEU: Handelsblatt Konferenz Dekarbonisierung der Industrie, Essen
+
+DEU: Medizintechnik-Fachmessen Medica und Compamed, Düsseldorf
+
+BEL: EU-Außenministertreffen, Brüssel
+
+PHL: Start Gipfeltreffen der Asean-Staaten, Manila
+
+TUR: UN-Weltklimakonferenz COP31 in der Türkei, Antalya
+
+---------------------------------------------------------------------------------------
+DIENSTAG, DEN 17. NOVEMBER
+
+??TERMINE UNTERNEHMEN
+07:00 DEU: Springer Nature AG & Co KGaA, Q3-Zahlen (14.00 Analystencall)
+07:00 AUT: Asta Energy Solutions, 9Monatszahlen
+07:30 FRA: Alstom, Halbjahreszahlen
+08:00 GBR: Imperial Brands, Jahreszahlen
+08:00 LUX: RTL, Q3-Zahlen
+09:00 DEU: Bertelsmann, Q3-Zahlen
+10:00 DEU: Dekabank, 9Monatszahlen
+10:30 CHE: Zurich Insurance Group, Veranstaltung "Zurich Insights 2026"
+12:00 USA: Home Depot, Q3-Zahlen
+12:45 USA: Walt Disney, Q4-Zahlen
+13:00 FRA: Dassault Systemes, Capital Markes Day
+17:30 USA: Sandisk, Hauptversammlung
+22:20 USA: Nvidia, Q3-Zahlen
+ 
+TERMINE KONJUNKTUR
+00:50 JPN: Handelsbilanz 10/26
+05:30 JPN: Dienstleistungsindex 9/26
+08:00 GBR: Arbeitslosenzahlen 9/26
+10:00 ITA: Verbraucherpreise 10/26 (endgültig)
+11:00 DEU: ZEW-Konjunkturerwartungen 11/26
+14:00 HUN: Zentralbank, Zinsentscheidung
+14:15 USA: ADP Beschäftigung (Woche)
+14:30 USA: Einzelhandelsumsatz 10/26
+14:30 USA: Im- und Exportpreise 10/26
+15:15 USA: Industrieproduktion 10/26
+15:15 USA: Kapazitätsauslastung 10/26
+16:00 USA: Lagerbestände 9/26
+16:00 USA: NAHB Wohnungsmarkt-Index 11/26
+
+SONSTIGE TERMINE
+10:00 DEU: LBBW Research, Pk zum Jahresausblick 2027, Frankfurt/M.
+
+14:00 DEU: Tag der Wohnungswirtschaft u.a. mit Bundesbauministerin Verena Hubertz (SPD), Berlin
+
+PHL: Fortsetzung Gipfeltreffen der Asean-Staaten, Manila
+
+TUR: UN-Weltklimakonferenz COP31 in der Türkei, Antalya
+
+---------------------------------------------------------------------------------------
+MITTWOCH, DEN 18. NOVEMBER
+
+TERMINE UNTERNEHMEN
+10:00 DEU: Drägerwerk, Capital Markets Day
+13:00 SWE: Alfa Laval, Capital Markets Day
+16:00 USA: Oracle, Hauptversammlung
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+CHE: Novartis, Meet Novartis Management 2026
+ITA: Generali Group, Investor Day
+ITA: Saipem, Q3-Zahlen
+NLD: Mediaforeurope, 9Monatszahlen
+USA: Target, Q3-Zahlen
+
+TERMINE KONJUNKTUR
+08:00 GBR: Verbraucherpreise 10/26
+08:00 GBR: Einzelhandelspreise 10/26
+09:00 AUT: Verbraucherpreise 10/26 (endgültig)
+11:00 EUR: Verbraucherpreise 10/26 (endgültig)
+14:30 USA: Baubeginne- und genehmigungen 10/26
+16:00 USA: Schwebende Hausverkäufe 10/26
+16:30 USA: EIA Ölbericht (Woche)
+20:00 USA: FOMC Sitzungsprotokoll 28.10.26
+
+SONSTIGE TERMINE
+10:00 DEU: Pk Europäische Zentralbank (EZB): Finanzstabilitätsbericht (hybrid), Frankfurt/M.
+
+15:00 DEU: Hybrid-Mediengespräch Bundesverband der Deutschen Industrie e.V. (BDI) zum BDI-Papier «Resilienzpolitik neu denken», Berlin
+
+18:00 DEU: Verleihung des Deutschen Zukunftspreises 2026 u.a. mit Bundespräsident Frank-Walter Steinmeier, Berlin
+
+DEU: Deutscher Handelskongress, u.a. mit Bundesdigitalisierungsminister Karsten Wildberger (CDU), Berlin
+
+CHN: Gipfelbeginn der Asiatisch-Pazifischen Wirtschaftsgemeinschaft (Apec), Shenzhen
+
+TUR: UN-Weltklimakonferenz COP31 in der Türkei, Antalya
+
+---------------------------------------------------------------------------------------
+DONNERSTAG, DEN 19. NOVEMBER
+
+TERMINE UNTERNEHMEN
+08:00 GBR: Sage Group, Jahreszahlen
+10:00 DEU: Sto, Q4-Zahlen
+11:00 CHE: Schindler, Capital Markets Day
+13:00 USA: Walmart, Q3-Zahlen
+14:00 DEU: Rational, Capital Markets Day 2026
+16:30 DEU: Mutares, Investor Day
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+USA: Procter & Gamble, Investor Day
+ 
+TERMINE KONJUNKTUR
+00:50 JPN: Kernrate Maschinenaufträge 9/26
+06:30 NLD: Arbeitslosenzahlen 10/26
+08:00 CHE: IM- und Exporte 10/26
+10:00 EUR: EZB Leistungsbilanz 9/26
+11:00 EUR: Bauproduktion 9/26
+11:00 EUR: Arbeitskosten Q3/26 (vorläufig)
+12:00 DEU: Bundesbank, Monatsbericht
+14:30 USA: Philadelphia Fed Business Outlook 11/26
+14:30 USA: Erstanträge Arbeitslosenhilfe (Woche)
+16:00 USA: Frühindikator 10/26
+16:30 USA: EIA Ölbericht (Woche)
+
+SONSTIGE TERMINE
+10:00 DEU: BGH verhandelt zu Impfschäden nach Corona-Schutzimpfung und der Frage, gegen wen Amtshaftungsansprüche geltend zu machen sind, Karlsruhe
+
+11:00 DEU: Hybride Pk EZB-Bankenaufsicht zum Stand der Kapitalanforderungen für Banken («SREP»), Frankfurt/M.
+
+11:00 DEU: BGH verhandelt zu hälftiger Teilung der Maklerprovision zwischen Käufer und Verkäufer bei Mietervorkaufsrecht, Karlsruhe
+
+12:00 DEU: Presselunch Bundesverband Breitbandkommunikation e.V. (Breko) zu aktuellen Entwicklungen in der Telekommunikationsbranche, Berlin
+
+12:00 DEU: Deutsch-Türkischer Automobilgipfel, u.a. mit dem türkischen Handelsminister Ömer Bolat und Bundeswirtschaftsministern Katherina Reiche, Berlin
+
+BEL: Treffen des EU-Ministerrates für Allgemeine Angelegenheiten, Brüssel
+
+CHN: Gipfel der Asiatisch-Pazifischen Wirtschaftsgemeinschaft (Apec) endet, Shenzhen
+
+IRL: Informelles Treffen der EU-Minister zuständig für Verbraucherfragen
+
+---------------------------------------------------------------------------------------
+FREITAG, DEN 20. NOVEMBER
+
+TERMINE UNTERNEHMEN
+14:00 FRA: Pernod Ricard, Hauptversammlung
+ 
+TERMINE KONJUNKTUR
+00:30 JPN: Verbraucherpreise 10/26
+01:01 GBR: GfK Verbrauchervertrauen11/26
+08:00 GBR: Einzelhandelsumsatz 10/26
+08:00 DEU: Erzeugerpreise 10/26
+08:00 DNK: BIP Q3/26 (vorläufig)
+08:45 FRA: Geschäftsklima 11/26
+08:45 FRA: Produzentenvertrauen 11/26
+09:30 POL: Industrieproduktion 10/26
+16:00 EUR: Verbrauchervertrauen 11/26 (vorab)
+16:00 USA: Uni Michigan Verbrauchervertrauen 11/26 (endgültig)
+
+SONSTIGE TERMINE
+09:00 DEU: «Frankfurt European Banking Congress» u.a. mit einer Rede von EZB-Präsidentin Christine Lagarde, Frankfurt/M.
+
+BEL: Zweiter EU-UK-Gipfel, Brüssel
+
+TUR: Geplanter Abschlusstag der UN-Weltklimakonferenz COP31 in der Türkei, Antalya
+
+---------------------------------------------------------------------------------------
+
+Alle Angaben wurden mit größter Sorgfalt recherchiert. Dennoch übernimmt die dpa-AFX Wirtschaftsnachrichten GmbH keine Haftung für die Richtigkeit. Alle Zeitangaben erfolgen in MEZ./bwi
+
+## Aktuelle Videos
+
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+-   [
+    
+    ![Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit](https://i.ytimg.com/vi/GY8w-5DyzLc/hqdefault.jpg)
+    
+    Videos**Ölpreis & Gas vor dem Winter: Was droht jetzt? | Börse Stuttgart | UniCredit**
+    
+    14/10/2026 16:45
+    
+    12:15 Die Energiepreise bleiben der zentrale Treiber für die Inflation und belasten Verbraucher an der Tankstelle spürbar. Im Gespräch analysiert Nikolaus Barth (UniCredit) die Gemengelage am Rohstoffmarkt: Welche Rolle spielt das Nadelöhr Straße von Hormus...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/14/oelpreis-gas-vor-dem-winter-was-droht-jetzt-boerse-stuttgart-unicredit/)
+
+Weitere Treffer anzeigen
+
+
+
 --- FILE: CQ Morning Briefing/Recess update SCOTUS justices to testify before Congress.mp3 ---
 Good morning. I'm Christina Karish and it's Wednesday, July 8th. This is CQ Roll Call's
 morning briefing, and here are the top three headlines you need to start today.
