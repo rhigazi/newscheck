@@ -1,5 +1,17 @@
 # Änderungsprotokoll (Log)
 
+## 2026-11-13: Synthese der Handelswoche KW 46 (09.–13.11.2026), Integration von Regel 6 & Soll-Prognose
+- Quantitative Aktualisierung der Marktdatenbasis (`marktdaten-analyse-dia.md`) auf den 10-Tages-Zeitraum vom 30.10. bis 12.11.2026 (10-Tages-Durchschnittsvolumen: 4.477.982 Anteile).
+- Verhaltensökonomische Auswertung der jüngsten Nachrichten und Marktreaktionen:
+  - Rebound am 09.11. (Gap-Up auf 518,55, Schluss 523,33, +2,17 %) nach Abbau der Midterms-Schreckreaktion ("reine Sektorrotation, KI-Crash ausgeblieben").
+  - Veröffentlichung der US-Verbraucherpreise (CPI) am 10.11. (+0,4 % MoM, Kernrate +0,3 % über Prognose): Wiederaufflammen der Fed-Zinserhöhungsfurcht (Spekulation über 50-Bp-Zinsschritt im Dezember); Handelsspannen-Kompression auf 3,41 Pkt. (0,65 %) und Schließen bei 521,73.
+  - Zins-Resilienz am 11.11. (Veterans Day, Schluss 524,44 USD, +0,52 %) bei ruhigem Feiertagshandel (2,71 Mio. Anteile) gestützt durch starke Unternehmenszahlen (Infineon, Henkel).
+  - Idiosynkratischer Führungsschock bei Nvidia am 12.11. (Rücktritt von CEO Jensen Huang): Abfederung des Schocks durch Binnen-Sektorrotation in Peer-Substitute (AMD +5,9 %, Broadcom +5,5 %); extremer Rückzug institutioneller Marktteilnehmer mit Volumenkollaps im DIA auf 1.702.339 Anteile (0,38x).
+- Synthese und Neuanlage von **OKF-Regel 6**: [`regel-idiosynkratischer-schock-rotation.md`](regel-idiosynkratischer-schock-rotation.md).
+- Aktualisierung der Konzepte [`regel-pre-event-paralyse.md`](regel-pre-event-paralyse.md), [`regel-zinsangst-good-news-bad-news.md`](regel-zinsangst-good-news-bad-news.md) und der Gesamtsynthese [`synthese-verhaltensregeln.md`](synthese-verhaltensregeln.md) auf das 6-Phasen-Marktmodell.
+- Erstellung der tagesaktuellen Soll-Prognose [`erwartung.md`](../erwartung.md) für Freitag, den 13.11.2026 (Fokus: US-Erzeugerpreise PPI um 14:30 MEZ, IEA-Ölbericht, Vorbereitung auf Nvidia-Q3-Zahlen am 17.11.).
+- Aktualisierung des Root-Index [`index.md`](index.md).
+
 ## 2026-11-07: Konfidenz-Standardisierung & Soll-Prognose für US-CPI-Woche
 - Standardisierung des `konfidenz`-Attributs in allen 5 Verhaltensregeln zur automatisierten Anpassung durch den Validierungs- und Feedback-Loop (`RegelAnalyse_okf.ipynb` Zelle 4.5).
 - Verhaltensökonomische Auswertung der Wochenvorschau (`termine.md`) für KW 46 (09.11. – 20.11.2026):
@@ -20,3 +32,9 @@
   - `regel-sektordivergenz-bodenbildung.md`: Selektives Dip-Buying und Post-Panik-Divergenz.
 - Zusammenführung der Einzelregeln in eine ganzheitliche Entscheidungssynthese (`synthese-verhaltensregeln.md`).
 - Verknüpfung aller Wissenseinheiten über bidirektionale Links und claim-basierte Fußnoten-Zitationen gemäß OKF v0.2 Provenienz-Standard.
+
+## Audit 2026-11-13 03:57
+- Erwartung (2026-11-07): Richtung=neutral, Spanne=[508.0, 516.0], Volumen=normal, Konfidenz=0.85
+- Ist: Richtung=baerisch, Close=522.47, Volumen=niedrig (Ratio 0.45)
+- Treffer (0/3): Richtung=False, Spanne=False, Volumen=False
+- Massnahme: Konfidenz der Regel 'regel-pre-event-paralyse' gesenkt, Regel korrigiert.
