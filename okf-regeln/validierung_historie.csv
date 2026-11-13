@@ -1,0 +1,2 @@
+timestamp,erwartung_datum,bezugsregel,regel_bestaetigt,regel_hits,prognose_score,close,ret_pct,spanne_pct,vol_ratio,richtung_ist,richtung_soll,konfidenz_neu
+2026-11-13 04:24,2026-11-07,regel-pre-event-paralyse,True,3/3,0/3,522.47,-0.38,0.92,0.38,baerisch,neutral,0.9

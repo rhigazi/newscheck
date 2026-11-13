@@ -38,3 +38,9 @@
 - Ist: Richtung=baerisch, Close=522.47, Volumen=niedrig (Ratio 0.45)
 - Treffer (0/3): Richtung=False, Spanne=False, Volumen=False
 - Massnahme: Konfidenz der Regel 'regel-pre-event-paralyse' gesenkt, Regel korrigiert.
+
+## Audit 2026-11-13 04:24
+- Bezugsregel: 'regel-pre-event-paralyse'
+- Regel-Validierung: BESTÄTIGT (3/3 Kriterien) -> Regel 'regel-pre-event-paralyse' empirisch BESTÄTIGT (3/3 Merkmale). Konfidenz erhöht auf 0.9.
+- Markt-Signatur: Close=522.47 (-0.38%), Spanne=0.92%, Vol-Ratio=0.38 (niedrig)
+- Taktische Prognose (2026-11-07): 0/3 Treffer (Richtung=False, Spanne=False, Volumen=False)

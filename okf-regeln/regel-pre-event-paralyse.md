@@ -2,7 +2,7 @@
 type: "Behavioral Rule"
 title: "OKF-Regel 1: Vor-Ereignis-Paralyse und Volatilitätskompression"
 description: "Verhaltensökonomische Gesetzmäßigkeit zur institutionellen Risikoaversion und Liquiditätsaustrocknung vor binären Makro- und Polit-Ereignissen."
-konfidenz: 0.85
+konfidenz: 0.90
 generated:
   by: "process:antigravity"
   at: "2026-11-13T03:50:55Z"
@@ -90,3 +90,5 @@ flowchart LR
 [^termine-preview]: Wochenvorschau Termine bis 20. November 2026 (`termine.md`).
 
 > Korrektur: 2026-11-13 03:57 Soll-Ist-Abweichung (0/3 Treffer) – Regel hinterfragt.
+
+> Bestätigt: 2026-11-13 04:24 Empirische Signatur (3/3) am Markt verifiziert.
