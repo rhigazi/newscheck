@@ -1,389 +1,6 @@
-Hier sind die gestern (10. November 2026) veröffentlichten Ergebnisse der Konjunkturtermine:
-China (Handelsbilanz Oktober): Der Handelsüberschuss belief sich auf 105,28 Milliarden USD (unter den Erwartungen von 125,8 Mrd. USD).
- Die Exporte stiegen im Vorjahresvergleich um 35,2 %, während die Importe um 41,6 % zulegten.
- Für die ersten zehn Monate des Jahres überschritt der Gesamtüberschuss damit bereits die Marke von 1 Billion USD.
-Japan (Leistungs- & Handelsbilanz September): Der Leistungsbilanzüberschuss sank deutlich auf 2.372,3 Milliarden Yen und verfehlte die Prognosen von 3.354,4 Mrd. Yen.
- Die reine Handelsbilanz rutschte durch gestiegene Rohölimporte mit einem Defizit von 187,5 Milliarden Yen in den negativen Bereich.
-Niederlande (Verbraucherpreise Oktober – endgültig): Die jährliche Inflationsrate wurde mit 3,7 % bestätigt (nach 3,4 % im September).
- Dies ist der höchste Stand seit April 2025, getrieben vor allem durch anziehende Gas- und Energiekosten.
-Norwegen (Verbrauchervertrauen Q4): Der Index fiel spürbar von -19,10 auf -22,50 Punkte und erreichte damit den tiefsten Stand seit fast drei Jahren, da die anhaltend hohen Zinsen die Verbraucherstimmung belasten.
-NI225
-
-Hier sind die Ergebnisse und Daten zu den von Ihnen genannten Konjunkturterminen (Stand November 2026):
-Finnland (Industrieproduktion 09/26): Die Produktion stieg im Jahresvergleich kräftig um +4,5 % (nach +1,3 % im Vormonat).
-Dänemark (Verbraucherpreise 10/26): Die jährliche Inflationsrate blieb unverändert bei 2,2 %.
-Norwegen (Verbraucherpreise 10/26): Die Inflation zog leicht an auf 3,6 % im Jahresvergleich.
-Ungarn (Verbraucherpreise 10/26): Die Teuerungsrate kletterte auf ein 6-Monats-Hoch von 2,0 %.
-Österreich (Industrieproduktion 09/26): Die Produktion verzeichnete ein leichtes Plus von +0,6 % im Jahresvergleich.
-Griechenland (Industrieproduktion 09/26 & Verbraucherpreise 10/26): Die Industrieproduktion stieg um +0,6 %.
- Die Inflation sprang derweil getrieben durch Energiekosten deutlich nach oben auf 5,7 %.
-USA (Verbraucherpreise & Realeinkommen 10/26): Die US-Verbraucherpreise stiegen im Monatsvergleich um +0,4 % (Kernrate +0,3 %), was über den Markterwartungen lag.
- Hinweis: Eine Jahresrate wurde vom BLS nicht ausgewiesen, da aufgrund des US-Government-Shutdowns im Oktober 2025 Vergleichsdaten fehlen.
-.
-
-Hier sind wichtige finanzielle Kennzahlen und Ergebnisse, die im Zuge der gestrigen bzw. heutigen Veröffentlichungen (Stand November 2026) bekannt gegeben wurden:
-Henkel (NASDAQ:HENKY): Im 3. Quartal 2026 stieg der Konzernumsatz nominal um 11,0 % auf rund 5,7 Milliarden Euro (organisch +6,5 %).
- Die Prognose für das organische Umsatzwachstum im Gesamtjahr 2026 wurde auf 3,0 bis 4,0 % konkretisiert.
-Infineon (XETR:IFX): Das Unternehmen schloss das Geschäftsjahr 2026 (per Ende September) mit einem Rekordumsatz von 16,353 Milliarden Euro ab (Vorjahr: 14,662 Mrd. €).
- Der Gewinn kletterte um 49 % auf 1,1 Milliarden Euro.
- Für 2027 peilt Infineon rund 20 Mrd. Euro Umsatz an.
-TAG Immobilien (XETR:TEG): In den ersten neun Monaten stieg der operative Gewinn (FFO I) um 12,4 % auf 152,7 Millionen Euro (0,81 Euro je Aktie).
- Der Wohnimmobilienkonzern hob seine FFO-I-Jahresprognose für 2026 auf eine Spanne von 195 bis 200 Millionen Euro an.
-K+S (XETR:SDF): Der Umsatz im 3. Quartal stieg auf 934 Millionen Euro (Vorjahr: 879 Mio. €), gestützt durch gute Streusalzvolumina.
- Das EBITDA sank leicht auf 108 Millionen Euro.
- Die EBITDA-Prognose für das Gesamtjahr 2026 wurde auf 700 bis 750 Millionen Euro präzisiert.
-
-
-
-
-
 # Nachricht - Börse Stuttgart
 
-11.11.2026 / 09:06:59
-
-# Aktien Asien: Märkte stecken Zinssorgen gut weg
-
-(dpa-AFX) SEOUL/TOKIO/HONGKONG/SHANGHAI (dpa-AFX) - Die Aktienmärkte in Asien haben am Mittwoch zumeist weiter zugelegt. Trotz wieder aufgeflammter Zinsdiskussionen in den USA knüpften die Börsen an die gute Entwicklung vom Vortag an.
-
-SEOUL/TOKIO/HONGKONG/SHANGHAI (dpa-AFX) - Die Aktienmärkte in Asien haben am Mittwoch zumeist weiter zugelegt. Trotz wieder aufgeflammter Zinsdiskussionen in den USA knüpften die Börsen an die gute Entwicklung vom Vortag an.
-
-Die mäßigen Vorgaben der Wall Street blieben damit ohne Folgen. Hier hatten die jüngsten US-Inflationsdaten belastet. "An den Finanzmärkten wird nun spekuliert, ob die Fed nicht im Dezember den Leitzins um 50 Basispunkte anhebt" so Volkswirt Thomas Gitzel von der VP Bank. Auch die weiteren Perspektiven haben sich eingetrübt. "Dass die Fed im kommenden Jahr von weiteren Zinsanhebungen Abstand nehmen kann, wird zunehmend unwahrscheinlicher", fügte Gitzel hinzu. "Die Fed wird deshalb wohl nicht umhinkommen, ein bis zwei Zinsanhebungen im kommenden Jahr zu vollstrecken."
-
-Rückenwind bekamen die Märkte dagegen aus dem Bereich der Künstlichen Intelligenz (KI), wie die Marktstrategen der Deutschen Bank anmerkten. Hier gestaltet sich die Lage beim anstehenden Börsengangs von Anthropic günstig. "Die Suche nach Investoren läuft angesichts der jüngsten Unsicherheiten bei KI-Aktien überraschend gut und eine Bewertung von 1,4 Billionen Dollar oder mehr zeigt, dass das befürchtete Ende des Appetits der Anleger auf KI nicht eingetreten ist", stellte Marktanalyst Jochen Stanzl von der Consorsbank fest.
-
-Gute Nachrichten gab es zudem von CoreWeave . "Der Anbieter von KI-Rechenkapazitäten konnte die Befürchtungen der Investoren mit seinen Ergebnissen deutlich übertreffen und damit neue Hoffnungen auf eine Fortsetzung des KI-Investitionsbooms wecken", betonte Marktanalyst Andreas Lipkow vom Broker CMC Markets.
-
-Dies überlagerte an den technologielastigeren Börsen den Renditeanstieg von Anleihen. Der südkoreanische Kospi zog um 2,6 Prozent an. Die Marktstrategen der Deutschen Bank verwiesen auch auf den unerwartet starken Rückgang der Arbeitslosenquote in Südkorea im Oktober.
-
-Auch japanische Aktien waren gefragt. Der Nikkei 225 schloss 1,3 Prozent höher mit 61.248,59 Punkten. Der australische S&P ASX 200 verzeichnete ebenfalls Gewinne und zog zum Handelschluss um 0,27 Prozent auf 9.153,23 Punkte an.
-
-Die chinesischen Börsen präsentierten sich dagegen uneinheitlich und scherten damit einmal mehr aus der Entwicklung der Region Asien/Pazifik aus. Der CSI-300-Index mit den 300 wichtigsten Festland-Werten gewann zuletzt zwar 0,4 Prozent, der Hang-Seng-Index der Sonderverwaltungszone Hongkong gab aber um 0,9 Prozent nach./mf/mis
-
-## Wertpapiere im Kontext
-
--   [
-    
-    ### COREWEAVE INC. A DL-,0001
-    
-    #### +0,00 %
-    
-    G \-B \-
-    
-    WKN A413X6
-    
-    0 Trades
-    
-    ](/de-de/produkte/aktien/stuttgart/a413x6-coreweave-inc-a-dl--0001/)
-    
-
-## Weitere relevante Nachrichten
-
-## Aktuelle Videos
-
--   [
-    
-    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
-    
-    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
-    
-    09/11/2026 14:29
-    
-    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
--   [
-    
-    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
-    
-    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
-    
-    03/11/2026 14:42
-    
-    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
--   [
-    
-    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
-    
-    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
-    
-    27/10/2026 19:15
-    
-    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
-
-Weitere Treffer anzeigen
-
-
-# Nachricht - Börse Stuttgart
-
-11.11.2026 / 07:44:35
-
-# MORNING BRIEFING - USA/Asien
-
-(Dow Jones Newswires)
-
-\===
-
-+++++ FEIERTAGSHINWEIS +++++
-
-MITTWOCH: Am US-Anleihemarkt wird wegen des Vetarans Day nicht gehandelt.
-
-+++++ TAGESTHEMA +++++
-
-CoreWeave meldete einen höheren Verlust im dritten Quartal als im Vorjahr, traf jedoch die Konsensschätzungen, während auch der Umsatz über den Erwartungen lag. Der Anbieter von Rechenzentren für künstliche Intelligenz hob zudem seine Jahresprognose an. Im Quartal bis zum 30. September meldete CoreWeave einen Verlust von 1,27 US-Dollar pro Aktie gegenüber einem Fehlbetrag von 22 Cent im Vorjahr. Der Umsatz stieg um 168 Prozent auf 3,661 Milliarden US-Dollar. Analysten hatten pro Aktie einen Verlust von 1,27 US-Dollar bei einem Umsatz von 3,543 Milliarden US-Dollar prognostiziert. Der freie Cashflow lag 7,5 Milliarden US-Dollar im Minus, weniger als von Analysten mit 10 Milliarden US-Dollar vorausgesagt. Der Auftragsbestand kletterte gegenüber dem Vorquartal um 27 Prozent auf 132,5 Milliarden US-Dollar. Damit wurden die Schätzungen von 129 Milliarden US-Dollar übertroffen. CoreWeave erhöhte ihre Umsatzprognose für 2026 auf eine Spanne von 13 bis 13,3 Milliarden US-Dollar nach zuvor 12,4 bis 13,2 Milliarden US-Dollar. Nachbörslich kletterte der Kurs um 7,9 Prozent.
-
-+++++ AUSBLICK UNTERNEHMEN ++++++
-
-09:25 JP/Nissan Motor Co Ltd, Ergebnis 1H
-
-+++++ AUSBLICK KONJUNKTUR +++++
-
-Keine Termine angekündigt
-
-+++++ ÜBERSICHT INDIZES +++++
-
-Index                         zuletzt  +/- % 
-E-Mini-Future S&P-500        7.595,00   +0,7 
-E-Mini-Future Nasdaq-100    28.262,75   +1,5 
-S&P/ASX 200 (Sydney)         9.153,20   +0,3 
-Nikkei-225                  61.248,59   +1,3 
-Topix-500 (Tokio)            3.929,39   +0,9 
-Kospi (Seoul)                5.375,36   +2,6 
-Shanghai-Composite           3.685,33   +0,6 
-Hang-Seng-Index (Hongkong)  24.391,67   -0,7
-
-+++++ FINANZMÄRKTE +++++
-
-OSTASIEN (VERLAUF)
-
-Während Halbleiterwerte in Südkorea, Taiwan und Japan zulegen, geraten Technologieaktien in China unter Druck. Starke Geschäftszahlen und ein angehobener Umsatzausblick von CoreWeave befeuern KI-Werte in Asien und lassen eine höher als erwartet ausgefallene US-Inflation etwas in den Hintergrund treten. Denn gerade die kapitalintensiven Technologieunternehmen dürften unter höheren Zinsen leiden. Allerdings gilt eine Leitzinserhöhung in den USA um 25 Basispunkte auch ohne die aktuellen Inflationsdaten an den Märkten als ausgemachte Sache. In Südkorea dreht der Kospi nach anfänglichen Abgaben ins Plus. Halbleiterwerte führen die Gewinnerliste an: Die Schwergewichte SK Hynix und Samsung Electronics steigen um 5,3 bzw. 2,9 Prozent. Der ebenfalls technologielastige Taiex in Taiwan klettert um 2,9 Prozent. Taiwan Semiconductor Manufacturing gewinnen 4,2 Prozent. In Japan ziehen im Technologiebereich TDK um 4 Prozent an - Kioxia um 5,8 Prozent. SoftBank Group brechen zunächst über 10 Prozent ein, liegen aber aktuell 0,1 Prozent im Plus. Der Technologieinvestor hatte im jüngsten Quartal einen Verlust von 7,1 Milliarden US-Dollar verbucht. Dies war der erste Rutsch in die roten Zahlen seit fast zwei Jahren. Waren die chinesischen Technologiewerte jüngst noch von Unterstützungsmaßnahmen Pekings gestützt wurden, geben sie nun belasten von den hohen US-Inflationsdaten und Zinserhöhungsspekulationen nach. Dazu gesellt sich Unsicherheit über die US-chinesische Technologiepolitik vor dem Gipfeltreffen zwischen US-Präsident Donald Trump und seinem Gegenpart Xi Jinping am 18. und 19. November. NetEase büßen 1,3 Prozent ein, Meituan 3,2 Prozent.
-
-WALL STREET
-
-                 zuletzt  +/- %        +/- abs.  Schluss Vortag 
-DJIA           52.052,36   -0,6         -337,39       52.389,75 
-S&P-500         7.472,71   -1,0          -77,23        7.549,94 
-NASDAQ Comp    24.826,96   -1,7         -426,18       25.253,14 
-NASDAQ 100     27.430,61   -1,7         -477,02       27.907,63 
- 
-                     Dienstag   Montag 
-Umsatz NYSE (Aktien) 1,25 Mrd   1,42 Mrd 
-Gewinner                  938      2.206 
-Verlierer               1.817        538 
-Unverändert                56         63
-
-Etwas leichter - Für ein Ende der jüngsten Erholungsbewegung sorgte eine im Oktober etwas höher als erwartet ausgefallene US-Inflation. Am Anleihemarkt zogen darauf die Renditen stark an. Für Rückenwind sorgten zwar weiter gesunkene Ölpreise. Dieser flaute aber im Handelsverlauf ab. Gleichwohl machten die Aktienkurse im späten Handel einen Teil ihrer Verluste wett. Bei Technologieaktien neigten Teilnehmer zu Gewinnmitnahmen, denn nach dem Kurseinbruch in der Vorwoche hatten viele Aktien einen Großteil wieder aufgeholt. Der Markt versuchte weiter einzuschätzen, ob die Demokraten tatsächlich große Rechenzentrumsprojekte und damit die KI-Entwicklung bremsen könnten. Bei den Halbleiteraktien schlossen AMD 1,3 Prozent höher. Intel fielen um 2,1 und Micron um 1,1 Prozent. Nvidia (-5,5%) litten weiter unter der Untersuchung gegen CEO Jensen Huang. GE Vernova, das Unternehmen gilt als Profiteur der Errichtung von Rechenzentren, knickten um 3,9 Prozent ein. Die japanische Softbank Group rutschte in ihren ersten Quartalsverlust seit fast zwei Jahren, wobei das Ergebnis unter anderem durch Verluste im Zusammenhang mit Ausrüstungen für US-Rechenzentrumsprojekte belastet wurde.
-
-USA - ANLEIHEN
-
-US-Treasuries  Rendite    +/- 
-2 Jahre           4,73  +0,18 
-10 Jahre          4,98  +0,12
-
-Die Renditen machten einen großen Satz nach oben in Reaktion auf eine höher als erwartet ausgefallene Inflation im Oktober. Am Zinsterminmarkt hatte die Wahrscheinlichkeit für 25 Basispunkte höhere Zinsen im Dezember bereits vor den Inflationsdaten bei 99 Prozent gelegen. Zuletzt lag sie zwar bei nur noch 89 Prozent, dafür wird nun aber eine Wahrscheinlichkeit von gut 11 Prozent dafür gesehen, dass im Dezember auch eine Erhöhung um 50 Basispunkte kommen könnte. Ins Bild passte, dass Notenbankgouverneur Christopher Waller empfohlen hatte, für Dezember eine große Zinserhöhung um einen halben Prozentpunkt in Betracht zu ziehen.
-
-+++++ DEVISENMARKT +++++
-
-DEVISEN                  zuletzt  +/- %      00:00       Di, 08:30  % YTD 
-EUR/USD                   1,1152   -0,1     1,1163          1,1236   -5,1 
-EUR/JPY                   177,18   -0,0     177,20          177,49   -3,7 
-EUR/GBP                   0,8364   +0,0     0,8362          0,8350   -4,0 
-USD/JPY                   158,85   +0,1     158,73          157,95   +1,4 
-USD/KRW                 1.333,70   -0,6   1.342,15        1.335,31   -7,4 
-USD/CNY                   6,6752   +0,1     6,6703          6,6693   -4,6 
-USD/CNH                   6,6742   -0,0     6,6763          6,6671   -4,3 
-USD/HKD                   7,8446   -0,0     7,8451          7,8437   +0,8 
-AUD/USD                   0,6872   +0,1     0,6865          0,6924   +3,0 
-NZD/USD                   0,5602    0,0     0,5602          0,5640   -2,7 
-BTC/USD                73.722,65   -0,1  73.772,30       74.748,99  -15,9
-
-Der Dollar zog mit der Aussicht auf höhere Zinsen kräftig an und machte fast alle Einbußen vom Vortag wieder wett. Der Dollar-Index kletterte um 0,5 Prozent. Der Euro kam auf rund 1,1160 Dollar zurück.
-
-+++++ ROHSTOFFE +++++
-
-METALLE
-
-Metalle                  zuletzt  +/- %   +/- abs.  Schluss Vortag 
-Gold                    4.055,02   +0,6      24,09        4.030,93 
-Silber                     52,96   +2,8       1,45           51,51 
-Platin                  1.571,21   +2,0      30,88        1.540,33
-
-Der Goldpreis fiel um 2,6 Prozent auf 4.031 Dollar je Feinunze. Er litt unter dem festeren Dollar, vor allem aber der Aussicht auf höhere Zinsen, die das zinslose Edelmetall als Anlage weniger attraktiv machten.
-
-ÖL
-
-ROHÖL                    zuletzt  +/- %   +/- abs.  Schluss Vortag 
-WTI/Nymex                  86,62   +0,7       0,58           86,04 
-Brent/ICE                  92,60   +1,2       1,11           91,49
-
-Die Ölpreise fielen weiter. Allerdings kostete Brent-Öl nach einem Tagestief unter 90 Dollar zuletzt wieder 91,49 Dollar - 1,2 Prozent weniger als am Vortag. Hintergrund waren andauernde diplomatische Verhandlungen und Aussagen von US-Präsident Donald Trump, den Krieg mit dem Iran beenden zu wollen.
-
-+++++ MELDUNGEN SEIT DIENSTAG 20.00 UHR +++++
-
-US-INNENPOLITIK
-
-US-Verteidigungsminister Pete Hegseth hat einen Versuch zu seiner Amtsenthebung im Repräsentantenhaus abgewehrt. Das Repräsentantenhaus stimmte dafür, die vom republikanischen Abgeordneten Thomas Massie eingebrachten Anklagepunkte zur weiteren Beratung an den Justizausschuss zurückzuverweisen. Damit ist der Vorstoß vorerst blockiert. Es wird erwartet, dass die Demokraten im Repräsentantenhaus den Versuch wieder aufgreifen werden, sobald sie im Januar die Kontrolle über den Kongress übernehmen.
-
-US-GELDPOLITIK
-
-Die Gouverneurin der US-Notenbank, Michelle Bowman, sagte, es gebe noch Arbeit zu tun, um die Inflation näher an die Marke von 2 Prozent zu bringen. Der Preisdruck halte an und die Bedingungen auf dem Arbeitsmarkt schienen sich zu festigen.
-
-Der Leitzins der US-Notenbank ist derzeit "ziemlich akkommodierend", so der Präsident der Kansas City Fed, Jeff Schmid. Er schloss sich damit einem Chor von Vertretern an, die andeuten, dass Zinserhöhungen bevorstehen.
-
-Die Präsidentin der US-Notenbank von Philadelphia, Anna Paulson, plädiert für ein schrittweises Vorgehen bei Zinserhöhungen, während die Zentralbank versucht, die Inflation unter Kontrolle zu bringen. "Es gibt Haushalten, Unternehmen und dem Finanzsektor Zeit, sich anzupassen", sagte Paulson.
-
-CBA
-
-(MORE TO FOLLOW) Dow Jones Newswires
-
-November 11, 2026 01:44 ET (06:44 GMT)
-
-## Weitere relevante Nachrichten
-
-## Aktuelle Videos
-
--   [
-    
-    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
-    
-    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
-    
-    09/11/2026 14:29
-    
-    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
--   [
-    
-    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
-    
-    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
-    
-    03/11/2026 14:42
-    
-    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
--   [
-    
-    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
-    
-    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
-    
-    27/10/2026 19:15
-    
-    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
-
-Weitere Treffer anzeigen
-
-
-
-# Nachricht - Börse Stuttgart
-
-11.11.2026 / 07:44:35
-
-# MORNING BRIEFING - USA/Asien -2-
-
-(Dow Jones Newswires)
-
-Die Commonwealth Bank of Australia hat ihren Barüberschuss im ersten Quartal im Vergleich zum Vorjahr um 8 Prozent gesteigert. Der ungeprüfte Netto-Barüberschuss in den drei Monaten bis September belief sich auf 2,8 Milliarden Australische Dollar. Dies entsprach dem gesetzlichen Gewinn für denselben Zeitraum. Die Bank erklärte, der Barüberschuss habe auf dem Niveau des Quartalsdurchschnitts des letzten Halbjahres des Geschäftsjahres 2026 gelegen. Die zugrunde liegende Nettozinsmarge im Quartal wurde weitgehend stabil gehalten. Die harte Kernkapitalquote verbesserte sich vor Berücksichtigung der Dividendenausschüttung an die Aktionäre um 36 Basispunkte auf 11,5 Prozent.
-
-SOFTBANK GROUP
-
-Der globale Technologieinvestor signalisiert, sein aggressives Streben nach Gewinnen aus der Künstlichen Intelligenz (KI) zu zügeln. Zuvor hatte das Unternehmen im jüngsten Quartal einen Verlust von 7,1 Milliarden US-Dollar verbucht. Dies war der erste Rutsch in die roten Zahlen seit fast zwei Jahren. Ein Großteil des Verlusts war auf Belastungen in Höhe von 3,7 Milliarden Dollar zurückzuführen. Diese verbuchte SoftBank auf Ausrüstungen für die Stromerzeugung bei KI-Rechenzentrumsprojekten in den USA. Hinzu kam ein Kursrückgang bei der Aktie von Unternehmen wie dem südkoreanischen E-Commerce-Anbieter Coupang.
-
-TSMC
-
-Der weltgrößte Auftragschiphersteller hat Pläne für Investitionen von bis zu 1 Milliarde US-Dollar in Anthropic und OpenAI gebilligt. Der Board von Taiwan Semiconductor Manufacturing genehmigte Investitionen von jeweils bis zu 500 Millionen Dollar in Stammaktien von Anthropic zum Ausgabepreis sowie in Vorzugsaktien von OpenAI. Analysten mahnen, dass die Grenzen zwischen Investoren, Lieferanten und Kunden im KI-Sektor zunehmend verschwämmen. Dies erschwere die Beurteilung der tatsächlichen Nachfrage.
-
-IPO / ALIBABA / T-HEAD
-
-Die Alibaba Group bereitet die Notierung ihrer Chip-Sparte in Hongkong vor. Dies stellt einen entscheidenden Moment im Rahmen ihrer milliardenschweren Vorstöße in den Bereich der Künstlichen Intelligenz (KI) dar. In dem Börsengang, der noch der Genehmigung der chinesischen Wertpapieraufsichtsbehörden bedarf, könnte T-Head Schätzungen von Nomura zufolge mit 85 Milliarden US-Dollar bewertet werden.
-
-OPEN AI
-
-hat ihren Umsatz vom zweiten auf das dritte Quartal um rund 50 Prozent auf 10 Milliarden US-Dollar gesteigert, verzeichnete jedoch weiterhin hohe operative Verluste.
-
-\===
-
-HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
-
-Kontakt zum Autor: maerkte.de@dowjones.com
-
-DJG/gos/cln/flf
-
-(END) Dow Jones Newswires
-
-November 11, 2026 01:44 ET (06:44 GMT)
-
-## Weitere relevante Nachrichten
-
-## Aktuelle Videos
-
--   [
-    
-    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
-    
-    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
-    
-    09/11/2026 14:29
-    
-    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
--   [
-    
-    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
-    
-    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
-    
-    03/11/2026 14:42
-    
-    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
--   [
-    
-    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
-    
-    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
-    
-    27/10/2026 19:15
-    
-    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
-
-Weitere Treffer anzeigen
-
-
-
-# Nachricht - Börse Stuttgart
-
-11.11.2026 / 07:36:28
+18.11.2026 / 07:49:08
 
 # MORNING BRIEFING - Deutschland/Europa
 
@@ -391,136 +8,115 @@ Weitere Treffer anzeigen
 
 \===
 
-+++++ FEIERTAGSHINWEIS +++++
-
-MITTWOCH: Am US-Anleihemarkt wird wegen des Vetarans Day nicht gehandelt.
-
 +++++ TAGESTHEMA +++++
 
-Die Aktionäre von Siemens Energy können sich über einen weiteren Aktienrückkauf freuen. Bis zum Ende des Geschäftsjahres 2029/30 will der DAX-Konzern Aktien im Wert von bis zu 9 Milliarden Euro zurückkaufen, zusätzlich zu dem laufenden Programm über bis zu 6 Milliarden Euro.
+Nvidia hat am Dienstag robuste Quartalsergebnisse vorgelegt und die Erwartungen der Wall Street deutlich übertroffen - inmitten eines Skandals, der das Unternehmen erschüttert, seinen prominenten Vorstandsvorsitzenden zu Fall gebracht und Märkte weltweit verunsichert hat. Nvidia verzeichnete ein weiteres Quartal mit Rekordumsätzen von 115,8 Milliarden Dollar. Dies liegt 6,3 Prozent über den von Factset befragten Analysten prognostizierten 108,9 Milliarden Dollar und entspricht mehr als einer Verdopplung gegenüber dem Vorjahresquartal. Der Nettogewinn stieg auf 65,3 Milliarden Dollar und übertraf ebenfalls die Erwartungen. Im wichtigsten Segment, dem Geschäft mit Rechenzentren, erzielte Nvidia einen Umsatz von 107,6 Milliarden Dollar, was einem Anstieg von 110 Prozent Vorjahr entspricht. Nvidia prognostiziert für das laufende Quartal einen Umsatz von 130 Milliarden Dollar, etwa 4 Prozent mehr als die Schätzungen der Wall Street.
 
-Im abgelaufenen Geschäftsjahr hat Siemens Energy wie geplant die Gewinnschwelle erreicht. Mit starken Steigerungen bei Gasturbinen und Netztechnik wurden die selbst gesteckten Konzernziele erfüllt oder sogar übertroffen. In den nächsten vier Jahren soll der Energietechnikkonzern nun auf Rendite getrimmt und das Wachstum verstetigt werden. Siemens Energy setzte sich dazu neue Mittelfristziele. Sie sehen für die Jahre bis 2030 jeweils ein durchschnittliches Wachstum von 12 bis 14 Prozent vor und für 2030 eine bereinigte Ergebnismarge von 20 bis 22 Prozent. Damit legt Konzernchef Christian Bruch die Latte sehr deutlich nach oben. Das abgelaufene Geschäftsjahr beendete der DAX-Konzern mit einer Marge von 12,4 Prozent - mehr als das Doppelte des Vorjahreswertes und 40 Basispunkte über dem oberen Ende der Zielspanne.
+Die Anleger richten ihr Augenmerk jedoch voll und ganz darauf, wie Nvidia ohne Jensen Huang agieren könnte und stellen sich Fragen wie, ob das rasante Umsatzwachstum anhalten wird und was mit den Finanzierungsgeschäften im Wert von Hunderten von Milliarden Dollar geschieht, die Nvidia in den vergangenen Jahren mit Partnern und Kunden abgeschlossen hat. Die Frage ist, ob Interims-CEO Colette Kress die Sorgen der Wall Street über die wachsenden Probleme von Nvidia in Washington zerstreuen und die Investoren davon überzeugen wird können, dass die Zukunft stabil sein wird und ob Betreiber von Rechenzentren angesichts der Unsicherheit einer Partnerschaft mit Nvidia Vereinbarungen mit den Rivalen Advanced Micro Devices oder Alphabets Google bevorzugen. "Unsere Dynamik ist real", teilte Kress mit. "Nvidia ist ein außergewöhnlicher Technologieführer, angetrieben von der unermüdlichen Innovation unserer Mitarbeiter." Der Produktfahrplan des Unternehmens liege im Plan.
 
-Die Zahlen zum vierten Geschäftsquartal im Detail (in Millionen Euro, Ergebnis je Aktie in Euro, Marge in Prozent, nach IFRS):
-
-.                                BERICHTET    PROG  PROG 
-4. QUARTAL                   4Q25/26  ggVj 4Q25/26  ggVj 4Q24/25 
-Auftragseingang Konzern       14.818   +4%  15.474   +9%  14.214 
--Gas Services                  5.260  +10%   6.143  +29%   4.769 
--Grid Technologies             5.651  -18%   5.965  -13%   6.880 
--Transformation of Industry    1.705   +5%   1.625 -0,2%   1.629 
--Siemens Gamesa                2.405 +114%   1.939  +73%   1.123 
-Umsatz Konzern                12.826  +23%  12.563  +20%  10.428 
--Gas Services                  4.172  +35%   3.776  +22%   3.094 
--Grid Technologies             4.362  +39%   4.271  +36%   3.145 
--Transformation of Industry    1.596   -1%   1.742   +8%   1.614 
--Siemens Gamesa                2.939   +7%   2.896   +6%   2.744 
-Ergebnis bereinigt Konzern     1.540 +227%   1.472 +213%     471 
--Gas Services                    669 +167%     511 +104%     251 
--Grid Technologies               876  +89%     878  +90%     463 
--Transformation of Industry      164   -7%     208  +18%     177 
--Siemens Gamesa                   23    --      72    --    -303 
-Ergebnis-Marge bereinigt        12,0    --    11,7    --     4,5 
-Ergebnis nach Steuern/Dritten  1.257 +648%   1.166 +594%     168 
-Ergebnis je Aktie               1,49 +684%    1,38 +626%    0,19
+Nachbörslich ging es für die Nvidia-Aktie auf Nasdaq.com nach den Verlusten der Vortage um 1,4 Prozent nach oben.
 
 +++++ AUSBLICK UNTERNEHMEN +++++
 
-FREENET (18:00)
+10:00 DE/Drägerwerk AG & Co KGaA, Kapitalmarkttag
 
-Nachfolgend die Konsensschätzungen für das dritte Geschäftsquartal (in Millionen Euro, Ergebnis je Aktie in Euro):
+13:00 CN/Tencent Holdings Ltd, Ergebnis 3Q
 
-                                  PROG  PROG  PROG 
-3. QUARTAL                        3Q26  ggVj  Zahl   3Q25 
-Umsatz                             772  +26%     9    615 
-EBITDA                             126  -17%     4    152 
-EBITDA bereinigt                   130   -6%     9    138 
-Ergebnis nach Steuern/Dritten       65  -18%     4     80 
-Ergebnis je Aktie unverwässert    0,55  -19%     4   0,68 
-Freier Cashflow                     66   -2%     7     67
+Im Laufe des Tages
 
-Weitere Termine:
+\- US/Anthropic, Bekanntgabe Ausgabepreis f. Börsengang
 
-06:50 LU/Grand City Properties SA, Ergebnis 3Q
-
-07:00 DE/KWS Saat SE & Co KGaA, Ergebnis 3Q
-
-07:00 NL/ABN Amro Holding NV, Ergebnis 3Q
-
-07:30 AT/Voestalpine AG, Ergebnis 2Q (10:00 PK)
-
-07:30 DE/Vincorion SE, Ergebnis 3Q
-
-07:30 DK/Vestas Wind Systems A/S, Ergebnis 3Q
-
-08:30 DE/Einhell Germany AG, Ergebnis 9 Monate
-
-09:25 JP/Nissan Motor Co Ltd, Ergebnis 1H
-
-Im Lauf des Tages:
-
-\- BG/Shelly Group SE, Ergebnis 3Q (9:30 Analystenkonferenz)
+\- NL/MFE Mediaforeurope NV, Ergebnis 9 Monate
 
 +++++ AUSBLICK KONJUNKTUR +++++
 
-\- DE 
-    08:00 Verbraucherpreise (endgültig) Oktober 
-          PROGNOSE:  -0,2% gg Vm/+2,8% gg Vj 
-          vorläufig: -0,2% gg Vm/+2,8% gg Vj 
-          zuvor:     +0,6% gg Vm/+3,3% gg Vj 
-          HVPI 
-          PROGNOSE:  -0,1% gg Vm/+2,8% gg Vj 
-          vorläufig: -0,1% gg Vm/+2,8% gg Vj 
-          zuvor:     +0,6% gg Vm/+3,3% gg Vj 
+\- GB 
+    08:00 Erzeugerpreise Oktober 
+          Output-Basis 
+          PROGNOSE: k.A. 
+          zuvor:    +0,7% gg Vm/+4,6% gg Vj 
  
-    08:00 Inlandstourismus September
+    08:00 Verbraucherpreise Oktober 
+          PROGNOSE: +0,5% gg Vm/+3,6% gg Vj 
+          zuvor:    +0,4% gg Vm/+3,5% gg Vj 
+          Kern 
+          PROGNOSE: k.A.       /+2,8% gg Vj 
+          zuvor:    +0,2% gg Vm/+2,8% gg Vj 
+- EU 
+    11:00 Verbraucherpreise Oktober 
+          Eurozone 
+          PROGNOSE:       +0,4% gg Vm/+4,0% gg Vj 
+          Vorabschätzung: +0,4% gg Vm/+4,0% gg Vj 
+          zuvor:          +0,6% gg Vm/+3,8% gg Vj 
+          Kernrate (ohne Energie, Nahrung, Alkohol, Tabak) 
+          PROGNOSE:       +0,3% gg Vm/+2,5% gg Vj 
+          Vorabschätzung: +0,3% gg Vm/+2,5% gg Vj 
+          zuvor:          +0,2% gg Vm/+2,5% gg Vj 
+- US 
+    14:30 Baubeginne/-genehmigungen Oktober 
+          Baubeginne 
+          PROGNOSE: +2,4% gg Vm 
+          zuvor:    -5,2% gg Vm 
+          Baugenehmigungen 
+          PROGNOSE: -1,4% gg Vm 
+          zuvor:    -0,2% gg Vm
 
 +++++ ÜBERSICHT FUTURES / INDIZES +++++
 
 Aktuell: 
-Index                       zuletzt  +/- % 
-DAX Futures               26.650,00   +0,7 
-E-Mini-Future S&P-500      7.591,75   +0,6 
-E-Mini-Future Nasdaq-100  28.254,25   +1,5 
-Topix (Tokio)              3.929,39   +0,9 
-Hang-Seng (Hongk.)        24.392,06   -0,7 
-Shanghai-Comp.             3.686,98   +0,6 
+                            zuletzt  +/- % 
+DAX Futures               26.104,00   -0,2 
+E-Mini-Future S&P-500      7.378,00   +0,3 
+E-Mini-Future Nasdaq-100  27.244,00   +0,6 
+Topix (Tokio)              3.824,00   -0,4 
+Hang-Seng (Hongk.)        23.247,96   -1,1 
+Shanghai-Comp.             3.585,54   +0,0 
+ 
  
 Dienstag: 
 INDEX               Schluss  +/- % 
-DAX               26.347,45   +0,3 
-DAX-Future        26.489,00   +0,5 
-MDAX              31.034,35   -0,1 
-TecDAX             4.031,49   -0,4 
-SDAX              18.040,42   +0,3 
-Euro-Stoxx-50      6.327,87   +0,6 
-Stoxx-50           5.463,95   +0,3 
-XDAX              26.524,81   +0,7 
-Dow-Jones         52.231,89   -0,3 
-S&P-500            7.520,93   -0,4 
-Nasdaq Composite  25.065,87   -0,7
+DAX               26.045,37   -2,1 
+DAX-Future        26.132,00   -2,2 
+MDAX              30.147,34   -1,3 
+TecDAX             3.990,04   -1,9 
+SDAX              17.512,37   -1,4 
+Euro-Stoxx-50      6.212,11   -2,2 
+Stoxx-50           5.400,70   -2,0 
+XDAX              26.062,16   -0,4 
+Dow-Jones         50.759,42   -1,6 
+S&P-500            7.340,62   -1,0 
+Nasdaq Composite  27.001,78   -0,7
 
 +++++ FINANZMÄRKTE +++++
 
 EUROPA
 
-Ausblick: Etwas erholt werden Europas Börsen am Mittwoch erwartet. Nach der Schreckreaktion auf die US-Inflation am Vortag dürfte wieder eine nüchterne Sektorrotation einkehren. So war bereits in den USA am Vorabend ein Trend zu eher konsumnahen Aktien mit Blick auf Black Friday und Weihnachten zu beobachten, hieß es. Bei Technologie-Aktien wurde indes sehr selektiv zugegriffen. Hier bremsen die hauseigenen Probleme bei Nvidia, die die Aktien um über 5 Prozent ins Minus schickten. Die Hauptsorge des Marktes ist allerdings die Inflation: Die US-Verbraucherpreise (CPI) sprangen am Vortag deutlich stärker als befürchtet an, was am Anleihemarkt die Renditen nach oben trieb. In Deutschland wird zunächst auf einige Quartalszahlen geblickt, so von Brenntag, Eon und RWE. Die Zahlen von Siemens Energy stehen besonders im Fokus; das Unternehmen gilt als Gewinner der KI-Investitionen in Infrastruktur.
+Ausblick: Mit einem volatilen Geschäft rechnen Händler am Mittwoch. Die Märkte dürften zwar positiv auf die nachbörslichen Zahlen von Nvidia und die Aussagen der Interimschefin reagieren, dies dürfte sich jedoch erst mit dem US-Handelsstart auf Europa deutlicher auswirken, meint ein Teilnehmer. Die Rekordzahlen des KI-Vorzeigeunternehmens spielten eine geringere Rolle als sonst, weil Nvidias Ex-Chef Jensen Huang auch als Financier des KI-Booms über Nvidia hinaus galt. Wichtiger seien die Aussagen der neuen Interims-CEO Colete Kress, nach denen man aber auch nicht viel schlauer sei als zuvor. Kress sagte unter anderem, Nvidia werfe "einen genauen Blick auf die Arten von Unternehmen", bei deren Finanzierung man helfen wolle. Entspannung gibt es am Anleihemarkt, nachdem der Präsident der Fed in New York, John Williams, sagte, er glaube nicht, dass die Inflationslage einen großen Zinsschritt erfordere. Klar im Fokus steht nun der Börsengang von Anthropic am Donnerstag. Je nachdem wie er ausfällt, könnte er einen neuen KI-Boom auslösen. Die Aktie soll sechsfach überzeichnet sein und Anthropic erwägen, den Ausgabepreis zu erhöhen. Er soll im Laufe des Tages mitgeteilt werden.
 
-Rückblick: Freundlich - Rückenwind kam weiter vom Ölpreis. Der gab erneut nach, wenngleich sich die Abgaben im Tagesverlauf verringerten. Zeitweise kostete das Barrel Brent weniger als 90 Dollar, was zuletzt Ende August der Fall war. Die Tageshochs bei den Aktienindizes konnten nicht gehalten werden, weil eine unerwartet hohe US-Inflation im Nachmittagshandel Zinserhöhungsspekulationen in den USA ausgelöst hatte. Das sorgte auch in Europa für anziehende Zinsen am Anleihemarkt und dämpfte die Stimmung für Aktien. Technologiewerte setzten ihre Erholung vom Kurseinbruch in der Vorwoche fort. Der Subindex gewann 0,5 Prozent. Manche Marktteilnehmer dürften inzwischen den Sieg der Demokraten bei der US-Zwischenwahl mit den mutmaßlich negativen Folgen für das KI-Geschäft entspannter sehen, hieß es. Infineon rechnet für das neue Geschäftsjahr mit deutlich höheren Umsätzen mit Stromversorgungslösungen für Rechenzentren und ist optimistisch, dass sich das zuletzt starke Wachstum im KI-Geschäft weiter fortsetzen wird. Der Aktienmarkt quittierte das mit einem Kursplus von 0,9 Prozent. Zwischenzeitlich hatten Infineon aber auch schon einiges deutlicher zugelegt. Aber auch andere Halbleiteraktien waren gesucht. BE Semiconductor legten um 2,6 Prozent zu, STMicro um 1,2 Prozent. Rüstungsaktien setzten ihre Erholung ebenfalls fort. Neben den KI-Werten waren sie in der Vorwoche als Hauptverlierer des Wahlsiegs der Demokraten in den USA gesehen worden. Nach dem Plus des Branchenindex von über 4 Prozent am Montag legte dieser um weitere 1,2 Prozent zu und war damit der Tagessieger. Vodafone zeigten sich mit einem Minus von 1,0 Prozent, nachdem der Telekomkonzern die Prognose für das Gesamtjahr angehoben hatte. Vodafone sprach aber auch von Schwächen in der deutschen Sparte.
+Rückblick: Sehr schwach - Händler sprachen von einer Gemengelage an Belastungsfaktoren, allen voran Unsicherheiten für die Technologiebranche durch die Turbulenzen bei Nvidia aber auch neuerliche Handelsbarrieren seitens der USA für den Export von Hochleistungschips. Der Stoxx-600-Technologieindex war mit einem Minus von 3,9 Prozent klar der größte Verlierer, auch weil Anleger im Vorfeld der mutmaßlich richtungweisenden Nvidia-Quartalszahlen am späten Abend Sicherheit walten ließen und eher Aktien verkauften. Dazu wurden die anhaltenden Zinserhöhungserwartungen in den USA als Belastungsfaktor genannt. Zurich Insurance gaben um 1,0 Prozent nach. Dass der Versicherer nach der Übernahme des Cyber-Versicherers Beazley nun mit 1,8 statt 1,0 Milliarden Dollar Kapitalsynergien rechnet, ging in der allgemein schlechten Stimmung für Aktien unter. Imperial Brands streicht in den kommenden Jahren bis zu 4.600 Arbeitsplätze, zudem meldete der Tabakkonzern einen Umsatzrückgang infolge sinkender Tabakabsatzmengen. Die Aktie verlor 2,0 Prozent. Im Sog gaben BAT sogar um 3,9 Prozent nach.
 
 DAX/MDAX/SDAX/TECDAX
 
-Etwas fester - Tagessieger im DAX war die Henkel-Aktie. Sie machte nach der Vorlage finaler Quartalszahlen, die ein starkes Wachstum zeigten, einen Satz um 4,4 Prozent. Trotz steigend erwarteter Materialkosten bestätigte der Persilhersteller zugleich seine Jahresziele mit einer Umsatzrendite von rund 15 Prozent. Siemens Energy kamen nach der sehr starken Erholung am Vortag deutlich um 3,4 Prozent zurück, einen Tag vor Veröffentlichung von Quartalszahlen. Belastet haben könnte hier, dass der japanische Technologieinvestor Softbank Group über hohe Abschreibungen auf Vorauszahlungen für Ausrüstung zur Stromversorgung von US-Rechenzentrumsprojekten berichtet hatte. Dies könnte Zweifel an der Dynamik des Ausbaus der KI-Infrastruktur geweckt haben. Siemens Energy profitiert in den USA erheblich von diesem Ausbau, insbesondere durch die Nachfrage nach Gasturbinen und Netzausrüstung. Elmos Semiconductor fielen nach Vorlage von Geschäftszahlen um 6,3 Prozent zurück. Das Unternehmen erzielte zwar zweistellige Zuwächse bei Umsatz und operativem Ergebnis, die Prognose für das Gesamtjahr bestätigte Elmos aber lediglich. Der Düngemittelhersteller K+S verdiente vornehmlich wegen höherer Logistik- und Energiekosten weniger und erhöhte den Mittelpunkt seiner Jahresgewinnprognose leicht. Höhere Preise sowie deutlich höhere Absatzmengen bei Auftausalzen trieben zwar den Umsatz an, konnten negative Kosteneffekte im Zusammenhang mit dem Nahostkonflikt aber nicht auffangen. Für die Aktie ging es um 4,5 Prozent nach unten.
+Sehr schwach - Deutsche Bank sorgten mit einem Minus von 6,0 Prozent für Druck auf den DAX. Auf den Kurs drückte, dass durch Whistleblower mehr als 15 Millionen interne Dokumente verschiedenen Medien zugespielt wurden, was für einen Vertrauensverlust sorgte, der die Bank mutmaßlich Geschäft kosten könnte. Unter anderem soll die Bank um russische Oligarchen geworben, und langjährige Geschäftsbeziehungen zum Straftäter Jeffrey Epstein sowie dem aktuellen US-Präsidenten Donald Trump gepflegt haben. Evonik stiegen um 4,2 Prozent nach Presseberichten, dass ein verbessertes Angebot von BASF bevorstehen soll. BASF gaben um 2,8 Prozent nach. Für Gea ging es um 1,4 Prozent nach unten, nachdem der Anlagenbauer eine potenziell gewinnverwässernde Begebung einer Wandelanleihe angekündigt hatte. Der sich weiter abschwächende TV-Werbemarkt macht der RTL Group zu schaffen. Die Bertelsmann-Tochter geht deswegen nur noch davon aus, das untere Ende der Prognosespannen für Umsatz und operatives Ergebnis im Gesamtjahr zu erreichen. Im Streaming-Geschäft läuft es dafür besser. Der Kurs gab um 0,3 Prozent nach. Das Streaming-Geschäft lief besser. Springer Nature gingen nach Anfangsgewinnen in Reaktion auf gut ausgefallene Quartalszahlen 2,9 Prozent schwächer aus dem Handel.
 
 XETRA-NACHBÖRSE
 
-Siemens Energy wurden nachbörslich 1,7 Prozent höher getaxt, nachdem das Unternehmen zusätzliche Aktienrückkäufe angekündigt hatte.
+OHB zeigten sich auf Tradegate kaum verändert auf die Nachricht, dass eine Tochter einen 102 Millionen Euro schweren Auftrag von der Europäischen Weltraumorganisation erhalten hat. SMAG Antenna sackten nach einer Gewinnwarung am Abend um 10 Prozent ab.
 
 USA - AKTIEN
 
+Schwächer - Nach dem Vortagesabsturz blieb die Wall Street auf Talfahrt, allerdings schlossen die Indizes klar über den Tagestiefs. Die Querelen um Nividia nach dem Rücktritt von CEO Jensen Huang, der zugleich als Financier des KI-Booms gilt, und die nach Börsenschluss anstehenden Geschäftszahlen des KI-Flaggschiffs hätten viele Akteure vorsichtig agieren lassen, hieß es. Die eingetrübte Stimmung für KI- und Technologieaktien schwappte dazu auch auf andere Branchen über. Dazu trugen auch neue US-Handelsbarrieren für den Export von Halbleitern bei, mit dem Ziel, Chinas Zugriff auf fortschrittliche KI-Rechenleistung einzudämmen. Dies könne allgemein die US-chinesischren Handelsbeziehungen wieder verschlechtern, hieß es. Nvidia gaben um 0,4 Prozent nach. Intel büßten 0,5 Prozent ein, AMD 0,2. Home Depot verloren nach gut ausgefallenen Quartalszahlern und der Mitteilung, dass der zuletzt erkrankte CEO zurücktritt, 2,4 Prozent, Walt Disney stiegen nach besser als erwartet ausgefallenen Quartalszahlen zunächst, gingen aber letztlich 1,5 Prozent schwächer aus dem Tag. Der Unterhaltungskonzern hatte außerdem höhere Ausgaben signalisiert.
+
+USA - ANLEIHEN
+
+           Rendite    +/-  Tageshoch  Tagestief 
+2 Jahre       4,80  -0,03       4,86       4,78 
+5 Jahre       4,91  -0,03       4,97       4,89 
+10 Jahre      5,11  -0,01       5,15       5,09
+
 (MORE TO FOLLOW) Dow Jones Newswires
 
-November 11, 2026 01:36 ET (06:36 GMT)
+November 18, 2026 01:49 ET (06:49 GMT)
 
 ## Aktuelle Videos
 
@@ -566,189 +162,80 @@ November 11, 2026 01:36 ET (06:36 GMT)
 
 Weitere Treffer anzeigen
 
-
-
 # Nachricht - Börse Stuttgart
 
-11.11.2026 / 07:36:28
+18.11.2026 / 07:49:08
 
 # MORNING BRIEFING - Deutschland/Europa -2-
 
 (Dow Jones Newswires)
 
-Etwas leichter - Für ein Ende der jüngsten Erholungsbewegung sorgte eine im Oktober etwas höher als erwartet ausgefallen US-Inflation. Am Anleihemarkt zogen darauf die Renditen stark an. Für Rückenwind sorgten zwar weiter sinkende Ölpreise. Er flaute aber im Handelsverlauf ab. Gleichwohl machten die Aktienkurse im späten Handel einen Teil ihrer Verluste wett. Bei Technologieaktien neigten Teilnehmer zu Gewinnmitnahmen, denn nach dem Kurseinbruch in der Vorwoche hatten viele Aktien einen Großteil am Freitag und am Montag schon wieder aufgeholt. Der Markt versucht weiter einzuschätzen, ob die Demokraten tatsächlich große Rechenzentrumsprojekte und damit die KI-Entwicklung bremsen könnten. Diese Spekulation hatte in der Vorwoche eine Verkaufswelle bei KI-Aktien losgetreten. Bei den Halbleiteraktien drehten AMD ins Plus und schlossen 1,3 Prozent höher. Intel fielen um 2,1 und Micron um 1,1 Prozent. Nachdem Nvidia nach der Ankündigung einer unabhängigen Untersuchung gegen CEO Jensen Huang am Montag um mehr als 4 Prozent nachgegeben hatten, ging es um weitere 5,5 Prozent nach unten. Huang gestand eine romantische Beziehung mit einer Geschäftsfrau ein, die angeblich eine Spionin für China war. Das schürte Spekulationen über eine Ablösung des charismatischen Firmenchefs. Die Aktie von GE Vernova, das Unternehmen gilt als Profiteur der Errichtung von Rechenzentren, knickte um 3,9 Prozent ein. Die japanische Softbank Group rutschte in ihren ersten Quartalsverlust seit fast zwei Jahren, wobei das Ergebnis unter anderem durch Verluste in Höhe von 3,7 Milliarden Dollar im Zusammenhang mit Ausrüstungen für US-Rechenzentrumsprojekte belastet wurde.
-
-USA - ANLEIHEN
-
-US-Treasuries  Rendite    +/- 
-2 Jahre           4,73  +0,18 
-10 Jahre          4,98  +0,12
-
-Die Renditen machten einen großen Satz nach oben in Reaktion auf eine höher als erwartet ausgefallene Inflation im Oktober. Am Zinsterminmarkt hatte die Wahrscheinlichkeit für 25 Basispunkte höhere Zinsen im Dezember bereits vor den Inflationsdaten bei 99 Prozent gelegen. Zuletzt lag sie zwar bei nur noch 89 Prozent, dafür wird nun aber eine Wahrscheinlichkeit von gut 11 Prozent dafür gesehen, dass im Dezember auch eine Erhöhung um 50 Basispunkte kommen könnte. Ins Bild passte, dass Notenbankgouverneur Christopher Waller kurz vor den Inflationsdaten empfohlen hatte, für Dezember eine große Zinserhöhung um einen halben Prozentpunkt in Betracht zu ziehen, wenn die Kerninflation wie in den vergangenen beiden Monaten um rund 0,3 Prozent oder mehr im Monatsvergleich steigen sollte.
+Die Anleiherenditen kamen erneut leicht zurück. Marktteilnehmer sprachen mit Blick auf die derzeit eingetrübte Stimmung für Aktien von Umschichtungen in Anleihen. Dazu sei die US-Industrieproduktion unerwartet im Oktober gesunken, was Zinserhöhungserwartungen etwas gedämpft habe.
 
 +++++ DEVISENMARKT +++++
 
-DEVISEN        zuletzt  +/- %  +/- abs.  Schluss Vortag  Di, 18:25 
-EUR/USD         1,1153   -0,1   -0,0010          1,1163     1,1150 
-EUR/JPY         177,17   -0,0   -0,0300        177,2000   177,0400 
-EUR/CHF          0,922   +0,1    0,0008          0,9212     0,9214 
-EUR/GBP         0,8364   +0,0    0,0002          0,8362     0,8367 
-USD/JPY         158,84   +0,1    0,1100        158,7300   158,7800 
-GBP/USD         1,3333   -0,1   -0,0008          1,3341     1,3326 
-USD/CNY         6,6753   +0,1    0,0050          6,6703     6,6703 
-USD/CNH         6,6742   -0,0   -0,0021          6,6763     6,6783 
-AUS/USD         0,6873   +0,1    0,0008          0,6865     0,6850 
-Bitcoin/USD  73.796,30   +0,0     24,00       73.772,30  72.930,67
+               zuletzt  +/- %  +/- abs.  Schluss Vortag  Di, 17:32 
+EUR/USD         1,0979   -0,2   -0,0018          1,0997     1,1013 
+EUR/JPY         174,88   -0,2   -0,3900        175,2700   175,4000 
+EUR/CHF         0,9235   -0,1   -0,0010          0,9245     0,9234 
+EUR/GBP         0,8323   -0,0   -0,0002          0,8325     0,8333 
+USD/JPY         159,28   -0,0   -0,0700        159,3500   159,2400 
+GBP/USD         1,3187   -0,2   -0,0021          1,3208     1,3215 
+USD/CNY         6,6658    0,0   -0,0001          6,6659     6,6659 
+USD/CNH         6,6664   -0,0   -0,0006          6,6670     6,6656 
+AUS/USD          0,672   -0,2   -0,0011          0,6731     0,6738 
+Bitcoin/USD  64.617,44   +0,5    308,99       64.308,45  63.814,18
 
-Der Dollar zog mit der Aussicht auf höhere Zinsen kräftig an und machte fast alle Einbußen vom Vortag wieder wett. Der Euro kam aufrund 1,1160 Dollar zurück.
+Der Dollar tendierte insgesamt seitwärts, nachdem er im Späthandel zwischenzeitlich verlorenes Terrain gegenüber dem Euro wieder gutgemacht hatte. Der Euro kostete zuletzt 1,1001 Dollar. Im frühen Tageshoch des Dollar waren für den Euro lediglich 1,0970 Dollar fällig gewesen, womit der Dollar neuerliches 19-Monats-Hoch markierte angesichts der Erwartung weiterer US-Zinserhöhungen in den nächsten Monaten.
 
 +++++ ROHSTOFFE +++++
 
 METALLE
 
-Metalle        zuletzt  +/- %  +/- abs.  Schluss Vortag 
-Gold          4.055,31   +0,6     24,38        4.030,93 
-Silber           52,97   +2,8      1,46           51,51 
-Platin        1.568,80   +1,8     28,47        1.540,33
+         zuletzt  +/- %  +/- abs.  Schluss Vortag 
+Gold    3.781,64   -1,8    -68,13        3.849,77 
+Silber     46,08   -2,8     -1,32           47,40 
+Platin  1.414,90   -1,0    -14,80        1.429,70
 
-Der Goldpreis fiel um 2,6 Prozent auf 4.031 Dollar je Feinunze. Er litt unter dem festeren Dollar, vor allem aber der Aussicht auf höhere Zinsen, was das zinslose Edelmetall als Anlage weniger attraktiv macht.
+Der Goldpreis gab leicht nach um 0,2 Prozent auf 3.854 Dollar je Feinunze im späten US-Handel.
 
 ÖL
 
-ROHOEL         zuletzt  +/- %  +/- abs.  Schluss Vortag 
-WTI/Nymex        86,64   +0,7      0,60           86,04 
-Brent/ICE        92,52   +1,1      1,03           91,49
+            zuletzt  +/- %  +/- abs.  Schluss Vortag 
+WTI/Nymex     84,23   -2,1     -1,78           86,01 
+Brent/ICE     92,16   -1,1     -0,98           93,14
 
-Die Ölpreise fielen weiter. Allerdings kostete Brent-Öl nach einem Tagestief unter 90 Dollar zuletzt wieder 91,49 Dollar, 1,2 Prozent weniger als am Vortag. Hintergrund waren andauernde diplomatische Verhandlungen und Aussagen von US-Präsident Donald Trump, den Krieg mit dem Iran beenden zu wollen. Zwar haben sich die Öllieferungen durch die Straße von Hormus erheblich erholt, die vollständige Wiederherstellung des normalen Schiffsverkehrs lässt aber auf sich warten.
+Die Ölpreise zogen auf dem zuletzt ermäßigten Niveau etwas an. Brent verteuerte sich um 1,1 Prozent auf 92,94 Dollar. Angriffe im Nahen Osten bedrohten weiterhin die Schifffahrt in der Region, hieß es.
 
-+++++ MELDUNGEN SEIT DIENSTAG 17.30 UHR +++++
++++++ MELDUNGEN SEIT VORTAG 17.30 UHR +++++
 
-BRENNTAG
+DEUTSCHLAND - Konjunktur
 
-hat im dritten Quartal 2026 Umsatz und Ergebnis trotz höherer Beschaffungs - und Logistikkosten gesteigert und seine Jahresprognose bekräftigt.
+Die deutsche Industrie verliert nach eigener Einschätzung weiterhin an internationaler Wettbewerbsfähigkeit, allerdings hat sich das Tempo des Rückgangs zuletzt etwas verlangsamt. Wie das Ifo-Institut mitteilte, berichteten im Oktober 25,8 Prozent der Industrieunternehmen von einer Verschlechterung ihrer Wettbewerbsposition außerhalb der EU. Eine Verbesserung meldeten lediglich 7,7 Prozent der Firmen, nach 5,2 Prozent im Juli. "Die deutsche Industrie verliert international weiterhin an Boden. Der Rückgang scheint sich aber etwas zu verlangsamen", sagte Klaus Wohlrabe, Leiter der Ifo-Umfragen. Auch innerhalb der EU geriet die Branche unter Druck: Hier klagten 17,7 Prozent der Betriebe über eine schlechtere Position, während 7,6 Prozent eine Verbesserung verzeichneten. Insgesamt fiel das Urteil der Unternehmen damit etwas weniger negativ aus als noch vor einigen Monaten.
 
-Die Zahlen im Detail (in Millionen Euro, Ergebnis ja Aktie in Euro, nach IFRS):
+IRAN-KRIEG
 
-.                                  BERICHTET   PROG   PROG 
-3. QUARTAL                      3Q26    ggVj   3Q26   ggVj   3Q25 
-Umsatz                         4.263    +15%  4.001    +8%  3.718 
-Rohertrag                      1.064    +12%  1.023    +8%    947 
-Operatives EBITDA                385    +17%    389   +18%    330 
-Operatives EBITA                 289  +18,9%    290 +19,3%    243 
-Ergebnis nach Steuern/Dritten    129    +14%    136   +21%    113 
-Ergebnis je Aktie               0,89    +14%   0,94   +21%   0,78
+Der Iran hat am Mittwochmorgen Angriffe gegen Kuwait und Bahrain gestartet und die Attacken auf Schiffe in der Straße von Hormus fortgesetzt. Der Angriff auf Kuwait war die erste iranische Attacke auf den kleinen, ölreichen Staat seit über zwei Monaten. Das kuwaitische Militär teilte mit, es habe eine Welle von Drohnen gegeben. Der Iran erklärte, man habe den kuwaitischen Luftwaffenstützpunkt Ali Al Salem ins Visier genommen, auf dem US-Streitkräfte stationiert sind. Unterdessen haben die USA ihre Präsenz in der Region weiter erhöht. Der Flugzeugträger USS Theodore Roosevelt ist im Nahen Osten eingetroffen.
 
-EON
+USA - Geldpolitik
 
-hat in den ersten neun Monaten dieses Jahres unter dem Strich den Gewinn leicht gesteigert. Den Ausblick auf das laufende Jahr sowie die Mittelfristziele bis 2030 bestätigte der Essener Energiekonzern.
+Der Präsident der Federal Reserve Bank of New York, John Williams, sieht angesichts der Inflationslage keine Veranlassung für größere Zinsschritte. Das Vorgehen der US-Notenbank in den vergangenen Monaten funktioniere gut, sagt er: "Daten sammeln, diese analysieren, die Debatte führen". "Ich glaube nicht, dass die Situation drastische Maßnahmen erfordert", sagte Williams im Vorfeld der Dezembersitzung der US-Notenbank und außerdem: "Die Inflation ist hartnäckig hoch, und wir müssen sie senken".
 
-Die Zahlen im Detail (in Millionen Euro, Ergebnis je Aktie in Euro, nach IFRS):
+USA - Politik
 
-.                                 BERICHTET   PROG   PROG 
-9MON                            9M26   ggVj   9M26   ggVj   9M25 
-EBITDA bereinigt               7.108  +0,3%  7.107  +0,3%  7.089 
-Konzernueberschuss bereinigt   2.201    +4%  2.191    +3%  2.117 
-Ergebnis je Aktie bereinigt     0,84    +4%   0,84    +4%   0,81
+Die Demokraten haben auch den Senatssitz in Alaska gewonnen und bauen damit ihre Mehrheit in der Kongresskammer aus auf 56 Sitze gegenüber 44 der Republikaner.
 
-MERCK KGAA
+OHB
 
-kann sein Medikament Pimjetmi (Pimicotinib) künftig auch in den USA vermarkten nach der Zulassung durch die Arzneimittelbehörde FDA. Bei dem Medikament handelt es sich um eine systemische Therapie für erwachsene Patienten mit symptomatischem tenosynovialem Riesenzelltumor (TGCT), bei denen eine operative Entfernung des Tumors zu einer Verschlechterung der funktionellen Einschränkung oder zu schwerer Morbidität führen kann.
+Die Europäische Weltraumorganisation ESA hat die Tochtergesellschaft OHB System als Hauptauftragnehmerin für die Mission ClearSpace-1 ausgewählt. Der Vertrag hat ein Volumen von mehr als 102 Millionen Euro und sieht vor, dass ein von OHB geführtes Industriekonsortium einen Service-Satelliten entwickelt, der einen Satellit mit einem speziell entwickelten Greifmechanismus einfängt und kontrolliert aus dem Orbit entfernt.
 
-RWE
+SMAG MOBILE ANTENNA MASTS
 
-hat in den ersten neun Monaten von deutlichen Verbesserungen in allen Konzerngeschäftsfeldern profitiert. Auch die vollzogene Anteilserhöhung am Hochvoltnetzbetreiber Amprion trug dazu bei, dass der Essener Versorger mehr verdiente als im Vorjahr. Die Markterwartungen an das Ergebnis wurden dabei übertroffen.
+hat die Prognose für das Geschäftsjahr 2026 gesenkt und erwartet eine Gesamtleistung von 47 bis 52 (bisher: 55 bis 60) Millionen Euro sowie eine bereinigte EBIT-Marge von 8 bis 10 (bisher: 19 bis 21) Prozent. Als Gründe nennt das Unternehmen zuliefererbedingt verzögerte Auslieferungen und Projektabnahmen, sowie erhöhte Anlaufkosten für die Lieferantendiversifizierung und den Kapazitätsausbau. Gestützt auf einen um 76 Prozent auf 247 (Ende 2025: 140) Millionen Euro gestiegenen Festauftragsbestand und eine hohe Nachfrage im Verteidigungsbereich hält SMAG an den positiven Aussichten für 2027 mit starkem Wachstum und deutlicher Profitabilitätsverbesserung fest.
 
-Die Zahlen im Detail (in Millionen Euro, Ergebnis je Aktie in Euro, nach IFRS):
+ANTHROPIC
 
-                                     BERICHTET   PROG  PROG 
-9MON                                9M26  ggVj   9M26  ggVj   9M25 
-EBITDA bereinigt                   4.575  +35%  4.429  +30%  3.398 
-EBIT bereinigt                     2.769  +49%  2.606  +40%  1.863 
-Ergebnis nach Steuern/Dritten ber  1.846  +43%  1.709  +32%  1.293 
-Ergebnis je Aktie bereinigt         2,52  +42%     --    --   1,77
-
-SYMRISE
-
-bekommt im nächsten Frühjahr einen neuen Finanzvorstand. Martin Huber wurde zum Finanzvorstand ab dem 1. April 2027 bestellt. Er folgt auf Olaf Klinger, der seinen Posten nach dann elf Jahren niederlegen wird. Zudem wurde der Vertrag von Vorstandsmitglied Walter Ribeiro, der für den Bereich Taste, Nutrition ndig ist, um weitere vier Jahre bis September 2031 verlängert. Der designierte Finanzvorstand Huber hat laut Symrise über 20 Jahre internationale Führungs- und Finanzerfahrung bei Nestlé, Nespresso und zuletzt Aryzta.
-
-BILFINGER
-
-Die ausbleibende Belebung des Geschäfts hat sich im abgelaufenen Quartal in der Bilanz niedergeschlagen: Umsatz, Ergebnis und Marge gingen zurück, allerdings nicht ganz so deutlich wie vom Markt erwartet. Der Auftragseingang verbesserte sich zugleich signifikant - um ein Viertel auf 1,7 Milliarden Euro. Ein Bestandskunde aus der Energie-Industrie habe einen Auftrag um mehr als 300 Millionen Euro erweitert, hieß es zur Begründung.
-
-Die Zahlen im Detail (in Millionen Euro, Ergebnis je Aktie in Euro, Marge in Prozent, nach IFRS):
-
-.                   BERICHTET   PROG  PROG 
-3. QUARTAL         3Q26  ggVj   3Q26  ggVj   3Q25 
-Umsatz            1.364   -1%  1.347   -3%  1.384 
-EBITA                63  -22%     60  -26%     81 
-EBITA-Marge         4,6    --    4,5    --    5,8 
-Konzernergebnis      43  -22%     42  -24%     55 
-Ergebnis je Aktie  1,16  -21%   1,13  -23%   1,47 
-Free Cashflow        76   +7%     --    --     71
-
-SHELLY GROUP
-
-hat in den ersten neun Monaten den Umsatz um knapp 30 Prozent auf 113 Millionen Euro gesteigert; im dritten Quartal legten die Erlöse um 35 Prozent auf 44,5 Millionen Euro zu. Das EBIT stieg in den neun Monaten um gut ein Viertel auf 27,5 Millionen Euro, während die EBIT-Marge wegen höherer Vertriebs- und Marketingaufwendungen auf 24,3 (Vorjahr: 25,2) Prozent sank. Der Nettogewinn stieg um 28,5 Prozent auf 23,8 Millionen Euro. Der Smart-Home-Spezialist, der vor der Übernahme durch Schneider Electric steht, bestätigte seinen Ausblick für das Gesamtjahr.
-
-IPO / ALIBABA / T-HEAD
-
-(MORE TO FOLLOW) Dow Jones Newswires
-
-November 11, 2026 01:36 ET (06:36 GMT)
-
-## Aktuelle Videos
-
--   [
-    
-    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
-    
-    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
-    
-    09/11/2026 14:29
-    
-    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
--   [
-    
-    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
-    
-    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
-    
-    03/11/2026 14:42
-    
-    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
--   [
-    
-    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
-    
-    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
-    
-    27/10/2026 19:15
-    
-    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
-
-Weitere Treffer anzeigen
-
-# Nachricht - Börse Stuttgart
-
-11.11.2026 / 07:36:28
-
-# MORNING BRIEFING - Deutschland/Europa -3-
-
-(Dow Jones Newswires)
-
-Die Alibaba Group bereitet die Notierung ihrer Chip-Sparte in Hongkong vor. Dies stellt einen entscheidenden Moment im Rahmen ihrer milliardenschweren Vorstöße in den Bereich der Künstlichen Intelligenz (KI) dar. In dem Börsengang, der noch der Genehmigung der chinesischen Wertpapieraufsichtsbehörden bedarf, könnte T-Head Schätzungen von Nomura zufolge mit 85 Milliarden US-Dollar bewertet werden.
+rechnet angesichts einer starken Investorennachfrage damit, die Aktien beim am Donn erstag geplanten Börsengang teurer als geplant auszugeben. Wie mit der Angelegenheit vertraute Personen sagten, könnte der Entwickler des Chatbots Claude seine Aktien mit mehr als je 80 Dollar bepreisen, über der ursprünglichen Spanne von 70 bis 78 Dollar.
 
 \===
 
@@ -756,11 +243,11 @@ HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher I
 
 Kontakt zum Autor: maerkte.de@dowjones.com
 
-DJG/gos/cln
+DJG/flf/gos
 
 (END) Dow Jones Newswires
 
-November 11, 2026 01:36 ET (06:36 GMT)
+November 18, 2026 01:49 ET (06:49 GMT)
 
 ## Aktuelle Videos
 
@@ -805,3 +292,274 @@ November 11, 2026 01:36 ET (06:36 GMT)
     ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
 
 Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+18.11.2026 / 07:57:51
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+Der Chipkonzern Nvidia hat robuste Quartalsergebnisse vorgelegt, die die Erwartungen der Wall Street deutlich übertrafen. Dies geschah inmitten eines Skandals, der das Unternehmen erschüttert, seinen prominenten Vorstandsvorsitzenden zu Fall gebracht und die Märkte weltweit verunsichert hat. In einer Telefonkonferenz mit Investoren erklärte Harvey C. Jones, der neu ernannte Vorsitzende des Board of Directors von Nvidia, man ziehe eine Wiedereinsetzung von Jensen Huang als Vorstandsvorsitzenden nicht in Betracht. Nvidia verzeichnete erneut ein Quartal mit Rekordumsätzen. Die Einnahmen beliefen sich auf 115,8 Milliarden US-Dollar. Dies lag um 6,3 Prozent über den von Analysten prognostizierten 108,9 Milliarden Dollar und bedeutete mehr als eine Verdoppelung gegenüber dem Vorjahresquartal. Der Nettogewinn stieg auf 65,3 Milliarden Dollar und übertraf damit ebenfalls die Analystenschätzungen. Mit Blick nach vorn prognostizierte das Unternehmen für das laufende Quartal einen Umsatz von 130 Milliarden Dollar, rund 4 Prozent mehr als von der Wall Street geschätzt. In der Telefonkonferenz sagte Interims-CEO Colette Kress, das Unternehmen hebe seine Prognose für das Umsatzwachstum im Geschäftsjahr 2028 von 70 Prozent auf 75 Prozent an. Nachbörslich ging es für die Aktie um 1,4 Prozent nach oben.
+
++++++ TAGESTHEMA II +++++
+
+Der Iran hat am Mittwochmorgen Angriffe gegen Kuwait und Bahrain gestartet und die Attacken auf Schiffe in der Straße von Hormus fortgesetzt. Der Angriff auf Kuwait war die erste iranische Attacke auf den kleinen, ölreichen Staat seit über zwei Monaten. Das kuwaitische Militär teilte mit, es habe eine Welle von Drohnen gegeben. Der Iran erklärte, man habe den kuwaitischen Luftwaffenstützpunkt Ali Al Salem ins Visier genommen, auf dem US-Streitkräfte stationiert sind. Kuwait bestätigte zunächst keine Schäden durch den Angriff. In Bahrain ertönte vor Sonnenaufgang zweimal Raketenalarm, und es waren Explosionen zu hören, als Luftabwehrbatterien das Feuer eröffneten. Die dortigen Behörden machten den Iran für den Angriff verantwortlich, ohne nähere Angaben zu machen. Bahrain wurde in der vergangenen Woche im Rahmen einer Serie eskalierender Angriffe bereits dreimal vom Iran ins Visier genommen.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+13:00 CN/Tencent Holdings Ltd, Ergebnis 3Q
+
+Im Laufe des Tages
+
+\- US/Anthropic, Bekanntgabe Ausgabepreis f. Börsengang
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- US 
+    14:30 Baubeginne/-genehmigungen Oktober 
+          Baubeginne 
+          PROGNOSE: +2,4% gg Vm 
+          zuvor:    -5,2% gg Vm 
+          Baugenehmigungen 
+          PROGNOSE: -1,4% gg Vm 
+          zuvor:    -0,2% gg Vm
+
++++++ ÜBERSICHT INDIZES +++++
+
+Index                         zuletzt  +/- % 
+E-Mini-Future S&P-500        7.379,25   +0,3 
+E-Mini-Future Nasdaq-100    27.245,25   +0,6 
+S&P/ASX 200 (Sydney)         8.821,80   -0,7 
+Nikkei-225                  59.024,28   +0,3 
+Topix-500 (Tokio)            3.824,00   -0,4 
+Kospi (Seoul)                5.067,44   +2,0 
+Shanghai-Composite           3.578,98   -0,2 
+Hang-Seng-Index (Hongkong)  23.255,15   -1,1
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Die Börsen zeigen sich uneinheitlich - belastet von der erneuten Talfahrt der Wall Street. Welche Auswirkungen die Nvidia-Geschäftszahlen und die Aussagen der Interimschefin Colette Kress auf das Handelsgeschehen haben, ist nicht ganz klar. Der US-Halbleiterkonzern hatte ein weiteres Quartal mit Rekordumsätzen gemeldet. Auch verdiente das Unternehmen mehr als erwartet und glänzte auch mit einem Ausblick oberhalb der Erwartungen. Im Nachklapp auf die Geschäftszahlen sendet der Sektor in Asien keine klaren Signale. Der technologielastige Kospi in Südkorea liegt klar unter Tageshoch. Südkoreas staatlicher Thinktank hat seine Wirtschaftswachstumsprognosen angehoben. Als Grund nannte er starke Chip-Exporte sowie Investitionen in die KI-Infrastruktur. Halbleiteraktien zeigen indes keine eindeutige Reaktion auf die Nvidia-Zahlen an: SK Hynix gewinnen in Südkorea 4,5 Prozent, Samsung Electronics 1,3 Prozent. Die in Taiwan notierten TSMC verlieren dagegen 0,2 Prozent, Kioxia in Japan steigen nur um 0,4 Prozent und Cambricon Technologies ziehen in China um 5 Prozent an. Der Nikkei-225 in Japan bewegt sich wie der Index in Südkorea klar unter Tageshoch. Die Handelsdaten für Oktober liefern ein positives Wirtschaftssignal. Das Exportwachstum dürfte sich in den kommenden Quartalen aber allmählich abschwächen, meint Ökonom Norihiro Yamaguchi von Oxford Economics. In China zeigen sich die Indizes uneinheitlich. Neue US-Beschränkungen dürften Investitionen in die heimische KI-Infrastruktur fördern, heißt es. Der Australien belasten schwache Signale vom Arbeitsmarkt.
+
+WALL STREET
+
+              zuletzt  +/- %  +/- abs.  Schluss Vortag 
+DJIA        50.759,42   -1,6   -848,75       51.608,17 
+S&P-500      7.340,54   -1,0    -76,05        7.416,59 
+NASDAQ Comp 24.328,38   -0,7   -181,38       24.509,76 
+NASDAQ 100  27.001,78   -0,7   -195,37       27.197,15 
+ 
+                     Dienstag   Montag 
+Umsatz NYSE (Aktien) 1,24 Mrd   1,25 Mrd 
+Gewinner                  557        690 
+Verlierer               2.174      2.050 
+Unverändert                65         58
+
+Schwächer - Nach dem Vortagesabsturz blieb die Wall Street auf Talfahrt, allerdings schlossen die Indizes klar über den Tagestiefs. Die Querelen um Nividia nach dem Rücktritt von CEO Jensen Huang, der zugleich als Financier des KI-Booms gilt, und die nach Börsenschluss anstehenden Geschäftszahlen des KI-Flaggschiffs hätten viele Akteure vorsichtig agieren lassen, hieß es. Die eingetrübte Stimmung für KI- und Technologieaktien schwappte dazu auch auf andere Branchen über. Dazu trugen auch neue US-Handelsbarrieren für den Export von Halbleitern bei, mit dem Ziel, Chinas Zugriff auf fortschrittliche KI-Rechenleistung einzudämmen. Dies könne allgemein die US-chinesischren Handelsbeziehungen wieder verschlechtern, hieß es. Nvidia gaben um 0,4 Prozent nach. Intel büßten 0,5 Prozent ein, AMD 0,2. Home Depot verloren nach gut ausgefallenen Quartalszahlern und der Mitteilung, dass der zuletzt erkrankte CEO zurücktritt, 2,4 Prozent, Walt Disney stiegen nach besser als erwartet ausgefallenen Quartalszahlen zunächst, gingen aber letztlich 1,5 Prozent schwächer aus dem Tag. Der Unterhaltungskonzern hatte außerdem höhere Ausgaben signalisiert.
+
+USA - ANLEIHEN
+
+           Rendite    +/-  Tageshoch  Tagestief 
+2 Jahre       4,80  -0,03       4,86       4,78 
+5 Jahre       4,91  -0,03       4,97       4,89 
+10 Jahre      5,11  -0,01       5,15       5,09
+
+Die Anleiherenditen kamen erneut leicht zurück. Marktteilnehmer sprachen mit Blick auf die derzeit eingetrübte Stimmung für Aktien von Umschichtungen in Anleihen. Dazu sei die US-Industrieproduktion unerwartet im Oktober gesunken, was Zinserhöhungserwartungen etwas gedämpft habe.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN                  zuletzt  +/- %      00:00       Di, 08:30  % YTD 
+EUR/USD                   1,0978   -0,2     1,0997          1,1006   -6,5 
+EUR/JPY                   174,87   -0,2     175,27          175,20   -5,0 
+EUR/GBP                   0,8323   -0,0     0,8325          0,8341   -4,5 
+USD/JPY                   159,27   -0,1     159,35          159,18   +1,7 
+USD/KRW                 1.332,58   -0,2   1.335,00        1.337,60   -7,5 
+USD/CNY                   6,6658    0,0     6,6659          6,6657   -4,7 
+USD/CNH                   6,6661   -0,0     6,6670          6,6660   -4,4 
+USD/HKD                   7,8455   -0,0     7,8462          7,8459   +0,8 
+AUD/USD                   0,6718   -0,2     0,6731          0,6734   +0,7 
+NZD/USD                   0,5488   -0,1     0,5492          0,5498   -4,6 
+BTC/USD                64.506,90   +0,3  64.308,45       64.645,24  -26,4
+
+Der Dollar tendierte insgesamt seitwärts, nachdem er im Späthandel zwischenzeitlich verlorenes Terrain gegenüber dem Euro wieder gutgemacht hatte. Der Euro kostete zuletzt 1,10 Dollar. Im frühen Tageshoch des Dollar waren für den Euro lediglich 1,0970 Dollar fällig gewesen, womit der Dollar neuerliches 19-Monatshoch markierte angesichts der Erwartung weiterer US-Zinserhöhungen in den nächsten Monaten.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle                  zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                    3.777,75   -1,9     -72,02        3.849,77 
+Silber                     46,01   -2,9      -1,38           47,40 
+Platin                  1.405,71   -1,7     -23,99        1.429,70
+
+Der Goldpreis gab leicht nach um 0,2 Prozent auf 3.854 Dollar je Feinunze im späten US-Handel.
+
+ÖL
+
+ROHÖL                    zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                  84,26   -2,0      -1,75           86,01 
+Brent/ICE                  92,17   -1,0      -0,97           93,14
+
+Die Ölpreise zogen auf dem zuletzt ermäßigten Niveau etwas an. Brent verteuerte sich gestützt durch iranische Drohungen im Nahost-Konflikt um 1,1 Prozent auf 92,94 Dollar.
+
++++++ MELDUNGEN SEIT VORTAG 18.30 UHR +++++
+
+HANDELSDATEN JAPAN
+
+Die Exporte sind im Oktober den 14. Monat in Folge gestiegen. Getrieben wurde das Wachstum von der Nachfrage nach Gütern im Zusammenhang mit KI. Die Ausfuhren kletterten gegenüber dem Vorjahr um 20,5 Prozent, nach einem Anstieg von 16,5 Prozent im September. Die Nachfrage nach elektronischen Bauteilen, Maschinen zur Chipherstellung und Autos trug zu dem Zuwachs bei. Dies lag leicht über dem Anstieg von 20,0 Prozent, den Ökonomen erwartet hatten.
+
+FISKALPOLITIK JAPAN
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 18, 2026 01:57 ET (06:57 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
+    
+    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
+    
+    09/11/2026 14:29
+    
+    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+18.11.2026 / 07:57:51
+
+# MORNING BRIEFING - USA/Asien -2-
+
+(Dow Jones Newswires)
+
+Der Gouverneur der Bank of Japan, Kazuo Ueda, hat erklärt, dass eine geplante Senkung der Verbrauchssteuer auf Lebensmittel das Wirtschaftswachstum voraussichtlich stützen werde. Das genaue Ausmaß der Wirkung bleibe jedoch ungewiss. "Wenn eine Senkung der Verbrauchssteuer umgesetzt wird, erhöht dies die reale Kaufkraft der privaten Haushalte. Daher halte ich es für sehr wahrscheinlich, dass dies in Richtung einer Steigerung der Wachstumsrate wirken wird", sagte Ueda. Die japanische Premierministerin Sanae Takaichi plant, die Verbrauchssteuer auf Nahrungsmittel und Getränke ab April 2027 für zwei Jahre von 8 Prozent auf 1 Prozent zu senken, um die Haushalte angesichts steigender Preise zu entlasten. Ueda räumte ein, dass ein schwacher Yen die Lebensmittelpreise über höhere Importkosten in die Höhe treiben könne.
+
+KONJUNKTUR & INFLATION SÜDKOREA
+
+Der staatliche Thinktank hat seine Wirtschaftswachstumsprognosen für dieses und das kommende Jahr angehoben. Als Grund nannte er starke Chip-Exporte sowie Investitionen in die Infrastruktur für künstliche Intelligenz. Das KDI teilte mit, dass es für 2026 mit einem Wachstum des BIP von 3,8 Prozent rechne. Dies sei mehr als die im August prognostizierten 3,2 Prozent. Für 2027 wird danach ein Wachstum der viertgrößten Volkswirtschaft Asiens um 3,9 Prozent erwartet. Dies liege deutlich über der früheren Schätzung des KDI von 2,2 Prozent. Der Thinktank prognostiziert für dieses Jahr eine Gesamtverbraucherinflation von durchschnittlich 2,7 Prozent, unverändert gegenüber seiner August-Schätzung. Im nächsten Jahr soll sie bei 2,4 Prozent im Durchschnitt liegen, nach einer vorherigen Prognose von 2,2 Prozent.
+
+ARBEITSMARKT AUSTRALIEN
+
+Die Zahl der Stellenanzeigen in Australien ist im Oktober gesunken. Dies untermauert Anzeichen dafür, dass sich die Neueinstellungen in der gesamten Wirtschaft verlangsamen, da höhere Zinsen und steigende Lebenshaltungskosten die Konjunktur bremsen. Laut Beschäftigungsportal SEEK gingen die Stellenanzeigen im Oktober gegenüber September um 0,8 Prozent zurück.
+
+ARBEITSKOSTEN AUSTRALIEN
+
+Die australischen Löhne sind im dritten Quartal auf vierteljährlicher Basis so schnell gestiegen wie seit Ende 2023 nicht mehr. Dies erhöht den Druck auf die Reserve Bank of Australia, eine weitere Zinserhöhung in Betracht zu ziehen. Der Lohnpreisindex legte gegenüber dem Vorquartal um 1,1 Prozent und im Jahresvergleich um 3,5 Prozent zu. Die Daten übertrafen die Markterwartungen, die bei einem vierteljährlichen Anstieg von 1,0 Prozent gelegen hatten.
+
+KONJUNKTUR MALAYSIA
+
+Die Wirtschaft ist im dritten Quartal schneller als erwartet gewachsen. Das BIP wuchs im Zeitraum von Juli bis September im Jahresvergleich um 5,5 Prozent. Damit lag es über der im Oktober veröffentlichten vorläufigen Schätzung von 5,3 Prozent. Im zweiten Quartal war die Wirtschaft um 6,0 Prozent gewachsen.
+
+UPS
+
+hat der Übernahme von Smartways Logistics zugestimmt. Smartways ist ein Logistikdienstleister für das Gesundheitswesen, der Australien und Neuseeland bedient. Die Bedingungen der Transaktion, deren Abschluss für das erste Halbjahr 2027 erwartet wird, wurden nicht bekannt gegeben.
+
+ANTHROPIC
+
+rechnet angesichts einer starken Investorennachfrage damit, die Aktien beim am Donn erstag geplanten Börsengang teurer als geplant auszugeben. Wie mit der Angelegenheit vertraute Personen sagten, könnte der Entwickler des Chatbots Claude seine Aktien mit mehr als je 80 Dollar bepreisen, über der ursprünglichen Spanne von 70 bis 78 Dollar.
+
+WAYMO
+
+Der US-Robotaxi-Anbieter hat seinen Betrieb auf US-Autobahnen vorübergehend eingestellt, nachdem der Bundesstaat Kalifornien nach einigen Vorfällen mit Waymo-Robotaxis ein Verbot verhängt hatte. Die kalifornische Kraftfahrzeugbehörde erklärte, dass man Waymo Testfahrten und den regulären Betrieb auf allen Autobahnen des Bundesstaates untersagt habe. Die Behörde nannte als Grund unter anderem, dass drei Robotaxis von Waymo kürzlich in eine Baustelle eingefahren seien.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/flf/gos
+
+(END) Dow Jones Newswires
+
+November 18, 2026 01:57 ET (06:57 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
+    
+    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
+    
+    09/11/2026 14:29
+    
+    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+
+Weitere Treffer anzeigen
+
