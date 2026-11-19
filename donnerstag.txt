@@ -1,3 +1,801 @@
+# Nachricht - Börse Stuttgart
+
+19.11.2026 / 07:40:17
+
+# MORNING BRIEFING - Deutschland/Europa
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+Anthropic ist der größte Börsengang der Geschichte gelungen. Der Claude-Entwickler und größte Konkurrent von OpenAI mit deren CHatGPT hat mehr Aktien als geplant zu einem höheren Preis als erwartet verkauft. Anthropic brachte 980 Millionen Aktien zu je 83 Dollar an den Mann, das Unternehmen hatte zunächst 825 Millionen Papiere zunächst in einer Spanne von 70 bis 78 Dollar angeboten. Anthropic nimmt damit 81,34 Milliarden Dollar ein und wird insgesamt mit 1,5 Billionen Dollar bewertet. Bislang hatte Elon Musks SpaceX den Rekord inne mit 75 Milliarden Dollar beim Börsengang im Juni. Anthropic plant zudem, bei einer Privatplatzierung von Aktien zusätzliche 26 Milliarden Dollar einzunehmen. Dies sollte durch eine Gruppe großer Investoren geschehen, darunter Amazon, Nvidia und Google. Der Handel mit der Anthropic-Aktie an der Nasdaq beginnt am Donnerstag unter dem Tickersymbol "ANT".
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+10:00 DE/Sto SE & Co. KGaA, Ergebnis 3Q
+
+11:30 CN/Alibaba Group Holding Ltd, Ergebnis 2Q
+
+13:00 US/Walmart Inc, Ergebnis 3Q
+
+14:00 DE/Rational AG, Kapitalmarkttag
+
+Im Tagesverlauf:
+
+\- DE/Mutares SE & Co KGaA, Kapitalmarkttag
+
+\- US/Anthropic Pbc, Erstnotiz an der Nasdaq
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\-US 
+    14:30 Erstanträge Arbeitslosenhilfe (Woche) 
+          PROGNOSE: 197.000 
+          zuvor:    200.000 
+ 
+    14:30 Philadelphia-Fed-Index November 
+          PROGNOSE: 18,0 
+          zuvor:    20,9 
+ 
+    16:00 Index der Frühindikatoren Oktober 
+          PROGNOSE: 0,0% gg Vm 
+          zuvor:    0,0% gg Vm
+
++++++ ÜBERSICHT FUTURES / INDIZES +++++
+
+Aktuell: 
+                            zuletzt  +/- % 
+DAX Futures               25.883,00   +0,3 
+E-Mini-Future S&P-500      7.402,00   +0,8 
+E-Mini-Future Nasdaq-100  27.594,25   +1,5 
+Topix (Tokio)              3.822,47   -0,0 
+Hang-Seng (Hongk.)        22.790,24   -2,2 
+Shanghai-Comp.             3.553,82   -1,0 
+ 
+ 
+Mittwoch: 
+INDEX               Schluss  +/- % 
+DAX               25.736,24   -1,2 
+DAX-Future        25.853,00   -1,1 
+MDAX              29.878,63   -0,9 
+TecDAX             3.952,85   -0,9 
+SDAX              17.378,84   -0,8 
+Euro-Stoxx-50      6.154,39   -0,9 
+Stoxx-50           5.341,63   -1,1 
+XDAX              25.720,60   -0,1 
+Dow-Jones         50.198,17   -1,1 
+S&P-500            7.323,63   -0,2 
+Nasdaq Composite  24.429,89   +0,4
+
++++++ FINANZMÄRKTE +++++
+
+EUROPA
+
+Ausblick: Europas Börsen dürften nach den Abgaben am Vortag mit kleinen Aufschlägen in den Handel am Donnerstag starten. Dass das am Vorabend veröffentlichte Protokoll der jüngsten Sitzung der US-Notenbank einen falkenhaften Unterton zeigte, belastet kaum, weil die Zinserhöhungsspekulationen zuletzt bereits zugenommen hatten. Laut dem FedWatch Tool wird eine Erhöhung im Dezember um 50 Basispunkte nun wieder mit einer Wahrscheinlichkeit von 10 Prozent eingepreist, nachdem es am Vortag noch etwa 3 Prozent waren. Hauptthema am Donnerstag ist der Börsengang des KI-Unternehmens Anthropic. Anthropic ist der größte Börsengang aller Zeiten gelungen, der Claude-Entwickler hat mehr Aktien als geplant zu einem höheren Preis als erwartet verkauft. Im Handel heißt es, dass ein erfolgreicher Börsengang neue Rotationen im KI- bzw Technologiesektor auslösen könnte. Daneben weisen Marktteilnehmer darauf hin, dass manche Anleger möglicherweise Platz in ihren Portfolios schaffen müssten für das Anthropic-Papier. Von Interesse für die Börsen ist auch das Gipfeltreffen der Präsidenten Donald Trump, Wladimir Putin und Xi Jinping in Shenzhen.
+
+Rückblick: Schwach - Starke Quartalszahlen von Nvidia stützten nur anfangs leicht, im Tagesverlauf ging es mit den Indizes kontinuierlich nach unten. Zum einen hätten die Zahlen eine geringere Rolle als sonst gespielt, weil Nvidias gerade zurückgetretener früherer CEO Jensen Huang auch als Finanzier des KI-Booms über Nvidia hinaus gegolten habe, hieß es. Zum anderen hieß es mit Blick auf den Anthropic-Börsengang am Donnerstag, dass einige Anleger dafür Platz in ihren Portfolios hätten Platz schaffen, also Aktien verlaufen müssen. Belastend wirkten daneben hohe Inflationsdaten aus der Eurozone. Unter den Technologietiteln gewannen Infineon 1,1, Siemens Energy 1,3 und Aixtron 1,8 Prozent, sowie STMicroelectronics 1,8 und ASML 1,9 Prozent. Für Prosus ging es um 5,1 Prozent nach unten. Belastend wirkten nicht überzeugende Geschäftszahlen des Beteiligungsunternehmens Tencent für das dritte Quartal. Aktien aus dem Rohstoff- und Stahlsektor standen unter Abgabedruck angesichts fallender Rohstoffpreise. Rio Tinto verloren 4,7, Antofagasta 7,9, BHP 5,1, Salzgitter 2,2 oder Thyssenkrupp 3,0 Prozent. Die Aktie des Eisenbahnbauers Alstom verlor weitere 7,2 Prozent nach der Vorlage finaler Zahlen. Der Nettogewinn lag laut JP Morgan nochmals niedriger als er bei der Gewinnwarnung vor einigen Wochen avisiert worden war.
+
+DAX/MDAX/SDAX/TECDAX
+
+Schwach - für die am Vortag um 6 Prozent gefallene Aktie der Deutschen Bank ging es um weitere 3,1 Prozent nach unten, auch wenn es von Analysten überwiegend hieß, dass das Datenleck keine Bedrohung für das Institit darstelle. Die Analysten der DZ Bank sprachen von einem massiven Reputationsschaden. Zudem befürchten sie spürbare finanzielle Folgeschäden. Belastend für den Kurs hätten aber wohl auch die fallenden Renditen an den Anleihemärkten gesorgt, die sektorweit drückten, weil sie niedrigere Kreditmargen für die Banken bedeuten. Für das Commerzbank-Papier ging es um 3,5 Prozent nach unten. Immobilienaktien waren dagegen gesucht mit den weiter nachgebenden Renditen: Vonovia gewannen 2,0 und LEG Immobilien 2,3 Prozent. Deutz brachen um 16,6 Prozent ein, nachdem ein US-Short-Seller einen negativen Bericht veröffentlicht hatte. Dort wurde insbesondere die jüngste Übernahme der Flensburger Fahrzeugbau Gesellschaft (FFG) für 1,6 Milliarden Euro kritisiert. Bei Drägerwerk ging es um 7,5 Prozent nach oben nach neuen Langfristzielen des Medizintechnikunternehmens.
+
+XETRA-NACHBÖRSE
+
+Medios wurden auf Tradegate mit der Ankündigung eines Aktienrückkaufs knapp 5 Prozent höher gestellt.
+
+USA - AKTIEN
+
+Uneinheitlich - Als Bremsfaktor spekulierten einige Markteilnehmer, dass der Donnerstag anstehende Börsengang von Anthropic dazu führte, dass Anleger im Vorfeld Platz dafür in ihren Portfolios schaffen mussten. Die Nvidia-Aktie verbilligte sich um 2,9 Prozent. Zwar waren die Quartalszahlen und der Ausblick besser als erwaertet ausgefallen und Interimschefin Colette Kress verwies während der Telefonkonferenz auf eine steigende Chip-Nachfrage als Zeichen dafür, dass bei dem KI-Vorzeigeunternehmen alles wie gewohnt läuft. Es gelang ihr jedoch nicht, die Zweifel des Marktes an der künftigen Entwicklung von Nvidia und des gesamten Technologiesektors in Abwesenheit des früheren Chefs Jensen Huang als treibende Kraft hinter dem KI-Boom auszuräumen. Aktien einiger Nvidia-Partner, darunter Coreweave, gaben im Gefolge nach. Coreweave bezieht Grafikprozessoren von Nvidia, um Rechenzentren aufzubauen. Nvidia hält zudem eine Beteiligung an Coreweave; die Aktie verlor 4,1 Prozent. Andere Chipaktien wie AMD oder Broadcom legten derweil um bis zu 5,3 Prozent zu, Intel gaben dagegen um 0,9 Prozent nach. Take-Two Interactive stiegen um 6,2 Prozent, nachdem der Videospielehersteller für "Grand Theft Auto VI" begeisterte Kritiken von Spielern erhalten hatte, die bereits vor der Veröffentlichung in dieser Woche Zugang erhalten hatten. Die Aktien von Unitedhealth, CVS Health und Humana verloren jeweils 5 Prozent oder mehr. Hier belastete laut Markteilnehmern eine bundesstaatlicher Initiative, die dazu führen könnte, dass die Krankenversicherer weniger Geld vom Staat erhalten und möglicherweise einen Teil bereits gezahlter Gelder zurückzahlen müssen. Die Target-Aktie kletterte um 4,0 Prozent, nachdem der Einzelhändler sein stärkstes vierteljährliches Umsatzplus seit etwa fünf Jahren gemeldet hatte.
+
+USA - ANLEIHEN
+
+           Rendite    +/- 
+2 Jahre       4,80  +0,01 
+10 Jahre      5,07  -0,03
+
+Die Renditen am Anleihemarkt zeigten sich uneinheitlich, unter anderem sank die Rendite zehnjähriger Papiere. Hier habe weiter nachgewirkt, dass der Präsident der Fed in New York, John Williams, gesagt hatte, er glaube nicht, dass die Inflationslage einen großen Zinsschritt erfordere.
+
++++++ DEVISENMARKT +++++
+
+               zuletzt  +/- %        +/- abs.   Schluss Vortag        Mi, 17:41 
+EUR/USD         1,0966   -0,1         -0,0007           1,0973           1,0960 
+EUR/JPY         174,95   +0,1          0,1100         174,8400         174,6100 
+EUR/CHF          0,925   -0,0         -0,0003           0,9253           0,9245 
+EUR/GBP         0,8345   +0,0          0,0002           0,8343           0,8341 
+USD/JPY          159,5   +0,1          0,1700         159,3300         159,3000 
+GBP/USD         1,3139   -0,1         -0,0008           1,3147           1,3135 
+USD/CNY         6,6659   -0,0         -0,0017           6,6676           6,6676 
+USD/CNH         6,6665   -0,0         -0,0017           6,6682           6,6693 
+AUS/USD         0,6693   -0,4         -0,0024           0,6717           0,6706 
+Bitcoin/USD  63.512,73   +2,0        1.237,76        62.274,97        62.297,79
+
+Für den Dollar ging es auf dem 19-Monats-Hoch zum Euro weiter nach oben - der Euro kostete zuletzt im US-Handel 1,0971 Dollar. Die geldpolitischen Aussichten kämen dem Greenback weiterhin zugute, sagte Louis Guy Detata von UEXO.com. Er verwies auf die Erwartung einer Zinserhöhung durch die Fed um 25 Basispunkte im Dezember sowie auf weitere Anhebungen im Verlauf des Jahres 2027.
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 19, 2026 01:40 ET (06:40 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
+    
+    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
+    
+    09/11/2026 14:29
+    
+    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+19.11.2026 / 07:40:17
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+           zuletzt  +/- %        +/- abs.   Schluss Vortag 
+Gold      3.732,33   +0,3            9,93         3.722,40 
+Silber       45,22   +0,4            0,20            45,02 
+Platin    1.375,30   +0,3            4,05         1.371,25
+
+Der Goldpreis stand unter Druck. Die Feinunze büßte 2,7 Prozent auf 3.740 Dollar ein. Er litt weiter unter dem festen Dollar, der das Edelmetall für Käufer aus dem Nichtdollarraum verteuert und der Aussicht auf höhere Zinsen, wodurch Gold als Anlage an Attraktivität verliert.
+
+ÖL
+
+             zuletzt  +/- %        +/- abs.   Schluss Vortag 
+WTI/Nymex      83,32   +0,1            0,06            83,26 
+Brent/ICE      92,13   +0,2            0,18            91,95
+
+Die Ölpreise gaben deutlich nach, Brent-Öl um 2,1 Prozent auf 91,40 Dollar. "Weitere Störungen im Bereich der Straße von Hormus bleiben ein wichtiges Aufwärtsrisiko, aber die steigende Opec+-Produktion, robuste russische Exporte und wachsende US-Lagerbestände deuten auf ein entspannteres Angebotsbild hin", hieß es von der ING zum Umfeld. Nach Bekanntwerden der wöchentlichen US-Öllagerdaten war es mit dem Preis weiter nach unten gegangen; die Vorräte waren stärker gestiegen als erwartet.
+
++++++ MELDUNGEN SEIT MITTWOCH 17.30 UHR +++++
+
+USA - Geldpolitik
+
+Das Protokoll der Fed-Sitzung vom Oktober zeigt, dass zahlreiche Notenbanker angesichts der hartnäckigen Inflation künftig höhere Zinsen für erforderlich halten; einige bevorzugten eine Zinserhöhung bereits im Oktober.
+
+RWE
+
+hat mitgeteilt, dass Andrew Flanagan, Chief Executive Officer von RWE Americas, das Unternehmen zum Jahresende verlässt, um sich einer neuen beruflichen Herausforderung zu widmen.
+
+EVOTEC
+
+Evotec und Bristol Myers Squibb haben in ihrer Partnerschaft zur Protein-Degradation eine zweite Freigabe der US-Arzneimittelbehörde FDA erreicht, der freigegebene Wirkstoffkandidat soll 2027 in eine Phase-1-Studie eintreten.
+
+MEDIOS
+
+legt ein neues Aktienrückkaufprogramm auf über bis zu 19 Millionen Euro bzw. bis zu 1,5 Millionen Aktien, entsprechend rund 5,88 Prozent des Grundkapitals.
+
+BAE SYSTEMS
+
+prüft nach eigenen Angaben Optionen zum Abbau von bis zu 1.070 Stellen in Großbritannien. Damit will das Unternehmen seine Geschäftsabläufe schlanker und wettbewerbsfähiger gestalten.
+
+PALO ALTO NETWORKS
+
+hat im ersten Geschäftsquartal einen Gewinn von 482 (Vorjahr: 334) Millionen Dollar erzielt. Bereinigt lag der Gewinn je Aktie bei 1,05 (Analysten: 0,97) Dollar. Der Umsatz kletterte um 39 Prozent auf 3,45 (Analysten: 3,31) Milliarden Dollar. Zudem übernimmt der Cybersicherheitskonzern das von ehemaligen OpenAI-Forschern gegründete KI-Startup Applied Compute für 4,5 Milliarden Dollar in einer reinen Aktientransaktion. Palo Alto Networks hob außerdem die Jahresprognose an.
+
+NOVARTIS
+
+prognostiziert ein stetiges Umsatzwachstum bis 2031. Der Konzern verweist dabei auf den Schwung durch bereits auf dem Markt befindliche Medikamente sowie anstehende Markteinführungen. Novartis erwartet von 2026 bis 2031 ein jährliches Umsatzwachstum von 5 Prozent, bereinigt um Wechselkurseffekte. Zuvor waren 5 bis 6 Prozent in Aussicht gestellt worden. Novartis hob zugleich die Spitzenumsatzerwartungen für die Schlüsselmedikamente Kesimpta, Scemblix und Leqvio an. Novartis sieht sich weiterhin auf Kurs, bis 2029 wieder eine bereinigte operative Gewinnmarge von über 40 Prozent zu erreichen.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/ros/gos
+
+(END) Dow Jones Newswires
+
+November 19, 2026 01:40 ET (06:40 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
+    
+    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
+    
+    09/11/2026 14:29
+    
+    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+19.11.2026 / 07:46:11
+
+# Ölpreise kaum bewegt - USA vor neuen Angriffen auf den Iran?
+
+NEW YORK/LONDON (dpa-AFX) - Die Ölpreise haben sich am Donnerstag nach den Verlusten am Vortag mehr oder weniger stabil präsentiert. Ein Barrel (159 Liter) der Nordseesorte Brent zur Lieferung im Januar kostete zuletzt 92,16 US-Dollar. Damit stieg der Preis der Referenzsorte leicht um 0,22 Prozent. Die Anleger wägen die weitere Entwicklung im Konflikt zwischen den USA und dem Iran ab. Dabei steht insbesondere die Möglichkeit neuer amerikanischer Militärangriffe auf die Islamische Republik im Mittelpunkt.
+
+US-Präsident Donald Trump sieht angesichts von angeblichen iranischen Anschlagsplänen Anzeichen dafür, dass sich die Islamische Republik mit chemischen und biologischen Waffen beschäftigt. Angesprochen auf Berichte über mögliche Anschlagspläne in der US-Hauptstadt Washington, D.C., sagte Trump dem US-Sender Fox News: "Es gibt Hinweise darauf, dass der Iran sich mit Gasen und (...) biologischen Waffen befasst."
+
+Dem US-Nachrichtenportal "Axios" zufolge zieht Trump eine Wiederaufnahme der Kampfhandlungen gegen den Iran zusammen mit Israel in Betracht. Israel behauptet demnach, über Geheimdienstinformationen zu verfügen, denen zufolge der Iran seine Forschung und Entwicklung im Bereich chemischer Waffen intensiviert.
+
+Die internationale Referenzsorte Brent hat im November bislang mehr als ein Fünftel an Wert verloren. Die Öllieferungen aus dem Nahen Osten haben sich erholt, während Trump bisher auf neue großangelegte Angriffe auf den Iran verzichtet hat. Allerdings nahmen die Kampfhandlungen geringerer Intensität in der Region in den vergangenen Tagen wieder zu. Unter anderem wurden zahlreiche Schiffe bei der Durchfahrt durch die strategisch wichtige Straße von Hormus angegriffen.
+
+"Wir sind noch nicht an dem Punkt, an dem die Verbesserung der Versorgungslage ausreicht, um die militärischen Zwischenfälle in der Region in den Hintergrund zu drängen", sagte Florence Schmit, leitende Energiestrategin bei der Rabobank, der Nachrichtenagentur Bloomberg.
+
+Die Versorgungskrise infolge der Blockade der Straße von Hormus wird den Energiemarkt nach Einschätzung der Internationalen Energieagentur langfristig prägen. "Ich sehe keinen glaubhaften Weg, wie die Energiewelt wieder so sein könnte, wie sie früher war", sagte IEA-Chef Fatih Birol. Die Krise führte demnach dazu, dass zahlreiche Länder ihre Energiestrategie angepasst haben./stk/mis
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
+    
+    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
+    
+    09/11/2026 14:29
+    
+    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+19.11.2026 / 07:52:39
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+Anthropic hat mehr Aktien als geplant zu einem höheren Preis als erwartet verkauft. Damit stellt das KI-Unternehmen einen Rekord für den größten Börsengang aller Zeiten auf. Anthropic hat 980 Millionen Aktien zu je 83 US-Dollar verkauft, oberhalb der vom Unternehmen in Aussicht gestellten Preisspanne. Anthropic nimmt damit 81,34 Milliarden Dollar ein. Damit wird das Unternehmen auf vollständig verwässerter Basis mit rund 1,5 Billionen Dollar bewertet. Wenn man Posten wie Aktienoptionen nicht mitzählt, ergibt sich ein Marktwert von etwa 1 Billion Dollar. Die Aktien sollen am Donnerstagmittag an der Nasdaq unter dem Tickersymbol "ANT" notiert werden. Beim Emissionsvolumen zieht Anthropic an SpaceX vorbei, das bei seinem IPO im Juni 75 Milliarden Dollar eingenommen hatte. Anthropic hatte den Verkauf von 825 Millionen Aktien zu je 70 bis 78 Dollar angestrebt. Das Unternehmen plante zudem, bei einer Privatplatzierung von Aktien zusätzliche 26 Milliarden Dollar einzunehmen. Dies sollte durch eine Gruppe großer Investoren geschehen, darunter Amazon, Nvidia und Google.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+11:30 CN/Alibaba Group Holding Ltd, Ergebnis 2Q
+
+13:00 US/Walmart Inc, Ergebnis 3Q
+
+Im Tagesverlauf:
+
+\- US/Anthropic Pbc, Erstnotiz an der Nasdaq
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\-US 
+    14:30 Erstanträge Arbeitslosenhilfe (Woche) 
+          PROGNOSE: 197.000 
+          zuvor:    200.000 
+ 
+    14:30 Philadelphia-Fed-Index November 
+          PROGNOSE: 18,0 
+          zuvor:    20,9 
+ 
+    16:00 Index der Frühindikatoren Oktober 
+          PROGNOSE: 0,0% gg Vm 
+          zuvor:    0,0% gg Vm
+
++++++ ÜBERSICHT INDIZES +++++
+
+Index                         zuletzt  +/- % 
+E-Mini-Future S&P-500        7.407,25   +0,9 
+E-Mini-Future Nasdaq-100    27.633,25   +1,6 
+S&P/ASX 200 (Sydney)         8.730,40   -1,0 
+Topix-500 (Tokio)            3.822,47   -0,0 
+Kospi (Seoul)                5.122,58   +1,1 
+Shanghai-Composite           3.559,89   -0,8 
+Hang-Seng-Index (Hongkong)  22.797,24   -2,1
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Leichter - Der Rekord-Börsengang von Anthropic setzt keinen positiven Impuls. Der Ausgabepreis wurde auf 83 Dollar je Aktie festgelegt, was oberhalb der ursprünglichen Spanne von 70 bis 78 Dollar liegt. Laut Anthropic wurden 980 Millionen Aktien ausgegeben. Ursprünglich sollten nur 825 Millionen Aktien angeboten werden. Doch angesichts einer hohen Nachfrage entschloss sich Anthropic, mehr Papiere auf den Markt zu werfen. Besonders deutlich fällt das Minus in Hongkong aus, wo es für den Hang-Seng-Index um 2,1 Prozent abwärts geht. Hier verlieren die Aktien von Index-Schwergewicht Tencent 7,1 Prozent. Tencent teilte mit, dass die hohen Ausgaben des Unternehmens für künstliche Intelligenz (KI), welche das Gewinnwachstum belastet haben, im kommenden Jahr voraussichtlich nahe ihrem Höchststand bleiben dürften. Für den Shanghai-Composite geht es nur um 0.8 Prozent nach unten. Der technologielastige Kospi in Seoul drehte im späten Handel deutlicher ins Plus. Der S&P/ASX 200 in Sydney verlor 1,0 Prozent. Zinserhöhungen der australischen Notenbank scheinen "tot und begraben", so Matt Simpson von StoneX. Zuvor veröffentlichte Daten zeigten, dass "sich Australiens Arbeitsmarkt im Oktober drastisch verschlechtert hat, was das Argument stärkt, dass die Reserve Bank of Australia das Ende ihres Straffungszyklus erreicht hat", ergänzt der leitende Marktanalyst. Australiens Arbeitslosenquote ist im Oktober auf den höchsten Stand seit Ende 2021 gestiegen. Dies verstärkt Befürchtungen, dass sich die Wirtschaft infolge schwachen Vertrauens und fünf Zinserhöhungen seit Jahresbeginn rasch abkühlt.
+
+WALL STREET
+
+               zuletzt  +/- %  +/- abs.  Schluss Vortag 
+DJIA         50.198,17   -1,1   -561,25       50.759,42 
+S&P-500       7.323,63   -0,2    -16,90        7.340,53 
+NASDAQ Comp  24.429,89   +0,4   +101,50       24.328,38 
+NASDAQ 100   27.116,26   +0,4   +114,47       27.001,78 
+ 
+                     Mittwoch   Dienstag 
+Umsatz NYSE (Aktien) 1,27 Mrd   1,24 Mrd 
+Gewinner             1.194        557 
+Verlierer            1.535      2.174 
+Unverändert             72         65
+
+Uneinheitlich - Als Bremsfaktor spekulierten einige Markteilnehmer, dass der Donnerstag anstehende Börsengang von Anthropic dazu führte, dass Anleger im Vorfeld Platz dafür in ihren Portfolios schaffen mussten. Die Nvidia-Aktie verbilligte sich um 2,9 Prozent. Zwar waren die Quartalszahlen und der Ausblick besser als erwartet ausgefallen und Interimschefin Colette Kress verwies während der Telefonkonferenz auf eine steigende Chip-Nachfrage als Zeichen dafür, dass bei dem KI-Vorzeigeunternehmen alles wie gewohnt läuft. Es gelang ihr jedoch nicht, die Zweifel des Marktes an der künftigen Entwicklung von Nvidia und des gesamten Technologiesektors in Abwesenheit des früheren Chefs Jensen Huang als treibende Kraft hinter dem KI-Boom auszuräumen. Aktien einiger Nvidia-Partner, darunter Coreweave, gaben im Gefolge nach. Coreweave bezieht Grafikprozessoren von Nvidia, um Rechenzentren aufzubauen. Nvidia hält zudem eine Beteiligung an Coreweave; die Aktie verlor 4,1 Prozent. Andere Chipaktien wie AMD oder Broadcom legten derweil um bis zu 5,3 Prozent zu, Intel gaben dagegen um 0,9 Prozent nach. Take-Two Interactive stiegen um 6,2 Prozent, nachdem der Videospielehersteller für "Grand Theft Auto VI" begeisterte Kritiken von Spielern erhalten hatte, die bereits vor der Veröffentlichung in dieser Woche Zugang erhalten hatten. Die Aktien von Unitedhealth, CVS Health und Humana verloren jeweils 5 Prozent oder mehr. Hier belastete laut Markteilnehmern eine bundesstaatlicher Initiative, die dazu führen könnte, dass die Krankenversicherer weniger Geld vom Staat erhalten und möglicherweise einen Teil bereits gezahlter Gelder zurückzahlen müssen. Die Target-Aktie kletterte um 4,0 Prozent, nachdem der Einzelhändler sein stärkstes vierteljährliches Umsatzplus seit etwa fünf Jahren gemeldet hatte.
+
+USA - ANLEIHEN
+
+           Rendite    +/- 
+2 Jahre       4,80  +0,01 
+10 Jahre      5,07  -0,03
+
+Die Renditen am Anleihemarkt zeigten sich uneinheitlich, unter anderem sank die Rendite zehnjähriger Papiere. Hier habe weiter nachgewirkt, dass der Präsident der Fed in New York, John Williams, gesagt hatte, er glaube nicht, dass die Inflationslage einen großen Zinsschritt erfordere.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN      zuletzt  +/- %       0:00       Mi, 08:33  % YTD 
+EUR/USD       1,0967   -0,1     1,0973          1,0979   -6,6 
+EUR/JPY       174,96   +0,1     174,84          174,74   -4,9 
+EUR/GBP       0,8344   +0,0     0,8343          0,8329   -4,3 
+USD/JPY       159,52   +0,1     159,33          159,16   +1,8 
+USD/KRW     1.329,60   -0,2   1.332,28        1.332,56   -7,7 
+USD/CNY       6,6657   -0,0     6,6676          6,6650   -4,7 
+USD/CNH       6,6664   -0,0     6,6682          6,6648   -4,4 
+USD/HKD       7,8443   -0,0     7,8453          7,8457   +0,8 
+AUD/USD       0,6694   -0,3     0,6717          0,6719   +0,3 
+NZD/USD       0,5499   +0,2     0,5491          0,5489   -4,5 
+BTC/USD    63.460,34   +1,9  62.274,97       64.617,44  -27,6
+
+Für den Dollar ging es auf dem 19-Monats-Hoch zum Euro weiter nach oben - der Euro kostete zuletzt im US-Handel 1,0971 Dollar. Die geldpolitischen Aussichten kämen dem Greenback weiterhin zugute, sagte Louis Guy Detata von UEXO.com. Er verwies auf die Erwartung einer Zinserhöhung durch die Fed um 25 Basispunkte im Dezember sowie auf weitere Anhebungen im Verlauf des Jahres 2027.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle      zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold        3.731,68   +0,2       9,28        3.722,40 
+Silber         45,33   +0,7       0,31           45,02 
+Platin      1.373,21   +0,1       1,96        1.371,25
+
+Der Goldpreis stand unter Druck. Die Feinunze büßte 2,7 Prozent auf 3.740 Dollar ein. Er litt weiter unter dem festen Dollar, der das Edelmetall für Käufer aus dem Nichtdollarraum verteuert und der Aussicht auf höhere Zinsen, wodurch Gold als Anlage an Attraktivität verliert.
+
+ÖL
+
+ROHÖL        zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex      83,22   -0,1      -0,04           83,26 
+Brent/ICE      92,41   +0,5       0,46           91,95
+
+Die Ölpreise gaben deutlich nach, Brent-Öl um 2,1 Prozent auf 91,40 Dollar. "Weitere Störungen im Bereich der Straße von Hormus bleiben ein wichtiges Aufwärtsrisiko, aber die steigende Opec+-Produktion, robuste russische Exporte und wachsende US-Lagerbestände deuten auf ein entspannteres Angebotsbild hin", hieß es von der ING zum Umfeld. Nach Bekanntwerden der wöchentlichen US-Öllagerdaten war es mit dem Preis weiter nach unten gegangen; die Vorräte waren stärker gestiegen als erwartet.
+
++++++ MELDUNGEN SEIT MITTWOCH 20.00 UHR +++++
+
+PROTOKOLL US-NOTENBANK
+
+Bei der jüngsten Sitzung der US-Notenbank hielten es ihre Vertreter für wahrscheinlich, dass für die Eindämmung der Inflation künftig höhere Zinsen erforderlich sein werden. Einige Vertreter, die die Zinspause im Oktober mittrugen, betrachteten den Beschluss als "knappe Entscheidung". Nahezu alle Teilnehmer der Sitzung vertraten die Auffassung, dass im Rahmen ihres wahrscheinlichsten Wirtschaftsszenarios letztlich eine straffere Geldpolitik nötig sein würde. Einige warnten davor, dass sich die Inflation als hartnäckiger erweisen könnte als erwartet, "wobei in diesem Fall ein Übergang zu einer restriktiveren geldpolitischen Haltung notwendig werden könnte".
+
+GELDPOLITIK JAPAN
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 19, 2026 01:52 ET (06:52 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
+    
+    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
+    
+    09/11/2026 14:29
+    
+    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+19.11.2026 / 07:52:39
+
+# MORNING BRIEFING - USA/Asien -2-
+
+(Dow Jones Newswires)
+
+Der Gouverneur der Bank of Japan, Kazuo Ueda, hat zugesagt, genau zu beobachten, wie sich geldpolitische Änderungen der US-Notenbank auf das Wachstum und die Inflation in Japan auswirken. Zugleich bekräftigte er seine Bereitschaft, den geldpolitischen Kurs weiter zu straffen.
+
+KONJUNKTUR AUSTRALIEN
+
+Australiens Arbeitslosenquote ist im Oktober auf den höchsten Stand seit Ende 2021 gesprungen. Dies schürt die Befürchtung, dass sich die Wirtschaft infolge schwachen Vertrauens und fünf Zinserhöhungen seit Jahresbeginn rapide abkühlt.
+
+LENOVO
+
+hat im zweiten Geschäftsquartal robuste Umsätze erzielt. Dank einer starken Nachfrage nach Infrastruktur für künstliche Intelligenz befindet sich das Unternehmen auf Kurs, sein jährliches Umsatzziel von 100 Milliarden US-Dollar zu erreichen.
+
+TENCENT
+
+teilte mit, dass die hohen Ausgaben des Unternehmens für künstliche Intelligenz, welche das Gewinnwachstum belastet haben, im kommenden Jahr voraussichtlich nahe ihrem Höchststand bleiben dürften. Gleichzeitig hoben sie das Ertragspotenzial der eigenen KI-Agenten-Produkte hervor.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/ros/gos/ros
+
+(END) Dow Jones Newswires
+
+November 19, 2026 01:52 ET (06:52 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
+    
+    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
+    
+    09/11/2026 14:29
+    
+    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+19.11.2026 / 08:39:47
+
+# MÄRKTE ASIEN/Uneinheitlich trotz Rekord-Börsengang von Anthropic
+
+(Dow Jones Newswires)
+
+DOW JONES--Trotz des Rekord-Börsengangs von Anthropic haben sich die ostasiatischen Aktienmärkte am Donnerstag mit keiner klaren Tendenz gezeigt. Der Ausgabepreis wurde auf 83 Dollar je Anthropic-Aktie festgelegt, was oberhalb der ursprünglichen Spanne von 70 bis 78 Dollar liegt. Der schärfste Konkurrent des ChatGPT-Entwicklers OpenAI startet damit am Donnerstag mit einer Bewertung von rund 1,5 Billionen Dollar an der Wall Street. Laut Anthropic wurden 980 Millionen Aktien ausgegeben. Ursprünglich sollten nur 825 Millionen Aktien angeboten werden. Doch angesichts einer hohen Nachfrage entschloss sich Anthropic, mehr Papiere auf den Markt zu werfen.
+
+Anthropic sieht sich bei seinem Börsendebüt laut Malik Ahmed Khan von Morningstar mit großer Unsicherheit konfrontiert. Mit 83 Dollar je Aktie komme das Unternehmen zwar oberhalb der ursprünglichen Preisspanne an den Markt, liege aber immer noch unter der Fair-Value-Schätzung von Morningstar von 92 Dollar je Aktie bzw. einer Bewertung von 1,7 Billionen Dollar, gibt der Senior Equity Analyst zu bedenken. "Unsere Bewertung spiegelt das erhebliche Wachstum wider, das wir durch die Einführung von KI erwarten, sowie die Spitzenposition von Anthropic bei der Modellentwicklung, insbesondere in Bereichen Programmierung und Cybersicherheit", so der Analyst. Es bleibe allerdings beträchtliche Unsicherheit, warnte er mit Blick auf das Wettbewerbsumfeld und die Wirtschaftlichkeit generativer KI.
+
+Besonders deutlich fiel das Minus in Hongkong aus, wo es für den Hang-Seng-Index im späten Handel um 2,0 Prozent abwärts ging. Hier belastete der Kurseinbruch bei Index-Schwergewicht Tencent (-6,8%). Das Unternehmen teilte mit, dass die hohen Ausgaben für künstliche Intelligenz (KI), welche das Gewinnwachstum belastet haben, im kommenden Jahr voraussichtlich nahe ihrem Höchststand bleiben dürften. Der Shanghai-Composite verlor lediglich 0,3 Prozent. Der technologielastige Kospi in Seoul schloss mit einem Plus von 1,4 Prozent. Hier legten die Aktien von Unterhaltungsunternehmen kräftig zu. In Tokio zeigte sich ein uneinheitliches Bild. Während es für den Nikkei-225 um 0,7 Prozent nach oben ging, schloss der breiter gefasste Topix wenig verändert.
+
+Das am Vorabend veröffentlichte Protokoll der jüngsten Sitzung der US-Notenbank deutete auf weitere Zinserhöhungen hin. Die Fed-Vertreter hielten es für wahrscheinlich, dass für die Eindämmung der Inflation künftig höhere Zinsen erforderlich sein werden. Der Markt rechnet mehrheitlich mit einer weiteren Zinserhöhung auf der Dezember-Sitzung um 25 Basispunkte.
+
+Derweil hat der Gouverneur der Bank of Japan, Kazuo Ueda, zugesagt, genau zu beobachten, wie sich geldpolitische Änderungen der US-Notenbank auf das Wachstum und die Inflation in Japan auswirkten. Er bekräftigte seine Bereitschaft, den geldpolitischen Kurs weiter zu straffen.
+
+Zudem wurde auf das Treffen zwischen US-Präsident Donald Trump, Chinas Staatschef Xi Jinping und dem russischen Präsidenten Wladimir Putin geschaut. "Trump und Xi haben zudem ein separates bilaterales Treffen geplant. Die Zusammenkünfte stellen das hochrangigste diplomatische Engagement seit Monaten dar und werden aufmerksam auf Signale zu Handel, Technologiebeschränkungen und dem breiteren geopolitischen Rahmen beobachtet, der die asiatischen Märkte beeinflusst", sagten die Analysten von Commerzbank Research.
+
+Der S&P/ASX 200 in Sydney verlor 1,0 Prozent. Zinserhöhungen der australischen Notenbank (RBA) scheinen "tot und begraben", meinte Matt Simpson von StoneX. Zuvor veröffentlichte Daten hatten gezeigt, dass "sich Australiens Arbeitsmarkt im Oktober drastisch verschlechtert hat, was das Argument stärkt, dass die Reserve Bank of Australia das Ende ihres Straffungszyklus erreicht hat", ergänzte der leitende Marktanalyst. Australiens Arbeitslosenquote ist im Oktober auf den höchsten Stand seit Ende 2021 gestiegen. Dies verstärkt Befürchtungen, dass sich die Wirtschaft infolge schwachen Vertrauens und fünf Zinserhöhungen seit Jahresbeginn rasch abkühlt.
+
+In Seoul haussierten die Aktien von Unterhaltungsunternehmen. Zuvor hatte eine Vereinbarung zwischen Seoul und Peking die Tür dafür geöffnet, dass China möglicherweise Beschränkungen lockert, die großen K-Pop-Acts Auftritte im Land untersagen. Die Aktien von Hybe stiegen um 12,6 Prozent. Die Papiere des Unterhaltungs- und Medienunternehmens CJ ENM gingen 26,7 Prozent höher aus dem Handel und die Titel des Fernsehserienproduzenten Studio Dragon sprangen um 30 Prozent nach oben.
+
+Lenovo (-6,5%) hat im zweiten Geschäftsquartal einen höheren Nettoverlust ausgewiesen, als von Analysten erwartet. Belastend wirkten vor allem gestiegene operative Ausgaben. Die Sony-Aktie verbesserte sich in Tokio dagegen um 2,9 Prozent. Laut Schätzungen von Sensor Tower entfallen rund drei Viertel der bisher 17 Millionen verkauften Exemplare von "Grand Theft Auto VI" auf die PlayStation, was Sony hohe Lizenzeinnahmen beschert. Im Gefolge stiegen Nintendo um 3,4 Prozent.
+
+\=== 
+INDEX                       zuletzt  +/- %      % YTD  Handelsschluss 
+S&P/ASX 200 (Sydney)       8.730,40   -1,0       +0,2            6:00 
+Nikkei-225 (Tokio)        59.444,21   +0,7        ---            7:30 
+Topix 500 (Tokio)          2.988,30   -0,0      +12,3            7:30 
+Kospi (Seoul)              5.137,89   +1,4      +21,4            7:30 
+Hang-Seng (Hongkong)      22.836,34   -2,0      -10,9            9:00 
+Shanghai-Composite         3.577,62   -0,3       -9,9            8:00 
+Straits-Times (Singapur)   5.064,31   +0,2       +9,0           10:00 
+IDX Comp. (Indonesien)     5.210,91   -0,7      -39,7           10:00 
+KLCI (Malaysia)            1.563,98   -0,2       -6,9           10:00 
+ 
+DEVISEN                     zuletzt  +/- %       0:00       Mi, 08:33  % YTD 
+EUR/USD                      1,0976   +0,0     1,0973          1,0979   -6,6 
+EUR/JPY                      175,19   +0,2     174,84          174,74   -4,8 
+EUR/GBP                      0,8345   +0,0     0,8343          0,8329   -4,3 
+USD/JPY                      159,59   +0,2     159,33          159,16   +1,9 
+USD/KRW                    1.330,36   -0,1   1.332,28        1.332,56   -7,7 
+USD/CNY                      6,6651   -0,0     6,6676          6,6650   -4,7 
+USD/CNH                      6,6653   -0,0     6,6682          6,6648   -4,5 
+USD/HKD                      7,8448   -0,0     7,8453          7,8457   +0,8 
+AUD/USD                      0,6703   -0,2     0,6717          0,6719   +0,5 
+NZD/USD                      0,5503   +0,2     0,5491          0,5489   -4,4 
+BTC/USD                   63.575,86   +2,1  62.274,97       64.617,44  -27,5 
+ 
+ROHÖL                       zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                     83,43   +0,2       0,17           83,26 
+Brent/ICE                     92,41   +0,5       0,46           91,95 
+ 
+Metalle                     zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                       3.738,52   +0,4      16,12        3.722,40 
+Silber                        45,51   +1,1       0,49           45,02 
+Platin                     1.378,31   +0,5       7,06        1.371,25 
+(Angaben ohne Gewähr) 
+===
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/DJN/ros/hab
+
+(END) Dow Jones Newswires
+
+November 19, 2026 02:39 ET (07:39 GMT)
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Lenovo Group Limited
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 894983
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/894983-lenovo-group/)
+    
+-   [
+    
+    ### Sony Group Corporation
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 853687
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/853687-sony/)
+    
+-   [
+    
+    ### Nintendo Co., Ltd.
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 864009
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/864009-nintendo/)
+    
+-   [
+    
+    ### Tencent Holdings Ltd
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN A1138D
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a1138d-tencent/)
+    
+-   [
+    
+    ### Lenovo Group Limited Sponsored ADR
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN A0B7GH
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a0b7gh-lenovo-group-adr/)
+    
+-   [
+    
+    ### Nintendo Co., Ltd. Unsponsored ADR
+    
+    #### +0,00 %
+    
+    G \-B \-
+    
+    WKN 905551
+    
+    0 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/905551-nintendo-uns-adr-1-8-o-n/)
+    
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
+    
+    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
+    
+    09/11/2026 14:29
+    
+    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+
+Weitere Treffer anzeigen
+
+
+
+
 Marktübersicht für Europa
 Europäische Aktien verzeichnen nach Rekordhochs spürbare Verluste
 Die europäischen Aktienmärkte haben in den letzten Handelstagen eine deutliche Korrektur erfahren, nachdem der Leitindex STOXX Europe 600 kurz zuvor noch ein neues Allzeithoch erreicht hatte. Zuletzt schloss der Index drei Tage in Folge im Minus. Diese jüngste Abwärtsdynamik spiegelt die wachsende Vorsicht der Anleger wider, die nach einer starken Kursrallye vermehrt Gewinne realisieren.
