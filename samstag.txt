@@ -67,3 +67,384 @@ Fed-Reden (Waller, Cook & Barkin):
 Fed-Gouverneur Christopher Waller äußerte sich besorgt über die Inflation und signalisierte, dass die US-Notenbank die Märkte im Dezember unter Umständen mit einer Zinserhöhung um 50 Basispunkte „schocken“ müsse, um die Teuerung einzudämmen.
 Richmond-Fed-Präsident Tom Barkin verwies auf eine stagnierende Erwerbsbevölkerung und bezeichnete den Mangel an bezahlbarem Wohnraum als wesentliches Risiko für den US-Arbeitsmarkt.
 prompt_suggestion
+
+
+# Nachricht - Börse Stuttgart
+
+20.11.2026 / 17:35:02
+
+# WOCHENVORSCHAU: Termine bis 4. Dezember 2026
+
+FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine bis Freitag, den 4. Dezember
+
+   
+---------------------------------------------------------------------------------------
+MONTAG, DEN 23. NOVEMBER
+
+TERMINE UNTERNEHMEN
+07:00 CHE: Julius Bär, Q3-Umsatz
+11:00 DEU: Borussia Dortmund,  Hauptversammlung, Dortmund
+22:00 USA: Hewlett Packard Enterprise, Q4-zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+DEU: BASF, Capital Markets Day
+USA: Zoom Video Communications, Q3-Zahlen
+
+TERMINE KONJUNKTUR
+09:15 FRA: S&P Global PMI Verarbeitendes Gewerbe und Dienste 11/26 (1. Veröffentlichung)
+09:30 DEU: S&P Global PMI Verarbeitendes Gewerbe und Dienste 11/26 (1. Veröffentlichung)
+09:30 POL: Erzeugerpreise 10/26
+10:00 EUR: S&P Global PMI Verarbeitendes Gewerbe und Dienste 11/26 (1. Veröffentlichung)
+10:30 GBR: S&P Global PMI Verarbeitendes Gewerbe und Dienste 11/26 (1. Veröffentlichung)
+14:30 USA: CFNA-Index 10/26
+15:45 USA: S&P Global PMI Verarbeitendes Gewerbe und Dienste 11/26 (1. Veröffentlichung)
+
+SONSTIGE TERMINE
+DEU: Dritte Runde Tarifverhandlungen private Banken, Berlin
+
+BEL: Treffen der EU-Agrar- und Fischereiminister, Brüssel
+
+---------------------------------------------------------------------------------------
+DIENSTAG, DEN 24. NOVEMBER
+
+TERMINE UNTERNEHMEN
+06:00 EUR: Acea Kfz-Neuzulassungen 10/26
+08:00 GBR: Kingfisher, Q3-Umsatz
+12:45 USA: Medtronic, Q2-Zahlen
+13:00 USA: Analog Devices, Q4-Zahlen
+13:00 USA: Best Buy, Q3-Zahlen
+15:00 CHE: Transocean, Hauptversammlung (außerordentlich)
+17:00 DEU: BASF, Capital Markets Day (Tag 2 von 2)
+22:00 USA: HP Inc., Q4-Zahlen
+22:00 USA: Dell, Q3-Zahlen
+
+TERMINE KONJUNKTUR
+01:30 JPN: S&P Global PMI Verarbeitendes Gewerbe und Dienste 11/26 (1. Veröffentlichung)
+07:00 FIN: Arbeitslosenquote 10/26
+09:00 ESP: Erzeugerpreise 10/26
+09:30 POL: Einzelhandelsumsatz 10/26
+10:00 DEU: Ifo-Geschäftklima 11/26
+14:15 USA: ADP Beschäftigung (Woche)
+15:00 USA: FHFA Hauspreisindex 9/26
+15:00 BEL: Geschäftsklima 1/26
+16:00 USA: Richmond Fed Herstellerindex 11/26
+16:00 USA: Verbrauchervertrauen 11/26
+
+SONSTIGE TERMINE
+FRA: Voraussichtlich: EU-Kommission stellt Herbstpaket des sogenannten Europäischen Semesters vor, Straßburg
+
+---------------------------------------------------------------------------------------
+MITTWOCH, DEN 25. NOVEMBER
+
+TERMINE UNTERNEHMEN
+06:45 LUX: Aroundtown, Q3-Zahlen
+07:30 FRA: Remy Cointreau, Halbjahreszahlen
+07:30 NLD: Prosus, Halbjahreszahlen
+08:00 GBR: Easyjet, Jahreszahlen
+10:00 NOR: Norsk Hydro, Investor Day
+10:00 DEU: Hannover Rück, Investorentag
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+USA: Deere & Co, Q4-Zahlen
+ 
+TERMINE KONJUNKTUR
+07:00 JPN: Maschinenwerkzeugaufträge 10/26 (endgültig)
+08:00 SWE: Erzeugerpreise 10/26
+08:00 DEU: BIP Q3/26 (2. Veröffentlichung)
+08:00 DEU: Privatkonsum Q3/26
+08:00 DEU: Staatsausgaben Q3/26
+08:45 FRA: Verbrauchervertrauen 11/26
+09:30 POL: Arbeitslosenquote 10/26
+14:30 USA: Private Einkommen und Ausgaben 10/26
+14:30 USA: Realeinkommen 10/26
+14:30 USA: PCE Preisindex 10/26
+14:30 USA: BIP Q3/26 (2. Veröffentlichung)
+14:30 USA: Erstanträge Arbeitslosenhilfe (Woche)
+14:30 USA: Auftragseingang langlebige Güter 10/26 (vorab)
+16:00 USA: Verkauf neuer Häuser 10/26
+16:30 USA: EIA Ölbericht (Woche)
+17:00 RUS: Industrieproduktion 10/26
+20:00 USA: Beige Book
+
+SONSTIGE TERMINE
+10:00 DEU: Weihnachtspressekonferenz Handelsverband Hessen, Frankfurt/M.
+
+BEL: EU-Westbalkangipfel, Brüssel
+
+---------------------------------------------------------------------------------------
+DONNERSTAG, DEN 26. NOVEMBER
+
+TERMINE UNTERNEHMEN
+DEU: Rheinmetall, Capital Markets Day (bis 27.11.26)
+ 
+TERMINE KONJUNKTUR
+DEU: DIW-Konjunkturbarometer
+02:00 KOR: Zentralbank, Zinsentscheid
+08:00 NOR: BIP Q3/26
+08:00 DNK: Einzelhandelsumsatz 10/26
+08:00 DEU: NIM-Konsumklima 12/26
+08:45 FRA: Erzeugerpreise 10/26
+10:00 EUR: Geldmenge M3 10/26
+
+SONSTIGE TERMINE
+DEU: Chemie- und Pharma-Summit, Berlin
+Auf der Konferenz soll u.a. Covestro-Chef Markus Steilemann als Präsident des VCI wiedergewählt werden. Steilemann gehört seit März 2020 dem VCI-Vorstand an. Seit 30. September 2022 führt er den Verband als Präsident.
+
+09:00 DEU: European Defence Capital Summit 2026, Frankfurt/M.
+
+10:00 DEU: Pressegespräch Deutsche Bank: Kapitalmarktausblick 2027, Frankfurt/M.
+
+11:00 DEU: Pressegespräch Dekabank: Kapitalmarkt- und Konjunkturausblick, Frankfurt/M.
+
+14:00 DEU: Urteil erwartet im Prozess gegen die Drogeriemarktkette dm wegen des Angebots von Augenscreening in den Filialen, Karlsruhe
+
+16:00 DEU: Verkündungstermin Oberlandesgericht Frankfurt zu Unterlassungsklage gegen Fluggesellschaft wegen Regelungen zum Handgepäck, Frankfurt/M.
+
+BEL: EU-Sondergipfel zur langfristigen Finanzplanung und zur weiteren finanziellen Unterstützung der Ukraine, Brüssel
+
+HINWEIS
+USA: Feiertag, Börse geschlossen
+ 
+---------------------------------------------------------------------------------------
+FREITAG, DEN 27. NOVEMBER
+
+TERMINE UNTERNEHMEN
+07:00 BEL: Elia Group, Q3-Zahlen
+
+DEU: Rheinmetall, Capital Markets Day (bis 27.11.26)
+ 
+TERMINE KONJUNKTUR
+00:30 JPN: Tokio Verbraucherpreise 11/26
+07:00 FIN: BIP Q3/26
+08:00 NOR: Arbeitslosenquote 11/26
+08:00 SWE: Handelsbilanz 10/26
+08:00 SWE: BIP Q3/26
+08:45 FRA: Verbraucherpreise 11/26 (vorläufig)
+08:45 FRA: BIP Q3/26 (2. Veröffentlichung)
+09:00 ESP: Verbraucherpreise 11/26 (vorläufig)
+09:00 ESP: Einzelhandelsumsatz 10/26
+09:55 DEU: Arbeitslosenzahlen 11/26
+11:00 EUR: Wirtschaftsvertrauen 11/26
+11:00 EUR: Industrievertrauen 11/26
+11:00 EUR: Verbrauchervertrauen 11/26 (endgültig)
+11:30 BEL: Verbraucherpreise 11/26
+14:30 USA: Lagerbestände Großhandel 10/26 (vorab)
+
+SONSTIGE TERMINE
+10:30 DEU: Bayerischer Bankentag 2026, München
+Unter dem Motto «Verantwortung für wirtschaftliche Stärke und Wettbewerbsfähigkeit - Perspektiven aus Sicht von Finanzaufsicht und Wirtschaftswissenschaft».
+U.a. mit Keynote von Mark Branson, Präsident der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin), zum Thema «Wettbewerbsfähigkeit braucht Stabilität: Die Rolle der Finanzaufsicht».
+
+BEL: EU-Sondergipfel zur langfristigen Finanzplanung und zur weiteren finanziellen Unterstützung der Ukraine - zweiter und letzter Tag, Brüssel
+
+HINWEIS
+USA: Verkürzter US-Handel Aktien und Anleihen
+ 
+ 
+---------------------------------------------------------------------------------------
+MONTAG, DEN 30. NOVEMBER
+
+TERMINE UNTERNEHMEN
+10:30 DEU: MTU Aero Engines, Capital Markets Day
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+GBR: Standard Life, Capital Markets Day
+ 
+TERMINE KONJUNKTUR
+00:50 JPN: Einzelhandelsumsatz 10/26
+00:50 JPN: Industrieproduktion 10/26 (vorläufig)
+02:30 CHN: PMI Verarbeitendes Gewerbe und Dienste 11/26
+06:00 JPN: Wohnungsbaubeginne 10/26
+08:00 SWE: Einzelhandelsumsatz 10/26
+09:00 CHE: BIP Q3/26
+09:00 CHE: KOF Frühindikator 11/26
+09:00 AUT: Erzeugerpreise 10/26
+09:30 POL: Verbraucherpreise 11/26 (vorläufig)
+09:30 POL: BIP Q3/26 (2. Veröffentlichung)
+10:00 DEU: Verbraucherpreise Hessen, Bayern, Brandenburg, Sachsen, Baden-Württemberg, Nordrhein-Westfalen 11/26
+10:00 ITA: Verbrauchervertrauen 11/26
+10:00 ITA: Produzentenvertrauen 11/26
+10:30 GBR: Hypothekenzusagen 10/26
+11:00 BEL: BIP Q3/26 (endgültig)
+11:00 ITA: Verbraucherpreise 11/26 (vorläufig)
+12:00 PRT: BIP Q3/26 (2. Veröffentlichung)
+12:00 PRT: Verbraucherpreise 11/26 (vorläufig)
+12:00 IRL: Verbraucherpreise 11/26 (vorläufig)
+14:00 DEU: Verbraucherpreise 11/26 (vorläufig)
+15:45 USA: MNI Chicago PMI 11/26
+16:30 USA: Dallas Fed Verarbeitendes Industrie 11/26
+
+SONSTIGE TERMINE
+BEL: Treffen der Verkehrsminister der EU, Brüssel
+
+BEL: EU-Handelsministertreffen, Brüssel
+
+---------------------------------------------------------------------------------------
+DIENSTAG, DEN 1. DEZEMBER
+
+TERMINE UNTERNEHMEN
+10:00 DEU: KWS Saat, Hauptversammlung
+ 
+TERMINE KONJUNKTUR
+00:30 JPN: Arbeitslosenquote 10/26
+00:50 JPN: Investitionen Q3/26
+01:30 JPN: S&P Global PMI Verarbeitendes Gewerbe 11/26 (2. Veröffentlichung)
+02:45 CHN: RatingDog PMI Verarbeitendes Gewerbe 11/26
+06:30 NLD: Verbraucherpreise 11/26 (vorläufig)
+08:00 TUR: BIP Q3/26
+08:30 HUN: BIP Q3/26 (2. Veröffentlichung)
+09:00 AUT: Verbraucherpreise 11/26 (vorläufig)
+09:15 ESP: S&P Global PMI Verarbeitendes Gewerbe 11/26
+09:30 CHE: PMI Verarbeitendes Gewerbe 11/26
+09:45 ITA: S&P Global PMI Verarbeitendes Gewerbe 11/26
+09:50 FRA: S&P Global PMI Verarbeitendes Gewerbe 11/26 (2. Veröffentlichung)
+09:55 DEU: S&P Global PMI Verarbeitendes Gewerbe 11/26 (2. Veröffentlichung)
+10:00 ITA: BIP Q3/26 (2. Veröffentlichung)
+10:00 EUR: S&P Global PMI Verarbeitendes Gewerbe 11/26 (2. Veröffentlichung)
+10:30 GBR: S&P Global PMI Verarbeitendes Gewerbe 11/26 (2. Veröffentlichung)
+11:00 EUR: Verbraucherpreise 11/26 (vorläufig)
+15:45 USA: S&P Global PMI Verarbeitendes Gewerbe 11/26 (2. Veröffentlichung)
+16:00 USA: ISM Verarbeitendes Gewerbe 11/26
+16:00 USA: Bauinvestitionen 10/26
+
+SONSTIGE TERMINE
+14:00 DEU: Konferenz des Bundesverbands der Deutschen Entsorgungs-, Wasser- und Kreislaufwirtschaft e. V. (BDE) zu Verpackungsrecycling, Berlin
+
+BEL: Treffen der EU-Minister für Telekommunikation, Brüssel
+
+BEL: Treffen der für Entwicklungshilfe zuständigen EU-Minister, Brüssel
+
+---------------------------------------------------------------------------------------
+MITTWOCH, DEN 2. DEZEMBER
+
+TERMINE UNTERNEHMEN
+07:00 DEU: Aurubis, Jahreszahlen
+22:00 USA: Salesforce, Q3-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+USA: Snowflake, Q3-Zahlen
+ 
+TERMINE KONJUNKTUR
+POL: Zentralbank, Zinsentscheid
+08:30 CHE: Verbraucherpreise 11/26
+09:00 ESP: Arbeitslosenzahlen 11/26
+10:00 ITA: Arbeislosenquote 10/26
+11:00 EUR: Arbeitslosenquote 10/26
+12:00 IRL: Arbeitslosenquote 11/26
+12:00 PRT: Industrieproduktion 10/26
+14:00 HUN: Zentralbank, Zinsentscheid
+14:15 USA: ADP Beschäftigung 11/26
+17:00 RUS: Arbeitslosenquote 10/26
+
+SONSTIGE TERMINE
+11:00 DEU: Pk der Spielwarenbranche 2026, Nürnberg
+
+11:00 DEU: Hybride Jahrespressekonferenz Verband der Internationalen Kraftfahrzeughersteller mit Präsidentin Labbé, Frankfurt am Main
+
+---------------------------------------------------------------------------------------
+DONNERSTAG, DEN 3. DEZEMBER
+
+TERMINE UNTERNEHMEN
+09:00 DEU: VDMA, Auftragseingang Oktober 2026
+11:00 DEU: Alnatura, Jahres-Pk, Darmstadt
+14:00 FRA: Scor,  Investor Day
+22:00 USA: Tesla, Hauptversammlung
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+DEU: Jenoptik, Capital Markets Day
+DEU: Neuzulassungszahlen des Kraftfahrt-Bundesamts, Flensburg
+ 
+TERMINE KONJUNKTUR
+01:30 JPN: S&P Global PMI Dienste 11/26 (2. Veröffentlichung)
+02:45 CHN: RatingDog PMI Dienste 11/26
+08:00 TUR: Verbraucherpreise 11/26
+08:00 TUR: Erzeugerpreise 11/26
+09:15 ESP: S&P Global PMI Dienste 11/26
+09:45 ITA: S&P Global PMI Dienste 11/26
+09:50 FRA: S&P Global PMI Dienste 11/26 (2. Veröffentlichung)
+09:55 DEU: S&P Global PMI Dienste 11/26 (2. Veröffentlichung)
+10:00 EUR: S&P Global PMI Dienste 11/26 (2. Veröffentlichung)
+10:30 GBR: S&P Global PMI Dienste 11/26 (2. Veröffentlichung)
+11:00 EUR: Erzeugerpreise 10/26
+14:30 USA: Erstanträge Arbeitslosenhilfe (Woche)
+15:45 USA: S&P Global PMI Dienste 11/26 (2. Veröffentlichung)
+16:00 USA: ISM Services Index 11/26
+16:00 USA: Auftragseingang Industrie 10/26
+16:00 USA: Auftragseingang langlebige Güter 10/26 (endgültig)
+
+SONSTIGE TERMINE
+BEL: Treffen der Innenminister der EU, Brüssel
+
+10:00 BEL: Treffen der EU-Minister zu Binnenmarkt und zur Industrie, Brüssel
+
+16:00 DEU: Auftakt Deutsch-Japanisches Forum 2025, Berlin
+
+CHE: OSZE-Ministerkonferenz, Lugano
+---------------------------------------------------------------------------------------
+FREITAG, DEN 4. DEZEMBER
+
+TERMINE UNTERNEHMEN
+10:00 DEU: Verbio, Hauptversammlung
+ 
+TERMINE KONJUNKTUR
+08:00 SWE: Verbraucherpreise 11/26 (vorläufig)
+08:45 FRA: Industrieproduktion 10/26
+11:00 GRC: Arbeitslosenquote Q3/26
+11:00 ITA: Einzelhandelsumsatz 10/26
+14:30 USA: Arbeitsmarktbericht 11/26
+16:00 USA: Uni Michigan Verbrauchervertrauen 12/26 (vorläufig)
+
+SONSTIGE TERMINE
+09:00 DEU: BGH verhandelt zu Ausgleichsanspruch nach Beschädigung in Wohnungseigentümergemeinschaften, Karlsruhe
+
+10:00 DEU: Streit um Grundsteuer in NRW: Oberverwaltungsgericht verhandelt Klage aus Bochum, Münster
+
+11:00 DEU: Offizielle Inbetriebnahme der Gleichstromleitung «Ultranet», die zwischen NRW und BaWü auf einer Länge von 340 km Strom transportiert, Meerbusch
+
+---------------------------------------------------------------------------------------
+
+Alle Angaben wurden mit größter Sorgfalt recherchiert. Dennoch übernimmt die dpa-AFX Wirtschaftsnachrichten GmbH keine Haftung für die Richtigkeit. Alle Zeitangaben erfolgen in MEZ./bwi
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
+    
+    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
+    
+    09/11/2026 14:29
+    
+    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+
+Weitere Treffer anzeigen
