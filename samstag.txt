@@ -1,1 +1,69 @@
-x
+TAGESVORSCHAU/Freitag, 20. November
+(Dow Jones Newswires)
+
+=== 
+*** 00:30 JP/Verbraucherpreise landesweit Oktober 
+          Verbraucherpreise ohne Nahrungsmittel 
+          PROGNOSE: +2,3% gg Vj 
+          zuvor:    +2,1% gg Vj 
+*** 02:00 CN/People's Bank of China (PBoC), Festsetzung 
+          der Referenzsätze für Unternehmenskredite 
+*** 08:00 DE/Erzeugerpreise Oktober 
+          PROGNOSE: +0,9% gg Vm/+7,4% gg Vj 
+          zuvor:    +1,9% gg Vm/+6,7% gg Vj 
+
+Hier sind die am Freitag, den 20. November 2026, veröffentlichten Wirtschaftsdaten:
+JP / Verbraucherpreise landesweit (Oktober): Die Kerninflation (ohne frische Nahrungsmittel) beschleunigte sich auf +2,2 % im Jahresvergleich, blieb damit aber geringfügig unter der Prognose von +2,3 %.
+ Die allgemeine Inflationsrate stieg auf 2,3 %.
+CN / People's Bank of China (PBoC): Die Zentralbank beließ ihre Referenzzinssätze für Kredite (LPR) den 18. Monat in Folge unverändert.
+ Der einjährige Satz bleibt bei 3,00 %, der fünfjährige Satz bei 3,50 %.
+DE / Erzeugerpreise (Oktober): Der Inflationsdruck auf Erzeugerebene stieg deutlich stärker als erwartet.
+ Die Preise legten im Monatsvergleich um +1,4 % (Prognose: +0,9 %) und im Jahresvergleich um +8,1 % zu (Prognose: +7,4 %).
+prompt_suggestion
+
+*** 08:00 GB/Einzelhandelsumsatz Oktober 
+          PROGNOSE:  k.A. 
+          zuvor:    -0,4% gg Vm/+0,8% gg Vj 
+*** 08:45 FR/Geschäftsklimaindex November 
+          PROGNOSE: 102 
+          zuvor:    105 
+*** 09:30 DE/EZB-Präsidentin Lagarde, Rede bei Euro Finance Week 
+          (9:00 Deutsche-Bank-Chef Sewing, 14:00 EZB-Ratsmitglied Nagel, 
+          15:00 Bundesfinanzminister Klingbeil) 
+*** 11:30 DE/Commerzbank AG, CEO Orlopp spricht 
+
+
+Hier sind die Daten und Berichte zu den restlichen Terminen vom Freitag, den 20. November 2026:
+GB / Einzelhandelsumsatz (Oktober): Die Umsätze stiegen im Monatsvergleich überraschend deutlich um +0,7 % (Prognose: 0,0 %).
+ Im Jahresvergleich beschleunigte sich das Wachstum auf +2,3 %.
+ Haupttreiber waren vermehrte Käufe von haltbaren Lebensmitteln sowie Sport- und Spielwaren.
+FR / Geschäftsklimaindex (November): Die Stimmung in der französischen Wirtschaft verschlechterte sich spürbar. Der Gesamtindex fiel von revidiert 97 auf 95 Punkte und blieb damit hinter der Prognose von 102 zurück.
+DE / Euro Finance Week in Frankfurt:
+Commerzbank (XETR:CBK): CEO Bettina Orlopp rechnet nach der wettbewerbsrechtlichen Freigabe durch die EU-Kommission mit einer baldigen Kontrollübernahme durch die italienische UniCredit noch im Jahr 2026.
+ Sie betonte zudem, dass die Commerzbank kein Sanierungsfall sei.
+Reden von Lagarde, Sewing, Nagel und Klingbeil: Die Spitzen aus Politik und Notenbanken traten wie geplant in der Alten Oper Frankfurt auf, um über die strategische Ausrichtung der europäischen Finanzwirtschaft zu debütieren.
+UCG
+
+*** 11:30 DE/Commerzbank AG, CEO Orlopp spricht 
+          bei JP Morgan Financials Conference 
+*** 14:25 US/Fed-Gouverneur Waller, Rede bei College Fed Challenge Finals 
+*** 16:00 EU/Index Verbrauchervertrauen Eurozone (Vorabschätzung) November 
+          PROGNOSE: -18,4 
+          zuvor:    -17,9 
+*** 16:00 US/Index Verbraucherstimmung Uni Michigan (2. Umfrage) November 
+          PROGNOSE:   51,5 
+          1. Umfrage: 51,0 
+          zuvor:      48,0 
+*** 18:15 CI/Fed-Gouverneurin Cook, Rede bei Jahreskonferenz 
+          der chilenischen Zentralbank 
+*** 22:00 US/Richmond-Fed-Präsident Barkin, Rede 
+
+Hier sind die Ergebnisse und Meldungen zu den abschließenden Terminen vom Freitag, den 20. November 2026:
+EU / Index Verbrauchervertrauen Eurozone (Vorabschätzung) November: Das Verbrauchervertrauen verbesserte sich überraschend deutlich um 1,0 Punkt auf -16,9 Punkte.
+ Ökonomen hatten im Vorfeld mit einem Rückgang auf -18,4 Punkte gerechnet.
+US / Index Verbraucherstimmung Uni Michigan (2. Umfrage) November: Die Stimmung der US-Verbraucher kletterte im November final auf 51,5 Punkte (Prognose: 51,5; Vormonat: 48,0).
+ Die kurz- und langfristigen Geschäftserwartungen erhielten insbesondere nach dem Wahltag spürbaren Auftrieb, während die Einjahres-Inflationserwartungen deutlich von 4,7 % auf 3,7 % fielen.
+Fed-Reden (Waller, Cook & Barkin):
+Fed-Gouverneur Christopher Waller äußerte sich besorgt über die Inflation und signalisierte, dass die US-Notenbank die Märkte im Dezember unter Umständen mit einer Zinserhöhung um 50 Basispunkte „schocken“ müsse, um die Teuerung einzudämmen.
+Richmond-Fed-Präsident Tom Barkin verwies auf eine stagnierende Erwerbsbevölkerung und bezeichnete den Mangel an bezahlbarem Wohnraum als wesentliches Risiko für den US-Arbeitsmarkt.
+prompt_suggestion
