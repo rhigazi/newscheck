@@ -1,3 +1,200 @@
+# Nachricht - Börse Stuttgart
+
+20.11.2026 / 22:41:00
+
+# ROUNDUP/Aktien New York Schluss: Beschleunigter Ausverkauf auf breiter Front
+
+NEW YORK (dpa-AFX) - Die zunehmend rasante Talfahrt im US-Technologiesektor hat am Freitag auch Aktien aus anderen Branchen mit sich gerissen. Der technologielastige Auswahlindex Nasdaq 100 sackte letztlich um 5,61 Prozent auf 25.028,98 Punkte ab. Er hatte am Donnerstag anfangs von der Hoffnung auf einen starken Anthropic -Börsengang profitiert, war dann aber deutlich ins Minus gerutscht, obwohl der KI-Konzern die Vorschuss-Lorbeeren rechtfertigte. Auf Wochensicht erlitt das Börsenbarometer einen Verlust von 10,4 Prozent; seit dem Rekord Anfang Oktober sind es 20 Prozent.
+
+Der marktbreite S&P 500 büßte am Freitag weitere 3,70 Prozent auf 6.910,39 Punkte ein. Der von traditionellen Branchen geprägte Leitindex Dow Jones Industrial brach seinen anfänglichen Stabilisierungskurs ab und schloss 1,93 Prozent tiefer mit 48.147,33 Zählern. Damit weitete er seinen Wochenverlust auf acht Prozent aus.
+
+Marktexperte Stephen Innes zufolge kann man beim Nasdaq-Rutsch nicht mehr von gewöhnlichen Gewinnmitnahmen sprechen, "bei der einigen überbewerteten Technologiewerten die Flügel gestutzt werden", bevor wieder Käufer in den Markt kämen. Denn "der Ausverkauf hat sich auf globale Aktien, Schwellenmärkte, hochverzinsliche Anleihen und Edelmetalle ausgeweitet", während die Anleger in amerikanische Staatsanleihen und den US-Dollar flüchteten. "Die unangenehme Parallele zu 2018 lässt sich immer schwerer ignorieren", betonte der Experte. "Nur dass die Inflation diesmal über drei Prozent liegt, was der (US-Notenbank) Fed deutlich weniger Spielraum lässt, die Wall Street vor ihren eigenen Exzessen zu retten."
+
+Die heftigsten Kursverluste im Nasdaq 100 erlitten wieder einmal Halbleiteraktien. Beim KI-Chipgiganten Nvidia ließ unter anderem ein Bericht, wonach die US-Börsenaufsicht SEC die Bilanzierungspraktiken des Unternehmens untersucht, die Aktien um weitere knapp 14 Prozent auf 125,84 Dollar absacken. Damit erreichten sie den tiefsten Stand seit Mai 2025. Der Wochenverlust ist mit fast 23 Prozent der höchste seit dem Jahr 2008. Gegenüber dem Rekord von rund 243 Dollar Anfang Oktober hat sich der Kurs nahezu halbiert.
+
+Sandisk verloren 16 Prozent. Bei etlichen weiteren Branchentiteln wie Micron , AMD , Seagate <105574006223,55> und Broadcom waren die Abschläge ebenfalls prozentual zweistellig.
+
+Die Aktien von Anthropic büßten an ihrem zweiten Handelstag 9 Prozent auf 88,91 US-Dollar ein. Damit gaben sie einen großen Teil ihres 17-prozentigen Vortagsgewinns ab, blieben aber über ihrem Ausgabepreis von 83 Dollar. Die Anteile des Raumfahrt- und KI-Konzerns SpaceX sackten um weitere 7,7 Prozent ab.
+
+Für schlechte Stimmung sorgte auch die Nachricht, dass Apple einen eigenen autonomen KI-Agenten entwickelt, der Aufgaben im Auftrag der Nutzer erledigen kann. Damit strebt der iPhone-Konzern den Einstieg in einen schnell wachsenden Markt an, auf dem bereits Unternehmen wie Anthropic, dessen Konkurrent OpenAI und die Facebook-Mutter Meta aktiv sind. Angesichts der Tech-Schwäche hielten sich die Apple-Titel mit minus 1,9 Prozent vergleichsweise robust, während es für Meta um 5,9 Prozent nach unten ging.
+
+Einen Kursrutsch von fast 13 Prozent verzeichneten die Aktien von Intuit , nachdem das Softwareunternehmen den Umsatzausblick gesenkt hatte. Dagegen hielten sich die Anteile des Spieleentwicklers Take Two Interactive mit plus 0,7 Prozent recht gut. Sie profitierten davon, dass das jüngst lancierte Videospiel Grand Theft Auto VI am ersten Verkaufstag einen Rekordumsatz erzielte.
+
+Für Gap ging es nach dem jüngsten Kurstief seit Juli um mehr als elf Prozent hoch. Analysten lobten die Markenstärke der Modekette - selbst ein etwas gesenkter Umsatzausblick konnte den Anteilen nichts anhaben.
+
+Die Aktien des Krankenversicherungs- und Gesundheitsunternehmens Humana sowie die des Krankenversicherers Unitedhealth profitierten mit Kursgewinnen von 2,6 beziehungsweise 2,8 Prozent von einem positiven Kommentar der Analysten von TD Cowen. Sie hatten zuletzt unter Ängsten wegen einer geplanten Gesetzesverschärfung der US-Regierung für Erstattungszahlen an die Versicherer gelitten./gl/he
+
+\--- Von Gerold Löhle, dpa-AFX ---
+
+## Wertpapiere im Kontext
+
+-   [
+    
+    ### Anthropic, PBC Class A
+    
+    #### \-7,94 %
+    
+    G 80,79B 80,81
+    
+    WKN A42SXH
+    
+    521 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a42sxh-anthropic-pbc-cl-a-o-n/)
+    
+-   [
+    
+    ### NVIDIA Corporation
+    
+    #### \-13,37 %
+    
+    G 114,9B 114,94
+    
+    WKN 918422
+    
+    793 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/918422-nvidia/)
+    
+-   [
+    
+    ### Micron Technology, Inc.
+    
+    #### \-15,41 %
+    
+    G 542,5B 542,8
+    
+    WKN 869020
+    
+    159 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/869020-micron-technology/)
+    
+-   [
+    
+    ### Advanced Micro Devices, Inc.
+    
+    #### \-14,18 %
+    
+    G 386,7B 386,75
+    
+    WKN 863186
+    
+    169 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/863186-amd/)
+    
+-   [
+    
+    ### Broadcom Inc.
+    
+    #### \-12,90 %
+    
+    G 277,6B 277,7
+    
+    WKN A2JG9Z
+    
+    124 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a2jg9z-avago-technologies/)
+    
+-   [
+    
+    ### Space Exploration Technologies Corp. Class A
+    
+    #### \-6,13 %
+    
+    G 116,7B 116,72
+    
+    WKN A42D4F
+    
+    147 Trades
+    
+    ](/de-de/produkte/aktien/stuttgart/a42d4f-spacex/)
+    
+
+## Weitere relevante Nachrichten
+
+Freitag, 20.11.2026
+
+-   [
+    
+    22:20
+    
+    Aktien New York Schluss: Beschleunigter Ausverkauf auf breiter Front
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=8329377972569660240)
+-   [
+    
+    22:14
+    
+    AKTIEN IM FOKUS 4: Anthropic verliert nach IPO-Tag - KI-Titel weiter unter Druck
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=2013888489270018063)
+-   [
+    
+    22:05
+    
+    Trump will immer noch Huang als Nvidia-Chef zurück
+    
+    dpa-AFX
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/nachricht/?id=3792077803742597401)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
+    
+    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
+    
+    09/11/2026 14:29
+    
+    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+-   [
+    
+    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
+    
+    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
+    
+    27/10/2026 19:15
+    
+    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
+
+Weitere Treffer anzeigen
+
 TAGESVORSCHAU/Freitag, 20. November
 (Dow Jones Newswires)
 
