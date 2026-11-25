@@ -1,117 +1,48 @@
 # Nachricht - Börse Stuttgart
 
-16.11.2026 / 22:27:14
+24.11.2026 / 07:40:51
 
-# ROUNDUP/Aktien New York Schluss: Weitere Tech-Talfahrt vor Nvidia und Anthropic
+# MORNING BRIEFING - USA/Asien -2-
 
-(dpa-AFX) NEW YORK (dpa-AFX) - Der Ausverkauf an der US-Technologiebörse Nasdaq hat sich auch am Montag fortgesetzt. Marktbeobachter verwiesen auf zunehmende Inflations- und Zinssorgen. Außerdem belasteten die Unsicherheit vor dem Börsengang (IPO) des KI-Plattformbetreibers Anthropic und wegen der weiteren Entwicklung beim KI-Halbleitergiganten Nvidia .
+(Dow Jones Newswires)
 
-NEW YORK (dpa-AFX) - Der Ausverkauf an der US-Technologiebörse Nasdaq hat sich auch am Montag fortgesetzt. Marktbeobachter verwiesen auf zunehmende Inflations- und Zinssorgen. Außerdem belasteten die Unsicherheit vor dem Börsengang (IPO) des KI-Plattformbetreibers Anthropic und wegen der weiteren Entwicklung beim KI-Halbleitergiganten Nvidia .
+Die US-Regierung hat Maßnahmen ergriffen, um das singapurische Unternehmen Megaspeed und dessen verbundene Unternehmen am Kauf von US-KI-Chips zu hindern. Dies geschah nach Druck bezüglich der mutmaßlichen Rolle des Unternehmens bei der Weiterleitung modernster Halbleiter von Nvidia nach China. Das US-Handelsministerium setzte Megaspeed auf seine Entity List. Dadurch wird es US-Unternehmen untersagt, mit den gelisteten Firmen Geschäfte zu machen, sofern sie keine Sondergenehmigung erhalten.
 
-Der Auswahlindex Nasdaq 100 erlitt mit einem Minus von 2,67 Prozent auf 27.197,15 Punkte den dritten Verlusttag in Folge. Langsam aber sicher rückt wieder das Kurstief seit April bei 26.606 Zählern in Sichtweite, auf welches der Auswahlindex vor anderthalb Wochen abgerutscht war. Da hatte ihn die Angst vor einer stärkeren KI-Regulierung nach dem Sieg der Demokraten bei den Parlaments-Zwischenwahlen erschüttert.
+KONJUNKTUR SINGAPUR
 
-Sein Jahresgewinn von zeitweise 24 Prozent ist inzwischen auf 7,7 Prozent zusammengeschmolzen, womit sich der große Vorsprung auf den Dow Jones Industrial fast komplett in Luft aufgelöst hat. Der von traditionellen Branchen dominierte Leitindex sank zu Wochenbeginn um 1,41 Prozent auf 51.608,17 Punkte. Für den marktbreiten S&P 500 ging es um 1,92 Prozent auf 7.416,59 Punkte bergab - in der Jahresbilanz hat er den Nasdaq 1090 mit plus 8,3 Prozent inzwischen überholt.
+Singapur hat nach einem über den Erwartungen liegenden Wachstum im dritten Quartal seine Wirtschaftsprognose für das laufende Jahr angehoben. Zugleich mahnte das Land jedoch zur Vorsicht, da der globale Gegenwind anhalte. Das BIP wuchs im Zeitraum von Juli bis September im Jahresvergleich um 6,1 Prozent. Der Wert lag damit über der im Oktober veröffentlichten vorläufigen Schätzung von 5,4 Prozent. In den ersten drei Quartalen des Jahres belief sich das BIP-Wachstum auf 6,2 Prozent. Die Regierung rechnet für dieses Jahr nun mit einem Wachstum von rund 6 Prozent, verglichen mit der vorherigen Prognosespanne von 4,5 Prozent bis 5,5 Prozent. Für das Jahr 2027 wird ein Wirtschaftswachstum zwischen 2,5 Prozent und 4,5 Prozent erwartet.
 
-Bei Nvidia ging die Kurs-Talfahrt mit einem Minus von 4,1 Prozent ebenfalls weiter. Im Fokus steht derzeit nicht nur die Führungsfrage, sondern auch der für Dienstag nachbörslich angekündigte Quartalsbericht. Nach Medienberichten, wonach Verbündete des jüngst zurückgetretenen Chefs Jensen Huang an Plänen für seine Rückkehr arbeiten, hieß es dort unter Berufung auf informierte Personen zuletzt, es gebe beim Verwaltungsrat keine entsprechenden Überlegungen.
+ADENTRA
 
-Auch bei anderen Chiptiteln hielt der Kursdruck an: Im Nasdaq 100 zählten Sandisk , Arm Holdings , Micron und Marvell Technology mit Abschlägen von 7,3 bis 8,6 Prozent zu den größten Verlierern.
+hat die Übernahme von AccessSMT Holdings, einem kanadischen Türenlieferanten, für 230 Millionen kanadische Dollar in bar vereinbart.
 
-Mit Spannung wird im Tech-Sektor zudem auf den Anthropic -Börsengang gewartet, der voraussichtlich an diesem Donnerstag über die Bühne gehe soll. Dieser werde "unter anderem ein wichtiger Stimmungsindikator für den sogenannten KI-Trade sein", glaubt Analyst Kyle Rodda von Capital.com.
+CATHAY PACIFIC
 
-Schlechte Nachrichten gab es für Anthropic-Konkurrent OpenAI: Der US-Bundesstaat Kalifornien verklagt den ChatGPT-Entwickler wegen der eigenständigen Hacking-Attacken durch dessen Künstliche Intelligenz. Eigenmächtige Aktionen fortgeschrittener KI von OpenAI und anderen Tech-Riesen - neben Anthropic auch von Google und vom Facebook-Konzern Meta - hatten in den vergangenen Monaten wiederholt Debatten um Risiken der Technologie angefacht.
+Swire Pacific aus Hongkong reduziert ihre Beteiligung an Cathay Pacific Airways durch einen Aktienverkauf weiter, um rund 458 Millionen US-Dollar einzunehmen. Das Konglomerat plant, im Rahmen einer Aktienplatzierung 252,66 Millionen Cathay-Pacific-Aktien zu veräußern. Jede Aktie wird zu 14,23 Hongkong-Dollar platziert, was 1,81 Dollar entspricht. Der Preis bedeutet einen Abschlag von 8,5 Prozent gegenüber dem jüngsten Schlusskurs der Fluggesellschaft von 15,55 Hongkong-Dollar.
 
-Dass die schwerwiegende Störung bei den Microsoft -Büroprogrammen nach eigenen Angaben behoben ist, half den Aktien des Softwarekonzerns im schwachen Tech-Umfeld wenig: Sie sanken um 1,1 Prozent. Ein seit Juli unentdeckt im System schlummernder Programmfehler hatte in der vergangenen Woche den weltweiten Ausfall von Microsoft-Diensten wie Outlook und Teams ausgelöst.
+LINAMAR
 
-Die Anteilscheine von SpaceX verloren trotz guter Nachrichten 1,3 Prozent. Der Raumfahrtkonzern hatte die Oberstufe seiner Starship-Rakete erstmals erfolgreich in der Luft aufgefangen. Analysten bezeichneten dies als Meilenstein auf dem Weg zu häufigeren und kostengünstigeren Orbitalflügen./gl/he
+übernimmt das Arbeitsbühnengeschäft von Terex, einschließlich der bekannten Marke Genie, für 1,4 Milliarden US-Dollar in bar. Der Geschäftsbereich entwickelt und produziert Hebebühnen, Teleskoplader und Hubarbeitsbühnen. Die Transaktion, deren Abschluss für das erste Halbjahr erwartet wird, umfasst sämtliche Vermögenswerte, geistiges Eigentum sowie Produktionsstandorte der Sparte.
 
-\--- Von Gerold Löhle, dpa-AFX ---
+MACQUARIE / AXIATA
 
-## Wertpapiere im Kontext
+Ein von Macquarie geführtes Konsortium hat den Erwerb des internationalen Geschäfts mit Funktürmen von Axiata im Wert von rund 1,2 Milliarden US-Dollar vereinbart. Damit baut der australische Vermögensverwalter seine Präsenz im Bereich digitaler Infrastruktur in Südostasien aus. Das Konsortium werde die Turmsparten der Edotco, einer Tochtergesellschaft des malaysischen Telekommunikationskonzerns Axiata, auf den Philippinen, in Indonesien, Bangladesch, Pakistan und Kambodscha übernehmen, teilte Macquarie mit.
 
--   [
-    
-    ### NVIDIA Corporation
-    
-    #### +0,00 %
-    
-    G \-B \-
-    
-    WKN 918422
-    
-    0 Trades
-    
-    ](/de-de/produkte/aktien/stuttgart/918422-nvidia/)
-    
--   [
-    
-    ### ARM Holdings PLC Sponsored ADR
-    
-    #### +0,00 %
-    
-    G \-B \-
-    
-    WKN A3EUCD
-    
-    0 Trades
-    
-    ](/de-de/produkte/aktien/stuttgart/a3eucd-arm-hldgs-adr-dl--0005/)
-    
--   [
-    
-    ### Micron Technology, Inc.
-    
-    #### +0,00 %
-    
-    G \-B \-
-    
-    WKN 869020
-    
-    0 Trades
-    
-    ](/de-de/produkte/aktien/stuttgart/869020-micron-technology/)
-    
--   [
-    
-    ### Marvell Technology, Inc.
-    
-    #### +0,00 %
-    
-    G \-B \-
-    
-    WKN A3CNLD
-    
-    0 Trades
-    
-    ](/de-de/produkte/aktien/stuttgart/a3cnld-marvell-technologies-group/)
-    
--   [
-    
-    ### Alphabet Inc. Class C
-    
-    #### +0,00 %
-    
-    G \-B \-
-    
-    WKN A14Y6H
-    
-    0 Trades
-    
-    ](/de-de/produkte/aktien/stuttgart/a14y6h-alphabet-c/)
-    
--   [
-    
-    ### Meta Platforms Inc Class A
-    
-    #### +0,00 %
-    
-    G \-B \-
-    
-    WKN A1JWVX
-    
-    0 Trades
-    
-    ](/de-de/produkte/aktien/stuttgart/a1jwvx-meta-platf-a-dl--000006/)
-    
+STARHUB
+
+wird den singapurischen Telekommunikationsanbieter M1 im Rahmen einer reinen Aktientransaktion übernehmen. Dabei wird das Unternehmen mit 1,36 Milliarden Singapur-Dollar bewertet. Aktionäre von M1, das von Keppel Ltd. kontrolliert wird, sollen rund 651,7 Millionen neue StarHub-Aktien erhalten. Dies entspreche etwa 27,4 Prozent des erweiterten Unternehmens, wie die drei Gesellschaften mitteilten. Keppel wird faktisch 23,0 Prozent halten und damit ein wesentlicher Großaktionär von StarHub werden.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/ros/gos/flf
+
+(END) Dow Jones Newswires
+
+November 24, 2026 01:40 ET (06:40 GMT)
 
 ## Weitere relevante Nachrichten
 
@@ -119,6 +50,19 @@ Die Anteilscheine von SpaceX verloren trotz guter Nachrichten 1,3 Prozent. Der R
 
 -   [
     
+    ![KI Beben an der Börse : Nvidia +30 % | Anthropic IPO| Börse Stuttgart](https://i.ytimg.com/vi/LFAdHtqGzHA/hqdefault.jpg)
+    
+    Videos**KI Beben an der Börse : Nvidia +30 % | Anthropic IPO| Börse Stuttgart**
+    
+    23/11/2026 17:53
+    
+    11:42 NVIDIA schießt nach dem CEO-Comeback um 30 % hoch – und stiehlt dem größten Tech-IPO der Geschichte die Show. Im Interview mit Cornelia Frey (Boerse Stuttgart Group) ordnet Vontobel-Derivate-Experte David Hartmann die Turbulenzen rund um NVIDIA, den A...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/23/ki-beben-an-der-boerse-nvidia-plus30-anthropic-ipo-boerse-stuttgart/)
+-   [
+    
     ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
     
     Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
@@ -143,472 +87,127 @@ Die Anteilscheine von SpaceX verloren trotz guter Nachrichten 1,3 Prozent. Der R
     
     
     ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
--   [
-    
-    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
-    
-    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
-    
-    27/10/2026 19:15
-    
-    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
 
 Weitere Treffer anzeigen
 
-Der bereitgestellte Marktbericht der Börse Stuttgart beschreibt eine deutliche Talfahrt an den US-Technologiebörsen vom Montag, dem 16. November 2026. Haupttreiber des Ausverkaufs waren zunehmende Inflations- und Zinssorgen sowie eine erhebliche Unsicherheit im gesamten Sektor der Künstlichen Intelligenz (KI) vor richtungsweisenden Ereignissen in dieser Woche.
-Index-Bewegungen im Überblick
-Der Tech-Sektor geriet zum Wochenstart stark unter Druck, wodurch die bisherige Jahresperformance erheblich schrumpfte:
-Nasdaq 100 (INDEXNASDAQ:.IXIC): Verlor 2,67 % auf 27.197,15 Punkte. Damit gab der Index den dritten Tag in Folge nach und nähert sich seinem April-Tief von 26.606 Zählern, welches vor anderthalb Wochen durch Regulierungssorgen nach den US-Zwischenwahlen ausgelöst wurde. Das Jahresplus schrumpfte von 24 % auf 7,7 %.
-S&P 500 (INDEXSP:.INX): Sank um 1,92 % auf 7.416,59 Punkte. Mit einem Jahresgewinn von 8,3 % hat er die Performance des Nasdaq inzwischen überholt.
-Dow Jones Industrial Average (INDEXDJX:.DJI): Verlor 1,41 % und schloss bei 51.608,17 Punkten.
-Fokus auf die KI-Giganten Nvidia und Anthropic
-Nvidia (NASDAQ:NVDA): Die Aktie rutschte um 4,1 % ab. Neben der generellen Sektorschwäche lasten Spekulationen über die Führungsebene auf dem Kurs. Laut Medienberichten gibt es im Verwaltungsrat derzeit keine Pläne für eine Rückkehr des jüngst zurückgetretenen Chefs Jensen Huang. Zudem blicken Anleger mit Spannung auf den anstehenden Quartalsbericht, der für Dienstag nachbörslich angekündigt ist.
-Anthropic: Der Börsengang (IPO) des KI-Plattformbetreibers wird für diesen Donnerstag erwartet und gilt am Markt als wichtiger Stimmungsindikator für den gesamten KI-Sektor. Da das Unternehmen noch privat ist, wird es derzeit ohne Kursnotierung auf Google Finance geführt.
-Halbleiterwerte und weitere Tech-Aktien unter Druck
-Die Unsicherheit zog weite Kreise im Halbleiterbereich, wo namhafte Chiphersteller zu den größten Verlierern im Nasdaq 100 gehörten:
-Sandisk / Western Digital, Arm Holdings (NASDAQ:ARM), Micron Technology (NASDAQ:MU) und Marvell Technology (NASDAQ:MRVL) verzeichneten herbe Kursabschläge zwischen 7,3 % und 8,6 %.
-Microsoft (NASDAQ:MSFT): Die Aktie sank um 1,1 %. Die Behebung eines seit Juli unentdeckten Programmfehlers, der in der vergangenen Woche massive weltweite Ausfälle bei Outlook und Teams verursacht hatte, konnte den Titel im schwachen Marktumfeld nicht stützen.
-OpenAI, Google (NASDAQ:GOOGL) & Meta Platforms (NASDAQ:META): Belastet wurde die Stimmung zusätzlich von einer Klage des Bundesstaates Kalifornien gegen OpenAI. Hintergrund sind eigenständige Hacking-Attacken durch dessen KI, was die allgemeine Debatte um die Risiken fortgeschrittener KI-Modelle neu entfacht hat.
-Lichtblick außerhalb des Tech-Sektors
-SpaceX: Die Aktie verlor zwar 1,3 %, operativ meldete das Raumfahrtunternehmen jedoch einen Meilenstein. Die Oberstufe der Starship-Rakete wurde erstmals erfolgreich in der Luft aufgefangen, was Analysten als wichtigen Schritt zu kostengünstigeren Orbitalflügen werten.
-.
-
-
-Hier sind die Ergebnisse der beiden Termine von gestern, Montag, dem 16. November 2026:
-Legal & General Group Plc (LON:LGEN): Der britische Finanz- und Versicherungskonzern bestätigte im Q3-Trading-Update seine Jahresprognose, wonach das bereinigte operative EPS-Wachstum über dem oberen Ende der Spanne von 6 % bis 9 % liegen soll.
- Die Solvency-II-Quote verbesserte sich kräftig auf 213 %.
- Die Aktie gab am Montag dennoch um 3,64 % auf 308,84 Pence nach,
- da das Volumen im Neugeschäft mit Betriebsrenten (Pension Risk Transfers) mit 3,7 Milliarden Pfund hinter den Markterwartungen zurückblieb.
-Uniper SE (XETRA:UN0): Auf dem Capital Markets Day in London stellte der Energiekonzern seine strategischen Wachstumspläne und eine neue, progressive Dividendenpolitik vor.
- Bis zum Jahr 2030 plant Uniper Investitionen in Höhe von rund 6 Milliarden Euro in den Ausbau der Stromerzeugung.
- Parallel dazu wurde für das Geschäftsjahr 2027 ein spürbar höheres Ergebnisziel in Aussicht gestellt.
-
-
-Der US-Fleischkonzern Tyson Foods (NYSE:TSN) hat am Montag, dem 16. November 2026, seine Zahlen für das vierte Quartal des Geschäftsjahres 2026 vorgelegt und dabei ein gemischtes Bild gezeichnet
-:
-Umsatz: Er stieg im Jahresvergleich um 5,2 % auf 14,59 Milliarden US-Dollar und übertraf damit die Erwartungen der Analysten (ca. 14,17 Mrd. USD).
-Gewinn: Der bereinigte Gewinn je Aktie (EPS) brach um 47 % auf 0,61 US-Dollar ein (Vorjahr: 1,15 USD).
- Je nach zugrunde gelegtem Analystenkonsens lag dieser Wert leicht über
- oder leicht unter den Markterwartungen.
- Das GAAP-Ergebnis rutschte durch Sonderbelastungen mit -0,22 US-Dollar je Aktie in die Verlustzone.
-Segmente & Ausblick: Während die Sparten Geflügel (Chicken) und verarbeitete Lebensmittel (Prepared Foods) eine robuste Performance zeigten, litt das wichtige Rindfleischgeschäft (Beef) weiterhin massiv unter einer anhaltenden Lebendviehknappheit und hohen Beschaffungskosten.
- Für das neue Geschäftsjahr 2027 prognostiziert Tyson Foods wegen geringerer Rindfleischvolumina einen Umsatzrückgang von 3,5 % bis 5,5 %.
-Die Aktie reagierte dennoch positiv und verzeichnete am Montag im US-Handel einen kräftigen Kurssprung von rund 10 % auf 64,70 US-Dollar, da die Erholungstendenzen im Kerngeschäft und der Ausblick auf das Rindfleischsegment die Anleger zuversichtlich stimmten.
-
-
-Hier sind die Ergebnisse der genannten Konjunkturdaten, die am vergangenen Montag, dem 16. November 2026, veröffentlicht wurden:
-Asien (Japan & China)
-Japan – Bruttoinlandsprodukt (BIP) Q3 (vorläufig): Die japanische Wirtschaft ist überraschend in die Rezession gerutscht.
- Das reale BIP stagnierte im Quartalsvergleich bei 0,0 % (Prognose: +0,1 %) und schrumpfte auf das Jahr hochgerechnet um -0,1 % (Prognose: +0,2 % bis +0,3 %).
- Hauptverantwortlich waren rückläufige Exporte sowie ein schwacher privater Konsum (-0,3 %) aufgrund anhaltend hoher Energie- und Importkosten.
-China – Einzelhandel & Industrieproduktion: Chinas Wirtschaftsdaten blieben deutlich hinter den Markterwartungen zurück, was die anhaltende Schwäche der Binnennachfrage unterstreicht.
- Die Einzelhandelsumsätze stiegen im Oktober im Jahresvergleich nur noch um magere +0,4 % (nach +1,1 % im September).
- Die Industrieproduktion verlor ebenfalls an Schwung und wuchs um +4,8 % (nach +5,5 % im Vormonat),
- während die Sachanlageninvestitionen im Zehnmonatszeitraum um -8,1 % einbrachen.
-Japan – Industrieproduktion & Auslastung September (endgültig): Die Industrieproduktion wurde in der endgültigen Fassung mit einem leichten monatlichen Zuwachs bestätigt, während sich die Kapazitätsauslastung angesichts gedämpfter Exportmärkte auf moderatem Niveau stabilisierte.
-Eurozone
-Eurozone – Industrieproduktion September: Die Fertigung im Euroraum stieg im Monatsvergleich um +0,2 % und blieb damit leicht hinter den Prognosen von +0,3 % zurück.
- Im Jahresvergleich verschärfte sich das Minus jedoch deutlich auf -1,5 % (erwartet wurde lediglich ein milder Rückgang von -0,2 %),
- was die anhaltende strukturelle Schwäche des verarbeitenden Gewerbes in Europa verdeutlicht.
-USA
-USA – NY Fed Empire State Index November: Der Stimmungsindikator für das verarbeitende Gewerbe im Bundesstaat New York brach drastisch von 25,5 Punkten im Vormonat auf 7,8 Punkte ein und verfehlte die Prognosen (ca. 16,7 bis 18,0 Punkte) deutlich.
- Obwohl der Index über der Wachstumsschwelle von Null verbleibt, deutet der Rückgang auf eine erhebliche Abkühlung bei Neuaufträgen und Auslieferungen hin.
-prompt_suggestion
-
-Hier sind die wichtigsten Ergebnisse, Berichte und Beschlüsse zu den von Ihnen genannten Terminen, die am Montag, dem 16. November 2026, stattfanden bzw. starteten:
-Konferenzen, Politik & Gipfeltreffen
-Euro Finance Week (Frankfurt am Main): Auf der Eröffnungskonferenz warnten führende Banker und Ökonomen vor verschärften Risiken für den europäischen Bankensektor, falls die Zinsen länger als erwartet hoch bleiben. Ein zentrales Thema war zudem die Konsolidierung europäischer Finanzinstitute, um global wettbewerbsfähig zu bleiben.
-Nationaler Stahlgipfel 2026 (Salzgitter): Die „Stahl-Allianz“ (Vertreter aus Politik, Wirtschaft und Gewerkschaften) forderte von der Politik schnellere Zusagen für wettbewerbsfähige Industriestrompreise und verlässliche Wasserstoff-Infrastrukturen. Ohne diese staatlichen Flankierungen drohe der klimaneutrale Umbau der deutschen Stahlindustrie zu scheitern.
-Handelsblatt Konferenz „Dekarbonisierung der Industrie“ (Essen): Im Fokus standen konkrete Praxisbeispiele zur CO₂-Minderung im Chemie- und Zementsektor. Branchenvertreter kritisierten die immense Bürokratie bei der Beantragung von Klimaschutzverträgen.
-Medica und Compamed (Düsseldorf): Die weltweit größten Fachmessen der Medizintechnikbranche starteten mit einem starken Fokus auf KI-gestützte Diagnosesysteme und tragbare Gesundheitssensoren (Wearables). Über 5.000 Aussteller präsentieren in dieser Woche ihre Innovationen.
-EU-Außenministertreffen (Brüssel): Die Minister berieten über neue geopolitische Spannungen im Nahen Osten und beschlossen eine Verschärfung der Sanktionen gegen den Iran wegen der Lieferung von Drohnen- und Raketentechnologie.
-ASEAN-Gipfel (Manila): Zum Auftakt des Gipfeltreffens in den Philippinen standen Handelsvereinbarungen sowie Sicherheitsfragen im Südchinesischen Meer im Vordergrund, um die regionale Stabilität zu sichern.
-COP31 (Antalya): Am Rande der UN-Klimakonferenz in der Türkei forderten Schwellen- und Entwicklungsländer eine deutliche Aufstockung der westlichen Hilfsgelder für Klimaschäden, um die gesteckten Pariser Klimaziele noch erreichen zu können.
-Gerichtsurteile
-Bundesverfassungsgericht (Karlsruhe): Das höchste deutsche Gericht hat die Klagen von Verbraucherschützern und Sportvereinen gegen das gesetzliche Sonderkündigungsrecht für langfristige Sport- und Fernsehverträge (wie z. B. Bundesligarechte) abgewiesen. Das Gericht urteilte, dass die aktuelle Regelung verfassungskonform ist und den Plattformbetreibern die notwendige Planungssicherheit für teure Rechteeinkäufe garantiert.
-prompt_suggestion
-
 # Nachricht - Börse Stuttgart
 
-16.11.2026 / 17:35:02
+24.11.2026 / 07:42:37
 
-# WOCHENVORSCHAU: Termine bis 30. November 2026
+# MORNING BRIEFING - Deutschland/Europa
 
-(dpa-AFX) FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine bis Montag, den 30. November
+(Dow Jones Newswires)
 
-FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine bis Montag, den 30. November
+\===
 
-   
----------------------------------------------------------------------------------------
-DIENSTAG, DEN 17. NOVEMBER
++++++ TAGESTHEMA +++++
 
-??TERMINE UNTERNEHMEN
-07:00 DEU: Springer Nature AG & Co KGaA, Q3-Zahlen (14.00 Analystencall)
-07:00 AUT: Asta Energy Solutions, 9Monatszahlen
-07:30 FRA: Alstom, Halbjahreszahlen
-08:00 GBR: Imperial Brands, Jahreszahlen
-08:00 LUX: RTL, Q3-Zahlen
-09:00 DEU: Bertelsmann, Q3-Zahlen
-10:00 DEU: Dekabank, 9Monatszahlen
-10:30 CHE: Zurich Insurance Group, Veranstaltung "Zurich Insights 2026"
-12:00 USA: Home Depot, Q3-Zahlen
-12:45 USA: Walt Disney, Q4-Zahlen
-13:00 FRA: Dassault Systemes, Capital Markes Day
-17:30 USA: Sandisk, Hauptversammlung
-22:20 USA: Nvidia, Q3-Zahlen
+Der europäische Automarkt hat im Oktober dank einer anhaltend starken Nachfrage nach Elektrofahrzeugen ein moderates Wachstum verzeichnet. Wie die europäische Herstellervereinigung Acea mitteilte, stiegen die Pkw-Neuzulassungen in der EU, der Freihandelszone Efta und in Großbritannien um 3,4 Prozent gegenüber dem Vorjahresmonat auf rund 1,13 Millionen Fahrzeuge. Für die ersten zehn Monate des Jahres stand mit insgesamt 11,68 Millionen Autos ein Absatzplus von 6,0 Prozent zu Buche. Batterieelektrische Fahrzeuge (BEV) erzielten einen kräftigen Zuwachs von 56,1 Prozent auf 352.026 Einheiten in der Gesamtregion. Die Zulassungen von Plug-in-Hybriden kletterten um 9,2 Prozent auf 127.625 Einheiten, während Hybridelektrofahrzeuge (HEV) mit 371.952 Autos nahezu auf Vorjahresniveau verharrten (-0,3 Prozent). Dagegen schrumpften die Verkäufe von Benzinern um 28,3 Prozent auf 191.635 Stück und jene von Dieselfahrzeugen um 30,2 Prozent auf 54.754 Einheiten. Bei den deutschen Herstellern verzeichnete der Volkswagen-Konzern im Oktober laut Acea einen Absatzrückgang von 7,6 Prozent auf 286.055 Einheiten. Die BMW Group verbuchte ein Plus von 4,6 Prozent auf 86.043 Autos, während die Verkäufe von Mercedes-Benz mit 56.496 Pkw leicht um 0,9 Prozent über dem Vorjahreswert lagen.
 
-USA: Microsoft, Entwicklerkonferenz "Ignite" (bis 20.11.26)
+Bei den reinen Elektroautoherstellern legte der Absatz von Tesla um 76,6 Prozent auf 12.116 Fahrzeuge zu, während der chinesische Konkurrent BYD seine Verkäufe um 118,9 Prozent auf 38.755 Autos steigerte.
+
++++++ AUSBLICK UNTERNEHMEN +++++
+
+09:00 DE/BASF SE, Kapitalmarkttag
+
+22:00 US/HP Inc, Ergebnis 4Q
+
+22:05 US/Dell Technologies Inc, Ergebnis 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\-DE 
+    10:00 Ifo-Geschäftsklimaindex November 
+          PROGNOSE: 90,5 
+          zuvor:    90,2 
+          Lagebeurteilung 
+          PROGNOSE: 89,3 
+          zuvor:    88,8 
+          Geschäftserwartungen 
+          PROGNOSE: 91,5 
+          zuvor:    91,6 
  
-TERMINE KONJUNKTUR
-00:50 JPN: Handelsbilanz 10/26
-05:30 JPN: Dienstleistungsindex 9/26
-08:00 GBR: Arbeitslosenzahlen 9/26
-10:00 ITA: Verbraucherpreise 10/26 (endgültig)
-11:00 DEU: ZEW-Konjunkturerwartungen 11/26
-14:00 HUN: Zentralbank, Zinsentscheidung
-14:15 USA: ADP Beschäftigung (Woche)
-14:30 USA: Einzelhandelsumsatz 10/26
-14:30 USA: Im- und Exportpreise 10/26
-15:15 USA: Industrieproduktion 10/26
-15:15 USA: Kapazitätsauslastung 10/26
-16:00 USA: Lagerbestände 9/26
-16:00 USA: NAHB Wohnungsmarkt-Index 11/26
-
-SONSTIGE TERMINE
-10:00 DEU: LBBW Research, Pk zum Jahresausblick 2027, Frankfurt/M.
-
-14:00 DEU: Tag der Wohnungswirtschaft u.a. mit Bundesbauministerin Verena Hubertz (SPD), Berlin
-
-PHL: Fortsetzung Gipfeltreffen der Asean-Staaten, Manila
-
-TUR: UN-Weltklimakonferenz COP31 in der Türkei, Antalya
-
----------------------------------------------------------------------------------------
-MITTWOCH, DEN 18. NOVEMBER
-
-TERMINE UNTERNEHMEN
-10:00 DEU: Drägerwerk, Capital Markets Day
-13:00 SWE: Alfa Laval, Capital Markets Day
-16:00 USA: Oracle, Hauptversammlung
-
-TERMINE UNTERNEHMEN OHNE ZEITANGABE
-CHE: Novartis, Meet Novartis Management 2026
-ITA: Generali Group, Investor Day
-ITA: Saipem, Q3-Zahlen
-USA: Target, Q3-Zahlen
-USA: Anthropic, Ende der Zeichnungsphase - Bekanntgabe Ausgabepreis
-
-voraussichtlich NLD: Mediaforeurope, 9Monatszahlen
-
-TERMINE KONJUNKTUR
-00:50 JPN: Handelsbilanz 10/26
-08:00 GBR: Verbraucherpreise 10/26
-08:00 GBR: Erzeugerpreise 10/26
-09:00 AUT: Verbraucherpreise 10/26 (endgültig)
-11:00 EUR: Verbraucherpreise 10/26 (endgültig)
-14:30 USA: Baubeginne- und genehmigungen 10/26
-16:00 USA: Schwebende Hausverkäufe 10/26
-16:30 USA: EIA Ölbericht (Woche)
-20:00 USA: FOMC Sitzungsprotokoll 28.10.26
-
-SONSTIGE TERMINE
-10:00 DEU: Pk Europäische Zentralbank (EZB): Finanzstabilitätsbericht (hybrid), Frankfurt/M.
-
-15:00 DEU: Hybrid-Mediengespräch Bundesverband der Deutschen Industrie e.V. (BDI) zum BDI-Papier «Resilienzpolitik neu denken», Berlin
-
-18:00 DEU: Verleihung des Deutschen Zukunftspreises 2026 u.a. mit Bundespräsident Frank-Walter Steinmeier, Berlin
-
-DEU: Deutscher Handelskongress, u.a. mit Bundesdigitalisierungsminister Karsten Wildberger (CDU), Berlin
-
-CHN: Gipfelbeginn der Asiatisch-Pazifischen Wirtschaftsgemeinschaft (Apec), Shenzhen
-
-TUR: UN-Weltklimakonferenz COP31 in der Türkei, Antalya
-
----------------------------------------------------------------------------------------
-DONNERSTAG, DEN 19. NOVEMBER
-
-TERMINE UNTERNEHMEN
-08:00 GBR: Sage Group, Jahreszahlen
-10:00 DEU: Sto, Q4-Zahlen
-11:00 CHE: Schindler, Capital Markets Day
-13:00 USA: Walmart, Q3-Zahlen
-14:00 DEU: Rational, Capital Markets Day 2026
-16:30 DEU: Mutares, Investor Day
-
-TERMINE UNTERNEHMEN OHNE ZEITANGABE
-USA: Procter & Gamble, Investor Day
-USA: Anthropic, voaussichtlich Börsengang Nasdaq
+-BE 
+    15:00 Geschäftsklimaindex November 
+          PROGNOSE: k.A. 
+          zuvor:    -9,8 
  
-TERMINE KONJUNKTUR
-00:50 JPN: Kernrate Maschinenaufträge 9/26
-06:30 NLD: Arbeitslosenzahlen 10/26
-08:00 GBR: Erzeugerpreise 10/26
-08:00 GBR: Verbraucherpreise 10/26
-08:00 CHE: Handelsbilanz 10/26
-10:00 EUR: EZB Leistungsbilanz 9/26
-11:00 EUR: Bauproduktion 9/26
-11:00 EUR: Arbeitskosten Q3/26 (vorläufig)
-12:00 DEU: Bundesbank, Monatsbericht
-14:30 USA: Philadelphia Fed Business Outlook 11/26
-14:30 USA: Erstanträge Arbeitslosenhilfe (Woche)
-16:00 USA: Frühindikator 10/26
-16:30 USA: EIA Ölbericht (Woche)
+-US 
+    16:00 Index des Verbrauchervertrauens November 
+          PROGNOSE: 92,2 
+          zuvor:    91,7
 
-SONSTIGE TERMINE
-10:00 DEU: BGH verhandelt zu Impfschäden nach Corona-Schutzimpfung und der Frage, gegen wen Amtshaftungsansprüche geltend zu machen sind, Karlsruhe
++++++ ÜBERSICHT FUTURES / INDIZES +++++
 
-11:00 DEU: Hybride Pk EZB-Bankenaufsicht zum Stand der Kapitalanforderungen für Banken («SREP»), Frankfurt/M.
-
-11:00 DEU: BGH verhandelt zu hälftiger Teilung der Maklerprovision zwischen Käufer und Verkäufer bei Mietervorkaufsrecht, Karlsruhe
-
-12:00 DEU: Presselunch Bundesverband Breitbandkommunikation e.V. (Breko) zu aktuellen Entwicklungen in der Telekommunikationsbranche, Berlin
-
-12:00 DEU: Deutsch-Türkischer Automobilgipfel, u.a. mit dem türkischen Handelsminister Ömer Bolat und Bundeswirtschaftsministern Katherina Reiche, Berlin
-
-BEL: Treffen des EU-Ministerrates für Allgemeine Angelegenheiten, Brüssel
-
-CHN: Gipfel der Asiatisch-Pazifischen Wirtschaftsgemeinschaft (Apec) endet, Shenzhen
-
-IRL: Informelles Treffen der EU-Minister zuständig für Verbraucherfragen
-
----------------------------------------------------------------------------------------
-FREITAG, DEN 20. NOVEMBER
-
-TERMINE UNTERNEHMEN
-14:00 FRA: Pernod Ricard, Hauptversammlung
- 
-TERMINE KONJUNKTUR
-00:30 JPN: Verbraucherpreise 10/26
-01:01 GBR: GfK Verbrauchervertrauen11/26
-08:00 GBR: Einzelhandelsumsatz 10/26
-08:00 DEU: Erzeugerpreise 10/26
-08:00 DNK: BIP Q3/26 (vorläufig)
-08:45 FRA: Geschäftsklima 11/26
-08:45 FRA: Produzentenvertrauen 11/26
-09:30 POL: Industrieproduktion 10/26
-16:00 EUR: Verbrauchervertrauen 11/26 (vorab)
-16:00 USA: Uni Michigan Verbrauchervertrauen 11/26 (endgültig)
-
-SONSTIGE TERMINE
-09:00 DEU: «Frankfurt European Banking Congress» u.a. mit einer Rede von EZB-Präsidentin Christine Lagarde, Frankfurt/M.
-
-BEL: Zweiter EU-UK-Gipfel, Brüssel
-
-TUR: Geplanter Abschlusstag der UN-Weltklimakonferenz COP31 in der Türkei, Antalya
-
----------------------------------------------------------------------------------------
-MONTAG, DEN 23. NOVEMBER
-
-TERMINE UNTERNEHMEN
-07:00 CHE: Julius Bär, Q3-Umsatz
-11:00 DEU: Borussia Dortmund,  Hauptversammlung, Dortmund
-22:00 USA: Hewlett Packard Enterprise, Q4-zahlen
-
-TERMINE UNTERNEHMEN OHNE ZEITANGABE
-DEU: BASF, Capital Markets Day
-USA: Zoom Video Communications, Q3-Zahlen
-
-TERMINE KONJUNKTUR
-09:15 FRA: S&P Global PMI Verarbeitendes Gewerbe und Dienste 11/26 (1. Veröffentlichung)
-09:30 DEU: S&P Global PMI Verarbeitendes Gewerbe und Dienste 11/26 (1. Veröffentlichung)
-09:30 POL: Erzeugerpreise 10/26
-10:00 EUR: S&P Global PMI Verarbeitendes Gewerbe und Dienste 11/26 (1. Veröffentlichung)
-10:30 GBR: S&P Global PMI Verarbeitendes Gewerbe und Dienste 11/26 (1. Veröffentlichung)
-14:30 USA: CFNA-Index 10/26
-15:45 USA: S&P Global PMI Verarbeitendes Gewerbe und Dienste 11/26 (1. Veröffentlichung)
-
-SONSTIGE TERMINE
-DEU: Dritte Runde Tarifverhandlungen private Banken, Berlin
-
-BEL: Treffen der EU-Agrar- und Fischereiminister, Brüssel
-
----------------------------------------------------------------------------------------
-DIENSTAG, DEN 24. NOVEMBER
-
-TERMINE UNTERNEHMEN
-06:00 EUR: Acea Kfz-Neuzulassungen 10/26
-08:00 GBR: Kingfisher, Q3-Umsatz
-12:45 USA: Medtronic, Q2-Zahlen
-13:00 USA: Analog Devices, Q4-Zahlen
-13:00 USA: Best Buy, Q3-Zahlen
-15:00 CHE: Transocean, Hauptversammlung (außerordentlich)
-17:00 DEU: BASF, Capital Markets Day (Tag 2 von 2)
-22:00 USA: HP Inc., Q4-Zahlen
-22:00 USA: Dell, Q3-Zahlen
-
-TERMINE KONJUNKTUR
-01:30 JPN: S&P Global PMI Verarbeitendes Gewerbe und Dienste 11/26 (1. Veröffentlichung)
-07:00 FIN: Arbeitslosenquote 10/26
-09:00 ESP: Erzeugerpreise 10/26
-09:30 POL: Einzelhandelsumsatz 10/26
-10:00 DEU: Ifo-Geschäftklima 11/26
-14:15 USA: ADP Beschäftigung (Woche)
-15:00 USA: FHFA Hauspreisindex 9/26
-15:00 BEL: Geschäftsklima 1/26
-16:00 USA: Richmond Fed Herstellerindex 11/26
-16:00 USA: Verbrauchervertrauen 11/26
-
-SONSTIGE TERMINE
-FRA: Voraussichtlich: EU-Kommission stellt Herbstpaket des sogenannten Europäischen Semesters vor, Straßburg
-
----------------------------------------------------------------------------------------
-MITTWOCH, DEN 25. NOVEMBER
-
-TERMINE UNTERNEHMEN
-06:45 LUX: Aroundtown, Q3-Zahlen
-07:30 FRA: Remy Cointreau, Halbjahreszahlen
-07:30 NLD: Prosus, Halbjahreszahlen
-08:00 GBR: Easyjet, Jahreszahlen
-10:00 NOR: Norsk Hydro, Investor Day
-10:00 DEU: Hannover Rück, Investorentag
-
-TERMINE UNTERNEHMEN OHNE ZEITANGABE
-USA: Deere & Co, Q4-Zahlen
- 
-TERMINE KONJUNKTUR
-07:00 JPN: Maschinenwerkzeugaufträge 10/26 (endgültig)
-08:00 SWE: Erzeugerpreise 10/26
-08:00 DEU: BIP Q3/26 (2. Veröffentlichung)
-08:00 DEU: Privatkonsum Q3/26
-08:00 DEU: Staatsausgaben Q3/26
-08:45 FRA: Verbrauchervertrauen 11/26
-09:30 POL: Arbeitslosenquote 10/26
-14:30 USA: Private Einkommen und Ausgaben 10/26
-14:30 USA: Realeinkommen 10/26
-14:30 USA: PCE Preisindex 10/26
-14:30 USA: BIP Q3/26 (2. Veröffentlichung)
-14:30 USA: Erstanträge Arbeitslosenhilfe (Woche)
-14:30 USA: Auftragseingang langlebige Güter 10/26 (vorab)
-16:00 USA: Verkauf neuer Häuser 10/26
-16:30 USA: EIA Ölbericht (Woche)
-17:00 RUS: Industrieproduktion 10/26
-20:00 USA: Beige Book
-
-SONSTIGE TERMINE
-10:00 DEU: Weihnachtspressekonferenz Handelsverband Hessen, Frankfurt/M.
-
-BEL: EU-Westbalkangipfel, Brüssel
-
----------------------------------------------------------------------------------------
-DONNERSTAG, DEN 26. NOVEMBER
-
-TERMINE UNTERNEHMEN
-DEU: Rheinmetall, Capital Markets Day (bis 27.11.26)
- 
-TERMINE KONJUNKTUR
-DEU: DIW-Konjunkturbarometer
-02:00 KOR: Zentralbank, Zinsentscheid
-08:00 NOR: BIP Q3/26
-08:00 DNK: Einzelhandelsumsatz 10/26
-08:00 DEU: NIM-Konsumklima 12/26
-08:45 FRA: Erzeugerpreise 10/26
-10:00 EUR: Geldmenge M3 10/26
-
-SONSTIGE TERMINE
-DEU: Chemie- und Pharma-Summit, Berlin
-Auf der Konferenz soll u.a. Covestro-Chef Markus Steilemann als Präsident des VCI wiedergewählt werden. Steilemann gehört seit März 2020 dem VCI-Vorstand an. Seit 30. September 2022 führt er den Verband als Präsident.
-
-09:00 DEU: European Defence Capital Summit 2026, Frankfurt/M.
-
-10:00 DEU: Pressegespräch Deutsche Bank: Kapitalmarktausblick 2027, Frankfurt/M.
-
-11:00 DEU: Pressegespräch Dekabank: Kapitalmarkt- und Konjunkturausblick, Frankfurt/M.
-
-14:00 DEU: Urteil erwartet im Prozess gegen die Drogeriemarktkette dm wegen des Angebots von Augenscreening in den Filialen, Karlsruhe
-
-16:00 DEU: Verkündungstermin Oberlandesgericht Frankfurt zu Unterlassungsklage gegen Fluggesellschaft wegen Regelungen zum Handgepäck, Frankfurt/M.
-
-BEL: EU-Sondergipfel zur langfristigen Finanzplanung und zur weiteren finanziellen Unterstützung der Ukraine, Brüssel
-
-HINWEIS
-USA: Feiertag, Börse geschlossen
- 
----------------------------------------------------------------------------------------
-FREITAG, DEN 27. NOVEMBER
-
-TERMINE UNTERNEHMEN
-07:00 BEL: Elia Group, Q3-Zahlen
-
-DEU: Rheinmetall, Capital Markets Day (bis 27.11.26)
- 
-TERMINE KONJUNKTUR
-00:30 JPN: Tokio Verbraucherpreise 11/26
-07:00 FIN: BIP Q3/26
-08:00 NOR: Arbeitslosenquote 11/26
-08:00 SWE: Handelsbilanz 10/26
-08:00 SWE: BIP Q3/26
-08:45 FRA: Verbraucherpreise 11/26 (vorläufig)
-08:45 FRA: BIP Q3/26 (2. Veröffentlichung)
-09:00 ESP: Verbraucherpreise 11/26 (vorläufig)
-09:00 ESP: Einzelhandelsumsatz 10/26
-09:55 DEU: Arbeitslosenzahlen 11/26
-11:00 EUR: Wirtschaftsvertrauen 11/26
-11:00 EUR: Industrievertrauen 11/26
-11:00 EUR: Verbrauchervertrauen 11/26 (endgültig)
-11:30 BEL: Verbraucherpreise 11/26
-14:30 USA: Lagerbestände Großhandel 10/26 (vorab)
-
-SONSTIGE TERMINE
-10:30 DEU: Bayerischer Bankentag 2026, München
-Unter dem Motto «Verantwortung für wirtschaftliche Stärke und Wettbewerbsfähigkeit - Perspektiven aus Sicht von Finanzaufsicht und Wirtschaftswissenschaft».
-U.a. mit Keynote von Mark Branson, Präsident der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin), zum Thema «Wettbewerbsfähigkeit braucht Stabilität: Die Rolle der Finanzaufsicht».
-
-BEL: EU-Sondergipfel zur langfristigen Finanzplanung und zur weiteren finanziellen Unterstützung der Ukraine - zweiter und letzter Tag, Brüssel
-
-HINWEIS
-USA: Verkürzter US-Handel Aktien und Anleihen
+Aktuell: 
+                            zuletzt  +/- % 
+DAX Futures               25.429,00   +0,1 
+E-Mini-Future S&P-500      7.271,25   +0,2 
+E-Mini-Future Nasdaq-100  26.867,25   +0,2 
+Topix (Tokio)              3.764,88   +2,5 
+Hang-Seng (Hongk.)        22.205,61   -0,8 
+Shanghai-Comp.             3.545,02   +0,2 
  
  
----------------------------------------------------------------------------------------
-MONTAG, DEN 30. NOVEMBER
+Montag: 
+INDEX               Schluss  +/- % 
+DAX               25.337,27   +2,2 
+DAX-Future        25.388,00   +2,0 
+MDAX              29.296,26   +1,9 
+TecDAX             3.885,94   +2,0 
+SDAX              17.133,13   +2,2 
+Euro-Stoxx-50      6.074,47   +2,2 
+Stoxx-50           5.285,94   +1,9 
+XDAX              25.387,46   +0,2 
+Dow-Jones         49.595,31   +3,0 
+S&P-500            7.237,17   +4,7 
+Nasdaq Composite  24.089,56   +6,5
 
-TERMINE UNTERNEHMEN
-10:30 DEU: MTU Aero Engines, Capital Markets Day
++++++ FINANZMÄRKTE +++++
 
-TERMINE UNTERNEHMEN OHNE ZEITANGABE
-GBR: Standard Life, Capital Markets Day
- 
-TERMINE KONJUNKTUR
-00:50 JPN: Einzelhandelsumsatz 10/26
-00:50 JPN: Industrieproduktion 10/26 (vorläufig)
-02:30 CHN: PMI Verarbeitendes Gewerbe und Dienste 11/26
-06:00 JPN: Wohnungsbaubeginne 10/26
-08:00 SWE: Einzelhandelsumsatz 10/26
-09:00 CHE: BIP Q3/26
-09:00 CHE: KOF Frühindikator 11/26
-09:00 AUT: Erzeugerpreise 10/26
-09:30 POL: Verbraucherpreise 11/26 (vorläufig)
-09:30 POL: BIP Q3/26 (2. Veröffentlichung)
-10:00 DEU: Verbraucherpreise Hessen, Bayern, Brandenburg, Sachsen, Baden-Württemberg, Nordrhein-Westfalen 11/26
-10:00 ITA: Verbrauchervertrauen 11/26
-10:00 ITA: Produzentenvertrauen 11/26
-10:30 GBR: Hypothekenzusagen 10/26
-11:00 BEL: BIP Q3/26 (endgültig)
-11:00 ITA: Verbraucherpreise 11/26 (vorläufig)
-12:00 PRT: BIP Q3/26 (2. Veröffentlichung)
-12:00 PRT: Verbraucherpreise 11/26 (vorläufig)
-12:00 IRL: Verbraucherpreise 11/26 (vorläufig)
-14:00 DEU: Verbraucherpreise 11/26 (vorläufig)
-15:45 USA: MNI Chicago PMI 11/26
-16:30 USA: Dallas Fed Verarbeitendes Industrie 11/26
+EUROPA
 
-SONSTIGE TERMINE
-BEL: Treffen der Verkehrsminister der EU, Brüssel
+Ausblick: Nach der Rally am Montag in Reaktion auf die Rückkehr von Jensen Huang als CEO von Nvidia dürften Europas Börsen wenig verändert in den Handel am Dienstag starten. Das Comeback von Huang ist nach Einschätzung von XTB ein zweischneidiges Schwert. Einerseits verkörpere Huang "die Nvidia-Story, die KI-Vision, die Kundenbeziehungen und die Rockstar-Aura des Konzerns stärker als jede andere Person. Nach dem scharfen Abverkauf der vergangenen Tage war eine heftige Gegenbewegung deshalb geradezu klassisch". Andererseits wäre für die Rückkehr nachhaltigen Vertrauens der Anleger ein unbelasteter Nachfolger wichtiger gewesen. Derweil hat eine falkenhafte Rede von New Yorks Fed-Präsident John Williams die Anleger an die Zinserhöhungsrisiken erinnert. Die US-Notenbank müsse weitere, möglicherweise beschleunigte Maßnahmen ergreifen, um die Inflation einzudämmen, so Williams. Positiv für die Börsen ist der anhaltende Rückgang des Ölpreises. Die Öltransporte durch die Straße von Hormus bewegen sich trotz der jüngsten iranischen Angriffe weiter auf einem vergleichsweise hohen Niveau. Nach den europäischen Einkaufsmanagerindizes richten sich die Blicke am Vormittag auf die Veröffentlichung des Ifo-Geschäftsklimaindex. Für den Monat November rechnen Ökonomen mit einer leichten Verbesserung auf 90,5 Punkte nach 90,2 im Vormonat.
 
-BEL: EU-Handelsministertreffen, Brüssel
+Rückblick: Sehr fest - Die Wiedereinsetzung von Jensen Huang als Nvidia-CEO sorgte für eine Erholungsrally an der Wall Street, in deren Sog es auch in Europa steil nach oben ging. Mit Huang als zentraler Führungsfigur von Nvidia dürfte die strategische Kontinuität des gesamten KI-Booms wiederhergestellt sein, so die Spekulation. Durch seinen zwischenzeitlichen Weggang ausgelöste Zweifel an der Zukunft des Unternehmens und den milliardenschweren Investitionen in KI wurden wieder ausgepreist. Der Stoxx-Subindex der Technologieaktien gewann 5,5 Prozent. Im DAX waren die "KI-Aktien" Siemens Energy und Infineon mit Gewinnen von 6,9 und 6,6 Prozent die Tagessieger. ASML, STMicro und BE Semiconductor verzeichneten Gewinne von bis zu 9,3 Prozent. ABB stiegen um 4,6 Prozent. Dass ABB die deutsche Ziehl-Abegg für 2,65 Milliarden Dollar übernimmt, wurde zwar als teurer Zukauf gewertet, als strategisch aber sinnvoll. ABB baut damit sein Kühlungssegment aus. Nach dem Kurseinbruch am Freitag von fast 20 Prozent, erholten sich Abivax um 4,7 Prozent. Das Biotechnologieunternehmen hatte Anschuldigungen des aktivistischen Fonds Scorpion Capital zurückgewiesen.
 
----------------------------------------------------------------------------------------
+DAX/MDAX/SDAX/TECDAX
 
-Alle Angaben wurden mit größter Sorgfalt recherchiert. Dennoch übernimmt die dpa-AFX Wirtschaftsnachrichten GmbH keine Haftung für die Richtigkeit. Alle Zeitangaben erfolgen in MEZ./bwi
+Sehr fest - Die Bayer-Aktie verlor nach einem kräftigen Aufschlag in den ersten Handelsminuten am Ende des Tages 0,7 Prozent. Im Handel tat man sich mit einer Erklärung schwer angesichts durchweg positiver Kommentare von Analysten dazu, dass ein US-Gericht den von Bayer mit großen Anwaltskanzleien ausgehandelten Vergleich über 7,25 Milliarden Dollar final gebilligt hatte. Mit dem Vergleich sollen zigtausende Schadensersatzverfahren wegen angeblicher Krebserkrankungen als Folge des Einsatzes des Unkrautvernichters Roundup beigelegt werden. Die gute Kursentwicklung - seit Jahresbeginn ist die Aktie mehr als 40 Prozent gestiegen - könne Grund für die Kursreaktion gewesen sein, hieß es. Möglicherweise störten sich einige Anleger auch daran, dass die Zahl derjenigen Kläger, die sich an dem Vergleich nicht beteiligen, nicht veröffentlicht worden sei. Thyssenkrupp Nucera gaben um 0,9 Prozent nach. Der Spezialist für grünen Wasserstoff hatte enttäuschende Geschäftsergebnisse präsentiert. SFC Energy stiegen um 1,8 Prozent nach einem Erstauftrag über rund 1,7 Millionen kanadische Dollar von einem führenden Pipeline-Betreiber in Westkanada. 2G Energy meldete den bislang größten Einzelauftrag der Unternehmensgeschichte für den deutschen Heimatmarkt, worauf die Aktie um 9,1 Prozent stieg.
+
+USA - AKTIEN
+
+Hausse - Die überraschende Wiedereinsetzung von Jensen Huang als CEO von Nvidia - offenbar auch auf Betreiuben durch US.Präsident Donald Trump - löste ein Kursfeuerwerk im gesamten Technologiesektor aus und auch darüber hinaus. Die Nvidia-Aktie schoss um 31 Prozent nach oben. Huangs ebenso überraschender Abgang hatte Zweifel an der Zukunft des Unternehmens und den milliardenschweren Investitionen in KI ausgelöst. Seine Rückkehr habe Unsicherheiten über die Lieferzusagen, die technologische Ausrichtung und mögliche politische Risiken rund um Nvidia wieder verringert, hieß es. Mit Huang als Führungsfigur von Nvidia scheine die strategische Kontinuität des gesamten KI-Booms wiederhergestellt. Aktien wie AMD, Intel oder Coreweave erholten sich um 6,8 bzw. 16,3 bzw. 22,3 Prozent. Dagegen ging es für die Anthropic-Aktie nach dem Kurseinbruch am Freitag um 8,5 Prozent um weitere 1,4 Prozent auf 87,64 Dollar nach unten. Die Nachricht über die Huang-Rückkehr machte eine Großfusion im Cybersecurity-Segment fast zur Nebensache. Crowdstrike übernimmt im Zuge eines Aktientauschs Zscaler. Die Transaktion hat ein Volumen von 43,9 Milliarden Dollar. Die Crowdstrike-Aktie knickte um 8,9 Prozent ein. Überzeugende Quartalszahlen und ein erhöhter Ausblick für das Gesamtjahr bvon Crowdstrike kamen dagegen nicht an. Zscaler legten um 17,7 Prozent zu. Texas Pacific Land, ein bedeutender Eigentümer von Schürf- und Oberflächenrechten im Permian-Becken-Ölfeld, stimmte dem Kauf des Land- und Wassermanagement-Unternehmens Eaglerock Land für rund 3 Milliarden Dollar in Aktien zu. Texas Pacific gaben um 3,5 Prozent nach, während Eaglerock um 7,7 Prozent zulegten.
+
+USA - ANLEIHEN
+
+           Rendite    +/- 
+2 Jahre    4,66     +0,05 
+10 Jahre   4,92     +0,01
+
+Am Anleihemarkt ging es mit den Renditen nach dem kräftigen Rücksetzer am Freitag wieder leicht nach oben. Zum Ausklang der Vorwoche hatte die Kurse der Anleihen stark zugelegt, weil es angesichts des Einbruchs am Aktienmarkt zu Umschichtungen in Anleihen gekommen war. Diese Bewegung sei mit der Erholungshausse bei Aktien teils wieder umgekehrt worden, hieß es.
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 24, 2026 01:42 ET (06:42 GMT)
 
 ## Aktuelle Videos
 
 -   [
     
+    ![KI Beben an der Börse : Nvidia +30 % | Anthropic IPO| Börse Stuttgart](https://i.ytimg.com/vi/LFAdHtqGzHA/hqdefault.jpg)
+    
+    Videos**KI Beben an der Börse : Nvidia +30 % | Anthropic IPO| Börse Stuttgart**
+    
+    23/11/2026 17:53
+    
+    11:42 NVIDIA schießt nach dem CEO-Comeback um 30 % hoch – und stiehlt dem größten Tech-IPO der Geschichte die Show. Im Interview mit Cornelia Frey (Boerse Stuttgart Group) ordnet Vontobel-Derivate-Experte David Hartmann die Turbulenzen rund um NVIDIA, den A...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/23/ki-beben-an-der-boerse-nvidia-plus30-anthropic-ipo-boerse-stuttgart/)
+-   [
+    
     ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
     
     Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
@@ -633,1731 +232,375 @@ Alle Angaben wurden mit größter Sorgfalt recherchiert. Dennoch übernimmt die 
     
     
     ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
--   [
-    
-    ![Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital](https://i.ytimg.com/vi/tQZoTl4AAck/hqdefault.jpg)
-    
-    Videos**Midterms und KI-Beben: Platzt jetzt die Tech-Blase? Mit @kochwallstreet und @scalable.capital**
-    
-    27/10/2026 19:15
-    
-    00:17 Wie nachhaltig ist die KI-Rallye angesichts physischer Engpässe bei Rechenzentren, warum stürzen Rüstungsaktien trotz Rekordaufträgen ab und wie stellen sich Anleger mit MSCI All Country World und Co. krisenfest auf? 📈 Exklusive Infos direkt vom Park...
-    
-    
-    
-    ](/de-de/nachrichten/uebersicht/videos/2026/10/27/midterms-und-ki-beben-platzt-jetzt-die-tech-blase-mit-kochwallstreet-und-scalablecapital/)
 
 Weitere Treffer anzeigen
---- FILE: CQ Morning Briefing/Recess update SCOTUS justices to testify before Congress.mp3 ---
-Good morning. I'm Christina Karish and it's Wednesday, July 8th. This is CQ Roll Call's
-morning briefing, and here are the top three headlines you need to start today.
-Supreme Court Justices Amy Coney Barrett and Elena Kagan are scheduled to appear next week
-before Senate and House Appropriators. It'll be the first time since 2019 that justices will face
-lawmakers. The justices will testify before both chambers' financial service appropriation
-subcommittees on July 14th to discuss the High Court's fiscal 2027 budget, but the justices
-will likely face questions about the cases before them in recent years. This year's term featured
-decisions that rebuffed President Trump's tariff regime and his attempt to redefine citizenship
-through executive order, along with decisions that supercharged the ongoing redistricting wars
-and gave presidents more power to fire federal officials. Next, the Senate could take up its
-fiscal 2027 defense authorization bill as soon as next week, and equipment repair is among the areas
-of debate among lawmakers. Senators Elizabeth Warren and Tim Sheehy have championed a so-called right
-to repair provision in their chamber's bill. It would give the military services more control over
-the data they need to maintain their systems more rapidly than they do today, and at a lower cost.
-Civilian and uniformed leaders from Defense Secretary Pete Hegseth on down have supported
-shifting control over data rights from industry to the government. The goal is to increase competition,
-reduce prices, and ensure troops can fix their equipment on the battlefield.
-And finally, sweeping moves to address sexual misconduct at the Capitol may not be coming
-anytime soon, given the slow pace of change in Congress, but the Congressional Progressive
-Staff Association said even, quote, low-hanging fruit could make a difference.
-Staff safety is crucial, reads a Tuesday letter to lawmakers. The resignation of Representatives
-Tony Gonzalez and Eric Swalwell amid misconduct allegations sparked calls for a broader reckoning
-around culture on the Hill. Check cq.com for developing policy news. And for all of us in the CQ
-Roll Call Newsroom, I'm Christina Karish. Thanks for listening.
-------------------------------------------
---- FILE: Die Lage/Koalitionsausschuss und Stromsteuer. Opfer und Kosten des Klimawandels. SPIEGEL Buchpreis verliehen..mp3 ---
-Hallo und guten Morgen aus Berlin. Heute ist Dienstag, der 17. November 2026.
-Die Senkung der Stromsteuer würde vor allem Friedrich Merz entlasten.
-Der Klimawandel hat schon jetzt Hunderttausende das Leben gekostet.
-Und der Spiegel hat seinen diesjährigen Buchpreis verliehen.
-Mein Name ist Stefan Kuzmani und das ist die Lage am Dienstagmorgen.
-Die Nazi-Zeit wirkt bis heute nach.
-Viele unserer Vorfahren waren tief in die Verbrechen Hitlers verstrickt.
-In Spiegel-Geschichte berichten Historiker und Spiegel-Autoren, wie die Diktatur entstehen konnte,
-wer sie trug und wie man mit gezielten Recherchen Familienlegenden enttarnt.
-Die Geschichte dieser Zeit geht uns alle an.
-Jetzt im Mini-Abo zwei Ausgaben für 18 Euro inklusive Digitalzugang.
-Mehr auf spiegel.de slash Geschichte minus Abo.
-Heute Abend tagt der Koalitionsausschuss.
-Friedrich Merz, Lars Klingbeil und Markus Söder werden unter anderem noch einmal versuchen,
-im kommenden Bundeshaushalt Geld für die Senkung der Stromsteuer aufzutreiben.
-Also anderweitig einzusparen.
-Wir werden uns morgen einigen, hat Merz gestern nach einem Besuch beim CSU-Vorstand in München behauptet.
-Der Kanzler meint, die Beratungen zur Stromsteuer würden heute, Zitat, relativ kurz ausfallen.
-Denn nach seiner Darstellung hätte sich übers Wochenende herausgestellt,
-dass der Haushalt eine Stromsteuersenkung doch hergibt.
-Ähnlich äußerte sich Söder.
-Offenbar wollen die beiden damit schon vorab ihren Koalitionspartner Klingbeil unter Druck setzen.
-Der hatte zuletzt noch Zweifel an der Finanzierbarkeit geäußert.
-Jetzt, sagte Merz, er habe mit Klingbeil gesprochen und der wisse um, Zitat, die Notwendigkeit dieser Entscheidung.
-Aus dem Finanzministerium wird derweil vor, Zitat, finanzpolitischen Experimenten gewarnt.
-Das klingt nach Gesprächsbedarf, nicht nach Blitzeinigung.
-Einer Durchschnittsfamilie würde die Senkung der Stromsteuerschätzungen zufolge 80 Euro im Jahr bringen.
-Das sind weniger als 7 Euro pro Monat.
-Sicher gibt es Menschen, für die auch so ein relativ geringer Betrag entscheidend ist.
-Aber der Bedürftigste in dieser Sache scheint mir mittlerweile Friedrich Merz selbst zu sein.
-Die Stromsteuer wird immer mehr zu seiner Schicksalssteuer.
-Bekommt er sie nicht gesenkt, verliert er sein Gesicht.
-Diesen Sommer war ich auf einer Almhütte an der bayerisch-österreichischen Grenze.
-Ich komme fast jeden Sommer da hinauf, um zu wandern oder einfach nur den Kühen zuzuschauen.
-Das Beste daran ist, man hat dort oben praktisch keinen Empfang.
-Es gibt keine Anrufe, kein Internet und keine Nachrichten.
-Aber dieses Jahr bin ich der Weltlage trotzdem nicht entkommen.
-Die Almwiesen waren nicht saftig grün wie gewohnt, sondern merkwürdig blass und an manchen Stellen sogar gelblich.
-Noch nicht ausgetrocknet, aber sehr, sehr durstig.
-Der Klimawandel hat sich Bergschuhe angezogen.
-Anderswo wütet er schon lange und wesentlich brutaler.
-Zwischen 1996 und 2025 sind weltweit mehr als 900.000 Menschen an den Folgen von Hitzewellen,
-Überschwemmungen und anderen Extremwetterereignissen gestorben.
-Zu diesem Ergebnis kommt der Klimarisikoindex der Umwelt- und Entwicklungshilfeorganisation Germanwatch.
-Insgesamt ist laut dessen Berechnungen ein ökonomischer Schaden in Höhe von 4,7 Billionen US-Dollar entstanden.
-Die aktuelle Auswertung soll heute auf der laufenden Klimakonferenz in Antalya vorgestellt werden.
-Ich hoffe immer noch, dass sich dort und überall die Erkenntnis durchsetzt,
-dass es die Menschheit weniger kostet, auf eine weitere Erwärmung der Atmosphäre zu verzichten,
-als mit deren Folgen zu leben oder zu sterben.
-Gestern Abend wurde in unserer Zentrale in Hamburg der mit 10.000 Euro dotierte Spiegelbuchpreis 2026 verliehen.
-Gewonnen hat ihn der US-amerikanische Schriftsteller Tony Tulatimutte für sein Buch-Fiasco.
-Im Original heißt das Werk Rejection, also Zurückweisung, und die ist das übergreifende Thema.
-Fünf raffiniert verflochtene Erzählungen handeln von Menschen,
-die sich online und offline permanent fragen, was andere von ihnen halten.
-Die Spiegeljury erkannte in Fiasco eine, Zitat,
-ebenso scharfsinnige wie trostlose Zeitdiagnose.
-Kein anderes Buch hat die fatale Mischung von Selbstbezüglichkeit,
-Fragilität und neuen Medientechnologien,
-die uns alle in den Wahnsinn treibt,
-je so schonungslos seziert.
-Und keines war so komisch.
-Im Interview mit meinem Kollegen Andreas Bernhard erzählt Tulatimutte
-von den Zurückweisungen, die er selbst am Anfang seiner Karriere erlebt hat.
-Zitat,
-Und hier noch mein Verlierer des Tages.
-Das ist heute der Sportartikelhersteller Adidas.
-Nicht nur ist gestern Abend die deutsche Fußball-Nationalmannschaft der Herren,
-die übrigens doch noch Fußball spielen kann, wie wir gesehen haben,
-nach über 70 Jahren zum letzten Mal in einem Adidas-Trikot aufgelaufen.
-Zusätzlich wurde auch noch bekannt,
-dass Adidas einen weiteren Auftrag verloren hat.
-Auch den Champions-League-Ball stellt künftig Nike her.
-Das war die Lage am Dienstagmorgen.
-Kommen Sie gut durch.
-Mein Name ist Stefan Kuzmani und mich hören Sie morgen wieder.
-Was heute sonst noch wichtig ist.
-Der Nvidia-Skandal erschüttert weiter die Börsen.
-Daran ändern auch Berichte über ein Comeback von Jensen Wang nichts,
-die wohl ohnehin wenig Substanz haben.
-Die US-Regierung übt sich derweil in Schadensbegrenzung.
-Das Flugchaos vom Wochenende ist kaum überstanden.
-Da gibt es schon das nächste Problem für Reisende in den USA.
-Die Fluggesellschaft United musste aus technischen Gründen
-zahlreiche Maschinen am Boden lassen.
-Ein 32-jähriger Autofahrer hat sich bei Aschaffenburg
-eine Verfolgungsjagd mit der Polizei geliefert.
-Dabei kam es auf einem Gehweg zu einer tödlichen Kollision.
-Eine 13-Jährige verstarb noch an der Unfallstelle.
-Und jetzt wünschen wir Ihnen einen schönen Tag.
-Mein Name ist Anna Löwer.
-Ein perfektes Leben ist unmöglich.
-Aber es gibt viele Wege, gut klarzukommen,
-Spaß zu haben und zufrieden zu sein.
-Ich bin Lenne Kafka und für Smarter Leben spreche ich jede Woche
-mit ganz verschiedenen Expertinnen und Experten.
-Über Wünsche, die uns alle beschäftigen.
-Wie führen wir glückliche Beziehungen oder leben gesünder?
-Und wie finden wir unseren Weg durchs Alltagschaos?
-Antworten darauf gibt es immer samstags bei Smarter Leben,
-dem Ideen-Podcast vom Spiegel.
-Bei Spotify, Apple Podcasts oder wo immer ihr gerne hört.
-------------------------------------------
---- FILE: Handelsblatt Today – Der Finanzpodcast mit News zu Börse, Aktien und Geldanlage/Deutsches Stromnetz überlastet – droht jahrelanger Stillstand So maximiert ihr eure Steuer-Rückerstattung für 2026.mp3 ---
-Hallo und herzlich willkommen zu einer neuen Folge von Handelsblatt Today.
-Wir sprechen börsentäglich über wichtige Nachrichten und ihre Bedeutung für die Finanzwelt.
-Heute ist Montag, der 16. November und ich bin Ben Mendelssohn.
-Es gibt neue Probleme bei den deutschen Stromnetzen.
-Damit meine ich jetzt keinen Kabelbrand oder andere Sabotageakte,
-aber es gibt in vielen Städten und Gemeinden keine neuen Netzanschlüsse für Unternehmen,
-für Rechenzentren oder andere Großverbraucher.
-Das hat meine Kollegin Katjana Krabb exklusiv für das Handelsblatt recherchiert
-und über die Gründe und mögliche Lösungen für das Problem spreche ich gleich mit ihr.
-Und im Schwerpunkt der heutigen Folge geht es um euer Geld.
-Denn mit unserer Steuerexpertin Laura Delamotte bespreche ich,
-welche Tricks helfen, um für das Jahr 2026 noch auf die letzten Wochen vor Silvester
-die eigene Steuerlast zu senken.
-Laura hat einige Tipps mitgebracht, also bleibt dran,
-wenn ihr mehr Geld rausholen wollt, bis Ende Dezember.
-Zum Start in die neue Woche und in diese Folge habe ich jetzt aber erstmal für den Marktbericht
-meinen Kollegen Markus Hinterberger zu Gast, der für uns heute beobachtet,
-was sich so an den Märkten tut. Hallo Markus.
-Hallo Ben, grüß dich.
-Markus, immer wieder montags komme ich mit der Frage,
-wie sind die Märkte so aus dem Wochenende gekommen, wie war heute die Stimmung?
-Tja, die Stimmung war heute jetzt nicht ganz so ausgeschlafen,
-wie man das erwarten könnte nach einem Wochenende,
-weil wir haben auch sozusagen was, was die Märkte ein Stück weit hemmt.
-Und zwar sind das die anstehenden Zahlen von Nvidia,
-die werden morgen nach Börsenschluss, also nach Börsenschluss in Deutschland, veröffentlicht.
-Und da sind jetzt alle so ein bisschen in gespannter Erwartung.
-Wir haben ja sehr, sehr viele Nachrichten in den vergangenen Tagen zum weltgrößten Chipkonzern gehabt.
-Und da sind jetzt ganz viele Anlegerinnen und Anleger in einer gewissen abwartenden Haltung.
-Das heißt auch, dass an den Börsen heute auch nicht viel passiert ist.
-Also die Kurse sind entweder ganz leicht negativ oder ganz leicht positiv,
-wenn man sich jetzt mal auf Index-Ebene umschaut.
-Okay, also kaum Bewegung.
-Aber was wird denn von Nvidia erwartet, was so die neuen Quartalszahlen angeht,
-mitten im Skandal um den Nvidia-Gründer Jensen Huang und seine Affären?
-Was ist da so die Erwartungshaltung an die neuen Zahlen?
-Ja, also nichts Neues, um es mal ganz ehrlich auszudrücken.
-Denn Nvidia hat ja immer wieder geliefert, also eilt von Rekord zu Rekord.
-Und auch das wird dieses Mal wieder erwartet.
-Aber dieses Mal ist es natürlich anders, wie du schon gesagt hast.
-Der Gründer und Langzeit-CEO Jensen Huang ist weg und soll allerdings ja auch wiederkommen.
-Es gibt ja sehr viele Nachrichten, die sagen, dass es da eine ganze Reihe von Investorinnen und Investoren gibt.
-Da sind auch namhafte Leute wie Elon Musk mit dabei, die ihn wieder installieren wollen.
-Es ist aber jetzt die große Frage, wie geht es mit Nvidia weiter?
-Wird man sich auf eine Zeit nach Jensen Huang einrichten?
-Und es gibt auch den ein oder anderen Marktexperten oder Marktexpertin, die auch sagen,
-naja, vielleicht ist es gar nicht schlecht, wenn sozusagen diese allmächtige Gründerfigur auch mal nicht da ist eine Zeit lang.
-Weil dann kann sich das Unternehmen auch in Anführungszeichen zu einem normalen Unternehmen entwickeln.
-Weil man hat ja sehr oft bei sehr gründergeprägten Unternehmen auch diese Gefahr, wenn der alte Chef mal weg ist,
-meistens sind es ja irgendwelche Männer, die da das Ruder in der Hand hatten, dann bricht alles auseinander.
-Aber das kann jetzt für Nvidia auch sozusagen ein Zeichen sein, dass das Unternehmen auch ohne ihn klarkommt
-und auch ohne ihn seine fast schon marktbeherrschende Stellung behält.
-Und um noch einen kleinen Schlenker zu machen, alle die jetzt glauben, dass der KI-Boom jetzt abbrechen könnte,
-denen sei gesagt, wenn man sich mal alle Aktien, alle Werte rund aus dem KI-Universum anschaut,
-da ging es eigentlich nicht wirklich runter.
-Es war eher so, dass es nur bei Nvidia mal runterging und die Aktie erholt sich jetzt auch langsam wieder.
-Also das ist ein sehr gefestigter Trend.
-Ja, alles klar. Kurz der Vollständigkeit halber in Bezug auf eine mögliche Rückkehr von Nvidia-Gründer Jensen Huang.
-Du hast gesagt, es gibt ein paar Unterstützer. Es gibt auch einige Gegner.
-Ich glaube insgesamt auch die amerikanische Öffentlichkeit kann man dazu zählen
-und zum Beispiel auch den Finanzminister Scott Besson. Das sind wir der Vollständigkeit halber.
-Und dann habe ich gelesen, dass es auch News gibt zur Übernahme der Commerzbank durch Unicredit.
-Wie sehen diese Neuigkeiten aus und was sind die Folgen davon?
-Ja, also da gibt es, wie man so schön sagt, grünes Licht von Seiten der Wettbewerbshüter.
-Aus Brüssel heißt es sogar, man freue sich darüber, dass man jetzt eine noch stärkere europäische Bank habe.
-Und auch in den USA gab es da keinerlei Bedenken.
-Man muss aber auch dazu sagen, in allen Geschäftsbereichen, in denen sowohl Unicredit als auch die Commerzbank stark sind,
-haben Anlegerinnen und Anleger auch entsprechende Alternativen.
-Also das heißt, da entsteht jetzt kein riesiger Koloss, der nicht mehr zu kontrollieren wäre.
-Um jetzt das Ganze nochmal aus Sicht der Aktionärinnen und Aktionäre einzuordnen.
-Da schaut es so aus.
-Die Unicredit-Aktie ist heute ganz leicht im Minus.
-Das gleiche gilt für die Commerzbank-Aktie.
-Und das ist wahrscheinlich auch dem Umstand geschuldet, dass jetzt alle auch ein Stück weit,
-ich komme jetzt nochmal mit Nvidia ums Eck, dass jetzt alle darauf warten, was passiert da
-und ob da jetzt dann morgen Abend ein neuer Impuls in welche Richtung auch immer kommt.
-Okay, bevor wir jetzt immer wieder auf Nvidia zu sprechen kommen, war denn sonst irgendwas anderes?
-Ich verspreche, es kommt nicht mehr.
-Ja, okay.
-Dann frage ich aber trotzdem, was war denn sonst noch wichtig heute an den Märkten?
-Ja, also wir haben zum Beispiel was sehr Interessantes erlebt.
-Gold ist so günstig in Anführungszeichen wie seit April 2025 nicht mehr.
-Also man muss für die Feinunze Gold in Anführungszeichen nur noch 3875 Dollar hinlegen.
-Der Bitcoin ist auch nochmal ein Stück weit gesunken.
-Wenn wir uns das Ganze jetzt mal anschauen, auf Tagessicht ist das dann ein Minus von 1 Prozent.
-Das ist relativ untragisch.
-Aber wenn man sich mal anschaut, was so im Wochenverlauf, da steht dann ein Minus von 12 Prozent.
-Und ich habe es mir auch mal angeschaut, seit Jahresbeginn hat die größte Kryptodevise um ein Viertel an Wert verloren,
-sogar mehr als ein Viertel.
-Also da geht es runter, da fragt man sich natürlich auch, was passiert da.
-Man hat ja natürlich auch immer so diesen Gedanken, Gold und Bitcoin, das sind beides Krisenwährungen.
-Wir haben jetzt vielleicht ein relativ ruhiges Fahrwasser, da sind diese Währungen jetzt nicht so gefragt.
-Und das Gleiche gilt auch für den Ölpreis.
-Der Ölpreis ist auch relativ günstig, ist nochmal um 1, 2 Dollar gesunken im Vergleich zum Ende vergangener Woche.
-Und das, obwohl in der Straße von Hormuz zwei Öltanker auf Minen gelaufen sind.
-Und normalerweise war das in der jüngeren Vergangenheit immer ein Zeichner für, oh, jetzt flammt es gleich wieder auf.
-Aber auch am Golf ist es vergleichsweise ruhig, was ja mal eine recht positive Nachricht ist.
-Okay, dann hätte ich zum Schluss nur noch die Frage, hast du mir noch einen interessanten Einzelwert oder vielleicht sogar zwei mitgebracht,
-über die du noch gerne sprechen würdest?
-Ja, ich fasse mich da kurz.
-Also es gibt einen Einzelwert, der ganz spannend ist.
-Heute, wenn man sich den DAX anschaut, sticht Rheinmetall hervor.
-Die haben einen Plus von über drei Prozent.
-Könnte man jetzt sagen, wow, ganz toll.
-Aber wenn man sich natürlich den Rheinmetall-Chart mal auf etwas längere Sicht anschaut,
-steht da allein in den vergangenen Tagen ein ordentliches Minus.
-Rheinmetall hat seit Monatsbeginn 20 Prozent verloren.
-Man sagt ja auch immer wieder, Rheinmetall steht sozusagen für die alte Form des Militärs, für Panzer und nicht gerade für Drohnen und Innovationen.
-Und es gab natürlich auch viele Gewinnmitnahmen da im Zusammenhang.
-Und jetzt hat sich der Kurs bei rund 800 Euro eingependelt.
-Und jetzt geht es langsam wieder ein Stück weit hoch.
-Es ist nur die Frage, ob das jetzt eine kurze Erholung ist oder ob es da weiter jetzt nach oben gehen kann.
-Die meisten Analysten sagen, naja, das ist jetzt so eine Bodenbildung und man wird weitersehen.
-Und man muss natürlich auch insgesamt sich das so anschauen, wenn natürlich mehr Frieden in der Welt einkehrt,
-dann wird wahrscheinlich die Rheinmetall-Aktie nicht unbedingt steigen.
-Ist zwar schlecht für die Aktionärinnen und Aktionäre, aber vielleicht insgesamt für die gesamte Welt etwas besser.
-Etwas mehr Frieden zum Wochenstart. Markus, danke dir für den Marktbericht.
-Gerne.
-Und wie immer für euch an dieser Stelle der wichtige Hinweis.
-Alles, was wir in diesem Podcast besprechen, ist keine Anlageempfehlung, sondern dient rein eurer Information.
-Für mögliche Verluste übernehmen wir keine Haftung und an möglichen Gewinnen werden wir auch nicht beteiligt.
-Nach einer kurzen Unterbrechung geht es gleich weiter. Bleiben Sie dran.
-Cyber Security, KI und dann wollen auch noch alle remote arbeiten. Wie soll ich mich denn auch noch darum kümmern?
-Müssen Sie doch nicht.
-Ach nee, und wer macht's dann?
-Na, Vodafone Business.
-Stimmt, wir haben die passenden Services für jedes Unternehmen. Von IT-Sicherheit über KI-Tools bis zum flexiblen Arbeitsplatz.
-Alles aus einer Hand. Zusammen für Ihr Business. Vodafone.
-Das deutsche Stromnetz ist am Limit. Das klingt erstmal abstrakt.
-Konkret heißt das aber, viele Städte und viele Gemeinden können keine neuen großen Anschlüsse ans Netz mehr vergeben.
-Und das für viele Jahre. Das bedeutet ein riesiges Problem für die betroffenen Regionen, aber auch für Unternehmen, die sich ansiedeln oder ihre Standorte ausbauen wollen.
-Wie groß das Problem wirklich ist, wer da gerade nicht ans Netz angeschlossen werden kann und wie bzw. wie schnell sich dieses Problem lösen lässt, all das weiß Katjana Krabb, unsere Energiereporterin beim Handelsblatt, die ich jetzt bei uns im Podcast begrüßen kann.
-Hi Katjana.
-Hallo Ben.
-Katjana, vielleicht grenzen wir das Problem erstmal ein oder auch nicht. Also für welche Regionen gilt denn das Problem, dass das deutsche Stromnetz am Limit ist und keine Großverbraucher mehr angeschlossen werden können?
-Oder ist diese Liste viel zu lang von diesen ganzen Städten und Gemeinden, um sie jetzt im Podcast hier zu nennen?
-Ja, also es betrifft tatsächlich sehr, sehr viele Gebiete in Deutschland.
-Man kann gar nicht sagen, das ist jetzt der Süden oder der Osten und da ist das Problem besonders schlimm.
-Denn es hängt eben sehr von einzelnen Faktoren ab. Also zum Beispiel gibt es am Ortseingang einer Gemeinde ein großes Umspannwerk, was ausreichend ist?
-Oder ist da auf einmal ein Rechenzentrum dazugekommen, das allen anderen die Stromleistung streitig macht?
-Insofern gibt es viele Regionen. Es gibt aber keine Liste. Es gibt ein paar Regionen, von denen weiß man das gerade ganz konkret.
-Zum Beispiel das Netzgebiet von EWE. Das ist der fünftgrößte Stromkonzern in Deutschland.
-Das betrifft also große Teile von Niedersachsen und Teile von Nordrhein-Westfalen.
-Die haben jetzt an alle ihre Bürgermeister in ihrem Netzgebiet eine Warnung rausgeschickt,
-dass eben große Stromverbraucher vorerst kaum noch angeschlossen werden können.
-Und auch ganz prominentes Beispiel ist Hamburg. Da gibt es auch gerade viele politische Debatten,
-weil auch da eben an den Stadtgrenzen die nötigen Kapazitäten fehlen und alles, was viel Strom braucht,
-einfach keinen neuen Stromanschluss mehr bekommen wird in den nächsten Jahren.
-Das klingt jetzt aber dann schon ein bisschen nach einem Nord- oder Nordwestproblem,
-wenn jetzt Hamburg, Niedersachsen, NRW dabei ist. Ist das sozusagen ein Schwerpunkt da bei den Gemeinden, die betroffen sind?
-Das sind jetzt ein paar Beispiele. Es gibt aber genauso Beispiele in Baden-Württemberg.
-Da gibt es auch einen Netzbetreiber, E-Werk-Netze heißen die, die haben auch auf ihrer Internetseite eine Warnung rausgegeben.
-Und es ist genau das Gleiche. Also alles über ein Megawatt in diesem Fall,
-beziehungsweise 1,5 in anderen Fällen kann nicht angeschlossen werden.
-Okay, also offensichtlich schon auch regional ein umfassendes Problem.
-Und wenn wir bislang jetzt grob von Großverbrauchern gesprochen haben, um was geht es denn da genau?
-Also wer kann da gerade nicht neu angeschlossen werden?
-Ja, also 1,5 Megawatt ist erstmal natürlich eine Größenordnung, mit der man nicht ad hoc was anfangen kann.
-1,5 Megawatt, das sind zum Beispiel zwei LKW-Ladesäulen grob vorgestellt für Elektro-LKWs.
-Das heißt also alles, was so im privaten Bereich liegt, ist meistens kein Problem,
-wenn man jetzt einfach eine Wallbox vor das Haus montiert und eine Wärmepumpe anschließen will.
-Das geht in der Regel problemlos.
-Aber alles, was größer ist, also zum Beispiel schon ein Autohaus,
-was eine ganze Reihe von Ladesäulen anschließen möchte oder eine LKW-Spedition mit Schnellladern
-oder ein Industrieunternehmen, was eben wirklich viel Strom zieht
-oder sogar sowas wie ein Rechenzentrum, das gibt es ja auch immer häufiger.
-Das geht dann alles nicht mehr.
-Die können sich dann in diesen Regionen erstmal alle nicht ansiedeln.
-Und vielleicht nochmal etwas detaillierter nachgefragt, du hast jetzt schon zwei, drei Beispiele genannt.
-Wofür brauchen denn Unternehmen so leistungsstarke Netzanschlüsse?
-Ja, also bislang wurde in Deutschland ja ganz viel mit Gas oder Kohle oder Öl gemacht.
-Also zum Beispiel sind LKWs bislang meistens mit Sprit gefahren
-und Industrieunternehmen haben mit Gasöfen zum Beispiel ihr Metall eingeschmolzen.
-Jetzt wird das alles immer mehr auf Strom umgestellt, denn wir wollen ja klimafreundlich sein
-und man kann Strom eben viel klimafreundlicher produzieren.
-Und das heißt aber auch, dass eben riesige Energiemengen,
-die vorher aus fossilen Brennstoffen stammten,
-jetzt durch Strom zur Verfügung gestellt werden müssen.
-Und dadurch brauchen die Unternehmen eben sehr, sehr starke Stromanschlüsse.
-Und damit kommen die jetzt alle auf einmal um die Ecke.
-Und deswegen ist das Netz so unter Druck.
-Dann lass uns mal darüber reden, was das für Konsequenzen hat,
-dass das Netz so unter Druck ist und dann auch keine neuen Anschlüsse mehr möglich sind.
-Was heißt das denn für die Regionen, die davon betroffen sind?
-Wir können es mal besprechen, ganz konkret an dem Beispiel von Rommerskirchen in NRW.
-Das liegt im Umland von Köln und Düsseldorf.
-Was heißt dieser fehlende Netzausbau konkret für Rommerskirchen?
-Ja, also mit dem Bürgermeister von Rommerskirchen hatte ich mich unterhalten
-und der wollte eigentlich ein neues Industriegebiet eröffnen.
-Es gibt nämlich dort in der Region ein sehr großes Braunkohlekraftwerk
-und direkt daneben ist noch Platz.
-So, jetzt denkt man natürlich direkt neben dem Kraftwerk, da gibt es auch Strom.
-Aber so einfach ist es halt nicht,
-denn dieser Strom muss ja auch dort zur Verfügung gestellt werden
-und auch da ist das Netz eben sehr stark überlastet.
-Das heißt, dieses ganze Industriegebiet stockt.
-Es gibt keinen Strom oder keinen leistungsstarken Strom mehr
-für neue Unternehmen, die sich da ansiedeln wollen würden.
-Und jetzt kommen zum Beispiel Speditionen oder andere Unternehmen
-zu diesem Bürgermeister und sagen, wir würden hier gerne mit E-LKWs
-was Grünes, Nachhaltiges machen oder Architekturbüros,
-die viele Daten brauchen, Rechenzentren.
-Und er muss immer sagen, nee, sorry, das geht jetzt doch nicht.
-Wir wollten eigentlich gerne was Neues machen, weg von der Kohle,
-neue Wirtschaftszweige ansiedeln.
-Und das geht alles nicht, weil der Stromnetzanschluss nicht da ist
-und auch in den ganzen nächsten Jahren wahrscheinlich nicht da sein wird.
-Und das heißt dann, keine Arbeitsplätze, keine Steuereinnahmen,
-Bevölkerungswachstum vielleicht auch nicht möglich
-und weitere Konsequenzen sozusagen.
-Richtig.
-Kann man denn auch sagen, was das für Unternehmen bedeutet?
-Also wir haben jetzt sozusagen die Perspektive der Region.
-Ein Bürgermeister will, dass sich eine Firma ansiedelt.
-Aber was heißt das vielleicht auch für Unternehmen,
-die schon an einem Standort sind?
-Kann man das vielleicht auch beispielhaft erklären,
-was die Konsequenzen sind,
-wenn keine weiteren Anschlüsse möglich sind ans Stromnetz?
-Ja, also zum Beispiel habe ich auch gesprochen mit Vantage Towers.
-Die stellen Mobilfunkmasten auf.
-Also total wichtig, wenn man das Handynetz in Deutschland ausbauen möchte
-und mal die ganzen Funklöcher schließen möchte.
-Und jeder Mobilfunkmast braucht eben auch einen Stromnetzanschluss.
-Jetzt kann man die aber nicht praktisch direkt neben das Stromnetz bauen,
-weil die müssen halt dahin, wo sie hin müssen,
-damit da das Funkloch geschlossen wird.
-Und der Netzbetreiber sagt dann oft,
-naja, euer Funkmast steht jetzt leider sehr weit weg von unserem Netz.
-Da können wir jetzt keine Verbindung hinbauen.
-Mach das doch selber.
-Wir haben gerade ganz viel anderes zu tun.
-Und zack, dauert es einfach ein Jahr länger,
-so einen Mobilfunkmast aufzustellen.
-Und kann man vielleicht sagen, so als kleinen Rückblick,
-wer hat dieses Thema denn politisch verbockt?
-Also an wem ist der Netzbau vor allem gescheitert?
-Kann man das sozusagen auf eine Partei
-oder auf eine bestimmte Regierungszeit beschränken?
-Oder ist das ein langfristiges Versagen in der deutschen Politik?
-Ich würde sagen, das ist ein langfristiges Versagen.
-Natürlich hängt sowas immer dann erstmal politisch
-am aktuellen Wirtschaftsminister oder der Wirtschaftsministerin.
-Die werden dann immer adressiert.
-Aber man hätte das Problem eben schon viel früher angehen müssen als erst jetzt.
-Auch jetzt könnte man da wahrscheinlich mehr tun.
-Das Problem ist einfach,
-obwohl Wissenschaftler ja schon seit Jahren sagen,
-der Strombedarf wird extrem steigen,
-Elektroautos und Wärmepumpen werden sich durchsetzen,
-die Industrie wird sich elektrifizieren,
-hat daran niemand so richtig geglaubt.
-Oder jedenfalls nicht in dem Umfang, wie wir es gerade sehen.
-Und deswegen wurde der ganze Stromnetzausbau
-weder politisch noch von den zuständigen Unternehmen
-auf dieses Szenario ausgerichtet.
-Und dann sind auch noch die Rechenzentren dazugekommen,
-was wirklich niemand kommen sehen hat.
-Ja, und jetzt ist alles viel zu langsam gegangen.
-Und das lässt sich eben gar nicht so einfach und schnell aufholen.
-Ja, alles viel zu langsam.
-Über die möglichen Lösungen spreche ich gleich gern noch mit dir
-in der letzten Frage, aber vorher noch der Punkt.
-Die Microsoft-Deutschland-Chefin hat ja auch vor kurzem gesagt,
-es sei irritierend, wenn der Netzanschluss in Deutschland
-dann erst in 20 Jahren da wäre.
-Also nicht jetzt, auch nicht in 10, sondern erst in 20 Jahren.
-Obwohl Deutschland als Industrienation ganz vorne mitspielen will.
-Dauert das wirklich 20 Jahre?
-Mal so in Richtung Lösung gefragt schon mal.
-Wie lange dauert das wirklich, so ein Netz so auszubauen,
-dass es nicht mehr im Limit ist
-und neue Großverbraucher doch wieder angeschlossen werden können?
-Ja, also 20 Jahre sind natürlich ein Extremfall.
-Aber 10 bis 15 Jahre ist oft die Ansage,
-die von Netzbetreibern tatsächlich kommt.
-Weil oft hängt es an einem sogenannten Umspannwerk.
-Also man hat große Strommengen, die kommen aus dem Kraftwerk,
-aber die müssen dann auf eine niedrigere Spannungsebene gebracht werden
-und dann weiter verteilt werden.
-So, wenn dieses Umspannwerk, was bisher am Ortseingang,
-zum Beispiel in der Stadtgrenze von Hamburg steht,
-nicht ausreicht, muss verstärkt werden.
-Dazu braucht man einen Transformator.
-Diese Teile sind sehr begehrt weltweit und sehr teuer
-und man muss ewig lange warten, bis sie da sind.
-Das ist also schon mal der eine Zeitfaktor
-und dann brauchen die Unternehmen oft eben auch irgendwelche Sondergenehmigungen
-und dann ist man mit den deutschen Behörden in Kontakt
-und naja, das dauert dann eben auch sehr lange.
-Das heißt, es kann sein, dass die Unternehmen selber nicht sagen können,
-ob sie in fünf oder in zehn Jahren erst so ein Umspannwerk errichtet haben
-und solange das nicht da ist,
-muss alles andere auf den Stromnetzanschluss warten.
-Okay, und gibt es irgendeine Möglichkeit,
-diesen Netzausbau und auch den Bau von Umspannwerken
-da deutlich zu beschleunigen?
-Du hast gerade schon Sondergenehmigungen angesprochen.
-Gibt es irgendwas, was die Politik oder auch die Netzbetreiber
-probieren können, um das nicht fünf, zehn, 15 oder sogar 20 Jahre dauern zu lassen?
-Also es gibt viele kleine Sachen, die auch probiert werden,
-zum Teil erfolgreich, zum Teil noch nicht so erfolgreich.
-Was zum Beispiel viele Netzbetreiber gerade tun, ist,
-dass sie Kapazitäten im Netz, die eigentlich schon vergeben sind,
-wieder zurücknehmen.
-Das heißt, jemand hat zum Beispiel reserviert,
-ich hätte gerne in fünf Jahren so und so viel Netzanschluss,
-braucht das aber jetzt noch nicht.
-Dann diskutiert man zum Teil, wir nehmen dir das jetzt wieder weg
-und geben das jemandem anderen, der das früher braucht.
-Also da wird noch so ein bisschen rumgeschoben und rumgetrickst.
-Und es gibt natürlich auch Möglichkeiten,
-das Netz einfach anders auszulasten als früher.
-Man hat früher immer alles so geplant, dass es auf jeden Fall klappt.
-Also die höchstmögliche theoretische Netzlast,
-die war sozusagen der wesentliche Parameter für,
-wie lege ich die Netze aus.
-So jetzt gibt es mittlerweile mit KI etc. Möglichkeiten,
-das etwas feiner zu justieren.
-Dann kann man das Netz vielleicht etwas mehr füllen,
-sozusagen etwas, ein bisschen mehr ins Risiko gehen.
-Aber natürlich auch immer so,
-dass die Stromversorgung weiterhin sichergestellt ist.
-Und dann ist eben Bürokratieabbau ein wichtiger Faktor.
-Das ist einfach alles von den Genehmigungen her nicht so lange dauert.
-Und da ist die Politik gefragt,
-es soll auch bis Ende des Jahres theoretisch noch ein Verteilnetzpaket geben,
-wo solche Regulierungen geändert werden.
-Davon hört man momentan aber nicht so viel.
-Also ob das wirklich bis Ende des Jahres klappt,
-da würde ich mal ein großes Fragezeichen dran machen.
-Aber die Dringlichkeit, die wächst natürlich von Tag zu Tag.
-Alright, vielleicht aber dann zumindest im kommenden Jahr,
-gerade wenn man jetzt deinen Artikel dazu liest
-und die Dringlichkeit noch mehr versteht.
-Katjana, danke für deine Zeit und für deine Erklärungen.
-Sehr gerne.
-Und wenn ihr noch mehr zum Thema erfahren wollt,
-in den Shownotes findet ihr die gesamte Recherche von Katjana Krabb verlinkt.
-Und jetzt habe ich noch ein starkes Angebot für alle von euch,
-die noch kein Handelsblatt-Abo haben
-oder ihren Liebsten vielleicht eins zu Weihnachten schenken wollen
-für den maximalen Durchblick bei Politik, Wirtschaft und Finanzmärkten.
-Das Jahresabo vom Handelsblatt gibt es jetzt mit 50% Rabatt.
-Das Angebot gilt nur für kurze Zeit.
-Also schaut doch mal rein auf handelsblatt.com slash 50.
-Nach einer kurzen Unterbrechung geht es gleich weiter.
-Bleiben Sie dran.
-Cybersecurity, KI und dann wollen auch noch alle remote arbeiten.
-Wie soll ich mich denn auch noch darum kümmern?
-Müssen Sie doch nicht.
-Ach nee, und wer macht's dann?
-Na, Vodafone Business.
-Stimmt, wir haben die passenden Services für jedes Unternehmen.
-Von IT-Sicherheit über KI-Tools bis zum flexiblen Arbeitsplatz.
-Alles aus einer Hand.
-Zusammen für Ihr Business.
-Vodafone.
-Manchmal braucht es nur einen Perspektivwechsel.
-So sehen Künstler, was andere noch nicht entdeckt haben.
-Auch bei der Geldanlage kann ein neuer Blick Chancen eröffnen.
-Seit über 30 Jahren entwickelt und verwaltet Carmignac Investmentfonds
-mit dem Ziel, Vermögen langfristig zu entwickeln.
-Denn Chancen liegen oft dort, wo andere nicht hinschauen.
-Carmignac.
-Active by Conviction.
-Independent by Nature.
-Kapitalanlagen bergen Risiken.
-Diese Informationen stellen keine Anlageberatung dar.
-Wir haben jetzt Mitte November.
-So langsam neigt sich das Jahr 2026 also dem Ende zu.
-Und damit auch das Steuerjahr 2026.
-Damit ihr, liebe Hörerinnen und Hörer, noch auf die letzten Wochen des Jahres
-eure Steuererstattung für dieses Jahr erhöhen könnt,
-hat meine Kollegin Laura Delamotte einige Steuertipps für das Jahr 2026 gesammelt,
-mit denen Steuerzahler noch bis Silvester beeinflussen können,
-wie viel sie an Steuern zahlen.
-Laura ist unsere Steuerexpertin beim Handelsblatt.
-Und über einige der Tipps sprechen wir jetzt.
-Hallo Laura.
-Hi Ben.
-Laura, ein sehr spannender Aspekt, wie ich finde, in deinem Artikel ist,
-dass man nach deutschem Steuerrecht bis Silvester zum letzten Mal steuerfrei in Kryptowährungen investieren kann.
-Ich persönlich bin jetzt gar nicht so ein großer Krypto-Fan,
-aber es gibt bestimmt einige Hörerinnen und Hörer, die das interessiert.
-Warum ist das so, dass sich die Besteuerung von Kryptowährungen ändert zum Jahreswechsel?
-Ja genau, also das ist zumindest geplant, ja.
-Also Stand heute gibt es einen Referentenentwurf der Bundesregierung,
-in dem steht, dass die Haltefrist für Kryptowährungen abgeschafft werden soll.
-Bisher war es ja so, wenn man Kryptowährungen gekauft hat und ein Jahr behalten hat,
-dann musste man auf die Gewinne darauf überhaupt keine Steuern zahlen.
-Und das soll eben abgeschafft werden.
-Und stattdessen sollen Kryptowährungen künftig mit der Abgeltungssteuer belegt werden.
-Also je nachdem, ob man in der Kirche ist, sind das so 26 bis 27 Prozent.
-Und der Entwurf sieht aber auch vor, dass für Altcoins noch einen Bestandsschutz gibt.
-Also sprich, wenn du jetzt Coins noch 26 anschaffst, sind das Altcoins.
-Und dann gilt diese abgeschaffte Haltefrist und die Abgeltungssteuer nicht.
-Und dann ist halt wie vorher, wenn du nach einem Jahr verkaufst, dann ist alles steuerfrei.
-Wenn du es vorher machst, dann muss es mit deinem persönlichen Einkommenssteuersatz versteuert werden.
-Denn der ist meistens ja ein bisschen höher als die Abgeltungssteuer.
-Also das lieber dann nicht machen.
-Ja, also steuerlich ist auf jeden Fall sinnvoll, dieses Jahr dann noch zuzuschlagen.
-Ob das jetzt aus Anleger Sicht auch sinnvoll ist, würde ich mir jetzt kein Urteil erlauben.
-Auf jeden Fall sind sie recht günstig geworden, die Coins.
-Ja, genau. Bei Bitcoin auf jeden Fall stimmt das.
-Wenn du jetzt noch ein paar Mal Altcoins sagst, dann kommt vielleicht irgendein Düsseldorfer Brauereibetrieb
-noch auf die Idee, eine eigene Kryptowährung rauszubringen.
-Lassen wir das lieber.
-Kommen wir lieber zum Thema Absetzen.
-Das hört und liest man ja immer wieder Absetzen.
-Sie können 4.000 Euro zum Beispiel absetzen von der Steuer.
-Aber vielleicht bevor wir einsteigen in die Aspekte, die abgesetzt werden können.
-Was heißt das denn konkret für mein Netto, wenn ich jetzt, sagen wir mal zum Beispiel
-5.000 Euro jeden Monat verdiene, also 60.000 im Jahr.
-Um wie viel sinkt denn meine Steuerbelastung, wenn ich etwas absetze?
-Ah ja, die Frage für den Freund.
-Ja, also klar, absetzen heißt natürlich nicht, dass das jetzt 1 zu 1 vom Staat bezahlt wird,
-sondern das bedeutet einfach, dass diese Summe, die du absetzt, von deinem zu versteuernden
-Einkommen abgezogen wird und nur noch auf die Differenz dann Steuern gezahlt werden müssen.
-Also bei 60.000, wenn du 4.000 Euro absetzen kannst, dann sind das also nur noch 56.000,
-auf die du dann Steuern zahlen musst.
-Und das ist ungefähr eine Steuersparnis von 1.500 Euro.
-Also sprich von den 4.000 Euro, die du ausgegeben hast, kriegst du 1.500 vom Fiskus zurück.
-Okay, alles klar. Dann lass uns mal gucken auf verschiedene Aspekte, die abgesetzt werden können.
-Zum Beispiel, lass uns über Werbungskosten sprechen.
-Werbungskosten sind ja ziemlich wichtig.
-Ein großer Posten auf jeden Fall in der eigenen Steuererklärung können sie sein.
-Da könnten Steuerzahler noch bis zum Jahresende die Pauschale für Werbungskosten knacken.
-Vielleicht erstmal nur, wie hoch ist die Pauschale für Werbungskosten?
-Die ist 1.230 Euro.
-Okay, 1.230. Was kann ich dann alles als Werbungskosten angeben?
-Und was bringt es mir, wenn ich diese 1.230 Euro knacke, also diese Pauschale?
-Genau, also die 1.230 Euro, sobald du eine Steuererklärung abgibst,
-die werden immer sowieso automatisch abgezogen von deinem zu versteuernden Einkommen.
-Und wenn du jetzt eben noch mehr Ausgaben hast, dann solltest du die auf jeden Fall noch angeben,
-weil dann wird eben noch mehr abgezogen als 1.230, sondern vielleicht noch 100 Euro mehr
-oder vielleicht noch 500 Euro mehr, je nachdem.
-Genau, 1.230 ist natürlich schon eine ganze Menge.
-Also vor allem Leute, die einen weiten Arbeitsweg haben und viel pendeln,
-die haben da ganz gute Chancen, weil die Kilometerpauschale wurde ja auch ein bisschen angehoben zuletzt.
-Liegt jetzt bei 38 Cent pro Kilometer einfacher Arbeitsweg.
-Also nicht hin und zurück, sondern nur einfache Strecke.
-Aber immerhin, wenn du da so 200 Tage im Jahr oder so ins Büro pendelst,
-dann kommt der ein oder andere da vielleicht dann über diese Grenze.
-Ansonsten kommen auch noch Weiterbildungen oder diverse Anschaffungen für deinen Job in Frage,
-die du absetzen kannst.
-Also spezielle Berufskleidung oder so, so der Klassiker.
-Oder eben irgendwelche Bücher, wo du dich also nochmal schlau machst.
-Oder auch irgendwie Online-Tutorials und Kurse und Zertifikate und so weiter.
-Oder ein MBA.
-Klar, der kostet natürlich dann auch gleich ein bisschen mehr.
-Aber auch noch Kosten fürs Homeoffice.
-Wer also da vielleicht noch einen Computer oder Schreibtisch oder so sich zusätzlich zulegt,
-der kann diese Kosten auch immer geltend machen.
-Also deswegen unbedingt deinen Kassensturz machen.
-Und wer da nah an dieser 1230er-Grenze schon dran ist,
-könnte dann auch noch die ein oder andere Anschaffung vorziehen.
-Genau, etwas, was man dann eh noch bedürftigt.
-Das heißt aber, es ist so eine Art Gemischtwarenladen für verschiedene Kostenpunkte.
-Aber es hat alles irgendwie einen beruflichen Kontext.
-Unbedingt, genau.
-Ja, dann hätte ich noch ein anderes Thema auf dem Zettel.
-Und zwar Dienstleistungen im Haushalt.
-Also Putzkräfte, Pflegepersonal, eine Gärtnerin.
-Auch das lässt sich absetzen.
-Genauso wie auch Handwerksdienstleistungen in der eigenen Wohnung.
-Warum ist es denn bei diesem Thema wichtig, da bis zum Jahresende Rechnungen zu bekommen und die auch zu beweisen?
-Ja genau, das ist Voraussetzung, damit es eben auch steuerlich anerkannt wird,
-dass man das in diesem Jahr noch absetzen kann.
-Also Rechnung und Zahlung müssen noch vor dem Silvestertag rausgegangen sein.
-Und da gibt es auch verschiedene Höchstwerte, die man da geltend machen kann.
-Also man muss jetzt nicht über eine Pauschale kommen, wie bei den Werbungskosten,
-sondern da gibt es sozusagen Maximalbeträge, die man absetzen kann.
-Und das ist bei Handwerkern sind das 6.000 Euro, allerdings nur von den Arbeitskosten.
-Davon kann man 20 Prozent absetzen.
-Das sind also 1.200 Euro.
-Und das ändert sich nächstes Jahr auch wahrscheinlich.
-Da ist geplant, dass dann nur noch 15 Prozent abgesetzt werden können.
-Also das spricht auch dafür, dass man in diesem Jahr noch die ein oder andere Handwerkertätigkeit bucht.
-Genau.
-Und ansonsten für die Putzkräfte oder Gärtner oder was du angesprochen hast,
-genau, gibt es auch Höchstbeträge, die man da absetzen kann.
-Da sind es dann 20 Prozent von 4.000 Euro, also sprich 800 Euro, die man geltend machen kann.
-Und bei Minijobbern, wenn du jetzt zum Beispiel eine Putzfrau richtig angestellt hast mit Minijob,
-sind das 20 Prozent vom Lohn, maximal 510 Euro.
-Da ist noch ganz wichtig, wenn du zusammen in einer Wohnung wohnst mit jemandem,
-also mit einem Partner, er muss gar nicht verheiratet sein,
-aber dann könnt ihr diese Kosten nur einmal ansetzen.
-Also müsst ihr euch dann aufteilen, wer es in der Steuererklärung macht.
-Bitte nicht beide.
-Wenn das irgendwann mal auffliegt, das wäre dann Steuerentertziehung.
-Ja, okay.
-Eine Steuerentertziehung wollen wir auf jeden Fall nicht, vor allem nicht dazu anstiften.
-Natürlich schwierig, vielleicht noch einen Handwerkertermin zu kriegen bis Ende des Jahres,
-aber falls es möglich ist oder man eh schon was dementsprechend in Planung hat,
-vielleicht ist das eine Option.
-Vorletzter Punkt, das geht raus an die Eltern da draußen.
-Ihr solltet eure Kinderbetreuungskosten ausnutzen.
-Das sagt zumindest Laura Delamotte, sie rät dazu.
-Die Frage ist, Laura, welche Beiträge gehören denn dazu
-und wie viel können Eltern da geltend machen?
-Genau, also es gilt für alle Kinder, die unter 14 Jahren sind,
-für die kann man Betreuungskosten geltend machen.
-Also klassischerweise Kita, Tagesmutter, Au-pair.
-Ganz wichtig, da immer die Verpflegungskosten rausrechnen.
-Die darf man nicht abziehen.
-Und sowas wie Nachhilfe und Sportkurse und so gehört leider auch nicht dazu.
-Also das bitte weglassen.
-Und dann könnt ihr Aufwendungen von maximal 6.000 Euro, wenn ihr die habt,
-könnt ihr bis zu 80 Prozent davon geltend machen.
-Also maximal 4.800 Euro.
-Also wer den Betrag noch nicht ausgeschöpft hat, keine Ahnung,
-weil vielleicht die Kita gar nichts kostet in diesem Jahr,
-der kann vielleicht noch mal einen oder anderen Weihnachtsbummel machen
-und dafür den Babysitter buchen.
-Ja, alles klar.
-Es soll Orte geben, wo Kita-Plätze nichts kosten.
-Andere müssen da einige hundert Euro jeden Monat berappen,
-je nachdem, wo man so wohnt.
-Zum Schluss hätte ich nur noch die Frage zum Thema Spenden.
-Einen Teil von den Spenden an gemeinnützige Organisationen
-kann man ja steuerlich absetzen.
-Wie viel wäre denn da möglich, wenn man jetzt noch die eigene Steuerbelastung darüber senken
-und gleichzeitig noch was Gutes tun möchte, so Richtung Jahresende?
-Genau, ja, da kann man sogar ziemlich viel Geld machen,
-nämlich 20 Prozent vom zu versteuernden Einkommen.
-Also wenn man jetzt mal ganz grob sagt,
-hier die Musterperson vorhin mit dem 60.000 Euro Jahreseinkommen.
-12.000 dann.
-12.000, genau, 12.000 Euro Spenden.
-Und das bringt dann eine Steuererstattung von ungefähr 7.000 Euro.
-Also sprich, ja, du hast 12.000 gespendet,
-aber vom Fiskus kriegst du 7.000 zurück.
-Also musstest du nur noch 5.000 ausgeben.
-Interessant.
-Und das heißt, das könnte ich noch ausnutzen,
-aber wenn ich jetzt drunter bin,
-das ändert sozusagen ja trotzdem mein Netto,
-auch wenn ich jetzt in Anführungsstrichen nur 500 Euro gespendet habe.
-Ja, na klar.
-Sinkt immer das zu versteuernde Einkommen
-und dann, genau, kriegst du immer eine kleine Erstattung dann.
-Und man kann auch was Gutes tun damit.
-Alles klar.
-Danke, Laura, für deine Zeit und für deine Steuertipps.
-Ja, sehr gerne.
-Und wenn ihr zu Hause noch mehr nachlesen möchtet zum Thema,
-Laura hat in ihrem Artikel noch einige weitere Steuertipps
-für dieses Jahr gesammelt.
-Den Link findet ihr auch in den Shownotes.
-Und wenn ihr noch mehr hören wollt von Laura Delamotte,
-dann hört mal rein in ihren Podcast Geld genug.
-Neue Folgen gibt's alle zwei Wochen.
-Und das war's schon wieder mit Handelsber Today für heute.
-Redaktionsschluss war wie immer um 16 Uhr.
-Und falls ihr noch Fragen oder Feedback für uns habt,
-dann schreibt uns gern per Mail über WhatsApp, Telegram oder Signal.
-oder ihr lasst uns einen Kommentar da auf der Podcast-Plattform eurer Wahl.
-Für die Produktion der Sendung ein herzliches Dankeschön an Florian Pape
-und natürlich danke ich auch euch fürs Zuhören.
-Macht's gut und bis bald.
-Manchmal braucht es nur einen Perspektivwechsel.
-So sehen Künstler, was andere noch nicht entdeckt haben.
-Auch bei der Geldanlage kann ein neuer Blick Chancen eröffnen.
-Seit über 30 Jahren entwickelt und verwaltet Carmeniak Investmentfonds
-mit dem Ziel, Vermögen langfristig zu entwickeln.
-Denn Chancen liegen oft dort, wo andere nicht hinschauen.
-Carmeniak.
-Active by conviction.
-Independent by nature.
-Kapitananlagen bergen Risiken.
-Diese Informationen stellen keine Anlageberatung dar.
-------------------------------------------
---- FILE: Marketplace Tech/A Blockbuster-era law could define modern online privacy rules.mp3 ---
-That business idea you keep daydreaming about on the MRT?
-The one you will start if you are not so busy?
-Well, it's time.
-Shopify has everything you need to launch fast.
-With built-in AI to make things easier to sell everywhere people shop.
-Our first order!
-We launched last night and we're already sold out by lunch.
-Join millions of businesses on Shopify.
-Sign up for your free trial at shopify.com.
-A law from the era of blockbuster video could help decide the future of consumer data privacy.
-From American Public Media, this is Marketplace Tech.
-I'm Megan McCarty Carino.
-Back in 1988, Congress passed the Video Privacy Protection Act, also known as the Bork Bill,
-after a reporter published the not-so-scandalous video rental history of Supreme Court nominee Robert Bork.
-The law prohibited videotape service providers from disclosing customer data.
-And it's now at the center of a case before the Supreme Court.
-Not about VHS, but consumer data in the streaming era.
-Here to explain is Eric Goldman, co-director of the High Tech Law Institute at Santa Clara University.
-Ad targeting is predicated on the data collected from somebody who's at a site that also has video.
-And the plaintiffs are trying to connect the dots.
-The Video Privacy Protection Act becomes a tool to target all analytics and to target all ad targeting.
-And that's why there's been so many cases filed while the plaintiff's lawyers are very deeply invested in trying to use this law,
-a dinosaur law from the ages, from a different era, to actually govern what is standard internet practices today.
-So the Supreme Court heard oral arguments in this case in mid-October.
-Did we get any sense from those proceedings about how justices are thinking about these issues?
-The law really does divide courts.
-And that's true at the Supreme Court and all the way down the chain.
-Because the courts are being asked to interpret a statute that contemplated a very different set of consumer interactions.
-And so there's no clear path to interpreting the statute that puts it into the modern context and that people would uniformly agree upon.
-So what's really, I think, slowed down the courts and I think was at issue in the Supreme Court oral arguments is how do we make sense of a statute written for a different era?
-And there's no partisan divide on that front.
-There's no right or left wing.
-There's just people confused about how to do standard statutory interpretation.
-And what is at stake here?
-Well, normally at stake might be something quite simple.
-If a service is distributing video and they are also using things like analytics or ad targeting, they could get consumer consent.
-They could simply ask consumers if they're okay with this.
-But really what's happening is that there are many businesses that don't want to do that kind of consent or if they do so are going to create other issues for themselves.
-And the plaintiff's lawyers want to sue them all.
-And so at stake here is potentially we could have an entire litigation phenomenon where every website with video is a potential defendant and the plaintiffs will look at ways to weaponize this law from a different era and find a technical violation and then go and ask for the damages specified by the statute.
-So it really becomes like a litigation perpetual motion machine.
-If the court green lights a broad interpretation of the statute, there are many plaintiffs lawyers who are going to try to find a way to cash in.
-So these cases are happening kind of against this vacuum at the federal level where we have no comprehensive data privacy law.
-Do you think we could see more kind of vintage laws like this spring back up for, you know, fresh, modern interpretation?
-No doubt the plaintiff's lawyers are looking for a whole variety of tools in their toolkit.
-For example, many of the claims also invoke a law that was written maybe as early as the 1950s, but certainly into the 70s.
-Various kinds of computer crime laws that limit electronic eavesdropping or electronic surveillance.
-And those make sense.
-Those laws are good ideas, but applied to the modern Internet, they just don't fit very well.
-In fact, California had to amend its law to take that tool away from plaintiff's lawyers because the plaintiff's lawyers were overgrazing this very old electronic eavesdropping law and trying to fit it to the Internet context as well.
-So there's a little bit of a cat and mouse game going on here.
-Plaintiff's lawyers are looking for all the tools in toolkit and they'll weaponize them all to try to advance their cause.
-And the businesses are trying to make countermoves.
-In some cases, the legislatures have to make countermoves.
-We'll be right back.
-You're listening to Marketplace Tech.
-I'm Megan McCarty Carino.
-We're back with Eric Goldman, co-director of the High Tech Law Institute at Santa Clara University.
-Unclear at this point, you know, when or if the Supreme Court will rule on this or maybe bounce it back to, you know, lower courts.
-But what are you going to be watching as this moves forward?
-I'll be watching the specific statutory interpretation.
-It wouldn't take much for the Supreme Court to revitalize hundreds or thousands of cases if they grant some of the plaintiff's requests.
-So I'll be curious about that specific topic.
-But I think the broader topics about what does it mean to get online consent?
-And do we want businesses throwing out more barriers to our access to websites?
-And what does it mean to use analytics or add targeting online?
-On the one hand, we might consider that evasive.
-On the other hand, that might be essential to getting the kinds of results we want from the Internet.
-And so I'm going to be watching to see if anything the Supreme Court says casts a shadow on some of those very standard practices.
-Because if so, that's a ruling that is interpreting a law that was a little niche law for a very niche problem in the old days and could completely reshape how we think about the Internet.
-And what if agents, AI agents, are doing things on the Internet on our behalf?
-Can they give consent?
-We could do a whole marketplace tech show on that one because AI agents are actually no joke.
-A number of businesses are banning AI agents.
-And the question is, can they do so?
-And is that even the right move for them?
-So Amazon has banned AI agents.
-There was a recent move by William Sonoma to ban AI agents.
-So that's coming for us, too.
-Everyone's got to battle over what they want us to be doing online.
-That's Eric Goldman at Santa Clara University.
-Jesus Alvarado produced this episode.
-I'm Megan McCarty Carino, and that's Marketplace Tech.
-This is APM.
-------------------------------------------
---- FILE: OHNE AKTIEN WIRD SCHWER/Anthropic-IPO Kaufen oder nicht NVIDIA-Chaos, Amazon verkauft Rechenzentren, Eli Lilly auf Einkaufstour.mp3 ---
-Sollte man beim Börsengang von Anthropic mitmachen und was ist mit der Aktie nach dem Börsengang, das rechnen wir uns heute mal genauer durch und danach gibt es wie immer die aktuellen News.
-Mein Name ist Noah Leidinger, heute ist Dienstag, der 17. November und das ist ohne Aktien wird schwer.
-Risikohinweis. Die Inhalte dienen ausschließlich der allgemeinen Information und sind zum einen ohne Gewähr und zum anderen keine Empfehlung zum Kauf oder Verkauf bestimmter Finanzinstrumente.
-Es handelt sich hier nicht um Anlageberatung. Ihr entscheidet selber, was ihr macht.
-Normalerweise starten wir hier mal mit den Nachrichten von gestern in die Folge, aber heute drehen wir das mal um, denn ihr wisst es alle, diese Woche kommt nach SpaceX der zweite historische Börsengang in diesem Jahr, nämlich der von Anthropic.
-Wir haben in den letzten Wochen ja schon sehr viel darüber geredet, aber trotzdem nochmal viele Fragen gekriegt, ob wir beim Börsengang mitmachen würden, ob wir die Aktie danach kaufen würden und so weiter.
-Vorab muss ich sagen, wir kaufen generell keine Aktien, die wir kurz davor oder kurz danach im Podcast besprechen, aber unabhängig davon mal eine Analyse, wie ich auf den Börsengang schauen würde.
-Wenn wir jetzt mal nur wirklich auf den Börsengang an sich schauen, dann hoffen Investoren ja immer auf den IPO-Pop, also dass die Aktie am ersten Tag 10, 20, 30 Prozent steigt.
-Und dass es passiert, ist nicht garantiert, aber es ist auch kein Zufall.
-Weil es ist so, dass die Firmen und Investmentbanken vor so einem Börsengang ganz viele Angebote von Investoren einsammeln, die zu einem bestimmten Kurs eine bestimmte Menge an Aktien kaufen würden.
-Normalerweise sind da mehr Angebote drin, als Aktien beim IPO verkauft werden.
-Und das ist auch bei Anthropic so.
-Der Börsengang ist ungefähr siebenmal überzeichnet.
-Es gibt also einfach gesagt siebenmal mehr Nachfrage, als überhaupt Aktien da sind.
-Jetzt ist es aber eben normalerweise nicht so, dass die Investmentbanker und Anthropic den Preis so festlegen, dass sie das Maximum der Nachfrage ausreizen.
-Sie nehmen also nicht den höchstmöglichen Preis, sondern irgendwas dazwischen, damit man eben direkt am ersten Tag eine kleine Rendite hat, den sogenannten IPO-Pop, und damit direkt mit einer guten Börsenstimmung in die Börsenlaufbahn startet.
-Und Anthropic muss da aus meiner Sicht sehr gut aufpassen, weil die KI-Stimmung gerade eh schon sehr unsicher ist.
-Wenn Anthropic also keinen IPO-Pop hinkriegt, könnte das viele Investoren in der ganzen Branche noch mehr verunsichern.
-Sie werden da also wahrscheinlich ziemlich vorsichtig sein, damit sie den Pop hinkriegen.
-Die Wahrscheinlichkeit dafür halte ich also für relativ hoch, aber wie immer ist sowas auch nicht garantiert.
-Die Frage ist dann, was danach passiert.
-Und erstmal muss man wissen, dass so ein Pop gar keine Garantie für die Performance danach ist.
-SpaceX zum Beispiel hatte ja auch einen sehr starken Pop von um die 20% am ersten Tag.
-Und trotzdem, paar Tage, paar Wochen nach dem Börsengang war die Aktie schon niedriger als beim ursprünglichen Ausgabepreis.
-Im Vergleich zu SpaceX finde ich die Bewertung bei Anthropic aber deutlich nachvollziehbarer.
-Und um das selbst ein bisschen besser einzuschätzen, teile ich das mal in drei Perspektiven ein.
-Die optimistische Sicht auf die Zahlen, die pessimistische Sicht auf die Zahlen und der Blick in die bisschen weitere Zukunft.
-Starten wir mit dem optimistischen Blick auf die Zahlen.
-Wenn Anthropic im vierten Quartal so weiter wächst wie im letzten, sollten sie dieses Jahr auf ca. 60 Milliarden Dollar Umsatz kommen.
-Und wenn sie dann noch ein Jahr so wachsen, kommen sie auf fast 300 Milliarden Dollar Umsatz im nächsten Jahr.
-Das ist jetzt mal die Umsatzseite.
-Beim Gewinn ist es ja noch so, dass Anthropic nur knapp profitabel ist oder je nach Monat knapp in der Verlustzone.
-Deswegen muss man da ein bisschen herumrechnen und man kann sich die Frage stellen, wie viel Gewinnpotenzial im aktuellen Umsatz steckt.
-Also wie viel Gewinn Anthropic theoretisch machen könnte, wenn sie mal nicht mehr so stark wachsen, sondern einfach ihr Geschäft betreiben.
-Und um das einzuschätzen, gibt es zwei Kostenblöcke, die bei Anthropic wirklich entscheidend sind.
-Das sind erstens die Kosten für Rechenleistung und zweitens die Kosten für Sales und Marketing.
-Damit ist nicht klassische Werbung gemeint, sondern vor allem Umsatzanteile, die Anthropic an wichtige Partner zahlt, über die viele Kunden indirekt Anthropic nutzen.
-Wenn man das mal zusammenrechnet, dann machen Rechenleistung und Sales und Marketing ca. 70% vom Umsatz aus.
-Und gleichzeitig gibt es ja noch die ganzen anderen Kosten für Personal und so weiter.
-Das sollte aber deutlich langsamer wachsen als der Umsatz, weil Anthropic ja nicht unbedingt mehr Mitarbeiter braucht, nur weil mehr Menschen Cloud nutzen.
-Wenn man jetzt einfach sagt, dass sich diese Kosten bei 10% vom Umsatz einpendeln und die 70% für Rechenleistung und Sales und Marketing bleiben,
-dann würde man auf eine Gewinnmarge vor Steuern und Zinsen von 20% kommen.
-Das kann man jetzt zum Beispiel mal mit der Amazon Cloud vergleichen.
-Da verkauft Amazon ja im Grunde Rechenleistung und hat sogar eine Gewinnmarge vor Steuern und Zinsen von um die 40%
-und dass Anthropic ungefähr in so eine Margenrichtung kommt mit ihrer KI, wirkt jetzt nicht komplett unrealistisch.
-Und wenn man jetzt dann mal eher konservativ mit den 20% rechnet, dann hat Anthropic im nächsten Jahr ein Gewinnpotenzial von um die 60 Milliarden Dollar,
-wenn sie eben so stark weiter wachsen.
-Und die angestrebte Bewertung von 1400 Milliarden beim Börsengang entspricht nur dem 25-fachen davon.
-Und das meinte ich auch mit der nachvollziehbareren Bewertung im Vergleich zu SpaceX.
-Die Annahme, dass Anthropic nächstes Jahr weiter so stark wächst wie dieses Jahr, ist sicher ambitioniert.
-Aber ich brauche bei Anthropic eben anders als bei SpaceX keine großen Zukunftsvisionen, um die Bewertung zu rechtfertigen,
-sondern ich muss eigentlich nur daran glauben, dass das Business so stark weiter wächst
-und dass sie eben eine starke Marktposition langfristig halten können und damit auch solide Margen kriegen.
-Das bringt mich aber auch zum pessimistischen Blick.
-Wenn man sieht, dass eine Firma wie Nvidia nur noch mit dem 10-fachen vom Vorsteuergewinn bewertet wird,
-obwohl sie stark wachsen, dann sieht man schon, dass die Börse bei KI teilweise ziemlich skeptisch ist.
-Wenn bei Anthropic jetzt das Wachstum abnimmt, sie nächstes Jahr zum Beispiel nur 200 Milliarden Umsatz machen,
-was ja immer noch krasses Wachstum wäre und die Börse generell skeptischer wird,
-ist auch eine Bewertung von unter 1000 Milliarden zu rechtfertigen und nicht unrealistisch.
-Vor allem, weil ich vorher auch über das Gewinnpotenzial gesprochen habe,
-aber das ist noch eher theoretisch.
-Bis 2030 wird Anthropic nämlich keinen positiven Cashflow haben.
-Bis dahin werden sie also ihr ganzes Geld in Wachstum pumpen.
-Und dazu kommen dann noch die eher allgemeinen Sorgen.
-Anthropic zum Beispiel hat ja selbst OpenAI als den KI-Vorreiter verdrängt.
-Und es kann natürlich auch sein, dass das Anthropic selbst wieder passiert,
-also dass sie selbst nicht mehr der führende Player sind.
-Und es gibt immer noch die Angst, dass immer mehr KI-Nutzung zu günstigeren Modellen übergeht.
-Und das bringt mich zum Schluss auch nochmal zum Blick in die Zukunft.
-Pip hatte letztens im Omer-Podcast am Sonntag die spannende Statistik dabei,
-dass S&P 500 Firmen im Schnitt 0,1 Prozent vom Umsatz für KI ausgeben,
-Wenn wir sagen, dass es bei anderen Firmen ähnlich ist und langfristig auf 10 Prozent steigt,
-weil KI zum Beispiel massiv Personal ersetzt,
-dann könnte Anthropic 50 Mal größer sein als jetzt,
-sogar wenn sie 50 Prozent der Marktanteile verlieren.
-Und dann wäre Anthropic eben eine Firma mit 3.000 Milliarden Umsatz,
-also dem 50-fachen von diesem Jahr.
-Bei 20 Prozent Marge wären das 600 Milliarden Gewinn.
-Und wenn die Firma dann mit dem 20-fachen vom Gewinn bewertet wird,
-könnte das eine 12.000 Milliarden Firma sein.
-Das wäre jetzt mal so der ganz optimistische Blick in die Zukunft.
-Aber zwischen dann und heute liegen natürlich noch viele Jahre sehr viel Unsicherheit.
-Es kann auch ganz anders kommen.
-Aktuell bleibt Anthropic damit eine Zukunftswette und damit auch ein eher riskantes Investment.
-Aber es ist natürlich nachvollziehbar, dass man denkt,
-das könnte eine der relevantesten KI-Firmen der Zukunft sein.
-Die will ich irgendwie im Portfolio haben.
-Man sollte nur bedenken, wenn man jetzt zum Beispiel ein bisschen Anthropic ins Portfolio holt,
-dass die Firma durch ihre Größe in einiger Zeit in den meisten großen ETFs
-auch einen relativ hohen Anteil haben wird und dass man dann die Aktie nicht doppelt gewichtet
-und nicht zu viel auf eine KI-Werte setzt.
-Und zum Schluss nochmal zurück zum Börsengang selbst.
-Mitmachen kann man übrigens wahrscheinlich bis morgen noch.
-Das geht dieses Mal ja auch ziemlich gut für Privatanleger,
-zum Beispiel auch bei unserem Partner Scalable Capital.
-Man sollte sich nur darauf einstellen,
-dass man mit hoher Wahrscheinlichkeit deutlich weniger Aktien kriegt,
-als man dort bestellt.
-Das könnten sogar nur 5 oder 10 Prozent sein von dem, was man gerne haben möchte,
-weil der Börsengang eben wie vorhin gesagt überzeichnet ist.
-Und jetzt, nach den ganzen Anthropic-Einordnungen, den vielen Zahlen,
-nochmal die News von gestern und die hat Christoph dabei.
-Neben dem Anthropic-Börsengang und der GTA-Veröffentlichung
-werden die Quartalszahlen von Nvidia, die ja heute Nacht kommen,
-das große Thema an der Börse.
-Und zu Nvidia gab es schon vor den Zahlen News.
-Laut Financial Times denkt Jensen Wang nämlich schon über ein Comeback an die Nvidia-Spitze nach.
-Dabei hat er auch mächtige Unterstützer.
-Im Silicon Valley läuft eine Kampagne, die den Verwaltungsrat auffordert,
-Wang zurückzuholen.
-Eine Online-Petition hatte inzwischen mehr als um die 180.000 Unterschriften.
-Zu den genannten Unterstützern gehören unter anderem Elon Musk
-und auch zwei große Nvidia-Investoren, die fordern, mit einer Nachfolgeentscheidung zu warten,
-bis eben alle Fakten geklärt sind.
-In der Politik ist die Meinung übrigens gespalten.
-Das ist ganz spannend.
-US-Finanzminister Scott Besant fordert einen externen neuen Chef,
-um die ganzen Sachen jetzt wirklich aufzuarbeiten, die bei Nvidia passiert sind.
-Donald Trump kann sich dagegen eine Rückkehr von Jensen Wang vorstellen.
-Am Abend hat dann CNBC gemeldet, dass Nvidia selbst aktuell nicht darüber nachdenkt,
-Wang als CEO zurückzuholen.
-Zur guten Stimmung haben seine Rückkehrbemühungen auf jeden Fall auch nicht beigetragen.
-Die Nvidia-Aktie ist nämlich genau wie die meisten anderen Chip- und KI-Aktien
-wieder ziemlich schlecht gelaufen.
-Das liegt an verschiedenen Gründen.
-Erstens an schlechter Stimmung insgesamt, was riskantere Investments angeht.
-Das sieht man ja zum Beispiel auch daran,
-dass der Bitcoin in den letzten sieben Tagen fast 15% gefallen ist.
-Zweitens könnte das aber auch an einer neuen Regulierung der US-Behörden liegen.
-Die wollen nämlich verhindern, dass chinesische Firmen über Rechenzentren
-in anderen Ländern auf Nvidia und andere High-End-Chips zugreifen,
-die in China selbst gar nicht erlaubt sind.
-Dass die USA hier nochmal deutlich strenger sind,
-kann eng mit dem Skandal rund um Jensen Wang zusammenhängen.
-Und es würde eben Nvidia und auch andere Firmen treffen,
-die bisher teilweise an Rechenzentrumsbetreiber verkauft haben,
-die dann ihre Rechenleistung an chinesische Firmen vermietet haben.
-Andere und positivere Rechenzentrums-News gab es bei Amazon.
-Und zwar verabschieden sich die von der Mehrheit an 13 neu gebauten Rechenzentrumsgebäuden in den USA.
-Käufer ist der Blackstone Digital Infrastructure Trust,
-eine Immobiliengesellschaft, die der Finanzinvestor Blackstone erst im Mai an die Börse gebracht hat
-und die genau auf solche Rechenzentren spezialisiert ist.
-Die übernimmt für rund 5 Milliarden Dollar 75% der Rechenzentren.
-Amazon selbst behält 25% und mietet dann die gesamten Anlagen zurück.
-Erst für 12 Jahre mit einer Verlängerungsmöglichkeit auf insgesamt bis zu 32 Jahre.
-Die Aktie vom Blackstone Digital Infrastructure Trust hat nach der Nachricht um die 5% zugelegt
-und für Amazon ist es ein Weg, ein bisschen kapitalfrei zu machen.
-Neben KI gab es zwei Pharma-Deals für Milliarden Summen.
-Einmal kauft Eli Lilly das Biotech-Startup Carlytrics für bis zu 1,5 Milliarden Dollar.
-Das Unternehmen wurde erst 2025 gegründet und entwickelt eine Antikörpertherapie
-gegen seltene Blutkrebsarten, die im Knochenmarkt entstehen.
-Die bisherigen Medikamente, die es schon gibt, die können vor allem Symptome lindern und Komplikationen verhindern.
-Die neue Therapie soll dann direkt an den genetischen Veränderungen ansetzen, die die Krankheiten auslösen.
-Der Deal ist Teil einer großen Einkaufstour.
-Zusammengerechnet könnten Eli Lillys Übernahmen und Lizenzvereinbarungen in diesem Jahr bis zu 32 Milliarden Dollar wert sein.
-Das wäre laut Bloomberg ein Rekord.
-Ja, und Lilly war eben nicht der einzige Pharma-Riese, der gestern eingekauft hat.
-Johnson & Johnson übernimmt das Biotech-Unternehmen Ollen Biosciences für um die 3 Milliarden Dollar.
-Auch die Aktie hat sich trotz des Milliardeneinkaufs kaum bewegt.
-Ollen entwickelt ein Medikament gegen zwei wichtige Ursachen für schwere Sehverluste.
-Für Johnson & Johnson ist das eine wichtige Erweiterung, denn mit Kontaktlinsen,
-da ist der Konzern im Augengeschäft bereits groß, bei Medikamenten gegen Netzhauterkrankungen bislang aber kaum aktiv.
-Interessant ist auch die Finanzierung.
-Der Finanzinvestor Blackstone übernimmt nämlich mit 750 Millionen Dollar die Kosten für die entscheidende Phase 3-Studie.
-Dafür erhält er dann später erfolgsabhängige Zahlungen und eine Umsatzbeteiligung.
-Schlechte News gab es für Tata Motors Passenger Vehicles.
-Die indische Mutter von Jaguar Land Rover ist um knapp 10% gefallen.
-Grund ist eine Prognosesenkung, eben bei der britischen Tochter.
-Jaguar Land Rover rechnet nämlich fürs Jahr nur noch mit einer operativen Marge von 2-3% statt bisher 4%.
-Im letzten Quartal lag die Marge sogar nur bei 1%, obwohl der Umsatz um 20% gestiegen ist.
-Belastet haben unter anderem schwache Verkäufe in China.
-Dazu kommt noch ein riskanter Umbau.
-Jaguar hat nämlich einen Großteil seiner bisherigen Modellpalette eingestellt und soll als deutlich exklusivere Luxusmarke neu starten.
-Dabei hat die Firma vor allem wohlhabende Kunden in den USA im Blick.
-Zwei kurze News noch aus Deutschland.
-Die EU-Kommission und die US-Notenbank haben die Übernahme der Commerzbank durch die Unicredit genehmigt.
-Und Tesla plant in seinem Werk in Grünheide bei Berlin eine zweite Fabrikhalle und wird dafür 3 Milliarden Euro investieren.
-Darin sollen später bis zu eine Million Cybercaps gebaut werden können, also selbstfahrende Taxis ohne Lenkrad und Pedale.
-Baustart soll im ersten Halbjahr 2027 sein.
-Die Produktion soll dann 2029 beginnen.
-Das war ohne Aktienwert schwer, produziert von Potsdas bei OMR.
-Und bevor ich euch jetzt in die Woche entlasse, mit den eher negativen Börsennachrichten teilweise,
-noch mal ein paar gute Nachrichten, gute Stimmung von Warren Buffett.
-Der hat nämlich mal wieder einen Thanksgiving-Brief geschrieben.
-Unter unter anderem geschrieben, dass Kindness, also Nettigkeit, einen besseren Zinseszins hat,
-als alles, was er und Charlie Munger, sein Geschäftspartner, je gekauft haben.
-Brief verlinken wir euch in der Beschreibung.
-Und in dem Sinn, seid nett zueinander.
-Adios.
-------------------------------------------
---- FILE: Reuters World News/Huang petition, James Bond, Trump in Asia (Updated).mp3 ---
-Hi, I'm Kim Vanell in Whanganui, New Zealand.
-And I'm Christopher Walgesper in Chicago.
-It's Monday, November 16th.
-Today.
-The petition to reinstate Jensen Huang.
-How the NVIDIA scandal and the midterms could impact Trump's trips to Asia.
-Iran attacks Bahrain as the conflict exposes divides within the tiny Gulf nation.
-And we have a new James Bond.
-This is Reuters World News.
-Bringing you everything you need to know from the front lines in 10 minutes, 7 days a week.
-A petition calling for Jensen Huang to be reinstated as NVIDIA's CEO has drawn more than 178,000 signatures.
-And includes Elon Musk and other Silicon Valley heavyweights.
-It comes just days after Huang resigned following revelations of extramarital affairs with NVIDIA employees.
-As well as one with a suspected Chinese spy.
-President Trump, who reportedly holds up to $62 million in NVIDIA stock, said he was in favor of Huang's return.
-I would not mind, I would not mind that.
-I like, you know, I threw out the name of Tim Cook.
-Although thousands of NVIDIA employees have joined the call to reinstate their ousted CEO, NVIDIA's board says it's not considering bringing Huang back.
-That's according to a source familiar with the matter.
-Lindsay Clancy is headed back to trial for the killing of her three young children in 2023.
-A Massachusetts judge has set a second trial for Clancy for March 29th of next year.
-A jury deadlocked in September with a single holdout preventing a unanimous verdict.
-She faces life in prison if convicted of first-degree murder.
-There's a new James Bond.
-British actor Robert Pattinson will take up the iconic role for Amazon MGM Studios.
-The studio announced the news on social media with a video of Pattinson emerging from the shadows, looking very much the part.
-He even got a note of congratulations from the British royal family on their Instagram page.
-The franchise, which is among the longest-running and highest-grossing in history, has generated more than $7 billion in global ticket sales since 1962.
-U.S. President Donald Trump is heading to Asia for the APEC and ASEAN forums this week, and the NVIDIA scandal is casting a shadow.
-But as Mei Mei Chu explains, U.S. officials say Trump, who has consistently defended Huang, is unlikely to raise the issue when he meets with Chinese President Xi Jinping.
-The Jensen Huang spy scandal is going to be the elephant in the room.
-The U.S. House Speaker has said that there is a growing consensus in Congress to limit China's access to high-tech chips.
-That's bad news for China if that happens, and they're going to be really upset about it.
-So in China, the analysts here are concerned that the scandal is going to embolden China hawks and rock this very fragile trade truce.
-Already, China has said that the U.S. is fabricating this spy scandal to create a technological block to prevent China from accessing some of these high-tech chips from the U.S.
-So we are starting to see some tension right there.
-Trump's attendance at the events come at his weakest moment domestically since the start of his second term.
-Mei Mei says that could impact the outcome of talks in Asia.
-Trump is less worried about electoral fallout now that the midterms are over.
-So analysts say that that makes him somewhat of a wild card.
-Both China and U.S. have a lot to lose if we go back into this all-out trade war that we saw earlier this year.
-So expectations is that they will try to negotiate for the truce to hold.
-And for Beijing, as long as they can encourage or sweeten the deal for Trump not to adopt a tougher posture against China,
-that's more time for China to prepare for when the pieces of the puzzle falls.
-It's been a rollercoaster couple of weeks for AI in the markets, and drama is set to continue,
-with NVIDIA results on Tuesday and Anthropics' blockbuster IPO set for later this week.
-Here's Mike Dolan from our sister podcast Morning Bid with what to expect from the week ahead.
-So if you thought last week was busy, hold on to your hat.
-It's not often we say this, but NVIDIA's results tomorrow night after the bell,
-the numbers around those will almost be a side show,
-given all of the saga that unfolded last week and the ouster of Jensen Huang as CEO.
-We now have to look at whether and who takes over from him,
-and what comments might be made around that tomorrow night.
-But also, we have to look more broadly at what restrictions, additional restrictions potentially,
-that the US puts on export of chips to China as a result of that affair,
-and a result of investigations into it.
-And on that score, we have Donald Trump meeting Xi Jinping and Shenzhen at the APEX summit,
-which will be important in that regard.
-And also, on top of it all, we have Anthropic, who are one of the biggest IPOs ever,
-due to price on Wednesday, and then list on the market on Thursday.
-Thanks, Mike.
-You can catch Morning Bid wherever you get your podcasts.
-Saudi Arabia's campaign against the Iran-aligned Houthis in Yemen has suffered a major setback.
-Saudi-backed forces have pulled back from the strategically important Bab al-Mandeb Strait
-to reinforce Aden, the seat of Yemen's internationally recognized government.
-The retreat appears to end a six-week offensive aimed at pushing the Houthis away from the key shipping route.
-Iran, meanwhile, has launched fresh attacks on Bahrain,
-the tiny Gulf island home to the US Navy's Fifth Fleet.
-And while Bahrain says it intercepted the aerial attacks,
-the conflict is exposing tensions inside the country itself.
-Bahrain is the only Gulf state with a Shia Muslim majority that's ruled by a Sunni monarchy.
-And the government is on alert.
-Correspondent Timur Azari has just visited the island.
-The government has arrested more than 50 clerics and religious reciters or orators.
-And they've put them on trial for terrorism,
-essentially accusing them of links to Iran and accusing them of spreading Iran-linked ideology in the country.
-So the Bahraini state has has framed this in existential terms.
-They say that Iran has long sought to topple the Sunni monarchy in the country
-and has sought to foment rebellion.
-Bahrain has over the over the past decades repeatedly seized explosives and weapons and linked those to Iran.
-Iran, you know, denies its interference in Bahrain.
-Bahrain is reframing this in sort of religious terms and accusing the government of cracking down on certain Shiite Muslims in the country.
-Now, it's worth noting that, you know, there are many Shiites who practice and worship openly at mosques.
-But mosques in hotspot areas that are known for protests have basically been cramped down on for many, many months.
-And Friday prayers aren't even held there.
-The lawyers and relatives of some of these clerics, you know, totally reject this idea that they were trying to make Bahrain subordinate to Iran
-or trying to wield Iranian influence.
-They frame this in terms of religious belief and religious freedom.
-And finally, the 2027 Grammy nominations are out, and British singer Ray tops the list with 11 nods.
-That ties Beyoncé's record for the most nominations in a single year by a woman.
-She's followed by Spanish artist Rosalia with nine.
-Country newcomer Ella Langley picked up seven nominations.
-Her hit, Choose in Texas, spent a record 27 weeks at number one on the Billboard Hot 100 this year,
-breaking Mariah Carey's longstanding record.
-The nomination set up a showdown for Album of the Year between Ray, Rosalia, Langley, Taylor Swift, and others.
-Notably absent, K-pop sensation BTS, which boycotted the awards in protest of a new Asian pop music category.
-And country legend Dolly Parton, who died in August, has received three posthumous nominations.
-Winners will be announced February 7th.
-For more on any of the stories from today, as well as more analysis and news shaping our world,
-check out Reuters.com or the Reuters app.
-There's a link in the description to download it and start getting pure news straight from the source.
-Don't forget to follow us on your favorite podcast player.
-If you're listening on a smart speaker, just ask for the latest news from Reuters seven days a week.
-We'll be back tomorrow with our daily headline show.
-------------------------------------------
---- FILE: The Journal/The System at the Center of Friday’s Air Traffic Meltdown.mp3 ---
-On Friday, aviation reporter Andrew Tangle was exactly where you'd want him to be.
-So I understand that on Friday, you were at the airport?
-You've got good sources, Ryan.
-I was flying back from Montreal, where I was at a flight safety event,
-and I landed at DCA Ronald Reagan Washington National Airport
-right as the ground stop was rolling out.
-The ground stop.
-That afternoon, the Federal Aviation Administration did something very unusual.
-It stopped all planes from taking off nationwide.
-I got an alert on my phone from an app that monitors air traffic control audio,
-and it has some algorithm that sort of flags interesting dialogue.
-And there was a call out from air traffic control to pilots saying there was a nationwide ground stop.
-And that seems strange.
-That doesn't happen very often.
-After Andrew got off the plane, he first had to search for some misplaced luggage.
-But then he went into reporter mode.
-You're an aviation reporter.
-Was it sort of like the inverse of Superman,
-where, like, you had to go into a phone booth and then, like, put on your Clark Kent?
-Outfit and be like, I need to go report on this?
-I was actually traveling with my Superman outfit on, so yeah.
-It was extraordinary, and nobody was really getting any answers from within the FAA or outside the FAA.
-I think there was a broad perception that the FAA was essentially on lockdown,
-and they were, and they still are, trying to figure out just what the hell happened and why.
-Welcome to The Journal, our show about money, business, and power.
-I'm Ryan Knutson.
-It's Monday, November 16th.
-Coming up on the show, the antiquated system that led to a nationwide air travel meltdown.
-During the day, there are thousands of planes in U.S. airspace at any given time,
-flying, taking off, and landing.
-And they all need to communicate with each other and air traffic controllers on the ground.
-There's a, essentially like a behind-the-scenes sort of communications nervous system
-that links all of the air traffic control facilities in the country together.
-They've got to talk to each other.
-They've got to talk to pilots via radios.
-They've got to have shared radar data.
-They've got to have other flight data.
-It's all about communication.
-On Friday, the system broke down.
-Communications problems started to crop up a little after 3 p.m.
-Here's an air traffic controller in the Kansas City area.
-And then the problems grew across the country,
-as pilots and controllers couldn't talk to each other.
-Neither one of us didn't hear you.
-I'm sorry about that.
-Somebody in Chicago is losing all of my...
-Then, right before 4 p.m.,
-the FAA issued a nationwide ground stop.
-The ground stop is now a nationwide ground stop for all centers,
-all destinations of further notice due to widespread frequency altitude.
-The whole meltdown stems back to one system update in Arkansas.
-It appears that a newly installed router in this remote FAA radio station in southern Arkansas
-somehow, and for whatever reason, started essentially misbehaving
-and overloading other systems in this complicated network that links all the air traffic control centers in the country together
-and allows controllers to talk with pilots and see airplanes.
-The FAA is transitioning a key air traffic communication system from old, low-capacity copper wires
-to fast, modern fiber-optic cables, which have a much higher capacity to handle data.
-Somebody compared it to, like, an irrigation system where you have, like, a small pipe and a large pipe,
-and if you put too many large pipes, the small pipe's going to get overloaded.
-Anyway, that's sort of what happened here.
-Right, like fiber-optic cable, the new technology, which is actually not that new,
-but the modern technology, is kind of like a giant pipe,
-and a copper wire, the old stuff, is like a garden hose.
-Right.
-The older portion of the communication system is overseen by a defense contractor,
-L3 Harris Technologies,
-and the overall system connects about a thousand locations across the country.
-The company said in a statement that, quote,
-L3 Harris takes the nationwide ground stop and its impact on travelers,
-airlines, and air traffic operations seriously.
-The FAA administrator said the agency spends hundreds of millions of dollars annually
-maintaining its antiquated telecom systems.
-Basically, this router that was installed Friday afternoon
-started sending out data, essentially, that was overloading other systems.
-It was sending out way too much data,
-and it basically caused a cascading overload throughout the system,
-and it got so overloaded that more and more air traffic control centers,
-these are the centers that oversee high-altitude flying over large swaths of the U.S.,
-they started having intermittent radio and radar problems.
-If air traffic controllers can't communicate with each other and with airplanes,
-it's a big deal.
-Controllers need to be able to see airplanes reliably to keep them safely apart
-so they don't crash into each other,
-and they did not want to take the risk that an entire en route center in the U.S.
-that oversees, you know, high-altitude flying over across multiple states
-would not be able to communicate with aircrafts.
-They'd all be flying blind.
-And so they took the extraordinary step to just say,
-no board departures.
-The company that made the router that L3Harris installed is HPE's Juniper Networks.
-An HPE spokesman said the Juniper devices appeared to have been working as intended.
-The spokesman said, quote,
-they did not fail, adding,
-the devices in question functioned as they were configured to by the installer.
-Andrew says that beyond the router in Arkansas,
-and beyond the system the router is linked to,
-the FAA relies on a lot of outdated technology.
-The air traffic control system overall is old.
-It's antiquated.
-It's not just the communication system, which is sort of the backbone.
-It's the radars.
-It's the, you know, you hear a lot about, quote-unquote, flight strips.
-These, like, paper strips that, you know, have flight information
-that controllers manually sort of pass around
-rather than using this newer electronic system.
-You hear about floppy disks still being used in air traffic control centers.
-I mean, it's a really old system overall.
-Part of the problem is that it, generally speaking, is very reliable, very safe.
-But the old stuff just is more prone to failure
-and that injects more risk in the system.
-And it's harder to maintain.
-It's harder to upgrade.
-And it hasn't been upgraded for years and years and years
-because successive congresses and successive administrations
-have failed to pull it off.
-Why is it so hard to upgrade?
-It's expensive and complicated.
-And also, when you're dealing with aviation,
-you're dealing with people's lives and safety.
-And I think there's a fair amount of conservativeness,
-not in the political sense, in aviation
-that makes change hard.
-It makes fast change hard
-because you don't want to inject risk in the system
-without fully evaluating and seeing how it works.
-So they're not replacing the system whole cloth all at once.
-They're, like, slowly making additions to it
-over time, incrementally.
-Right.
-It's piecemeal.
-It's slow.
-It's dragged on and on.
-And more recently, the Trump administration
-has been trying to accelerate, at long last,
-these long-delayed, long-unfunded or underfunded upgrades.
-And they've, you know, touted how much progress
-they've made in replacing the old copper wire
-with fiber optics and other systems that they've replaced.
-Is the FAA sure this was just a glitch?
-Have they ruled out the possibility of a hack
-or, like, a rogue AI agent?
-They haven't ruled out, I would say.
-They have repeatedly said they have found no evidence
-of any type of nefarious intent or a cyberattack or sabotage.
-And they've pushed back on the notion
-that there was some sort of rogue AI
-that could have caused this.
-The FAA has recently released
-an AI-powered flight planning tool.
-But Andrew's reporting says that it's limited
-and doesn't feed into the communication system
-that failed on Friday.
-Up next, why the Trump administration says
-it needs $50 billion to fix this problem.
-Planes started taking off again Friday night.
-Over the weekend,
-Transportation Secretary Sean Duffy
-was all over television,
-blaming the failure on the old system.
-It happened on my watch.
-Here he is on NBC's Meet the Press.
-But I can't apologize for what was passed off to us.
-And I can't blame Republicans or Democrats
-because it's all of them.
-It goes back 20, 25, 30 years of a lack of investment.
-He said the culprit was either a faulty router
-or the contractor, L3 Harris.
-So what we're working to determine
-was whether we had incompetence,
-meaning was it user error or installator error
-from L3 Harris,
-or did they install a faulty router?
-And here's Duffy on Fox News
-calling for a system overhaul.
-Give us the resources
-to build a state-of-the-art air traffic control system.
-Let's not do a patchwork,
-a fix to a system that's critical
-for every single family.
-It's not red, it's not blue,
-it's not Democrat, it's not Republican.
-It's American.
-Give us the money to fix it.
-He's been repeating his mantra
-that this is a bipartisan issue
-and he said he can't really blame anyone
-necessarily for the system being broken down.
-He said it's basically everybody.
-You know, both parties have failed
-to keep the system up and running
-and failed to modernize it
-and properly fund it.
-And he's been out there on TV
-making the case for what he is now saying
-is going to cost $50 billion
-to fix once and for all,
-you know, the entire system.
-Congress has already given him $12.5 billion,
-but he's out there trying to basically say,
-like, we've got to fix this system,
-it could happen again,
-and we need money.
-Andrew says he actually isn't surprised this happened
-because he's been reporting on network failures
-like this for a while.
-There was a meltdown involving L3 Harris
-in the Dallas area last year.
-There was another one in Minneapolis
-where much of the upper Midwest airspace
-had to be shut down, essentially,
-for an extended period of time.
-And then there was some overnight work done
-by L3 Harris that led to some radar
-and radio issues in the Newark area.
-At a press conference in September,
-Andrew asked the head of the FAA about these issues.
-And I asked,
-what could prevent this from happening again?
-What's to stop this from happening tomorrow?
-And he said, replacing the system.
-Hmm.
-So in other words, like,
-this is a problem that's existed for a while
-and it seems to be getting worse.
-Yes, and that's been flagged by the FAA
-and various experts who were, you know,
-conducting panels for the FAA
-and managing the, you know,
-trying to analyze the risk
-facing the national airspace system,
-which is what the FAA calls the airspace.
-But they've got this old system
-and the more prone to failure it is,
-the more risk it's going to inject into the system.
-Do you think that this incident
-will spur lawmakers to approve the spending
-that he says is necessary?
-That remains to be seen.
-The Democratic Congress coming in
-is skeptical of the Trump administration.
-He's likely to face skepticism
-about how he's spent the money they've had so far.
-The political dynamics
-may be a complicating factor in his effort now.
-This is going to be a test of his ability
-to make nice with the, you know,
-new Democratic congressional overlords
-and see if they still share the same mission
-and goal and trust him
-to oversee spending of the money.
-So we're talking now on Monday morning.
-Where do things stand now?
-Are the airlines back to normal?
-They are getting there.
-Airlines were saying that
-they were resuming normal operations.
-These delays and disruptions
-were being worked out.
-There were fewer and fewer cancellations.
-So passengers were finally getting
-to where they needed to go.
-Crews were getting back into place.
-Planes were getting back into place.
-Things are finally returning to normal.
-Whenever there's a massive disruption in aviation,
-it takes a long time
-for it to sort of work its way through the system
-because everything is just so intertwined
-and complicated with airline scheduling
-and work rest requirements for pilots
-and all of that.
-And so we're getting back to normal.
-But, you know, the FAA and the Congress
-and the companies involved in this meltdown
-are still sifting through what happened
-and trying to figure out what precisely went wrong
-and how to prevent it from happening again.
-You have reported on so many issues
-related to the FAA and airline safety
-from, you know, the mental health of pilots
-to the stress that air traffic controllers are under
-because there's a worker shortage there.
-How would you rank this problem
-with this communications network
-among all the problems that the FAA has?
-It's a major problem for the FAA.
-They enable flight in this country
-and they oversee the safety of those flights
-and they couldn't.
-They couldn't allow flying.
-They couldn't ensure safety.
-So it ground American air travel to a halt
-and really called on the question
-whether or not flying is as reliable.
-Now, look, this is like the basic sort of like function
-that the FAA has to perform and they couldn't.
-Right. This is like one, you know,
-this is just the communications network.
-I mean, it's just a sort of like,
-which is sort of amazing to me
-how it can be brought down
-by just like one or two little problems
-in the computer system, the whole thing.
-Right. No, it's shocking.
-There shouldn't be a single point of failure in aviation.
-There should always be redundancies.
-Why wasn't there more resilience in the system?
-We really don't know.
-We really don't know what the FAA is going to do
-to prevent this from happening again
-while they're trying to overhaul the overall system
-while maintaining this rickety,
-failure-prone system behind the scenes.
-That's all for today.
-Monday, November 16th.
-The Journal is a co-production of Spotify
-and The Wall Street Journal.
-Additional reporting in this episode
-by Alice Insider, Drew Fitzgerald, and Jack Gillum.
-Thanks for listening. See you tomorrow.
-------------------------------------------
---- FILE: The Vox Markets Podcast/2536 Blackbird Takes Off With New CEO.mp3 ---
-The Vox Markets Podcast. Nothing in this podcast is intended as investment advice and the people
-in this podcast may hold positions in the stocks they talk about. Do not buy anything
-based solely on a tip or recommendation. Please do your own research.
-Hello and welcome to Vox Markets to enjoy my summit, Rye, who's CEO, the new CEO of Blackbird.
-How are you today, Summit? I'm very well, thank you, Zach.
-You corrected me or reminded me that you've just turned up at Blackbird this week or last week,
-but you've actually been there quite a while. Absolutely, I joined four years ago and I've
-known the company for a long time. I've known Stephen Streeter, the founder, for the best part
-of 20 years and obviously known the company throughout. Four years ago, I joined to head
-up the very fledgling division that became Elevate.io at the beginning, which is now obviously the main
-focus of our business. What are the drivers in terms of, as we all know,
-new software, new products in the tech area, very difficult, a lot of competition, changes all
-the time. What are your main, what's the main way of promoting this and advancing this?
-Well, the product is obviously approaches a much wider market than our traditional offering.
-And so with that comes a lot of opportunity because it's a massive growth area. The middle
-market of video editing is exploding like crazy, not just because of YouTube, but obviously the use
-of video within education, corporate, et cetera. So it's a great market to be in. But as you said,
-it is competitive and it is definitely the focus of a lot of new companies. So for us, it's just about
-getting it right, understanding what people want, making sure that we deliver a product that's useful
-and valuable to them and ensuring that we stay ahead of the competition because we do have a good
-technical advantage, which we've got to exploit as much as we can. But just getting a lot of things
-right, which we already have. We're coming out of our startup phase and we're getting into our scale
-up phase now. And that's why this sort of timing of all of this makes sense.
-And as somebody who uses video editing software now and again, most days, in fact,
-as I said, there's a lot of choice and who, you know, I'm sort of using it, let's say I'm using
-it professionally, but who is, what is your target market and what's the focus of the use of the
-product as well?
-Well, we've been very clear from the beginning that we're really interested in the middle market.
-So we're not, you know, we're not for the Hollywood, you know, the higher end or, you know,
-high end television end. And we're also not for the low end where it's a sort of really sub one
-minute clips that maybe end up on social media. We're absolutely aiming ourselves at the middle
-market because that's not only where the growth is, it's where people don't require the highest level
-of sophistication of video editing. So I don't know what video editing software you use,
-but I'm a big fan of all of the top high end products. I used to run, you know, Sony Vegas
-Pro. And so I'm well aware of what those tools can do, but that doesn't mean that if you're a
-corporate communications person or you're running it, you know, working in a marketing team or the
-more modern type of video, which is, you know, podcasts or social media, that those tools are
-necessarily as appropriate. So for us, it's more about actually what is this big new middle
-market that's appeared and how do we basically supply the tools that they need, everything they
-need, nothing they don't, and make that very easily accessible, very easy to get started with
-and very easy and comfortable to use on a day-to-day basis. So I'm hoping you'll become
-a user of Elevate.
-Well, I've been toying around with it actually in recent weeks. I think the issue that many
-people have with any new software is that you're familiar with the old one and then you've got to
-learn new things with the new one and sort of that tense of like, you know, how do you do this,
-how you do that, et cetera. So they need to be intuitive. It's a bit like using a new iPhone
-or something like that. It needs to be intuitive and no barrier to you just switching from one to the
-others. If you were switching from Samsung to Apple or whatever, you're going to go the other
-way around. So those tend to be the aspects and maybe we can go through that after the call.
-But as far as Blackbird is concerned, you said this is your focus. What were you wishing for
-and what is your, say, this time next year, where do you expect to be in terms of the adoption of
-Elevate and maybe revenues and things like that with obviously, we're not trying to be too
-forward-looking, but where would you be happy, let's say?
-So it's, as I said, we've come out of our startup phase and we're in our scale-up phase. I'm very
-clear that, you know, the next 18 months are really important for us as an organization.
-We've proved that there is, you know, we've passed our 1,000 paying users, which is a really
-important milestone, but obviously that's not going to fund us, you know, that's not the goal. The goal
-is really now to go on an aggressive phase of ramping that up. At the same time, continued
-development. So we expect the product to get better as time goes on. We're learning a lot
-from our existing users. But really, you know, 12 months to 18 months from now, I need us to be a
-self-sufficient company and to have a serious user base. So that's my focus now. It's really on the
-growth side. I've been able to have the fortunate role of being a CPO for four years where we've
-built the infrastructure. We've built the foundation of everything. And now it's really sort of reaping
-the reward for that work. That's the big bit ahead. Well, we look forward to that. In the
-meantime, Summit Ray, CEO at Blackbird. Thank you very much indeed. Thank you, Zach.
-The Vox Markets Podcast. Nothing in this podcast is intended as investment advice and the people in
-this podcast may hold positions in the stocks they talk about. Do not buy anything based solely on a
-tip or recommendation. Please do your own research.
-------------------------------------------
---- FILE: Wall Street Breakfast/Amazon satellite launch ends in disaster.mp3 ---
-Welcome to Seeking Alpha's Wall Street Breakfast, where we cover the top news for investors every
-morning. Good morning, today is Monday, November 16th, and I'm your host, Kim Kahn. United Launch
-Alliance's Vulcan rocket failed after liftoff Sunday, destroying its payload of 40 Amazon
-LEO internet satellites and dealing a setback to Amazon's broadband ambitions and the launch
-provider's efforts to establish its new rocket. ULA said the malfunction occurred about 10 minutes
-after liftoff from Cape Canaveral's Space Force Station in Florida. The company, jointly owned
-by Boeing and Lockheed Martin, will investigate the cause and determine what repairs are needed
-before flights resume. For investors, the failure raises the prospect of additional costs and delays
-as Amazon builds a satellite network to compete with SpaceX's Starlink. A prolonged interruption
-could postpone revenue opportunities for Amazon LEO and put pressure on ULA's launch business.
-The mission was Vulcan's fifth straight and its first carrying Amazon satellites. Amazon has
-purchased 38 Vulcan launches, making the rocket an important part of its deployment plans.
-Amazon's planned consolation requires more than 3,300 satellites. Sunday's launch would have brought
-its cumulative total launch to 436. The solid rocket boosters appeared to operate normally Sunday.
-The failure occurred during the Centaur upper stage's firing, according to ULA's reported timeline,
-but the company hasn't identified the underlying cause.
-Is it already time for return of Jensen? Jensen lives?
-Jensen Wong is exploring a return to NVIDIA's top job days after his departure,
-the Financial Times reported, as influential technology investors pressed the board to
-consider reinstating him. For shareholders, the leadership decision adds uncertainty as NVIDIA
-faces scrutiny over alleged sales of advanced AI chips to Chinese entities. The board's choice could
-influence confidence in the company's governance and its ability to navigate regulatory pressure.
-Altimeter Capital's Brad Gerstner and Atreides management's Gavin Baker urged directors to take
-time evaluating succession options, including Wong's return. Their letter emphasized his record of
-building NVIDIA and the uncertainty surrounding his exit. Not surprising that a firm named Atreides
-management is advocating for the return of the Messiah, or Lisan al-Gaib, as the Fremen say.
-Meanwhile, both Amazon and NVIDIA could be national champs. The Trump administration plans to
-designate more than two dozen artificial intelligence companies, including Amazon, NVIDIA,
-Microsoft, OpenAI, and Anthropic, as U.S. national champions to help them expand overseas and compete
-with Chinese rivals, the Wall Street Journal reported. The announcement could come as early as this week,
-with Commerce Secretary Howard Lutnik expected to unveil the initiative. Companies selected for the
-designation could receive expedited export license approvals, government support for their overseas
-operations, and access to federal financing. The initiative builds on the American AI exports program,
-established through a July 2025 executive order directing the Commerce Department to promote
-USAI exports through integrated packages combining chips, data infrastructure, AI models, and related
-technologies. In today's pre-market trading, tech weakness is kicking off a week that will see
-NVIDIA's earnings on Tuesday, and Anthropic likely start trading on Thursday. NASDAQ 100 futures are the
-weakest among the major averages pre-market. Treasury yields are little changed. On the economic calendar,
-it's just the November Empire State Manufacturing Index, which is out at 8.30 a.m.
-That's all for today's Wall Street Breakfast. Look for links for stories in the show notes section.
-Don't forget, these episodes will be up with transcriptions at seekingalpha.com
-slash WSB. And for a full suite of news, analysis, ratings, and data on stocks and ETFs,
-go to seekingalpha.com slash subscriptions.
-------------------------------------------
---- FILE: WSJ Tech News Briefing/The Era of Unchecked Corporate AI Spending Is Over.mp3 ---
-Welcome to Tech News Briefing. It's Monday, November 16th. I'm Julie Chang for The Wall Street Journal.
-From Jensen Huang's resignation at NVIDIA, Anthropik lowering its IPO target, and a string of voter pushback against data centers in the midterms,
-the AI boom is facing a hard reality check. And across Wall Street, long-held discussions of an AI bubble are getting louder.
-What's News host Luke Vargas spoke with Ara Karazian, lead economist at Ramp, to break down what the numbers actually tell us about the state of the AI market.
-Ara, I should say Ramp is an expense management platform for businesses.
-So you've got insight into how companies are actually spending their money, especially on AI.
-And you've got some brand new data to share with us. What does it show?
-Over the last two years, we've been tracking AI spend in our data set.
-So we cover 85,000 plus businesses, $275 billion plus a year in annual spend, and the fastest growing spend category over that time has been AI.
-There were points at which we were observing double-digit growth month over month amongst both OpenAI and Anthropik every month as businesses were ramping up their spend.
-And now over the past couple months, that has started to slow down into the single digits month over month.
-Now, so there are a couple questions that the market has to face today is, how do OpenAI and Anthropik now weather this environment in which businesses are increasingly looking to cut costs on AI?
-And then second, separate from the question of OpenAI and Anthropik's valuations, how do we get AI into a place where it's actually economically productive for most of these businesses?
-Because that's a very different question from whether or not we're in an AI bubble, is whether or not we'll actually see economic growth from all of this.
-Just on the topic of token spending growth, as you alluded to, after a very big month for both OpenAI and Anthropik in July, your data shows that growth has been quite slow for OpenAI and even slower for Anthropik since then, which is somewhat remarkable, is it not, given that Anthropik is planning to IPO?
-These are not really the numbers you necessarily want to see in the run-up to that.
-Well, the challenge is that it's not even a demand issue.
-You know, over the same period, we see businesses using more and more tokens, essentially using more and more AI.
-The problem is that AI itself has gotten really, really cheap, in large part because of this increasing amount of competition between OpenAI and Anthropik.
-Both of them jockeying for the top spot in terms of business spend in order to do that, both of them training very expensive models using very expensive compute to try to get the best one, offering that model at a cheaper cost every month to customers in order to gain market share, simultaneously cutting prices for their standard and light models.
-And then also offering discounts on contracts so that businesses can keep more of their spend on OpenAI and Anthropik.
-So you have a couple factors simultaneously moving in the same direction, leading to less spend on AI models, despite rising usage.
-And it's pretty wild to see this turn of events because only this summer, CEOs were saying that they were burning through their yearly token budgets with no obvious relief in sight.
-Well, to be clear, we actually do observe that in our data set.
-There were several months in our data set where we saw this rapid acceleration in AI spend.
-And that was kind of that token maxing area.
-For a while, it was quite fashionable if you were a business to report to your board that we are experimenting with AI so much that we are blowing through our budgets so that we're going to raise those budgets.
-Now the tide has turned.
-It's actually quite fashionable to report the opposite, that we are using AI in a cost-effective way and putting it under greater control and ideally getting some ROI out of it.
-Now, whether or not businesses know how to measure ROI, that's a completely different question.
-We're actually not quite there yet.
-But the era in which it is fashionable to suggest that we are spending uncontrollable amounts on AI is over.
-And subsequently, the era of hyper growth in terms of revenue for the AI companies on that business spend also seems to be coming to an end.
-Now, that's not to say that there won't be new use cases unlocked.
-One of the results of our work is finding that more than 70% of enterprise AI usage is being used by engineering teams.
-Now, that's all good and makes sense.
-Coding agents are the most commercially advanced productivity-enhancing form of AI.
-But those are also precisely the teams that have figured out how to control their AI spend most effectively by switching to cheaper models oftentimes.
-So whether or not the AI companies will be able to continue to grow their revenues and whether or not AI will continue to drive increasing ROI for firms,
-it's going to depend on whether or not the model companies are able to make their inroads outside of the engineering departments.
-Yeah. All right. Give us a bit more detail on spending per employee because this is quite helpful in terms of understanding just how many businesses out there are really in a position to keep the AI trade as frothy as it's been with their enterprise licenses and things like that.
-I mean, hint, it's not a ton of businesses.
-Well, this is one of the main features of AI spend by businesses is that it is highly concentrated in specific sectors and amongst highly intensive businesses within those sectors.
-So the top 1% of firms spend about $10,000 per employee per month on AI.
-For the top 10% of firms, it's $800 per employee per month.
-But the median firm that spends on AI spends only about $16.
-So that's about a chat subscription or two per employee per month.
-But if you're thinking about where the money is going to come from for Open Eye and Anthropic, you know, most of it is coming from that top 1% group, which spends so much that they drive 80% of the revenues toward Open Eye and Anthropic.
-I wonder how much that leaves for other companies because just walking around at Web Summit this week, there are a ton of businesses pitching this and that different AI solution, trying to ride on the coattails of the biggest AI labs.
-But also, is there even enough here for Anthropic and Open AI to reach their own super lofty hope for valuations if it really is just America's biggest businesses opening up their checkbooks for them?
-Well, much of the AI trade over the past year or so has focused on that top 1% figure because it's kind of this sign of, hey, who knows where this is going to land?
-You know, as the top 1% continues to spend increasing amounts on AI, you know, imagine where the median is going to end up when it gets somewhere close to that and most companies are spending thousands of dollars a month.
-I think the problem is that those assumptions are now breaking because the top 1% of firms are starting to slow their spend.
-Growth has slowed for them.
-If anything, over the past couple of months, it's kind of stuttered up and down.
-And now there are new questions about whether or not the median or top 10% firm can ever end up spending thousands of dollars per employee per month on AI,
-given that they seem to be using it more and more every month, but using it more cheaply every month.
-And that's great for them.
-You know, that's great for the median business because it means they get a better product every month.
-The models are getting better.
-They're spending less on it.
-But it does create new questions for the model companies as far as whether or not they will have the margins to invest in their models and make them better over time.
-Have you been using AI more or less these days?
-If you're a listener on Spotify, let us know in the comments.
-Coming up, what AI companies will need to do in order to stay relevant if the hype continues to cool?
-That's after the break.
-Are there any green shoots that you'd highlight that maybe speak to potential areas of AI spending growth in the months to come next year?
-There are still a couple areas of growth and what I would call new fronts in the AI trade, things that we should be focusing on that we haven't yet so far.
-One is that this two-way race in AI models is likely to become a three-way race pretty soon.
-It's long been a game of open AI versus anthropic.
-I think soon it's going to become open AI, anthropic, SpaceX AI, and possibly even meta.
-So we shouldn't underestimate the level of competition in this sector and that it's going to get even greater.
-Second, there are areas of spend that are starting to increase outside of engineering, and that is going to require models that are targeted to those use cases.
-Engineering use cases dominate 70-plus percent of AI spend, but customer support, as it applies into enterprise use, is also starting to rise now.
-About 13% of classified spend appears to be going toward customer support.
-That's going to rely on cheaper and fast models in addition to highly performant models.
-So model companies will need to prioritize whether or not they can deliver fast models, not just really smart ones.
-And then there's another category that I'm watching, and it's AI as it's used for cybersecurity.
-There have already been a number of cybersecurity hacks that have been accelerated by the availability of AI models that are used to deploy those attacks.
-You're going to see AI deployed in defense of cyber attacks as well.
-That's actually going to drive more frontier model usage, and it's going to mean frontier models that are designed to address those cybersecurity issues.
-That will actually drive some more revenue toward the AI companies, ironically enough.
-I mean, just putting all this together then, would it be fair to say that, sure, we are seeing some bubble-like characteristics here,
-but that kind of broadly speaking, ending the year, we are not in some sort of larger all-hands-on-deck panic mode moment for the AI industry?
-It's kind of always been all-hands-on-deck if you really think about it.
-You know, people just should not get too comfortable with their assumptions in this market.
-I think we've learned that again and again because it's so easy for a new entrant to completely change how we think about the trajectory of AI spend by enterprise.
-And so that will continue.
-What I can say today is that the data shows that AI is getting cheaper and cheaper.
-That's generally going to be pretty good for businesses.
-That will unlock new use cases, but that also requires the AI model companies to resolve what is essentially a product issue,
-which is that today AI models are generally designed for and particularly advanced for engineering use cases.
-But in order to drive greater growth, particularly in enterprise and outside of startups,
-they are going to need to address other enterprise workflows.
-Customer support is going to be a big one.
-Cybersecurity is going to be a really important one as well.
-That was the WSJ's Luke Vargas speaking with RAMP's lead economist, Ara Karazian.
-And that's it for Tech News Briefing.
-If you're a listener on Spotify, be sure to leave us a comment.
-Today's show was produced by me, Julie Chang, with supervising producer Katie Ferguson.
-We'll be back tomorrow with a new episode.
-Thanks for listening.
-Thanks for listening.
-------------------------------------------
---- FILE: WSJ Your Money Briefing/What’s News in Markets Nvidia’s Next Chapter, Coreweave’s Bullish Backlog, Microsoft’s Global Outage.mp3 ---
-Your money briefing is still on a break, but we'll be back with more personal finance information for you in the future.
-Until then, here's the news moving the markets this week.
-Hey listeners, it's Saturday, November 14th.
-I'm Imani Moise for The Wall Street Journal, and this is What's News in Markets.
-Our look at the biggest stock moves of the week and the news that drove them.
-Let's dive in.
-Consumer prices are up, bond prices are down, and the CEO of one of the world's most valuable companies is out.
-There were a lot of headlines to parse this week.
-Let's start with inflation.
-A hotter-than-expected CPI report showed consumer prices rose four-tenths of a percent in October.
-That added to fears that the Federal Reserve could pick up the pace of interest rate hikes, sending Treasury yields soaring.
-The benchmark 10-year Treasury yield climbed back above 5 percent.
-One Fed official even floated the possibility of a half-point increase in December.
-The last few hikes were a quarter of a percent.
-Through all that, stocks managed to do pretty well.
-The Nasdaq gained 2.3 percent, while the S&P 500 rose 2.5 percent, and the Dow added about 2.1 percent.
-For years, Jensen Wang was one of NVIDIA's greatest assets.
-But this week, he became a liability.
-Shares of the AI chip giant fell nearly 13 percent this week, wiping out more than $570 billion from its market value.
-NVIDIA announced Wang was resigning as CEO on Thursday, after reports revealed he was involved in multiple extramarital affairs, including at least one with an employee and another with an alleged Chinese spy.
-Now investors are trying to figure out what NVIDIA will look like without the man who built it into one of the world's most valuable companies.
-The bull case? NVIDIA's business is still booming.
-Demand for its AI chips continues to outpace supply, and the company is sitting on nearly $100 billion in cash.
-Some analysts think a new CEO could actually be positive for shareholders, by scaling back Wang's risky investments in AI companies and returning more of that money to investors.
-But there's a bear case, too.
-Those investments helped fuel demand for NVIDIA's chips.
-Pulling back could slow the company's growth, especially as rising interest rates make it harder for AI companies to borrow money.
-And on top of that, Democrats preparing to take control of the House in January are already planning investigations into the company that span national security, technology, and China.
-Shares of NVIDIA rivals were up.
-Micron jumped about 13 percent, AMD advanced nearly 19 percent, and Intel gained 6 percent.
-NVIDIA's troubles weren't enough to keep investors from the broader AI trade.
-Take NVIDIA customer CoreWeave, for example.
-Its shares surged 14.5 percent this week after reporting stronger-than-expected revenue and a backlog of nearly $133 billion in future business.
-CoreWeave is a cloud computing company that buys chips from NVIDIA, installs them in data centers,
-and rents out the computing power to AI developers like OpenAI and Microsoft.
-So its upbeat outlook helped reassure investors that demand for AI infrastructure is still going strong.
-That rebound is pretty stunning when you look back on where markets were just a week ago.
-Last Thursday, a historic sell-off wiped $2.5 trillion off the Nasdaq.
-But by Wednesday's close, the tech-heavy index had recovered nearly all of those losses.
-And finally, Microsoft gave some workers an unexpected break from their inboxes this week.
-This Outlook outage has been so nice. I got to leave work early.
-Since Outlook is down, it only seems fair to shut down Gmail and Slack, too, in solidarity.
-This is our snow day as an adult.
-The crazy thing is there's someone out there freaking out over the fact that Microsoft Outlook mail isn't working.
-A massive outage knocked out services including Outlook, Teams, and CoPilot,
-with hundreds of thousands of users reporting problems across more than 70 countries.
-And while some workers celebrated the disruption, it was a major headache for both businesses and governments.
-Shipping giant Maersk couldn't send some emails and notifications.
-Congressional staff on Capitol Hill lost access to Outlook services.
-And even companies like OpenAI and Anthropic reported problems with Microsoft integrations.
-Microsoft 365, which includes workplace tools like Outlook and Teams,
-generated nearly $28 billion in revenue last quarter.
-That's about 30% of Microsoft's total revenue.
-Shares were down about 1.3% for the week.
-And now you know what's news in markets this week.
-You can read about more stocks that moved on the week's news in our live markets coverage on WSJ.com.
-Today's show was produced by Anthony Bansi with supervising producer Melanie Roy.
-I'm Imani Moise. Have a great weekend and see you next Saturday.
-What's driving the markets this week?
-What's on investors' minds as they look ahead?
-Find out on the Markets Podcast from Goldman Sachs.
-A breakdown of market moves and macro signals in 10 minutes or less.
-The Markets Podcast from Goldman Sachs.
-Listen now.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-The Markets Podcast from Goldman Sachs.
-------------------------------------------
+
+# Nachricht - Börse Stuttgart
+
+24.11.2026 / 07:42:37
+
+# MORNING BRIEFING - Deutschland/Europa -2-
+
+(Dow Jones Newswires)
+
++++++ DEVISENMARKT +++++
+
+               zuletzt  +/- %  +/- abs.   Schluss Vortag        Mo, 18:48 
+EUR/USD         1,0909   +0,1    0,0008           1,0901           1,0882 
+EUR/JPY         173,74   +0,2    0,4000         173,3400         173,3300 
+EUR/CHF          0,918   +0,1    0,0007           0,9173           0,9178 
+EUR/GBP         0,8361   +0,0    0,0002           0,8359           0,8362 
+USD/JPY         159,27   +0,2    0,2700         159,0000         159,2600 
+GBP/USD         1,3043   +0,1    0,0012           1,3031           1,3012 
+USD/CNY          6,661   -0,1   -0,0033           6,6643           6,6643 
+USD/CNH         6,6619   -0,1   -0,0045           6,6664           6,6679 
+AUS/USD         0,6631   +0,1    0,0005           0,6626           0,6616 
+Bitcoin/USD  60.459,27   -1,4   -833,32        61.292,59        61.410,97
+
+Der Dollar legte deutlich zu. Der Euro ging mit 1,0906 Dollar aus dem US-Handel und damit auf dem niedrigsten Niveau seit April 2025. Die Wiedereinsetzung von Nvidia-CEO Huang habe den Dollar gestützt, hieß es. Huangs Rückkehr stärke die Zuversicht in den KI-Boom und damit in die Wachstumsperspektiven der US-Wirtschaft und die kräftige Erholung der Technologiewerte habe Anleger zudem wieder mit weiteren Zinserhöhungen der US-Notenbank rechnen lassen.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+           zuletzt  +/- %  +/- abs.   Schluss Vortag 
+Gold      3.619,76   -0,3    -11,92         3.631,68 
+Silber       42,21   -2,0     -0,85            43,06 
+Platin    1.288,04   -2,8    -36,96         1.325,00
+
+Der Goldpreis erholte sich etwas von den jüngsten Verlusten. Die Feinunze verteuerte sich um 1,4 Prozent auf 3.631 Dollar im späten US-Geschäft. In der Vorwoche hatte das Edelmetall mit den starken Verlusten bei Aktien noch den stärksten Rückgang seit März verzeichnet. "Dass die Goldpreise bei Ausverkäufen an den Aktienmärkten zunächst fallen, ist ein übliches Muster", kommentierten Analysten von Goldman Sachs. "Die Liquidität von Gold macht es bei starken Abverkäufen risikoreicher Anlagen zu einer Quelle von Barmitteln." Mit der Erholung bei Aktien, ging es somit folgerichtig auch für den Goldpreis wieder etwas nach oben. Allerdings bremsten zugleich der gestiegene Dollar und die wieder gestiegene Erwartung höherer Zinsen.
+
+ÖL
+
+             zuletzt  +/- %  +/- abs.   Schluss Vortag 
+WTI/Nymex      79,72   -0,6     -0,45            80,17 
+Brent/ICE      88,93   -0,5     -0,44            89,37
+
+Die Ölpreise gaben kräftig nach. Der Preis für ein Barrel der Sorte Brent fiel um 3,5 Prozent auf knapp über 89 Dollar. Ausschlaggebend sei vor allem die Aussicht auf ein wachsendes Überangebot gewesen, sagten Markteilnehmer. Die Ölexporte aus dem Nahen Osten hätten sich schneller erholt als erwartet, zudem sei die libysche Sharara-Pipeline wieder in Betrieb genommen worden. Gleichzeitig sei ein Teil der geopolitischen Risikoprämie herausgenommen worden, weil US-Präsident Trump einer diplomatischen Lösung im Konflikt mit Iran offenbar mehr Zeit einräume - trotz anhaltender Angriffe auf Schiffe und Energieanlagen in der Region.
+
++++++ MELDUNGEN SEIT MONTAG 17.30 UHR +++++
+
+USA - Geldpolitik
+
+Die Fed muss nach Worten von New Yorks Fed-Präsident John Williams weitere Maßnahmen ergreifen, um die hohe Inflation einzudämmen - und sollten die Preissteigerungen hartnäckig bleiben, seien Zinserhöhungen bei aufeinanderfolgenden Sitzungen nicht ausgeschlossen. In einer Rede sagte er: "Wir müssen im Laufe der Zeit Maßnahmen ergreifen, die sicherstellen, dass wir die Inflation zeitnah und dauerhaft wieder auf unser Ziel von 2% zurückführen". Dies könne ein beschleunigtes Straffungstempo bedeuten.
+
+CLARIANT
+
+hat bestätigt, Gespräche über eine potenzielle Übernahme des Werkstoffunternehmens Ashland geführt zu haben. Dies geschehe in Partnerschaft mit der privaten Beteiligungsgesellschaft CD&R. Zuvor hatte die Nachrichtenagentur Bloomberg unter Berufung auf anonyme Quellen berichtet, dass sich Clariant und CD chen über den Erwerb der an der US-Börse notierten Ashland befänden. Angeblich werde eine reine Barübernahme erwogen.
+
+ROCHE
+
+Die US-Arzneimittelbehörde FDA hat Wilserdly von Genentech zugelassen. Dabei handelt es sich um eine neue Hormontherapie für Brustkrebs im Frühstadium. Zuvor hatte die Roche-Tochter nachgewiesen, dass das Medikament das Rückfallrisiko im Vergleich zur Standard-Hormontherapie um 30 Prozent senkt.
+
+SANOFI
+
+übernimmt den US-Arzneimittelhersteller Insmed und baut damit sein Portfolio in den Bereichen Immunologie und seltene Krankheiten aus. Sanofi zahlt 175 Dollar je Aktie für sämtliche ausstehenden Insmed-Papiere - insgesamt 41 Milliarden Dollar.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/ros/gos
+
+(END) Dow Jones Newswires
+
+November 24, 2026 01:42 ET (06:42 GMT)
+
+## Aktuelle Videos
+
+-   [
+    
+    ![KI Beben an der Börse : Nvidia +30 % | Anthropic IPO| Börse Stuttgart](https://i.ytimg.com/vi/LFAdHtqGzHA/hqdefault.jpg)
+    
+    Videos**KI Beben an der Börse : Nvidia +30 % | Anthropic IPO| Börse Stuttgart**
+    
+    23/11/2026 17:53
+    
+    11:42 NVIDIA schießt nach dem CEO-Comeback um 30 % hoch – und stiehlt dem größten Tech-IPO der Geschichte die Show. Im Interview mit Cornelia Frey (Boerse Stuttgart Group) ordnet Vontobel-Derivate-Experte David Hartmann die Turbulenzen rund um NVIDIA, den A...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/23/ki-beben-an-der-boerse-nvidia-plus30-anthropic-ipo-boerse-stuttgart/)
+-   [
+    
+    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
+    
+    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
+    
+    09/11/2026 14:29
+    
+    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
+
+
+
+# Nachricht - Börse Stuttgart
+
+24.11.2026 / 07:40:51
+
+# MORNING BRIEFING - USA/Asien
+
+(Dow Jones Newswires)
+
+\===
+
++++++ TAGESTHEMA +++++
+
+HPE hat ihre Gesamtjahresprognose angehoben und im vierten Geschäftsquartal einen höheren Gewinn erzielt. Der Ausbau der KI-Infrastruktur kurbelte die Nachfrage nach Produkten für Rechenzentren weiter an. Für das laufende Geschäftsjahr rechnet das Unternehmen nun mit einem Gewinn je Aktie von 3,68 bis 3,98 US-Dollar. HPE erwartet einen bereinigten Gewinn je Aktie von 5,05 bis 5,35 Dollar bei einem Umsatz von 59,4 Milliarden bis 63,1 Milliarden Dollar. Beide Spannen entsprechen einem Wachstum von 27 Prozent bis 35 Prozent im Vergleich zum Vorjahr. Zuvor hatte HPE für das Geschäftsjahr 2027 ein bereinigtes Gewinnwachstum von 16 Prozent bis 20 Prozent und ein Umsatzplus von 13 Prozent bis 17 Prozent prognostiziert. Analysten stellen für das Geschäftsjahr derzeit einen bereinigten Gewinn von 4,76 Dollar je Aktie bei einem Umsatz von 55,1 Milliarden Dollar in Aussicht. Im vierten Geschäftsquartal belief sich der Unternehmensgewinn auf 1,82 Milliarden Dollar, verglichen mit 175 Millionen Dollar im Vorjahreszeitraum. Je Aktie und unter Berücksichtigung der Dividendenzahlungen auf Vorzugsaktien wies das Unternehmen einen Gewinn von 1,26 Dollar aus, nach 11 Cent im Vorjahr. Bereinigt um bestimmte Sondereffekte lag das Ergebnis bei 1,43 Dollar je Aktie. Von Factset befragte Analysten hatten mit 1,28 Dollar je Aktie gerechnet. Die Erlöse kletterten auf 14,55 Milliarden Dollar, verglichen mit 9,68 Milliarden Dollar vor einem Jahr. Die Analystenschätzungen hatten bei 14,47 Milliarden Dollar gelegen.
+
++++++ AUSBLICK UNTERNEHMEN ++++++
+
+22:00 US/HP Inc, Ergebnis 4Q
+
+22:05 US/Dell Technologies Inc, Ergebnis 3Q
+
++++++ AUSBLICK KONJUNKTUR +++++
+
+\- US 
+    16:00 Index des Verbrauchervertrauens November 
+          PROGNOSE: 92,8 
+          zuvor:    91,7
+
++++++ ÜBERSICHT INDIZES +++++
+
+Index                         zuletzt  +/- % 
+E-Mini-Future S&P-500        7.272,50   +0,3 
+E-Mini-Future Nasdaq-100    26.874,00   +0,3 
+S&P/ASX 200 (Sydney)         8.726,40   +1,8 
+Nikkei-225                  58.644,63   +3,9 
+Topix-500 (Tokio)            3.764,88   +2,5 
+Kospi (Seoul)                5.006,03   +6,3 
+Shanghai-Composite           3.544,96   +0,2 
+Hang-Seng-Index (Hongkong)  22.206,74   -0,8
+
++++++ FINANZMÄRKTE +++++
+
+OSTASIEN (VERLAUF)
+
+Die globale Huang-Rally erreicht die lokalen Börsen. Die Wiedereinsetzung von Jensen Huang zum CEO von Nvidia sorgt wie schon an der Wall Street für Kauflaune - vor allem im Technologiesektor. Die Nachricht befeuert aber auch den Gesamtmarkt, weil sie laut Händlern die jüngsten Zweifel über die Rentabilität der massiven KI-Investitionen zunächst beiseite wischt. Die Schlagzeilen beflügeln vor allem die technologielastigen Börsen in Südkorea und Taiwan, die zuletzt aber auch besonders unter dem Huang-Abgang gelitten hatten. Die Erwartung einer Leitzinserhöhung um 25 Basispunkte am Donnerstag bremst den Markt in Südkorea nicht. Unter den Sektorwerten klettern in Taipeh TSMC um 9,9 Prozent, Foxconn um 8,2 Prozent und Largan Precision um 9,9 Prozent. In Seoul liegen die Technikschwergewichte SK Hynix mit einem Aufschlag von 8,8 Prozent und Samsung Electronics mit einem Plus von 8,1 Prozent vorn. In Tokio haussieren Kioxia um 10,1 Prozent, Murata um 14,9 Prozent und Advantest um 13 Prozent - Tokyo Electron klettern um 8,2 Prozent. In China geht es verhaltener zu, der chinesische Aktienmarkt hatte jedoch zuvor auch die scharfe Abwärtsbewegung im Technologiesektor nicht eins zu eins mitgemacht. Gleichwohl sind Halbleiterwerte gesucht, in Hongkong klettern Hua Hong Grace Semiconductor um 1,2 und SMIC um 2,0 Prozent. Foxconn Industrial Internet ziehen in Schanghai um 8,3 Prozent. Auch die Börse in Sydney, wo Technologiepapiere keine große Rolle spielen, lässt sich von der positiven Stimmung anstecken. Allerdings zählen in Sydney stärker vertretene Rohstoffunternehmen als Profiteure des Ausbaus beispielsweise von Rechenzentren, der mit der Huang-Rückkehr nun wieder zuversichtlicher gesehen wird.
+
+WALL STREET
+
+               zuletzt  +/- %  +/- abs.  Schluss Vortag 
+DJIA         49.595,31   +3,0  +1447,98       48.147,33 
+S&P-500       7.237,17   +4,7   +326,78        6.910,39 
+NASDAQ Comp  24.089,56   +6,5  +1471,83       22.617,73 
+NASDAQ 100   26.746,10   +6,9  +1717,11       25.028,98 
+ 
+                     Montag     Freitag 
+Umsatz NYSE (Aktien) 1,36 Mrd   1,67 Mrd 
+Gewinner                2.322        541 
+Verlierer                 446      2.197 
+Unverändert                51         46
+
+Hausse - Die überraschende Wiedereinsetzung von Jensen Huang als CEO von Nvidia - offenbar auch auf Betreiuben durch US-Präsident Donald Trump - löste ein Kursfeuerwerk im gesamten Technologiesektor aus. Die Nvidia-Aktie schoss um 31 Prozent nach oben. Huangs ebenso überraschender Abgang hatte Zweifel an der Zukunft des Unternehmens und den milliardenschweren Investitionen in KI ausgelöst. Seine Rückkehr habe Unsicherheiten über die Lieferzusagen, die technologische Ausrichtung und mögliche politische Risiken rund um Nvidia wieder verringert, hieß es. Aktien wie AMD, Intel oder Coreweave erholten sich um 6,8 bzw. 16,3 und 22,3 Prozent. Dagegen ging es für die Anthropic-Aktie nach dem Kurseinbruch am Freitag um weitere 1,4 Prozent. Die Nachricht über die Huang-Rückkehr machte eine Großfusion im Cybersecurity-Segment fast zur Nebensache. Crowdstrike übernimmt im Zuge eines Aktientauschs Zscaler. Die Transaktion hat ein Volumen von 43,9 Milliarden Dollar. Die Crowdstrike-Aktie knickte um 8,9 Prozent ein. Überzeugende Quartalszahlen und ein erhöhter Ausblick von Crowdstrike kamen dagegen nicht an. Zscaler legten um 17,7 Prozent zu.
+
+USA - ANLEIHEN
+
+           Rendite    +/- 
+2 Jahre    4,66     +0,05 
+10 Jahre   4,92     +0,01
+
+Mit den Renditen ging es nach dem kräftigen Rücksetzer am Freitag wieder leicht nach oben. Zum Ausklang der Vorwoche hatte die Kurse der Anleihen stark zugelegt, weil es angesichts des Einbruchs am Aktienmarkt zu Umschichtungen in Anleihen gekommen war. Diese Bewegung sei mit der Erholungshausse bei Aktien teils wieder umgekehrt worden, hieß es.
+
++++++ DEVISENMARKT +++++
+
+DEVISEN                  zuletzt  +/- %      00:00       Mo, 08:17  % YTD 
+EUR/USD                   1,0907   +0,1     1,0901          1,1000   -7,1 
+EUR/JPY                   173,74   +0,2     173,34          174,94   -5,6 
+EUR/GBP                   0,8362   +0,0     0,8359          0,8380   -4,1 
+USD/JPY                   159,27   +0,2     159,00          159,02   +1,7 
+USD/KRW                 1.344,20   +0,3   1.340,47        1.343,36   -6,7 
+USD/CNY                   6,6612   -0,1     6,6643          6,6646   -4,8 
+USD/CNH                   6,6621   -0,1     6,6664          6,6664   -4,5 
+USD/HKD                   7,8424    0,0     7,8427          7,8387   +0,8 
+AUD/USD                   0,6629   +0,1     0,6626          0,6648   -0,6 
+NZD/USD                   0,5449    0,0     0,5449          0,5474   -5,3 
+BTC/USD                60.311,28   -1,6  61.292,59       61.435,64  -31,2
+
+Der Dollar legte deutlich zu. Der Euro ging mit 1,0906 Dollar aus dem US-Handel und damit auf dem niedrigsten Niveau seit April 2025. Die Wiedereinsetzung von Nvidia-CEO Huang habe den Greenback gestützt, hieß es. Huangs Rückkehr stärke die Zuversicht in den KI-Boom und damit in die Wachstumsperspektiven der US-Wirtschaft und die kräftige Erholung der Technologiewerte habe Anleger zudem wieder mit weiteren Zinserhöhungen der US-Notenbank rechnen lassen.
+
++++++ ROHSTOFFE +++++
+
+METALLE
+
+Metalle                  zuletzt  +/- %   +/- abs.  Schluss Vortag 
+Gold                    3.613,86   -0,5     -17,82        3.631,68 
+Silber                     42,15   -2,1      -0,91           43,06 
+Platin                  1.285,66   -3,0     -39,34        1.325,00
+
+Der Goldpreis erholte sich etwas von den jüngsten Verlusten. Die Feinunze verteuerte sich um 1,4 Prozent auf 3.631 Dollar im späten US-Geschäft. In der Vorwoche hatte das Edelmetall mit den starken Verlusten bei Aktien noch den stärksten Rückgang seit März verzeichnet. "Dass die Goldpreise bei Ausverkäufen an den Aktienmärkten zunächst fallen, ist ein übliches Muster", kommentierten Analysten von Goldman Sachs. "Die Liquidität von Gold macht es bei starken Abverkäufen risikoreicher Anlagen zu einer Quelle von Barmitteln." Mit der Erholung bei Aktien, ging es somit folgerichtig auch für den Goldpreis wieder etwas nach oben. Allerdings bremsten zugleich der gestiegene Dollar und die wieder gestiegene Erwartung höherer Zinsen.
+
+ÖL
+
+ROHÖL                    zuletzt  +/- %   +/- abs.  Schluss Vortag 
+WTI/Nymex                  79,69   -0,6      -0,48           80,17 
+Brent/ICE                  88,98   -0,4      -0,39           89,37
+
+Die Ölpreise gaben kräftig nach. Der Preis für ein Barrel der Sorte Brent fiel um 3,5 Prozent auf knapp über 89 Dollar. Ausschlaggebend sei vor allem die Aussicht auf ein wachsendes Überangebot gewesen, sagten Markteilnehmer. Die Ölexporte aus dem Nahen Osten hätten sich schneller erholt als erwartet, zudem sei die libysche Sharara-Pipeline wieder in Betrieb genommen worden. Gleichzeitig sei ein Teil der geopolitischen Risikoprämie herausgenommen worden, weil US-Präsident Trump einer diplomatischen Lösung im Konflikt mit Iran offenbar mehr Zeit einräume - trotz anhaltender Angriffe auf Schiffe und Energieanlagen in der Region.
+
++++++ MELDUNGEN SEIT MONTAG 20.00 UHR +++++
+
+US-EXPORTBESCHRÄNKUNGEN
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 24, 2026 01:40 ET (06:40 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![KI Beben an der Börse : Nvidia +30 % | Anthropic IPO| Börse Stuttgart](https://i.ytimg.com/vi/LFAdHtqGzHA/hqdefault.jpg)
+    
+    Videos**KI Beben an der Börse : Nvidia +30 % | Anthropic IPO| Börse Stuttgart**
+    
+    23/11/2026 17:53
+    
+    11:42 NVIDIA schießt nach dem CEO-Comeback um 30 % hoch – und stiehlt dem größten Tech-IPO der Geschichte die Show. Im Interview mit Cornelia Frey (Boerse Stuttgart Group) ordnet Vontobel-Derivate-Experte David Hartmann die Turbulenzen rund um NVIDIA, den A...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/23/ki-beben-an-der-boerse-nvidia-plus30-anthropic-ipo-boerse-stuttgart/)
+-   [
+    
+    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
+    
+    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
+    
+    09/11/2026 14:29
+    
+    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
+
+# Nachricht - Börse Stuttgart
+
+24.11.2026 / 07:40:51
+
+# MORNING BRIEFING - USA/Asien -2-
+
+(Dow Jones Newswires)
+
+Die US-Regierung hat Maßnahmen ergriffen, um das singapurische Unternehmen Megaspeed und dessen verbundene Unternehmen am Kauf von US-KI-Chips zu hindern. Dies geschah nach Druck bezüglich der mutmaßlichen Rolle des Unternehmens bei der Weiterleitung modernster Halbleiter von Nvidia nach China. Das US-Handelsministerium setzte Megaspeed auf seine Entity List. Dadurch wird es US-Unternehmen untersagt, mit den gelisteten Firmen Geschäfte zu machen, sofern sie keine Sondergenehmigung erhalten.
+
+KONJUNKTUR SINGAPUR
+
+Singapur hat nach einem über den Erwartungen liegenden Wachstum im dritten Quartal seine Wirtschaftsprognose für das laufende Jahr angehoben. Zugleich mahnte das Land jedoch zur Vorsicht, da der globale Gegenwind anhalte. Das BIP wuchs im Zeitraum von Juli bis September im Jahresvergleich um 6,1 Prozent. Der Wert lag damit über der im Oktober veröffentlichten vorläufigen Schätzung von 5,4 Prozent. In den ersten drei Quartalen des Jahres belief sich das BIP-Wachstum auf 6,2 Prozent. Die Regierung rechnet für dieses Jahr nun mit einem Wachstum von rund 6 Prozent, verglichen mit der vorherigen Prognosespanne von 4,5 Prozent bis 5,5 Prozent. Für das Jahr 2027 wird ein Wirtschaftswachstum zwischen 2,5 Prozent und 4,5 Prozent erwartet.
+
+ADENTRA
+
+hat die Übernahme von AccessSMT Holdings, einem kanadischen Türenlieferanten, für 230 Millionen kanadische Dollar in bar vereinbart.
+
+CATHAY PACIFIC
+
+Swire Pacific aus Hongkong reduziert ihre Beteiligung an Cathay Pacific Airways durch einen Aktienverkauf weiter, um rund 458 Millionen US-Dollar einzunehmen. Das Konglomerat plant, im Rahmen einer Aktienplatzierung 252,66 Millionen Cathay-Pacific-Aktien zu veräußern. Jede Aktie wird zu 14,23 Hongkong-Dollar platziert, was 1,81 Dollar entspricht. Der Preis bedeutet einen Abschlag von 8,5 Prozent gegenüber dem jüngsten Schlusskurs der Fluggesellschaft von 15,55 Hongkong-Dollar.
+
+LINAMAR
+
+übernimmt das Arbeitsbühnengeschäft von Terex, einschließlich der bekannten Marke Genie, für 1,4 Milliarden US-Dollar in bar. Der Geschäftsbereich entwickelt und produziert Hebebühnen, Teleskoplader und Hubarbeitsbühnen. Die Transaktion, deren Abschluss für das erste Halbjahr erwartet wird, umfasst sämtliche Vermögenswerte, geistiges Eigentum sowie Produktionsstandorte der Sparte.
+
+MACQUARIE / AXIATA
+
+Ein von Macquarie geführtes Konsortium hat den Erwerb des internationalen Geschäfts mit Funktürmen von Axiata im Wert von rund 1,2 Milliarden US-Dollar vereinbart. Damit baut der australische Vermögensverwalter seine Präsenz im Bereich digitaler Infrastruktur in Südostasien aus. Das Konsortium werde die Turmsparten der Edotco, einer Tochtergesellschaft des malaysischen Telekommunikationskonzerns Axiata, auf den Philippinen, in Indonesien, Bangladesch, Pakistan und Kambodscha übernehmen, teilte Macquarie mit.
+
+STARHUB
+
+wird den singapurischen Telekommunikationsanbieter M1 im Rahmen einer reinen Aktientransaktion übernehmen. Dabei wird das Unternehmen mit 1,36 Milliarden Singapur-Dollar bewertet. Aktionäre von M1, das von Keppel Ltd. kontrolliert wird, sollen rund 651,7 Millionen neue StarHub-Aktien erhalten. Dies entspreche etwa 27,4 Prozent des erweiterten Unternehmens, wie die drei Gesellschaften mitteilten. Keppel wird faktisch 23,0 Prozent halten und damit ein wesentlicher Großaktionär von StarHub werden.
+
+\===
+
+HINWEIS: Dieses Briefing kann Meldungselemente enthalten, die mit Künstlicher Intelligenz automatisch aus der ursprünglich englischen Version ins Deutsche übersetzt wurden. Die englischsprachige Version sollte als die maßgebliche Fassung betrachtet werden.
+
+Kontakt zum Autor: maerkte.de@dowjones.com
+
+DJG/ros/gos/flf
+
+(END) Dow Jones Newswires
+
+November 24, 2026 01:40 ET (06:40 GMT)
+
+## Weitere relevante Nachrichten
+
+## Aktuelle Videos
+
+-   [
+    
+    ![KI Beben an der Börse : Nvidia +30 % | Anthropic IPO| Börse Stuttgart](https://i.ytimg.com/vi/LFAdHtqGzHA/hqdefault.jpg)
+    
+    Videos**KI Beben an der Börse : Nvidia +30 % | Anthropic IPO| Börse Stuttgart**
+    
+    23/11/2026 17:53
+    
+    11:42 NVIDIA schießt nach dem CEO-Comeback um 30 % hoch – und stiehlt dem größten Tech-IPO der Geschichte die Show. Im Interview mit Cornelia Frey (Boerse Stuttgart Group) ordnet Vontobel-Derivate-Experte David Hartmann die Turbulenzen rund um NVIDIA, den A...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/23/ki-beben-an-der-boerse-nvidia-plus30-anthropic-ipo-boerse-stuttgart/)
+-   [
+    
+    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
+    
+    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
+    
+    09/11/2026 14:29
+    
+    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
