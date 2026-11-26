@@ -1,3 +1,57 @@
+Die europäischen Aktienmärkte verzeichneten am Mittwoch (25. November 2026) deutliche Verluste, wobei der pan-europäische Leitindex STOXX Europe 600 um 1,0 % auf 626,03 Punkte nachgab.
+Hauptverantwortlich für den Abschwung waren folgende Faktoren:
+Steigende Zinssorgen: Neue US-Inflationsdaten fielen höher aus als erwartet, was die Erwartung einer weiteren Zinserhöhung der US-Notenbank (Fed) im Dezember untermauerte.
+ Zudem stieg am Markt die Wahrscheinlichkeit auf 87 %, dass auch die Europäische Zentralbank (EZB) die Leitzinsen im Dezember anheben wird, was insbesondere zinssensitive Bankaktien unter Druck setzte (-3 %).
+Handelsunsicherheiten: Die Märkte zeigten sich besorgt über potenzielle neue US-Zölle auf europäische Waren, was die wirtschaftlichen Aussichten für die Eurozone eintrübte.
+Schwäche im Tech-Sektor: Neben den Makrodaten belasteten anhaltende Zweifel an den hohen Bewertungen im Bereich der Künstlichen Intelligenz (KI) den Technologiesektor, verstärkt durch Verluste an der Wall Street und die Schwäche der kürzlich an die Börse gegangenen Anthropic-Aktie
+
+Die US-Märkte haben sich am 25. November 2026 nach einem massiven Intraday-Ausverkauf teilweise erholt, wobei der Dow Jones Industrial Average (INDEXDJX:.DJI) ein Minus von 2 % aufholte und 0,59 % fester schloss.
+ Der technologielastige Nasdaq-100 sackte zeitweise um fast 5 % ab, federt die Verluste bis zum Handelsende dank Schnäppchenjägern aber wieder etwas ab.
+Die wichtigsten Hintergründe zur aktuellen Marktbewegung:
+Sektorenrotation: Anleger schichteten massiv aus dem volatilen Tech-Sektor in defensive und konjunkturnahe Branchen (wie Grundstoffe und Industrie) um.
+KI-Skepsis & Regulierung: Auslöser der jüngsten Korrektur sind zunehmende Zweifel an der Profitabilität von Milliardeninvestitionen in Künstliche Intelligenz sowie Sorgen vor strengeren Auflagen für Rechenzentren.
+Makroökonomischer Druck: Neben hartnäckigen Inflationsdaten belasteten Ankündigungen neuer Importzölle sowie eine straffe Geldpolitik der US-Notenbank die Marktstimmung.
+.
+
+Die am 25. November 2026 von der Trump-Administration vorgeschlagenen neuen Zölle
+ haben erhebliche Verunsicherung an den Finanzmärkten ausgelöst und waren der Haupttreiber für den jüngsten Kurssturz an den globalen Börsen.
+ Betroffen von den geplanten Aufschlägen von bis zu 20 % sind 14 bis 16 wichtige Handelspartner,
+ darunter die Europäische Union, China, Japan und Taiwan.
+Die konkreten Auswirkungen auf die Märkte im Überblick:
+Inflations- und Zinssorgen: Da die US-Inflation zeitgleich ein Dreijahreshoch erreichte,
+ schüren die Zölle die Angst vor weiter steigenden Konsumentenpreisen.
+ Dies schränkt den Spielraum der US-Notenbank Federal Reserve für künftige Zinssenkungen ein.
+Belastung für europäische Exportwerte: Insbesondere europäische Aktienindizes wie der DAX gerieten unter Druck.
+ Anleger fürchten erhebliche Gewinneinbußen bei stark exportabhängigen Branchen wie der Automobilindustrie und dem Maschinenbau.
+Zunahme von Volatilität und Tech-Ausverkäufen: Die Ankündigung traf auf einen Markt, der durch hohe Bewertungen im Technologiesektor ohnehin anfällig war.
+ Sie beschleunigte die Umschichtung von Wachstumstiteln in defensivere Marktsegmente.
+.
+
+Die Europäische Union weist die Vorwürfe und die Begründung der neuen US-Zollpläne entschieden zurück.
+ Die Europäische Kommission betonte am 25. November 2026, dass sie die Annahme, Europa sei eine Quelle struktureller Überkapazitäten bei Industriegütern, vehement ablehnt.
+Gleichzeitig fordert Brüssel die US-Regierung auf, bestehende Handelsvereinbarungen zu respektieren, nach denen die Zölle für die EU bei maximal 15 % gedeckelt sein müssten.
+ Trotz des Widerstands kündigte ein EU-Sprecher an, die US-Untersuchungsberichte zunächst genau zu prüfen, während Abgeordnete des Europäischen Parlaments bereits Schutzmaßnahmen fordern, um die europäische Wirtschaft abzusichern
+
+Die am 25. November 2026 angekündigten US-Zollpläne (Sektion 301) zielen auf die Reduzierung ausländischer Überkapazitäten ab und treffen Branchen, die stark auf importierte Vorprodukte oder internationale Lieferketten angewiesen sind, besonders hart.
+Die am stärksten betroffenen US-Wirtschaftszweige umfassen:
+Automobilindustrie & Transport: Der Sektor leidet unter verteuerten Importen von Autoteilen, Batterien und Fahrzeugen aus der EU, Japan und China.
+ Die Luftfahrtbranche ist zudem durch spezifische Zölle gegen brasilianische Flugzeugexporte betroffen.
+Technologie & Halbleiter: Die US-Tech-Industrie ist massiv von Zöllen auf Halbleiter, Elektronikkomponenten, Computerchips und Solarmodule aus asiatischen Ländern wie Taiwan, Vietnam und Singapur betroffen.
+Schwerindustrie & Chemie: Unternehmen aus den Bereichen Stahl- und Aluminiumverarbeitung sowie Chemie stehen vor steigenden Materialkosten bei der Einfuhr von Roh- und Basisstoffen.
+Konsumgüter & Einzelhandel: Durch Zölle auf Haushaltsgeräte sowie Agrargüter (wie Zucker aus Brasilien) drohen steigende Endverbraucherpreise und Margendruck für den Handel
+
+US-Technologieunternehmen reagieren auf die neu angekündigten Zollpläne der Trump-Administration mit einer Mischung aus Erleichterung und anhaltender Vorsicht, da die Kernprodukte vorerst verschont bleiben.
+ In den am 25. November 2026 vorgestellten Entwürfen der US-Handelsvertretung (USTR) wurden breite Ausnahmen für zentrale Tech-Güter wie Mikrochips, Smartphones, PCs und Server gewährt.
+Trotz dieser Schonung für Hardware-Schlüsselkomponenten zeigt sich die Reaktion der Unternehmen und Märkte differenziert:
+Erleichterung bei Big Tech: Halbleiter- und Hardware-Riesen wie Apple (NASDAQ:AAPL) oder Micron Technology (NASDAQ:MU) blieben von direkten Abgaben auf ihre wichtigsten Produkte verschont, da die US-Regierung Lieferketten-Störungen bei essenzieller Consumer-Elektronik vermeiden will
+.
+Margendruck bei Zubehör: Weniger kritische Komponenten wie Lithium-Ionen-Akkus oder Kopfhörer sind hingegen nicht von den Ausnahmen abgedeckt.
+ Tech-Unternehmen prüfen hier bereits Preisanpassungen oder eine beschleunigte Verlagerung der Produktion, um drohende Zusatzkosten abzufedern.
+Anhaltende Marktvolatilität: Obwohl die Chip-Ausnahmen positiv aufgenommen wurden, sorgten die Zollpläne insgesamt für erhebliche Nervosität im Sektor.
+ Der Tech-Index Nasdaq Composite verzeichnete nach Bekanntwerden der Pläne und anhaltender KI-Sorgen heftige Intraday-Schwankungen
+
+
+
 Termine am 25. November 2026
 FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine am Mittwoch, den 25. November
 
@@ -165,5 +219,388 @@ Die Maschinenbau-Aufträge kletterten um 1,8 % bzw. 0,8 Milliarden US-Dollar auf
  Da der Gesamtwert aller langlebigen Güter im Oktober unter dem Strich ebenfalls nur um genau 0,8 Milliarden US-Dollar (+0,2 %) zulegte, hat das starke Maschinenbau-Segment die spürbaren Rückgänge im Transport- und Rüstungssektor mathematisch im Alleingang vollständig ausgeglichen.
 prompt_suggestion
 
+# Nachricht - Börse Stuttgart
 
+25.11.2026 / 17:39:06
+
+# WOCHENVORSCHAU: Termine bis 9. Dezember 2026
+
+FRANKFURT (dpa-AFX) - Wirtschafts- und Finanztermine bis Mittwoch, den 9. Dezember
+
+   
+---------------------------------------------------------------------------------------
+DONNERSTAG, DEN 26. NOVEMBER
+
+TERMINE UNTERNEHMEN
+08:30 DEU: Fresenius feiert 40 Jahre Börsenjubiläum, Frankfurt
+Begrüßung durch Stephan Leithner, CEO Deutsche Börse AG, anschließend Ansprachen von Wolfgang Kirsch und Michael Sen. 
+
+DEU: Rheinmetall, Capital Markets Day (bis 27.11.26)
+ 
+TERMINE KONJUNKTUR
+DEU: DIW-Konjunkturbarometer
+02:00 KOR: Zentralbank, Zinsentscheid
+08:00 NOR: BIP Q3/26
+08:00 DEU: Nominallohn-/Reallohnindex Q3/26
+08:00 DNK: Einzelhandelsumsatz 10/26
+08:00 DEU: NIM-Konsumklima 12/26
+08:45 FRA: Erzeugerpreise 10/26
+10:00 EUR: Geldmenge M3 10/26
+13:30 DEU: EZB Sitzungsprotokoll 28./29.10.26
+
+SONSTIGE TERMINE
+DEU: Chemie- und Pharma-Summit, Berlin
+Auf der Konferenz soll u.a. Covestro-Chef Markus Steilemann als Präsident des VCI wiedergewählt werden. Steilemann gehört seit März 2020 dem VCI-Vorstand an. Seit 30. September 2022 führt er den Verband als Präsident.
+
+09:00 DEU: European Defence Capital Summit 2026, Frankfurt/M.
+
+09:30 DEU: «Strategiedialog Automobilwirtschaft BW» mit Ministerpräsident Cem Özdemir (Grüne) und Bundesverkehrsminister Steffen Bilger (CDU), Stuttgart
+
+10:00 DEU: Pressegespräch Deutsche Bank: Kapitalmarktausblick 2027, Frankfurt/M.
+
+11:00 DEU: Pressegespräch Dekabank: Kapitalmarkt- und Konjunkturausblick, Frankfurt/M.
+
+12:00 DEU: Online-Veranstaltung Bundesverband deutscher Banken e.V. zu «Digital Money als geopolitisches Projekt»
+
+14:00 DEU: Urteil erwartet im Prozess gegen die Drogeriemarktkette dm wegen des Angebots von Augenscreening in den Filialen, Karlsruhe
+
+16:00 DEU: Verkündungstermin Oberlandesgericht Frankfurt zu Unterlassungsklage gegen Fluggesellschaft wegen Regelungen zum Handgepäck, Frankfurt/M.
+
+DEU: Betriebsräteversammlung der Siemens AG mit rund 350 Betriebsräten aus allen deutschen Standorten des Unternehmens
++ 17.00 Kundgebung für die Tarifforderungen der IG Metall
+
+BEL: EU-Sondergipfel zur langfristigen Finanzplanung und zur weiteren finanziellen Unterstützung der Ukraine, Brüssel
+
+HINWEIS
+USA: Feiertag, Börse geschlossen
+ 
+---------------------------------------------------------------------------------------
+FREITAG, DEN 27. NOVEMBER
+
+TERMINE UNTERNEHMEN
+07:00 BEL: Elia Group, Q3-Zahlen
+
+DEU: Rheinmetall, Capital Markets Day (bis 27.11.26)
+ 
+TERMINE KONJUNKTUR
+00:30 JPN: Tokio Verbraucherpreise 11/26
+07:00 FIN: BIP Q3/26
+08:00 NOR: Arbeitslosenquote 11/26
+08:00 SWE: Handelsbilanz 10/26
+08:00 SWE: BIP Q3/26
+08:45 FRA: Verbraucherpreise 11/26 (vorläufig)
+08:45 FRA: BIP Q3/26 (2. Veröffentlichung)
+09:00 ESP: Verbraucherpreise 11/26 (vorläufig)
+09:00 ESP: Einzelhandelsumsatz 10/26
+09:55 DEU: Arbeitslosenzahlen 11/26
+11:00 EUR: Wirtschaftsvertrauen 11/26
+11:00 EUR: Industrievertrauen 11/26
+11:00 EUR: Verbrauchervertrauen 11/26 (endgültig)
+11:30 BEL: Verbraucherpreise 11/26
+14:30 USA: Lagerbestände Großhandel 10/26 (vorab)
+
+SONSTIGE TERMINE
+10:30 DEU: Bayerischer Bankentag 2026, München
+Unter dem Motto «Verantwortung für wirtschaftliche Stärke und Wettbewerbsfähigkeit - Perspektiven aus Sicht von Finanzaufsicht und Wirtschaftswissenschaft».
+U.a. mit Keynote von Mark Branson, Präsident der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin), zum Thema «Wettbewerbsfähigkeit braucht Stabilität: Die Rolle der Finanzaufsicht».
+
+BEL: EU-Sondergipfel zur langfristigen Finanzplanung und zur weiteren finanziellen Unterstützung der Ukraine - zweiter und letzter Tag, Brüssel
+
+HINWEIS
+USA: Verkürzter US-Handel Aktien und Anleihen
+ 
+ 
+---------------------------------------------------------------------------------------
+MONTAG, DEN 30. NOVEMBER
+
+TERMINE UNTERNEHMEN
+10:30 DEU: MTU Aero Engines, Capital Markets Day
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+GBR: Standard Life, Capital Markets Day
+ 
+TERMINE KONJUNKTUR
+00:50 JPN: Einzelhandelsumsatz 10/26
+00:50 JPN: Industrieproduktion 10/26 (vorläufig)
+02:30 CHN: PMI Verarbeitendes Gewerbe und Dienste 11/26
+06:00 JPN: Wohnungsbaubeginne 10/26
+08:00 SWE: Einzelhandelsumsatz 10/26
+09:00 CHE: BIP Q3/26
+09:00 CHE: KOF?Frühindikator 11/26
+09:00 AUT: Erzeugerpreise 10/26
+09:30 POL: Verbraucherpreise 11/26 (vorläufig)
+09:30 POL: BIP Q3/26 (2. Veröffentlichung)
+10:00 DEU: Verbraucherpreise Hessen, Bayern, Brandenburg, Sachsen, Baden-Württemberg, Nordrhein-Westfalen 11/26
+10:00 ITA: Verbrauchervertrauen 11/26
+10:00 ITA: Produzentenvertrauen 11/26
+10:30 GBR: Hypothekenzusagen 10/26
+11:00 BEL: BIP Q3/26 (endgültig)
+11:00 ITA: Verbraucherpreise 11/26 (vorläufig)
+12:00 PRT: BIP Q3/26 (2. Veröffentlichung)
+12:00 PRT: Verbraucherpreise 11/26 (vorläufig)
+12:00 IRL: Verbraucherpreise 11/26 (vorläufig)
+14:00 DEU: Verbraucherpreise 11/26 (vorläufig)
+15:45 USA: MNI Chicago PMI 11/26
+16:30 USA: Dallas Fed Verarbeitende Industrie 11/26
+
+SONSTIGE TERMINE
+BEL: Treffen der Verkehrsminister der EU, Brüssel
+
+BEL: EU-Handelsministertreffen, Brüssel
+
+---------------------------------------------------------------------------------------
+DIENSTAG, DEN 1. DEZEMBER
+
+TERMINE UNTERNEHMEN
+10:00 DEU: KWS Saat, Hauptversammlung
+ 
+TERMINE KONJUNKTUR
+00:30 JPN: Arbeitslosenquote 10/26
+00:50 JPN: Investitionen Q3/26
+01:30 JPN: S&P Global PMI Verarbeitendes Gewerbe 11/26 (2. Veröffentlichung)
+02:45 CHN: RatingDog PMI Verarbeitendes Gewerbe 11/26
+06:30 NLD: Verbraucherpreise 11/26 (vorläufig)
+08:00 TUR: BIP Q3/26
+08:30 HUN: BIP Q3/26 (2. Veröffentlichung)
+09:00 AUT: Verbraucherpreise 11/26 (vorläufig)
+09:15 ESP: S&P Global PMI Verarbeitendes Gewerbe 11/26
+09:30 CHE: PMI Verarbeitendes Gewerbe 11/26
+09:45 ITA: S&P Global PMI Verarbeitendes Gewerbe 11/26
+09:50 FRA: S&P Global PMI Verarbeitendes Gewerbe 11/26 (2. Veröffentlichung)
+09:55 DEU: S&P Global PMI Verarbeitendes Gewerbe 11/26 (2. Veröffentlichung)
+10:00 ITA: BIP Q3/26 (2. Veröffentlichung)
+10:00 EUR: S&P Global PMI Verarbeitendes Gewerbe 11/26 (2. Veröffentlichung)
+10:30 GBR: S&P Global PMI Verarbeitendes Gewerbe 11/26 (2. Veröffentlichung)
+11:00 EUR: Verbraucherpreise 11/26 (vorläufig)
+15:45 USA: S&P Global PMI Verarbeitendes Gewerbe 11/26 (2. Veröffentlichung)
+16:00 USA: ISM Verarbeitendes Gewerbe 11/26
+16:00 USA: Bauinvestitionen 10/26
+
+SONSTIGE TERMINE
+14:00 DEU: Konferenz des Bundesverbands der Deutschen Entsorgungs-, Wasser- und Kreislaufwirtschaft e. V. (BDE) zu Verpackungsrecycling, Berlin
+
+BEL: Treffen der EU-Minister für Telekommunikation, Brüssel
+
+BEL: Treffen der für Entwicklungshilfe zuständigen EU-Minister, Brüssel
+
+---------------------------------------------------------------------------------------
+MITTWOCH, DEN 2. DEZEMBER
+
+TERMINE UNTERNEHMEN
+07:00 DEU: Aurubis, Jahreszahlen
+07:30 ESP: Inditex, 9Monatszahlen
+22:00 USA: Salesforce, Q3-Zahlen
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+USA: Snowflake, Q3-Zahlen
+ 
+TERMINE KONJUNKTUR
+POL: Zentralbank, Zinsentscheid
+08:30 CHE: Verbraucherpreise 11/26
+09:00 ESP: Arbeitslosenzahlen 11/26
+10:00 ITA: Arbeitslosenquote 10/26
+11:00 EUR: Arbeitslosenquote 10/26
+12:00 IRL: Arbeitslosenquote 11/26
+12:00 PRT: Industrieproduktion 10/26
+14:00 HUN: Zentralbank, Zinsentscheid
+14:15 USA: ADP-Beschäftigung 11/26
+16:30 USA: EIA-Ölbericht (Woche)
+17:00 RUS: Arbeitslosenquote 10/26
+
+SONSTIGE TERMINE
+11:00 DEU: Pk der Spielwarenbranche 2026, Nürnberg
+
+11:00 DEU: Hybride Jahrespressekonferenz Verband der Internationalen Kraftfahrzeughersteller mit Präsidentin Labbé, Frankfurt am Main
+
+---------------------------------------------------------------------------------------
+DONNERSTAG, DEN 3. DEZEMBER
+
+TERMINE UNTERNEHMEN
+09:00 DEU: VDMA, Auftragseingang Oktober 2026
+09:00 DEU: Jenoptik, Capital Markets Day
+11:00 DEU: Alnatura, Jahres-Pk, Darmstadt
+14:00 FRA: Scor, Investor Day
+22:00 USA: Tesla, Hauptversammlung
+22:05 DEU: Deutsche Börse, Überprüfung der DAX-Indizes
+
+TERMINE UNTERNEHMEN OHNE ZEITANGABE
+DEU: Neuzulassungszahlen des Kraftfahrt-Bundesamts, Flensburg
+ 
+TERMINE KONJUNKTUR
+01:30 JPN: S&P Global PMI Dienste 11/26 (2. Veröffentlichung)
+02:45 CHN: RatingDog PMI Dienste 11/26
+08:00 TUR: Verbraucherpreise 11/26
+08:00 TUR: Erzeugerpreise 11/26
+09:15 ESP: S&P Global PMI Dienste 11/26
+09:45 ITA: S&P Global PMI Dienste 11/26
+09:50 FRA: S&P Global PMI Dienste 11/26 (2. Veröffentlichung)
+09:55 DEU: S&P Global PMI Dienste 11/26 (2. Veröffentlichung)
+10:00 EUR: S&P Global PMI Dienste 11/26 (2. Veröffentlichung)
+10:30 GBR: S&P Global PMI Dienste 11/26 (2. Veröffentlichung)
+11:00 EUR: Erzeugerpreise 10/26
+14:30 USA: Erstanträge Arbeitslosenhilfe (Woche)
+15:45 USA: S&P Global PMI Dienste 11/26 (2. Veröffentlichung)
+16:00 USA: ISM Services Index 11/26
+16:00 USA: Auftragseingang Industrie 10/26
+16:00 USA: Auftragseingang langlebige Güter 10/26 (endgültig)
+
+SONSTIGE TERMINE
+BEL: Treffen der Innenminister der EU, Brüssel
+
+10:00 BEL: Treffen der EU-Minister zu Binnenmarkt und zur Industrie, Brüssel
+
+16:00 DEU: Auftakt Deutsch-Japanisches Forum 2025, Berlin
+
+CHE: OSZE-Ministerkonferenz, Lugano
+---------------------------------------------------------------------------------------
+FREITAG, DEN 4. DEZEMBER
+
+TERMINE UNTERNEHMEN
+10:00 DEU: Verbio, Hauptversammlung
+ 
+TERMINE KONJUNKTUR
+08:00 SWE: Verbraucherpreise 11/26 (vorläufig)
+08:45 FRA: Industrieproduktion 10/26
+11:00 GRC: Arbeitslosenquote Q3/26
+11:00 EUR: Einzelhandelsumsatz 10/26
+11:00 ITA: Einzelhandelsumsatz 10/26
+14:30 USA: Arbeitsmarktbericht 11/26
+16:00 USA: Uni Michigan Verbrauchervertrauen 12/26 (vorläufig)
+
+SONSTIGE TERMINE
+09:00 DEU: BGH verhandelt zu Ausgleichsanspruch nach Beschädigung in Wohnungseigentümergemeinschaften, Karlsruhe
+
+10:00 DEU: Streit um Grundsteuer in NRW: Oberverwaltungsgericht verhandelt Klage aus Bochum, Münster
+
+11:00 DEU: Offizielle Inbetriebnahme der Gleichstromleitung «Ultranet», die zwischen NRW und BaWü auf einer Länge von 340 km Strom transportiert, Meerbusch
+
+---------------------------------------------------------------------------------------
+MONTAG, DEN 7. DEZEMBER
+
+TERMINE UNTERNEHMEN
+07:00 DEU: TKMS, Jahreszahlen
+07:00 LUX: Stabilus, Jahreszahlen
+10:00 DEU: VDMA, Jahres-Pk, Frankfurt/M.
+12:00 CHE: Glencore, Investor Day
+15:00 USA: Eli Lilly, Investor Day
+ 
+TERMINE KONJUNKTUR
+06:00 JPN: CI-Index Frühindikatoren 10/26 (vorläufig)
+08:00 DEU: Auftragseingang Industrie 10/26
+08:30 HUN: Industrieproduktion 10/26
+09:00 CHE: Fremdwährungsbestand 11/26
+09:00 CHE: Arbeitslosenquote 11/26
+10:30 DEU: Sentix Investorvertrauen 12/26
+11:00 EUR: BIP Q3/26 (3. Veröffentlichung)
+11:00 EUR: Staatsausgaben Q3/26
+11:00 EUR: Beschäftigung Q3/26 (endgültig)
+21:00 USA: Konsumentenkredite 10/26
+
+SONSTIGE TERMINE
+BEL: Treffen der EU-Arbeits- und Sozialminister, Brüssel
+
+---------------------------------------------------------------------------------------
+DIENSTAG, DEN 8. DEZEMBER
+
+TERMINE UNTERNEHMEN
+07:00 DEU: Thyssenkrupp, Jahreszahlen
+08:00 GBR: British American Tobacco, Q4-Umsatz
+10:30 DEU: Verband der Chemischen Industrie (VCI), Jahres-Pk, Frankfurt/M.
+14:30 USA: Johnson & Johnson, Investor Day
+17:30 USA: Microsoft, Hauptversammlung
+
+TERMINE KONJUNKTUR
+CHN: Handelsbilanz 11/25
+00:30 JPN: Realeinkommen 10/26
+00:50 JPN: BIP Q3/26 (2. Veröffentlichung)
+00:50 JPN: BoJ Leistungsbilanz 10/26
+06:30 NLD: Verbraucherpreise 11/26 (endgültig)
+08:00 DEU: Industrieproduktion 10/26
+08:45 FRA: Handelsbilanz 10/26
+14:15 USA: ADP-Beschäftigung
+14:30 USA: Handelsbilanz 10/26
+14:30 USA: Produktivität Q3/26 (endgültig)
+14:30 USA: Lohnstückkosten Q3/26 (endgültig)
+
+SONSTIGE TERMINE
+DEU: Creditreform-Studie: Insolvenzen in Deutschland 2026
+
+14:30 DEU: Deutscher Baugewerbetag des Zentralverband Deutsches Baugewerbe unter dem Motto «Infrastruktur für das Land - Zukunft für die Menschen», Berlin
+
+15:00 DEU: Ryanair-Medientag am Flughafen u.a. zu hohen Standortkosten, Luftverkehrsteuer, Ineffizienzen in der Flugsicherung und Wachstumsperspektiven, Nürnberg
+
+---------------------------------------------------------------------------------------
+MITTWOCH, DEN 9. DEZEMBER
+
+TERMINE UNTERNEHMEN
+07:00 DEU: Tui Group Jahreszahlen, Hannover
+14:00 DEU: Deutsche Börse, Kapitalmarkttag
+17:00 DEU: Dürr AG, Kapitalmarkttag
+22:00 USA: Adobe, Q4-Zahlen
+22:00 USA: Broadcom, Q4-Zahlen
+ 
+TERMINE KONJUNKTUR
+02:30 CHN: Erzeugerpreise 11/26
+02:30 CHN: Verbraucherpreise 11/25
+08:00 DEU: Handelsbilanz 10/26
+11:00 GRC: Verbraucherpreise 11/26
+16:00 USA: Wiederverkäufe Häuser 11/26
+16:00 USA: Lagerbestände Großhandel 10/26 (endgültig)
+17:00 RUS: Verbraucherpreise 11/26
+20:00 USA: Fed Zinsentscheid
+
+SONSTIGE TERMINE
+12:00 DEU: Berenberg zu Wirtschaftsausblick 2027, Frankfurt/M.
+
+19:00 DEU: Veranstaltung Flughafenverband ADV zu Luftverkehr u.a. mit Bundesverkehrsminister Steffen Bilger (CDU), Berlin
+
+CHE: Schweizer Parlamentskammern wählen neuen Minister und Bundespräsidenten, Bern
+
+---------------------------------------------------------------------------------------
+
+Alle Angaben wurden mit größter Sorgfalt recherchiert. Dennoch übernimmt die dpa-AFX Wirtschaftsnachrichten GmbH keine Haftung für die Richtigkeit. Alle Zeitangaben erfolgen in MEZ./bwi
+
+## Aktuelle Videos
+
+-   [
+    
+    ![KI Beben an der Börse : Nvidia +30 % | Anthropic IPO| Börse Stuttgart](https://i.ytimg.com/vi/LFAdHtqGzHA/hqdefault.jpg)
+    
+    Videos**KI Beben an der Börse : Nvidia +30 % | Anthropic IPO| Börse Stuttgart**
+    
+    23/11/2026 17:53
+    
+    11:42 NVIDIA schießt nach dem CEO-Comeback um 30 % hoch – und stiehlt dem größten Tech-IPO der Geschichte die Show. Im Interview mit Cornelia Frey (Boerse Stuttgart Group) ordnet Vontobel-Derivate-Experte David Hartmann die Turbulenzen rund um NVIDIA, den A...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/23/ki-beben-an-der-boerse-nvidia-plus30-anthropic-ipo-boerse-stuttgart/)
+-   [
+    
+    ![Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart](https://i.ytimg.com/vi/aY2VNusn0EY/hqdefault.jpg)
+    
+    Videos**Anthropic-Börsengang: Der KI-Boom vor dem nächsten Hype? | Börse Stuttgart**
+    
+    09/11/2026 14:29
+    
+    10:30 Seminarreihe für Einsteiger: Erste Schritte der Geldanlage - Online und Börse LIVE ►► 📈 Exklusive Infos direkt vom Parkett ► Abonniere kostenlos unsere Börsen-Newsletter: ► Darum geht's im Video: Der KI-Boom erreicht den nächsten Meilenstein: Anthrop...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/9/anthropic-boersengang-der-ki-boom-vor-dem-naechsten-hype-boerse-stuttgart/)
+-   [
+    
+    ![US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart](https://i.ytimg.com/vi/f0cdFJ4aQJA/hqdefault.jpg)
+    
+    Videos**US-Midterms & Frankreich-Krise: Was Anleger jetzt wissen müssen! | Börse Stuttgart**
+    
+    03/11/2026 14:42
+    
+    06:09 US-Midterms, Frankreichs Zinskrise und Autobauer im Umbruch: Wie reagiert der Anleihenmarkt? Jens Furkert (Boerse Stuttgart Group) analysiert im Gespräch mit Cornelia Frey (Boerse Stuttgart Group), worauf Anleger achten müssen. 📈 Exklusive Infos dire...
+    
+    
+    
+    ](/de-de/nachrichten/uebersicht/videos/2026/11/3/us-midterms-frankreich-krise-was-anleger-jetzt-wissen-muessen-boerse-stuttgart/)
+
+Weitere Treffer anzeigen
 
